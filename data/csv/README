@@ -1,11 +1,9 @@
 This folder contains the current public dictionary data as TAB separated text files (.csv).
 All files are in UTF-8 encoding and may use Unix or Windows style line breaks.
 
-This is the main format of the data. Other formats available are convertions from these .csv files.
-If you would like to contribute a patch to the dictionary data, please edit .csv files.
+This is the main format of the data. Other formats available are convertions from these .csv files. If you would like to contribute a patch to the dictionary data, please edit .csv files.
 
-All unicode text editors and standard POSIX and GNU tools like diff, patch, grep, sort work well with csv.
-OpenOffice/LibreOffice Calc is a good GUI tool to open them. Select "TAB" as the only column separator and leave text separator field (usually ["] ) empty.
+All unicode text editors and standard POSIX and GNU tools like diff, patch, grep, sort work well with csv. OpenOffice/LibreOffice Calc is a good GUI tool to open them. Select "TAB" as the only column separator and leave text separator field (usually ["] ) empty.
 
     unlvolume.csv	Pivot dictionary of concepts - Provides links to Wordnet and SUMO
     engvolume.csv	English local dictionary
@@ -17,3 +15,9 @@ OpenOffice/LibreOffice Calc is a good GUI tool to open them. Select "TAB" as the
     uwlinks.csv		Semantic links between concepts
 
 NOTE, that the uwlinks.csv file, still contains only a part of the semantic network data it is supposed to provide.
+
+Other linked semantic resources:
+Suggested Upper Merged Ontology (SUMO) http://www.ontologyportal.org/
+Princeton Wordnet http://wordnet.princeton.edu/
+DBPedia http://dbpedia.org/About
+...
