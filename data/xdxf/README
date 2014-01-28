@@ -1,0 +1,17 @@
+This folder contains an XDXF rendering of the data.
+
+XDXF is a simple XML dictionary data interchange format supported by several GUI dictionary shells available for Linux, Windows, Android, etc.
+It can be used to lookup and browse the dictionary locally in a convenient way.
+
+Compatible dictionary shells:
+Goldendict  http://goldendict.org/    (Recommended)
+WiseDict  http://wise.sourceforge.net/
+Atlantida  http://atla.revdanica.com/
+...
+
+A description of the XDXF format is found here: https://github.com/soshial/xdxf_makedict/tree/master/format_standard
+
+XDXF can be converted to other dictionary formats by makedict - a console tool found at https://github.com/soshial/xdxf_makedict.
+
+
+
