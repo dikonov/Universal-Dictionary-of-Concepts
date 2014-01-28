@@ -7,5 +7,13 @@ If you would like to contribute a patch to the dictionary data, please edit .csv
 All unicode text editors and standard POSIX and GNU tools like diff, patch, grep, sort work well with csv.
 OpenOffice/LibreOffice Calc is a good GUI tool to open them. Select "TAB" as the only column separator and leave text separator field (usually ["] ) empty.
 
-NOTE, that the uwlinks.csv file, still contains only a part of the semantic network data it is supposed to provide.
+    unlvolume.csv	Pivot dictionary of concepts - Provides links to Wordnet and SUMO
+    engvolume.csv	English local dictionary
+    rusvolume.csv	Russian local dictionary
+    fravolume.csv	Experimental French local dictionary
+    espvolume.csv	Experimental Spanish local dictionary
+    msavolume.csv	Experimental Malay local dictionary
+    vievolume.csv	Experimental Vietnamese local dictionary
+    uwlinks.csv		Semantic links between concepts
 
+NOTE, that the uwlinks.csv file, still contains only a part of the semantic network data it is supposed to provide.
