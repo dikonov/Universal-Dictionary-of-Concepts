@@ -12,6 +12,3 @@ Atlantida  http://atla.revdanica.com/
 A description of the XDXF format is found here: https://github.com/soshial/xdxf_makedict/tree/master/format_standard
 
 XDXF can be converted to other dictionary formats by makedict - a console tool found at https://github.com/soshial/xdxf_makedict.
-
-
-
