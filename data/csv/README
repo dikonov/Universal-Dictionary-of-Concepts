@@ -1,4 +1,4 @@
-This folder contains the dictionary data as TAB separated text files (.csv).
+This folder contains the current public dictionary data as TAB separated text files (.csv).
 All files are in UTF-8 encoding and may use Unix or Windows style line breaks.
 
 This is the main format of the data. Other formats available are convertions from these .csv files.
