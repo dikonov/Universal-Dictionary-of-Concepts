@@ -6,16 +6,17 @@ This is a multilingual pivot dictionary designed for various computer linguistic
 
 For example, in order to translate a word into another human language we should 1) get the list of its possible senses 2) choose one or more senses, that we are interested in, and get the corresponding UWs  3) check what words may be used to represent this sense in the target language.
 
-For example, the English word *milk* has several senses 
+For example, the English word *milk* has several senses: 
 - *milk(icl>dairy_product>thing)*  "A white nutritious liquid secreted by mammals.." [semantic class "Milk"] 
 - *milk(icl>foodstuff>thing)* "Any of several nutritive milklike liquids" [semantic class "Beverage"]
 - *milk(iof>river>thing)* "A tributary of the Missouri river" [instance of the semantic class "River"]
-The first two senses can be translated into Russian as *молоко*, French as *lait*, Malay as *susu*, etc., but in the last case it should be left as is or transliterated, e.g. as *Милк* in Russian.
+
+Your appication will know that the first two can be translated into Russian as *молоко*, French as *lait*, Malay as *susu*, etc., but in the last case it should be left as is or transliterated, e.g. as *Милк* in Russian.
 
 The dictionary consists of several volumes, one for each language/orthography variant/dialect. An additional volume holds links between UWs.
 Each NL volume contains links between words of some natural language and UNL UWs. It may also provide links to the dictionaries of computer systems used to convert NL text to UNL or deconvert UNL back to the NL. The idea is to enable continuous automated dictionary data exchange and synchronization between different systems that support UNL for the sake of interoperability. The UNL volume provides definitions of the UWs, and links to other semantic resources.
 
-**This repository provides only data.** There is no dedicated GUI shell to view or edit it here.To browse the data locally you can get xdxf formatted version in data/xdxf, which is compatible with several dictionary shells.
+**This repository provides only data.** There is no dedicated GUI shell to view or edit it here. To browse the data locally you can get xdxf formatted version in data/xdxf, which is compatible with several dictionary shells.
 
 
 License:
@@ -53,11 +54,11 @@ Other resources used:
 
 Related links:
 --------------
-*Online demos of UNL enabled MT systems:*
+**Online demos of UNL enabled MT systems:**
 - Russian/English ⇄ UNL converter and deconverter is available at http://www.unl.ru.
 - A UNL → Spanish deconverter is found at http://www.unl.fi.upm.es/english/lg_test.htm
 
-*Other UNL dictionaries:*
+**Other UNL dictionaries:**
 - The UNL Development Center (UNDC) dictionary: http://www.undl.org/unlexp/
 - UNLArium UNLdic http://www.unlweb.net/unlarium/
 
