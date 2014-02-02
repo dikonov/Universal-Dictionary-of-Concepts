@@ -1,5 +1,5 @@
 This folder contains snapshots of the data taken at irregular points of time.
-All data here is outdated. The latest version is in the "data/cvs" folder.
+All data here is outdated. The latest version is in the "data/csv" folder.
 Please, choose the latest version, if you want to use a 'stable' version of the data.
 
 The version numbers consist of digits and an optional (alpha|beta) suffix indicating the status of the snapshot.
