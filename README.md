@@ -23,24 +23,34 @@ Data from external resources may also fall under futher licenses, notably WOLF i
 Authors:
 
 Viacheslav Dikonov - Russian and initial versions of the French, Malay and Vietnamese volumes.
+
 Spanish UNL center at UPM (Madrid) - Initial set of UWs generated automatically from Princeton Wordnet 2.1.
+
 French UNL center "Study Group for Machine Translation and Automated Processing of Languages and Speech" at the Laboratory of Informatics (LIG) in Grenoble (UMR CNRS/INPG/UJF 5217) - French dictionary, dBPedia conversion, terminology and support in making the initial version of the Russian volume.
+
 Center for Indian Language Technology (CFILT) in Mumbai - Hindi dictionary
 
 Contributors:
 
 Dr. Enya Kong Tang - Malay data
+
 Dr. Hung Vo Trung - Vietnamese data
+
 Mathieu Mangeot - Pivax system
 
 
 Other resources used:
 
 Princeton Wordnet 2.1, 3.0
+
 WOLF French Wordnet (part of the French volume)
+
 GPL subset of a Spanish Wordnet translation
+
 FEV dictionary for Vietnamese
+
 SUMO
+
 DBPedia
 
 
@@ -48,8 +58,11 @@ Related links:
 
 Online demos of UNL enabled MT systems:
 A Russian/English to UNL converter and UNL to Russian/English deconverter is available at http://www.unl.ru.
+
 A UNL to Spanish deconverter is found at http://www.unl.fi.upm.es/english/lg_test.htm
 
 Other UNL dictionaries:
 The UNL Development Center (UNDC) dictionary: http://www.undl.org/unlexp/
+
 UNLArium UNLdic http://www.unlweb.net/unlarium/
+
