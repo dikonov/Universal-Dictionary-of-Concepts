@@ -33,24 +33,17 @@ Center for Indian Language Technology (CFILT) in Mumbai - Hindi dictionary
 Contributors:
 
 Dr. Enya Kong Tang - Malay data
-
 Dr. Hung Vo Trung - Vietnamese data
-
 Mathieu Mangeot - Pivax system
 
 
 Other resources used:
 
 Princeton Wordnet 2.1, 3.0
-
 WOLF French Wordnet (part of the French volume)
-
 GPL subset of a Spanish Wordnet translation
-
 FEV dictionary for Vietnamese
-
 SUMO
-
 DBPedia
 
 
