@@ -1,10 +1,13 @@
 Universal Dictionary of Concepts
 ================================
 Common U++ UNL dictionary
+-------------------------
+This is a multilingual pivot dictionary designed for various computer linguistic applications. An artificial language UNL (Universal Networking Language) http://www.undl.org is used as a neutral pivot to link words of different natural languages with each other. The basic units of the dictionary are "UNL concepts" or "Interlingual lexemes", which are usually equivalent to individual word senses. They are uniquely labeled with UNL "Universal Words" (UW). Each UW in the dictionary may be linked to one or several words in different natural languages (NL). 
 
-This is a multilingual pivot dictionary designed for various computer linguistic applications. An artificial language UNL (Universal Networking Language) is used as a neutral pivot to link words of different natural languages with each other. The basic units of the dictionary are "UNL concepts" or "Interlingual lexemes", which are usually equivalent to individual word senses. They are uniquely labeled with UNL "Universal Words" (UW). Each UW in the dictionary may be linked to one or several words in different natural languages (NL). 
+For example, in order to translate an English word into Russian or French we should 1) get the list of its possible senses 2) choose one ore more senses, that we are interested in, and get the corresponding UWs  3) check what Russian/French words may be used to represent this sense.
 
-For example, in order to translate an English word into Russian or French we should 1) get the list of its possible senses 2) choose one ore more senses, that we are interested in, and get the corresponding UWs 3) check what Russian/French words may be used to represent this sense.
+For example:
+English *milk* in the sense *milk(icl>dairy_product>thing)*  "A white nutritious liquid secreted by mammals and used as food" [semantic class "Milk"] is translated into Russian as *молоко*, French as *lait*, Malay as *susu*, etc. Ths word can also be the name of a river *milk(iof>river>thing)* [instance of the semantic class "River"], which is transliterated  in Russian as *Милк*.
 
 The dictionary consists of several volumes, one for each language/orthography variant/dialect. An additional volume holds links between UWs.
 Each NL volume contains links between words of some natural language and UNL UWs. It may also provide links to the dictionaries of computer systems used to convert NL text to UNL or deconvert UNL back to the NL. The idea is to enable continuous automated dictionary data exchange and synchronization between different systems that support UNL for the sake of interoperability. 
@@ -47,8 +50,8 @@ Other resources used:
 Related links:
 --------------
 *Online demos of UNL enabled MT systems:*
-- A Russian/English to UNL converter and UNL to Russian/English deconverter is available at http://www.unl.ru.
-- A UNL to Spanish deconverter is found at http://www.unl.fi.upm.es/english/lg_test.htm
+- Russian/English ⇄ UNL converter and deconverter is available at http://www.unl.ru.
+- A UNL → Spanish deconverter is found at http://www.unl.fi.upm.es/english/lg_test.htm
 
 *Other UNL dictionaries:*
 - The UNL Development Center (UNDC) dictionary: http://www.undl.org/unlexp/
