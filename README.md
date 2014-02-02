@@ -12,7 +12,7 @@ The UNL volume provides definitions of the UWs, and links to other semantic reso
 
 
 License:
-
+--------
 This data as a whole is available under the terms of GNU General Public License v3 or later and Creative Commons License (CC-BY-SA). It means that you are welcome to download, view, use, convert to other formats, modify and distribute the data. Commercial use and distribution in opensource GPL projects is permitted by GPL. Other terms may be negotiated with the authors and members of the U++ Consortium: http://www.unl.fi.upm.es/consorcio/index.php?estado=publicaciones&idioma=ingles&grupo=Publico
 IITP RAS (Moscow), GETALP (Grenoble), UPM (Madrid), IIT (Mumbai).
 
@@ -21,41 +21,36 @@ Data from external resources may also fall under futher licenses, notably WOLF i
 
 
 Authors:
-
-Viacheslav Dikonov - Russian and initial versions of the French, Malay and Vietnamese volumes.
-
-Spanish UNL center at UPM (Madrid) - Initial set of UWs generated automatically from Princeton Wordnet 2.1.
-
-French UNL center "Study Group for Machine Translation and Automated Processing of Languages and Speech" at the Laboratory of Informatics (LIG) in Grenoble (UMR CNRS/INPG/UJF 5217) - French dictionary, dBPedia conversion, terminology and support in making the initial version of the Russian volume.
-
-Center for Indian Language Technology (CFILT) in Mumbai - Hindi dictionary
+--------
+- Viacheslav Dikonov - Russian and initial versions of the French, Malay and Vietnamese volumes.
+- Spanish UNL center at UPM (Madrid) - Initial set of UWs generated automatically from Princeton Wordnet 2.1.
+- French UNL center "Study Group for Machine Translation and Automated Processing of Languages and Speech" at the Laboratory of Informatics (LIG) in Grenoble (UMR CNRS/INPG/UJF 5217) - French dictionary, dBPedia conversion, terminology and support in making the initial version of the Russian volume.
+- Center for Indian Language Technology (CFILT) in Mumbai - Hindi dictionary
 
 Contributors:
-
-Dr. Enya Kong Tang - Malay data
-Dr. Hung Vo Trung - Vietnamese data
-Mathieu Mangeot - Pivax system
+------------
+- Dr. Enya Kong Tang - Malay data
+- Dr. Hung Vo Trung - Vietnamese data
+- Mathieu Mangeot - Pivax system
 
 
 Other resources used:
-
-Princeton Wordnet 2.1, 3.0
-WOLF French Wordnet (part of the French volume)
-GPL subset of a Spanish Wordnet translation
-FEV dictionary for Vietnamese
-SUMO
-DBPedia
+---------------------
+- Princeton Wordnet 2.1, 3.0
+- WOLF French Wordnet (part of the French volume)
+- GPL subset of a Spanish Wordnet translation
+- FEV dictionary for Vietnamese
+- SUMO
+- DBPedia
 
 
 Related links:
+--------------
+*Online demos of UNL enabled MT systems:*
+- A Russian/English to UNL converter and UNL to Russian/English deconverter is available at http://www.unl.ru.
+- A UNL to Spanish deconverter is found at http://www.unl.fi.upm.es/english/lg_test.htm
 
-Online demos of UNL enabled MT systems:
-A Russian/English to UNL converter and UNL to Russian/English deconverter is available at http://www.unl.ru.
-
-A UNL to Spanish deconverter is found at http://www.unl.fi.upm.es/english/lg_test.htm
-
-Other UNL dictionaries:
-The UNL Development Center (UNDC) dictionary: http://www.undl.org/unlexp/
-
-UNLArium UNLdic http://www.unlweb.net/unlarium/
+*Other UNL dictionaries:*
+- The UNL Development Center (UNDC) dictionary: http://www.undl.org/unlexp/
+- UNLArium UNLdic http://www.unlweb.net/unlarium/
 
