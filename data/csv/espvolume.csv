@@ -2575,7 +2575,7 @@
 [argucia]	{n}	"chicane(icl>deception>thing,equ>trickery)"	"THE USE OF TRICKS TO DECEIVE SOMEONE (USUALLY TO EXTRACT MONEY FROM THEM)"	""	{n}	0,auto;
 [argumentación]	{n}	"argumentation(icl>reasoning>thing)"	"THE METHODICAL PROCESS OF LOGICAL REASONING"	"I CAN'T FOLLOW YOUR LINE OF REASONING"	{n}	0,auto;
 [argumentación]	{n}	"line(icl>reasoning>thing,equ>argumentation)"	"THE METHODICAL PROCESS OF LOGICAL REASONING"	"I CAN'T FOLLOW YOUR LINE OF REASONING"	{n}	0,auto;
-[argumentar]	{v}	"reason(icl>persuade>do,agt>thing,gol>uw,rec>person)"	"PRESENT REASONS AND ARGUMENTS"	"TO REASON SMB. (REC) INTO OBEDIENCE (GOL)"	{v}	0,auto;
+[argumentar]	{v}	"reason(icl>persuade>do,agt>volitional_thing,obj>uw,met>uw)"	"PRESENT REASONS AND ARGUMENTS"	"A CAREFULLY REASONED ANALYSIS"	{v}	0,auto;
 [argumento]	{n}	"plot(icl>story>thing)"	"THE STORY THAT IS TOLD IN A NOVEL OR PLAY OR MOVIE ETC."	"THE CHARACTERS WERE WELL DRAWN BUT THE PLOT WAS BANAL"	{n}	0,auto;
 [aridez]	{n}	"dryness(icl>condition>thing,ant>wetness)"	"THE CONDITION OF NOT CONTAINING OR BEING COVERED BY A LIQUID (ESPECIALLY WATER)"	""	{n}	0,auto;
 [ario]	{n}	"aryan(icl>primitive>thing)"	"A MEMBER OF THE PREHISTORIC PEOPLE WHO SPOKE PROTO-INDO EUROPEAN"	""	{n}	0,auto;
@@ -20214,7 +20214,7 @@
 [representar]	{v}	"constitute(icl>form>be,obj>uw,aoj>uw)"	"FORM OR COMPOSE"	"TWELVE MONTHS ~ A YEAR"	{v}	0,auto;
 [representar]	{v}	"make_up(icl>constitute>be,obj>thing,aoj>thing)"	"TO FORM A WHOLE"	"THESE THREE ARTICLES (AOJ) MAKE UP THE WHOLE BOOK (OBJ)"	{v}	0,auto;
 [representar]	{v}	"mean(icl>be,equ>denote,obj>thing,aoj>uw,ben>thing)"	"DENOTE OR CONNOTE"	"'MAISON' (AOJ) MEANS 'HOUSE' (OBJ) IN FRENCH"	{v}	0,auto;
-[representar]	{v}	"mean(icl>be,obj>thing,aoj>thing,coo>person)"	"HAVE A SPECIFIED DEGREE OF IMPORTANCE"	"MY EX-HUSBAND (AOJ) MEANS NOTHING (OBJ) TO ME (COO)"	{v}	0,auto;
+[representar]	{v}	"mean(icl>signify>be,obj>thing,aoj>thing,coo>person)"	"HAVE A SPECIFIED DEGREE OF IMPORTANCE"	"MY EX-HUSBAND (AOJ) MEANS NOTHING (OBJ) TO ME (COO)"	{v}	0,auto;
 [representar]	{v}	"represent(icl>exemplify>be,obj>uw,aoj>thing,plc>thing,man>thing)"	""	"PAINTINGS REPRESENTING RELIGIOUS THEMES WERE COMMON IN MEDIEVAL TIMES"	{v}	0,auto;
 [representar]	{v}	"represent(icl>serve_as>be,obj>uw)"	""	"THIS SUM (AOJ) REPRESENTS MY ENTIRE INCOME (OBJ) FOR A YEAR"	{v}	0,auto;
 [representar]	{v}	"symbolize(icl>mean>do,equ>typify,agt>thing,obj>thing)"	"EXPRESS INDIRECTLY BY AN IMAGE, FORM, OR MODEL"	"BE A SYMBOL"	{v}	0,auto;
