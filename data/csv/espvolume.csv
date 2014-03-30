@@ -1113,7 +1113,7 @@
 [agotar]	{v}	"wear_down(icl>indispose>do,equ>tire,agt>thing,obj>thing)"	"EXHAUST OR GET TIRED THROUGH OVERUSE OR GREAT STRAIN OR STRESS"	"WE WORE OURSELVES OUT ON THIS HIKE"	{v}	0,auto;
 [agotar]	{v}	"wear(icl>exaust>do,agt>thing,obj>thing)"	""	"ILLNESS HAD WORN THE BLOOM FROM HER CHEEKS."	{v}	0,auto;
 [agotar]	{v}	"wear_out(icl>indispose>do,equ>tire,agt>thing,obj>thing)"	"EXHAUST OR GET TIRED THROUGH OVERUSE OR GREAT STRAIN OR STRESS"	"WE WORE OURSELVES OUT ON THIS HIKE"	{v}	0,auto;
-[agradable]	{a}	"brave(icl>adj)"	"BRIGHTLY COLORED AND SHOWY"	"GIRLS DECKED OUT IN BRAVE NEW DRESSES"	{a}	0,auto;
+[agradable]	{a}	"brave(icl>adj,com>showy)"	"BRIGHTLY COLORED AND SHOWY"	"GIRLS DECKED OUT IN BRAVE NEW DRESSES"	{a}	0,auto;
 [agradable]	{a}	"cheery(icl>adj)"	"BRIGHT AND PLEASANT"	"A CHEERY HELLO"	{a}	0,auto;
 [agradable]	{a}	"enjoyable(icl>adj)"	"AFFORDING SATISFACTION OR PLEASURE"	"THE COMPANY WAS ENJOYABLE"	{a}	0,auto;
 [agradable]	{a}	"flat(icl>adj,equ>bland)"	"LACKING STIMULATING CHARACTERISTICS"	"A FLAT JOKE"	{a}	0,auto;
@@ -4177,7 +4177,7 @@
 [bondadoso]	{a}	"kind(icl>adj,ant>unkind)"	"HAVING OR SHOWING A TENDER AND CONSIDERATE AND HELPFUL NATURE"	"KIND TO SICK PATIENTS"	{a}	0,auto;
 [bonito]	{a}	"beautiful(icl>adj,ant>ugly)"	"DELIGHTING THE SENSES OR EXCITING INTELLECTUAL OR EMOTIONAL ADMIRATION"	"A BEAUTIFUL CHILD"	{a}	0,auto;
 [bonito]	{a}	"beautiful(icl>adj)"	"(OF WEATHER) HIGHLY ENJOYABLE"	"WHAT A BEAUTIFUL DAY"	{a}	0,auto;
-[bonito]	{a}	"brave(icl>adj)"	"BRIGHTLY COLORED AND SHOWY"	"GIRLS DECKED OUT IN BRAVE NEW DRESSES"	{a}	0,auto;
+[bonito]	{a}	"brave(icl>adj,com>showy)"	"BRIGHTLY COLORED AND SHOWY"	"GIRLS DECKED OUT IN BRAVE NEW DRESSES"	{a}	0,auto;
 [bonito]	{a}	"gay(icl>adj,equ>brave)"	"BRIGHTLY COLORED AND SHOWY"	"A DRESS A BIT TOO GAY FOR HER YEARS"	{a}	0,auto;
 [bonito]	{a}	"nice(icl>adj,ant>nasty)"	"PLEASANT OR PLEASING OR AGREEABLE IN NATURE OR APPEARANCE"	"WHAT A NICE FELLOW YOU ARE AND WE ALL THOUGHT YOU SO NASTY- GEORGE MEREDITH"	{a}	0,auto;
 [borbotar]	{v}	"gush(icl>pour>occur,equ>spurt,obj>matter)"	"GUSH FORTH IN A SUDDEN STREAM OR JET"	"WATER GUSHED FORTH"	{v}	0,auto;
@@ -11779,7 +11779,7 @@
 [espíritu]	{n}	"ethos(icl>attribute>thing)"	"(ANTHROPOLOGY) THE DISTINCTIVE SPIRIT OF A CULTURE OR AN ERA"	"THE GREEK ETHOS"	{n}	0,auto;
 [espíritu]	{n}	"spirit(icl>emotion>thing,equ>emotional_state)"	"THE STATE OF A PERSON'S EMOTIONS (ESPECIALLY WITH REGARD TO PLEASURE OR DEJECTION)"	"HIS SPIRIT ROSE"	{n}	0,auto;
 [esplendidez]	{n}	"eclat(icl>elegance>thing,equ>pomp)"	"CEREMONIAL ELEGANCE AND SPLENDOR"	"ENTERED WITH MUCH ECLAT IN A COACH DRAWN BY EIGHT WHITE HORSES"	{n}	0,auto;
-[espléndido]	{a}	"brave(icl>adj)"	"BRIGHTLY COLORED AND SHOWY"	"GIRLS DECKED OUT IN BRAVE NEW DRESSES"	{a}	0,auto;
+[espléndido]	{a}	"brave(icl>adj,com>showy)"	"BRIGHTLY COLORED AND SHOWY"	"GIRLS DECKED OUT IN BRAVE NEW DRESSES"	{a}	0,auto;
 [espléndido]	{a}	"gay(icl>adj,equ>brave)"	"BRIGHTLY COLORED AND SHOWY"	"A DRESS A BIT TOO GAY FOR HER YEARS"	{a}	0,auto;
 [espléndido]	{a}	"liberal(icl>adj,equ>big)"	"GIVEN OR GIVING FREELY"	"A LIBERAL BACKER OF THE ARTS"	{a}	0,auto;
 [espléndido]	{a}	"splendid(icl>adj,equ>glorious)"	"HAVING GREAT BEAUTY AND SPLENDOR"	"SPLENDID COSTUMES"	{a}	0,auto;
