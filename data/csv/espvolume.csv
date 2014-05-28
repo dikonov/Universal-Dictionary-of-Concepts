@@ -6874,11 +6874,11 @@
 [congelarse]	{v}	"chill(icl>change>do,equ>cool,agt>thing,obj>thing)"	"MAKE COOL OR COOLER"	"CHILL THE FOOD"	{v}	0,auto;
 [congelarse]	{v}	"cool_down(icl>do,equ>chill,agt>thing,obj>thing)"	"MAKE SOMETHING SLIGHTLY COLDER"	"A COLD BEER WILL COOL YOU DOWN"	{v}	0,auto;
 [congelarse]	{v}	"cool(icl>do,equ>chill,agt>thing,obj>thing)"	"MAKE SOMETHING SLIGHTLY COLDER"	"THE AIR CONDITIONING DOESN'T SEEM TO BE COOLING THE ROOM MUCH"	{v}	0,auto;
-[congelarse]	{v}	"freeze_out(icl>solidify>do,equ>freeze,agt>thing,obj>thing)"	"CHANGE FROM A LIQUID TO A SOLID WHEN COLD"	"WATER FREEZES AT 32 DEGREES FAHRENHEIT"	{v}	0,auto;
+[congelarse]	{v}	"freeze_out(icl>solidify>occur,equ>freeze,obj>concrete_thing)"	"CHANGE FROM A LIQUID TO A SOLID WHEN COLD"	"WATER FREEZES AT 32 DEGREES FAHRENHEIT"	{v}	0,auto;
 [congelar]	{v}	"chill(icl>change>do,equ>cool,agt>thing,obj>thing)"	"MAKE COOL OR COOLER"	"CHILL THE FOOD"	{v}	0,auto;
 [congelar]	{v}	"cool_down(icl>do,equ>chill,agt>thing,obj>thing)"	"MAKE SOMETHING SLIGHTLY COLDER"	"A COLD BEER WILL COOL YOU DOWN"	{v}	0,auto;
 [congelar]	{v}	"cool(icl>do,equ>chill,agt>thing,obj>thing)"	"MAKE SOMETHING SLIGHTLY COLDER"	"THE AIR CONDITIONING DOESN'T SEEM TO BE COOLING THE ROOM MUCH"	{v}	0,auto;
-[congelar]	{v}	"freeze_out(icl>solidify>do,equ>freeze,agt>thing,obj>thing)"	"CHANGE FROM A LIQUID TO A SOLID WHEN COLD"	"WATER FREEZES AT 32 DEGREES FAHRENHEIT"	{v}	0,auto;
+[congelar]	{v}	"freeze_out(icl>solidify>occur,equ>freeze,obj>concrete_thing)"	"CHANGE FROM A LIQUID TO A SOLID WHEN COLD"	"WATER FREEZES AT 32 DEGREES FAHRENHEIT"	{v}	0,auto;
 [congénito]	{a}	"congenital(icl>adj)"	"PRESENT AT BIRTH BUT NOT NECESSARILY HEREDITARY"	"ACQUIRED DURING FETAL DEVELOPMENT"	{a}	0,auto;
 [conglomeración]	{n}	"aggregate(icl>sum>thing)"	"A SUM TOTAL OF MANY HETEROGENOUS THINGS TAKEN TOGETHER"	""	{n}	0,auto;
 [conglomeración]	{n}	"conglomeration(icl>sum>thing,equ>aggregate)"	"A SUM TOTAL OF MANY HETEROGENOUS THINGS TAKEN TOGETHER"	""	{n}	0,auto;
@@ -14103,7 +14103,7 @@
 [hedor]	{n}	"stench(icl>smell>thing,equ>malodor)"	"A DISTINCTIVE ODOR THAT IS OFFENSIVELY UNPLEASANT"	""	{n}	0,auto;
 [hedor]	{n}	"stink(icl>smell>thing,equ>malodor)"	"A DISTINCTIVE ODOR THAT IS OFFENSIVELY UNPLEASANT"	""	{n}	0,auto;
 [helada]	{n}	"frost(icl>freeze>thing)"	"THE FORMATION OF FROST OR ICE ON A SURFACE"	""	{n}	0,auto;
-[helar]	{v}	"freeze_out(icl>solidify>do,equ>freeze,agt>thing,obj>thing)"	"CHANGE FROM A LIQUID TO A SOLID WHEN COLD"	"WATER FREEZES AT 32 DEGREES FAHRENHEIT"	{v}	0,auto;
+[helar]	{v}	"freeze_out(icl>solidify>occur,equ>freeze,obj>concrete_thing)"	"CHANGE FROM A LIQUID TO A SOLID WHEN COLD"	"WATER FREEZES AT 32 DEGREES FAHRENHEIT"	{v}	0,auto;
 [helar]	{v}	"ice(icl>cool>do,agt>thing,obj>thing)"	"PUT ICE ON OR PUT ON ICE"	"ICE YOUR SPRAINED LIMBS"	{v}	0,auto;
 [heleno]	{a}	"grecian(icl>adj,equ>greek,com>greece)"	"OF OR RELATING TO OR CHARACTERISTIC OF GREECE OR THE GREEKS"	"A GRECIAN ROBE"	{a}	0,auto;
 [heleno]	{a}	"greek(icl>adj,com>greece)"	"OF OR RELATING TO OR CHARACTERISTIC OF GREECE OR THE GREEKS"	"GREEK MYTHOLOGY"	{a}	0,auto;
