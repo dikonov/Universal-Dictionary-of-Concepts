@@ -7858,7 +7858,7 @@
 [cuidar]	{v}	"assist(icl>help>be,aoj>thing,ben>person,pur>uw)"	"TO MAKE IT EASIER FOR SOMEONE TO DO SOMETHING"	"THEY HAD NO MAPS TO ASSIST THEM."	{v}	0,auto;
 [cuidar]	{v}	"attend(icl>serve>do,agt>person,obj>person)"	"WORK FOR OR BE A SERVANT TO"	"SHE ATTENDS THE OLD LADY IN THE WHEELCHAIR"	{v}	0,auto;
 [cuidar]	{v}	"shepherd(icl>tend>do,agt>thing,obj>thing)"	"TEND AS A SHEPHERD, AS OF SHEEP OR GOATS"	""	{v}	0,auto;
-[cuidar]	{v}	"treat(icl>cure>do,agt>person,obj>volithional_thing)"	""	"IT WAS DIFFICULT TO TREAT PATIENTS BECAUSE OF A SHORTAGE OF MEDICINE."	{v}	0,auto;
+[cuidar]	{v}	"treat(icl>cure>do,agt>person,obj>volitional_thing)"	""	"IT WAS DIFFICULT TO TREAT PATIENTS BECAUSE OF A SHORTAGE OF MEDICINE."	{v}	0,auto;
 [cuitado]	{a}	"piteous(icl>adj,equ>hapless)"	"DESERVING OR INCITING PITY"	"PITEOUS APPEALS FOR HELP"	{a}	0,auto;
 [cuita]	{n}	"trouble(icl>anxiety>thing,equ>worry)"	"A STRONG FEELING OF ANXIETY"	"HIS WORRY OVER THE PROSPECT OF BEING FIRED"	{n}	0,auto;
 [cuita]	{n}	"worry(icl>anxiety>thing)"	"A STRONG FEELING OF ANXIETY"	"HIS WORRY OVER THE PROSPECT OF BEING FIRED"	{n}	0,auto;
@@ -9338,7 +9338,7 @@
 [desplazamiento]	{n}	"move(icl>change>thing,equ>motion)"	"THE ACT OF CHANGING LOCATION FROM ONE PLACE TO ANOTHER"	"HIS MOVE PUT HIM DIRECTLY IN MY PATH"	{n}	0,auto;
 [desplazarse]	{v}	"go(icl>move>do,plt>place,plf>place,agt>thing)"	"TO MOVE ON A COURSE"	"HE (AGT) WENT TO LONDON (PLT) BY TRAIN"	{v}	0,auto;
 [desplazarse]	{v}	"locomote(icl>occur,equ>travel,obj>thing)"	"CHANGE LOCATION"	"MOVE, TRAVEL, OR PROCEED"	{v}	0,auto;
-[desplazarse]	{v}	"move(icl>relocate>do,plt>thing,plf>thing,agt>volithional_thing)"	"CHANGE ONE'S OWN LOCATION"	"THE SOLDIERS (AGT) MOVED TOWARDS THE CITY (PLT); THE PLANE (OBJ) MOVED SLOWLY ALONG THE RUNWAY"	{v}	0,auto;
+[desplazarse]	{v}	"move(icl>relocate>do,plt>thing,plf>thing,agt>volitional_thing)"	"CHANGE ONE'S OWN LOCATION"	"THE SOLDIERS (AGT) MOVED TOWARDS THE CITY (PLT); THE PLANE (OBJ) MOVED SLOWLY ALONG THE RUNWAY"	{v}	0,auto;
 [desplazarse]	{v}	"travel(icl>move>occur,plt>thing,plf>thing,obj>thing)"	"TO CHANGE LOCATION"	"PAINS (OBJ) COMMENCING IN PARTICULAR PARTS OF THE BODY, AND TRAVELLING BACK (PLT) TOWARDS THE SPINE."	{v}	0,auto;
 [desplazar]	{v}	"dislodge(icl>expel>do,agt>thing,obj>thing)"	"REMOVE OR FORCE FROM A POSITION OF DWELLING PREVIOUSLY OCCUPIED"	"THE NEW EMPLOYEE DISLODGED HER BY MOVING INTO HER OFFICE SPACE"	{v}	0,auto;
 [desplazar]	{v}	"dislodge(icl>move>occur,equ>shift,obj>thing)"	"CHANGE PLACE OR DIRECTION"	"SHIFT ONE'S POSITION"	{v}	0,auto;
@@ -15669,7 +15669,7 @@
 [ir]	{v}	"go(icl>act>do,agt>volitional_thing)"	"FOLLOW A PROCEDURE OR TAKE A COURSE"	"WE (AGT) SHOULD GO FARTHER IN THIS MATTER"	{v}	0,auto;
 [ir]	{v}	"go(icl>move>do,plt>place,plf>place,agt>thing)"	"TO MOVE ON A COURSE"	"HE (AGT) WENT TO LONDON (PLT) BY TRAIN"	{v}	0,auto;
 [ir]	{v}	"locomote(icl>occur,equ>travel,obj>thing)"	"CHANGE LOCATION"	"MOVE, TRAVEL, OR PROCEED"	{v}	0,auto;
-[ir]	{v}	"move(icl>relocate>do,plt>thing,plf>thing,agt>volithional_thing)"	"CHANGE ONE'S OWN LOCATION"	"THE SOLDIERS (AGT) MOVED TOWARDS THE CITY (PLT); THE PLANE (OBJ) MOVED SLOWLY ALONG THE RUNWAY"	{v}	0,auto;
+[ir]	{v}	"move(icl>relocate>do,plt>thing,plf>thing,agt>volitional_thing)"	"CHANGE ONE'S OWN LOCATION"	"THE SOLDIERS (AGT) MOVED TOWARDS THE CITY (PLT); THE PLANE (OBJ) MOVED SLOWLY ALONG THE RUNWAY"	{v}	0,auto;
 [ir volando]	{v}	"fly(icl>move>do,equ>move_around,plt>place,plf>place,agt>thing)"	"MOVE QUICKLY OR SUDDENLY"	"HE FLEW ABOUT THE PLACE"	{v}	0,auto;
 [ir]	{v}	"proceed(icl>go>do,plf>thing,agt>thing)"	"FOLLOW A PROCEDURE OR TAKE A COURSE"	"PASSENGERS SHOULD PROCEED TO GATE 6 (PLF)"	{v}	0,auto;
 [ir]	{v}	"ride(icl>go>be,plt>uw,plf>uw,aoj>concrete_thing,plc>thing)"	"BE CARRIED OR TRAVEL ON OR IN A VEHICLE"	"HE (AGT) RIDES THE SUBWAY (OBJ) DOWNTOWN (PLT) EVERY DAY"	{v}	0,auto;
@@ -17812,7 +17812,7 @@
 [ocupación]	{n}	"occupation(icl>social_control>thing)"	"THE CONTROL OF A COUNTRY BY MILITARY FORCES OF A FOREIGN POWER"	""	{n}	0,auto;
 [ocupante]	{n}	"occupant(icl>inhabitant>person,equ>resident,ant>nonresident)"	"SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE"	""	{n}	0,auto;
 [ocupante]	{n}	"occupier(icl>inhabitant>person,equ>resident,ant>nonresident)"	"SOMEONE WHO LIVES AT A PARTICULAR PLACE FOR A PROLONGED PERIOD OR WHO WAS BORN THERE"	""	{n}	0,auto;
-[ocuparse]	{v}	"treat(icl>cure>do,agt>person,obj>volithional_thing)"	""	"IT WAS DIFFICULT TO TREAT PATIENTS BECAUSE OF A SHORTAGE OF MEDICINE."	{v}	0,auto;
+[ocuparse]	{v}	"treat(icl>cure>do,agt>person,obj>volitional_thing)"	""	"IT WAS DIFFICULT TO TREAT PATIENTS BECAUSE OF A SHORTAGE OF MEDICINE."	{v}	0,auto;
 [ocupar]	{v}	"fill(icl>be,equ>occupy,obj>thing,aoj>thing)"	"OCCUPY THE WHOLE OF"	"HIS WARTIME EXPERIENCES WOULD FILL A BOOK!"	{v}	0,auto;
 [ocupar]	{v}	"fill(icl>work>do,agt>person,obj>thing)"	"TO PERFORM A PARTICULAR JOB, ACTIVITY, OR PURPOSE IN AN ORGANIZATION"	"WOMEN FILL 35% OF SENIOR MANAGEMENT POSITIONS"	{v}	0,auto;
 [ocupar]	{v}	"occupy(icl>be>be,obj>thing,aoj>thing)"	"OCCUPY THE WHOLE OF"	"THE LIQUID FILLS THE CONTAINER"	{v}	0,auto;
@@ -19197,7 +19197,7 @@
 [preocupación]	{n}	"trouble(icl>anxiety>thing,equ>worry)"	"A STRONG FEELING OF ANXIETY"	"HIS WORRY OVER THE PROSPECT OF BEING FIRED"	{n}	0,auto;
 [preocupación]	{n}	"worry(icl>anxiety>thing)"	"A STRONG FEELING OF ANXIETY"	"HIS WORRY OVER THE PROSPECT OF BEING FIRED"	{n}	0,auto;
 [preocupación]	{n}	"worry(icl>negative_stimulus>thing,equ>concern)"	"SOMETHING OR SOMEONE THAT CAUSES ANXIETY"	"IT'S A MAJOR WORRY"	{n}	0,auto;
-[preocuparse]	{v}	"treat(icl>cure>do,agt>person,obj>volithional_thing)"	""	"IT WAS DIFFICULT TO TREAT PATIENTS BECAUSE OF A SHORTAGE OF MEDICINE."	{v}	0,auto;
+[preocuparse]	{v}	"treat(icl>cure>do,agt>person,obj>volitional_thing)"	""	"IT WAS DIFFICULT TO TREAT PATIENTS BECAUSE OF A SHORTAGE OF MEDICINE."	{v}	0,auto;
 [preocupar]	{v}	"preoccupy(icl>control>do,cob>thing,agt>thing,obj>thing)"	"ENGAGE OR ENGROSS THE INTEREST OR ATTENTION OF BEFOREHAND OR OCCUPY URGENTLY OR OBSESSIVELY"	"HIS WORK PREOCCUPIES HIM"	{v}	0,auto;
 [preparar]	{v}	"fix(icl>cook>do,equ>prepare,agt>person,obj>food(icl>thing),ben>person)"	"PREPARE FOR EATING BY APPLYING HEAT"	"FIX BREAKFAST (OBJ) FOR THE GUESTS (BEN)"	{v}	0,auto;
 [preparar]	{v}	"fix(icl>do,equ>gear_up,agt>person,obj>uw)"	"MAKE READY OR SUITABLE OR EQUIP IN ADVANCE FOR A PARTICULAR PURPOSE"	"I (AGT) WAS FIXING TO LEAVE (OBJ) TOWN AFTER I PAID THE HOTEL BILL"	{v}	0,auto;
