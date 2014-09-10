@@ -188,7 +188,7 @@
 [abrir]	{v}	"open(icl>be,equ>open_up,obj>abstract_thing,aoj>thing)"	"MAKE AVAILABLE"	"THIS (AOJ) OPENS NEW POSSIBILITIES (OBJ)"	{v}	0,auto;
 [abrir]	{v}	"open(icl>be,obj>abstract_thing,aoj>thing)"	"MAKE AVAILABLE"	"THIS OPENS NEW POSSIBILITIES"	{v}	0,auto;
 [abrir]	{v}	"open(icl>undo>do,equ>unfold,agt>thing,obj>thing)"	"SPREAD OUT OR OPEN FROM A CLOSED OR FOLDED STATE"	"OPEN THE MAP (OBJ)"	{v}	0,auto;
-[abrir]	{v}	"open_up(icl>occur,equ>open,obj>thing)"	"START TO OPERATE OR FUNCTION OR CAUSE TO START OPERATING OR FUNCTIONING"	"OPEN A BUSINESS"	{v}	0,auto;
+[abrir]	{v}	"open_up(icl>occur,equ>open,obj>thing)"	"START TO OPERATE OR FUNCTION"	"OPEN A BUSINESS"	{v}	0,auto;
 [abrir]	{v}	"open_up(icl>yield>do,equ>open,agt>thing,obj>thing)"	"MAKE AVAILABLE"	"THIS OPENS UP NEW POSSIBILITIES"	{v}	0,auto;
 [abrir]	{v}	"spread(icl>do,equ>unfold,agt>thing,obj>concrete_thing)"	"EXTEND FROM A FOLDED STATE"	"THE BIRD SPREAD ITS WINGS AND WAS GONE"	{v}	0,auto;
 [abrir]	{v}	"spread_out(icl>undo>do,equ>unfold,agt>thing,obj>thing)"	"SPREAD OUT OR OPEN FROM A CLOSED OR FOLDED STATE"	"OPEN THE MAP"	{v}	0,auto;
@@ -4834,7 +4834,7 @@
 [cambiar]	{v}	"exchange(icl>replace>do,cob>thing,agt>thing,obj>thing)"	"REPLACE WITH ANOTHER, USUALLY OF THE SAME KIND"	"HE EXCHANGES DOLLARS FOR EUROS"	{v}	0,auto;
 [cambiar]	{v}	"exchange(icl>transfer>do,agt>thing,obj>thing)"	"HAND OVER ONE AND RECEIVE ANOTHER, APPROXIMATELY EQUIVALENT"	"EXCHANGE PRISONERS"	{v}	0,auto;
 [cambiar]	{v}	"exuviate(icl>shed>occur,equ>shed,obj>thing)"	"CAST OFF HAIR, SKIN, HORN, OR FEATHERS"	"OUR DOG SHEDS EVERY SPRING"	{v}	0,auto;
-[cambiar]	{v}	"interchange(icl>transfer>do,equ>exchange,agt>thing,obj>thing)"	"GIVE TO, AND RECEIVE FROM, ONE ANOTHER"	"WOULD YOU CHANGE PLACES WITH ME?"	{v}	0,auto;
+[cambiar]	{v}	"interchange(icl>transfer>do,equ>exchange,agt>thing,obj>thing,ptn>thing)"	"GIVE TO, AND RECEIVE FROM, ONE ANOTHER"	"WOULD YOU CHANGE PLACES WITH ME?"	{v}	0,auto;
 [cambiar]	{v}	"moult(icl>shed>occur,equ>shed,obj>thing)"	"CAST OFF HAIR, SKIN, HORN, OR FEATHERS"	"OUR DOG SHEDS EVERY SPRING"	{v}	0,auto;
 [cambiar]	{v}	"shed(icl>discard>do,agt>living_thing,obj>thing)"	"CAST OFF HAIR, SKIN, HORN, OR FEATHERS"	"TREES SHED THEIR LEAVES"	{v}	0,auto;
 [cambiar]	{v}	"slough(icl>shed>occur,equ>shed,obj>thing)"	"CAST OFF HAIR, SKIN, HORN, OR FEATHERS"	"OUR DOG SHEDS EVERY SPRING"	{v}	0,auto;
