@@ -2936,7 +2936,7 @@
 [hào phóng]	{}	"generously(icl>how,equ>liberally,com>generous)"	"IN A GENEROUS MANNER"	"HE GAVE LIBERALLY TO SEVERAL CHARITIES"	{misc}	2,auto-polysemic-3lang;
 [hào]	{}	"trench(icl>ditch>thing)"	"ANY LONG DITCH CUT IN THE GROUND"	""	{n}	2,auto-polysemic-3lang;
 [hấp dẫn]	{}	"enticing(icl>adj,equ>alluring)"	"HIGHLY ATTRACTIVE AND ABLE TO AROUSE HOPE OR DESIRE"	"DIFFICULT TO SAY NO TO AN ENTICING ADVERTISEMENT"	{a}	2,auto-polysemic-3lang;
-[hấp tấp]	{}	"hasty(icl>adj)"	"DONE WITH VERY GREAT HASTE AND WITHOUT DUE DELIBERATION"	"HASTY MARRIAGE SELDOM PROVETH WELL- SHAKESPEARE"	{a}	2,auto-polysemic-3lang;
+[hấp tấp]	{}	"hasty(icl>adj,mod<action,com>deliberation)"	"DONE WITH VERY GREAT HASTE AND WITHOUT DUE DELIBERATION"	"HASTY MARRIAGE SELDOM PROVETH WELL- SHAKESPEARE"	{a}	2,auto-polysemic-3lang;
 [hạt bụi]	{}	"mote(icl>material>thing,equ>atom)"	"(NONTECHNICAL USAGE) A TINY PIECE OF ANYTHING"	""	{n}	2,auto-monosemic-2lang;
 [hất cẳng]	{}	"supplant(icl>succeed>do,agt>thing,obj>concrete_thing)"	"TAKE THE PLACE OR MOVE INTO THE POSITION OF"	"SMITH REPLACED MILLER AS CEO AFTER MILLER LEFT"	{v}	2,auto-polysemic-3lang;
 [hạt giống]	{}	"seed(icl>fruit>thing)"	"A SMALL HARD FRUIT"	""	{n}	2,auto-polysemic-3lang;
@@ -8259,7 +8259,7 @@
 [vòi rồng]	{}	"tornado(icl>cyclone>thing)"	"A LOCALIZED AND VIOLENTLY DESTRUCTIVE WINDSTORM OCCURRING OVER LAND CHARACTERIZED BY A FUNNEL-SHAPED CLOUD EXTENDING TOWARD THE GROUND"	""	{n}	1,auto-monosemic-1lang;
 [với tiếng tăm tốt]	{}	"honourably(icl>how,equ>honorably,ant>dishonorably)"	"WITH HONOR"	"HE WAS HONORABLY DISCHARGED AFTER MANY YEARS OF SERVICE"	{misc}	2,auto-monosemic-2lang;
 [vòi trứng]	{}	"oviduct(icl>salpinx>thing,equ>fallopian_tube)"	"EITHER OF A PAIR OF TUBES CONDUCTING THE EGG FROM THE OVARY TO THE UTERUS"	""	{n}	2,auto-monosemic-2lang;
-[vội vàng]	{}	"hasty(icl>adj)"	"DONE WITH VERY GREAT HASTE AND WITHOUT DUE DELIBERATION"	"HASTY MARRIAGE SELDOM PROVETH WELL- SHAKESPEARE"	{a}	2,auto-polysemic-3lang;
+[vội vàng]	{}	"hasty(icl>adj,mod<action,com>deliberation)"	"DONE WITH VERY GREAT HASTE AND WITHOUT DUE DELIBERATION"	"HASTY MARRIAGE SELDOM PROVETH WELL- SHAKESPEARE"	{a}	2,auto-polysemic-3lang;
 [võ juđô]	{}	"judo(icl>martial_art>thing)"	"A SPORT ADAPTED FROM JUJITSU (USING PRINCIPLES OF NOT RESISTING) AND SIMILAR TO WRESTLING"	"DEVELOPED IN JAPAN"	{n}	2,auto-monosemic-2lang;
 [vô khuẩn]	{}	"aseptic(icl>adj)"	"FREE OF OR USING METHODS TO KEEP FREE OF PATHOLOGICAL MICROORGANISMS"	"ASEPTIC SURGICAL INSTRUMENTS"	{a}	2,auto-polysemic-3lang;
 [vô lễ]	{}	"impolite(icl>adj,ant>polite)"	"NOT POLITE"	""	{a}	2,auto-polysemic-3lang;
