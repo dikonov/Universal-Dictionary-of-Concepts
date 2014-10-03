@@ -186,7 +186,6 @@
 [abrir]	{v}	"clear_up(icl>occur,obj>thing)"	"BECOME CLEAR"	"THE SKY CLEARED AFTER THE STORM"	{v}	0,auto;
 [abrir]	{v}	"light_up(icl>occur,equ>clear_up,obj>thing)"	"BECOME CLEAR"	"THE SKY CLEARED AFTER THE STORM"	{v}	0,auto;
 [abrir]	{v}	"open(icl>be,equ>open_up,obj>abstract_thing,aoj>thing)"	"MAKE AVAILABLE"	"THIS (AOJ) OPENS NEW POSSIBILITIES (OBJ)"	{v}	0,auto;
-[abrir]	{v}	"open(icl>be,obj>abstract_thing,aoj>thing)"	"MAKE AVAILABLE"	"THIS OPENS NEW POSSIBILITIES"	{v}	0,auto;
 [abrir]	{v}	"open(icl>undo>do,equ>unfold,agt>thing,obj>thing)"	"SPREAD OUT OR OPEN FROM A CLOSED OR FOLDED STATE"	"OPEN THE MAP (OBJ)"	{v}	0,auto;
 [abrir]	{v}	"open_up(icl>occur,equ>open,obj>thing)"	"START TO OPERATE OR FUNCTION"	"OPEN A BUSINESS"	{v}	0,auto;
 [abrir]	{v}	"open_up(icl>yield>do,equ>open,agt>thing,obj>thing)"	"MAKE AVAILABLE"	"THIS OPENS UP NEW POSSIBILITIES"	{v}	0,auto;
@@ -484,7 +483,7 @@
 [acompañanta]	{n}	"chaperon(icl>defender>thing)"	"ONE WHO ACCOMPANIES AND SUPERVISES A YOUNG WOMAN OR GATHERINGS OF YOUNG PEOPLE"	""	{n}	0,auto;
 [acompañante]	{n}	"associate(icl>person,equ>friend,obj>person)"	"A COMPANION OR FRIEND"	"MY MOST INTIMATE ASSOCIATES"	{n}	0,auto;
 [acompañar]	{v}	"accompany(icl>go_with>be,cao>thing,aoj>thing,met>thing)"	"BE ASSOCIATED WITH"	"THE PICTURES THAT ACCOMPANY THE TEXT"	{v}	0,auto;
-[acompañar]	{v}	"escort(icl>accompany>do,equ>see,agt>thing,obj>thing)"	"ACCOMPANY OR ESCORT"	"I'LL SEE YOU TO THE DOOR"	{v}	0,auto;
+[acompañar]	{v}	"escort(icl>accompany>do,plt>thing,plf>thing,agt>volitional_thing,obj>thing)"	"ACCOMPANY OR ESCORT"	"I'LL SEE YOU TO THE DOOR"	{v}	0,auto;
 [acompañar]	{v}	"see(icl>accompany>do,plt>concrete_thing,agt>person,obj>person)"	"ACCOMPANY OR ESCORT"	"I (AGT) SHALL SEE YOU (OBJ) TO THE DOOR (PLT)"	{v}	0,auto;
 [acondicionar]	{v}	"check(icl>develop>do,equ>discipline,agt>thing,obj>thing)"	"TRAIN BY INSTRUCTION AND PRACTICE"	"ESPECIALLY TO TEACH SELF-CONTROL"	{v}	0,auto;
 [acondicionar]	{v}	"condition(icl>better>do,agt>thing,obj>thing)"	"TO BRING INTO A BETTER OR DESIRED STATE"	"TO CONDITION OLD CARS (OBJ)"	{v}	0,auto;
@@ -691,7 +690,6 @@
 [adherente]	{n}	"adherent(icl>follower>thing,equ>disciple)"	"SOMEONE WHO BELIEVES AND HELPS TO SPREAD THE DOCTRINE OF ANOTHER"	""	{n}	0,auto;
 [adherirse]	{v}	"adhere(icl>touch>occur,equ>cling,obj>thing)"	"COME OR BE IN CLOSE CONTACT WITH"	"STICK OR HOLD TOGETHER AND RESIST SEPARATION"	{v}	0,auto;
 [adherirse]	{v}	"attach(icl>touch>be,obj>concrete_thing,aoj>concrete_thing)"	"BE IN CONTACT WITH"	"CHECK FOR LEAKS AT THE SEAM WHERE THE GARAGE ATTACHES TO THE HOUSE"	{v}	0,auto;
-[adherirse]	{v}	"attach(icl>touch>be,plt>thing,obj>thing,aoj>thing,ins>thing)"	"BE IN CONTACT WITH"	""	{v}	0,auto;
 [adherirse]	{v}	"attach(icl>touch>occur,plt>thing,obj>thing,ins>thing)"	"BECOME ATTACHED"	"THE SPIDER'S THREAD ATTACHED TO THE WINDOW SILL"	{v}	0,auto;
 [adherirse]	{v}	"cleave(icl>touch>occur,equ>cling,plt>thing,obj>thing)"	"COME OR BE IN CLOSE CONTACT WITH"	"STICK OR HOLD TOGETHER AND RESIST SEPARATION"	{v}	0,auto;
 [adherirse]	{v}	"cling(icl>touch>be,equ>adhere,obj>concrete_thing,aoj>concrete_thing)"	"STICK TO"	"THE DRESS (AOJ) CLUNG TO HER BODY (OBJ)"	{v}	0,auto;
@@ -1050,7 +1048,6 @@
 [agitar]	{v}	"agitate(icl>move>occur,equ>shake,obj>thing)"	"MOVE OR CAUSE TO MOVE BACK AND FORTH"	"THE CHEMIST SHOOK THE FLASK VIGOROUSLY"	{v}	0,auto;
 [agitar]	{v}	"agitate(icl>provoke>do,agt>person,obj>volitional_thing)"	"TRY TO STIR UP PUBLIC OPINION"	""	{v}	0,auto;
 [agitar]	{v}	"beat(icl>move>cause>do,agt>thing,obj>thing)"	"MOVE WITH A THRASHING MOTION"	"THE EAGLE BEAT ITS WINGS"	{v}	0,auto;
-[agitar]	{v}	"beat(icl>move>occur,plt>thing,plf>thing,obj>thing,plc>thing)"	"MOVE WITH A FLAPPING MOTION"	""	{v}	0,auto;
 [agitar]	{v}	"boil(icl>be,equ>seethe,rsn>abstract_thing,aoj>person)"	"BE AGITATED EMOTIONALLY"	"HE WAS BOILING WITH ANGER"	{v}	0,auto;
 [agitar]	{v}	"boil(icl>move>be,equ>churn,aoj>thing)"	"BE AGITATED"	"THE SEA WAS BOILING AND FOAMING FURIOUSLY IN THE STORM"	{v}	0,auto;
 [agitar]	{v}	"commove(icl>move>do,equ>agitate,agt>thing,obj>thing)"	"CHANGE THE ARRANGEMENT OR POSITION OF"	""	{v}	0,auto;
@@ -1443,7 +1440,6 @@
 [aletazo]	{n}	"rig(icl>fraud>thing,equ>swindle)"	"THE ACT OF SWINDLING BY SOME FRAUDULENT SCHEME"	"I NEVER BEFORE SAW A PIG RUN A RIG"	{n}	0,auto;
 [aletazo]	{n}	"swindle(icl>fraud>thing)"	"THE ACT OF SWINDLING BY SOME FRAUDULENT SCHEME"	"THAT BOOK IS A FRAUD"	{n}	0,auto;
 [aletear]	{v}	"beat(icl>move>cause>do,agt>thing,obj>thing)"	"MOVE WITH A THRASHING MOTION"	"THE EAGLE BEAT ITS WINGS"	{v}	0,auto;
-[aletear]	{v}	"beat(icl>move>occur,plt>thing,plf>thing,obj>thing,plc>thing)"	"MOVE WITH A FLAPPING MOTION"	""	{v}	0,auto;
 [aletear]	{v}	"flap(icl>move>do,equ>beat,agt>living_thing,ins>thing)"	"MOVE WITH A THRASHING MOTION"	"THE BIRD FLAPPED ITS WINGS"	{v}	0,auto;
 [aletear]	{v}	"flap(icl>move>occur,equ>beat,obj>thing)"	"MOVE WITH A FLAPPING MOTION"	"THE BIRD'S WINGS WERE FLAPPING"	{v}	0,auto;
 [alevín]	{n}	"kid(icl>juvenile>thing,equ>child)"	"A YOUNG PERSON OF EITHER SEX"	"SHE WRITES BOOKS FOR CHILDREN"	{n}	0,auto;
@@ -2717,7 +2713,6 @@
 [arremeter]	{v}	"charge(icl>attack>do,agt>volitional_thing,obj>thing)"	"TO MAKE A RUSH AT OR SUDDEN ATTACK UPON"	"HE SAW JESS (AGT) CHARGING AT HIM (OBJ) WITH A PITCHFORK"	{v}	0,auto;
 [arremeter]	{v}	"shoot_down(icl>rush>occur,equ>tear,obj>thing)"	"MOVE QUICKLY AND VIOLENTLY"	"THE CAR TORE DOWN THE STREET"	{v}	0,auto;
 [arremeter]	{v}	"shoot(icl>rush>occur,equ>tear,obj>thing)"	"MOVE QUICKLY AND VIOLENTLY"	"THE CAR TORE DOWN THE STREET"	{v}	0,auto;
-[arremeter]	{v}	"tear(icl>hurry>do,plt>thing,plf>thing,agt>living_thing)"	"MOVE QUICKLY AND VIOLENTLY"	"THE CAR (AGT) TORE DOWN THE STREET (PLT)"	{v}	0,auto;
 [arremeter]	{v}	"tear(icl>hurry(icl>go)>do,plt>uw,plf>uw,agt>concrete_thing)"	"MOVE QUICKLY AND VIOLENTLY"	"THE CAR (AGT) TORE DOWN THE STREET (PLT)"	{v}	0,auto;
 [arremetida]	{n}	"attack(icl>operation>thing)"	"(MILITARY) AN OFFENSIVE AGAINST AN ENEMY (USING WEAPONS)"	"THE ATTACK BEGAN AT DAWN"	{n}	0,auto;
 [arremetida]	{n}	"lunge(icl>motion>thing,equ>lurch)"	"THE ACT OF MOVING FORWARD SUDDENLY"	""	{n}	0,auto;
@@ -4828,7 +4823,6 @@
 [cambiar]	{v}	"alter(icl>change>occur,obj>thing)"	"TO CHANGE IN SOME WAY"	"THE GROWTH PATTERN OF THE CITY ALTERED"	{v}	0,auto;
 [cambiar]	{v}	"change(icl>do,agt>person>thing,obj>thing,ptn>person>thing)"	"EXCHANGE SMTH WITH SOMEONE"	"PRINCE (AGT) CHANGED PLACES (OBJ) WITH THE BEGGAR (PTN)"	{v}	0,auto;
 [cambiar]	{v}	"change(icl>occur,src>thing,obj>thing,gol>thing)"	"UNDERGO A CHANGE"	"SUSAN (OBJ) HAS CHANGED A LOT SINCE I LAST SAW HER"	{v}	0,auto;
-[cambiar]	{v}	"change(icl>transfer>do,plt>thing,plf>thing,agt>person)"	"CHANGE FROM ONE VEHICLE OR TRANSPORTATION LINE TO ANOTHER"	"SHE (AGT) CHANGED IN CHICAGO (PLC) ON HER WAY TO THE EAST COAST"	{v}	0,auto;
 [cambiar]	{v}	"change(icl>transfer>do,src>transport,agt>person,gol>transport)"	"CHANGE FROM ONE VEHICLE OR TRANSPORTATION LINE TO ANOTHER"	"SHE (AGT) CHANGED IN CHICAGO (PLC) ON HER WAY TO THE EAST COAST"	{v}	0,auto;
 [cambiar]	{v}	"convert(icl>replace>do,equ>exchange,cob>thing,agt>thing,obj>thing)"	"REPLACE WITH ANOTHER OF THE SAME KIND"	"CONVERT DOLLARS INTO ROUBLES"	{v}	0,auto;
 [cambiar]	{v}	"exchange(icl>replace>do,cob>thing,agt>thing,obj>thing)"	"REPLACE WITH ANOTHER, USUALLY OF THE SAME KIND"	"HE EXCHANGES DOLLARS FOR EUROS"	{v}	0,auto;
@@ -8717,7 +8711,6 @@
 [desarrollar]	{v}	"germinate(icl>create_by_mental_act>do,equ>evolve,agt>thing,obj>thing)"	"WORK OUT"	"WE HAVE DEVELOPED A NEW THEORY OF EVOLUTION"	{v}	0,auto;
 [desarrollar]	{v}	"grow(icl>change>do,agt>thing,obj>thing)"	"COME TO HAVE OR UNDERGO A CHANGE OF (PHYSICAL FEATURES AND ATTRIBUTES)"	"HE GREW A BEARD"	{v}	0,auto;
 [desarrollar]	{v}	"open(icl>be,equ>open_up,obj>abstract_thing,aoj>thing)"	"MAKE AVAILABLE"	"THIS (AOJ) OPENS NEW POSSIBILITIES (OBJ)"	{v}	0,auto;
-[desarrollar]	{v}	"open(icl>be,obj>abstract_thing,aoj>thing)"	"MAKE AVAILABLE"	"THIS OPENS NEW POSSIBILITIES"	{v}	0,auto;
 [desarrollar]	{v}	"open_up(icl>yield>do,equ>open,agt>thing,obj>thing)"	"MAKE AVAILABLE"	"THIS OPENS UP NEW POSSIBILITIES"	{v}	0,auto;
 [desarrollo]	{n}	"development(icl>process,obj>uw)"	"A PROCESS IN WHICH SOMETHING PASSES BY DEGREES TO A DIFFERENT STAGE (ESPECIALLY A MORE ADVANCED OR MATURE STAGE)"	"CHILD DEVELOPMENT"	{n}	0,auto;
 [desarrollo]	{n}	"growth(icl>organic_process>thing)"	"(BIOLOGY) THE PROCESS OF AN INDIVIDUAL ORGANISM GROWING ORGANICALLY"	"A PURELY BIOLOGICAL UNFOLDING OF EVENTS INVOLVED IN AN ORGANISM CHANGING GRADUALLY FROM A SIMPLE TO A MORE COMPLEX LEVEL"	{n}	0,auto;
@@ -9508,7 +9501,7 @@
 [destrozar]	{v}	"ruin(icl>do,equ>destroy,agt>thing,obj>thing,met>thing)"	"DESTROY COMPLETELY"	"DAMAGE IRREPARABLY"	{v}	0,auto;
 [destrozar]	{v}	"scourge(icl>destroy>do,equ>lay_waste_to,agt>thing,obj>thing)"	"DEVASTATE OR RAVAGE"	"THE ENEMY LAY WASTE TO THE COUNTRYSIDE AFTER THE INVASION"	{v}	0,auto;
 [destrozar]	{v}	"shatter(icl>break>occur,obj>concrete_thing,gol>thing,ins>thing)"	"BREAK INTO MANY PIECES"	"THE PLATE HIT THE FLOOR, AND SHATTERED INTO TINY BITS"	{v}	0,auto;
-[destrozar]	{v}	"smash(icl>break>do,agt>thing,obj>thing,gol>thing,ins>thing)"	"BREAK; DESTROY"	"VANDALS HAD SMASHED ALL THE WINDOWS; TO SMASH A THEORY"	{v}	0,auto;
+[destrozar]	{v}	"smash(icl>break>do,agt>thing,obj>concrete_thing,gol>thing,ins>thing)"	"BREAK; DESTROY"	"VANDALS HAD SMASHED ALL THE WINDOWS; TO SMASH A THEORY"	{v}	0,auto;
 [destrozar]	{v}	"smash_up(icl>damage>do,equ>bang_up,agt>thing,obj>thing,gol>thing,ins>thing)"	"DAMAGE OR DESTROY AS IF BY VIOLENCE"	"THE TEENAGER BANGED UP THE CAR OF HIS MOTHER"	{v}	0,auto;
 [destrozar]	{v}	"waste(icl>devastate>do,agt>volitional_thing,obj>thing)"	"DEVASTATE OR RAVAGE"	"HE FELL SUDDENLY ON THEM WITH FOUR LEGIONS, SEIZED THEIR CATTLE, WASTED THEIR COUNTRY."	{v}	0,auto;
 [destrozar]	{v}	"wrack(icl>destroy>do,equ>bust_up,agt>thing,obj>thing)"	"SMASH OR BREAK FORCEFULLY"	"THE KID BUSTED UP THE CAR"	{v}	0,auto;
@@ -10395,7 +10388,7 @@
 [educador]	{n}	"pedagog(icl>professional>thing,equ>educator)"	"SOMEONE WHO EDUCATES YOUNG PEOPLE"	""	{n}	0,auto;
 [efectista]	{a}	"stagey(icl>adj,equ>stagy)"	"HAVING CHARACTERISTICS OF THE STAGE ESPECIALLY AN ARTIFICIAL AND MANNERED QUALITY"	"STAGY HEROICS"	{a}	0,auto;
 [efectista]	{a}	"stagy(icl>adj)"	"HAVING CHARACTERISTICS OF THE STAGE ESPECIALLY AN ARTIFICIAL AND MANNERED QUALITY"	"STAGY HEROICS"	{a}	0,auto;
-[efectivo]	{a}	"good(icl>adj,equ>effective)"	"EXERTING FORCE OR INFLUENCE"	"A WARRANTY GOOD FOR TWO YEARS"	{a}	0,auto;
+[efectivo]	{a}	"good(icl>adj,equ>effective,tim>uw)"	"EXERTING FORCE OR INFLUENCE"	"A WARRANTY GOOD FOR TWO YEARS"	{a}	0,auto;
 [efectivo]	{n}	"soldiery(icl>force>thing,equ>military_personnel)"	"SOLDIERS COLLECTIVELY"	""	{n}	0,auto;
 [efecto]	{n}	"effect(icl>appearance>thing,equ>impression)"	"AN OUTWARD APPEARANCE"	"SHE RETAINED THAT BOLD EFFECT IN HER REPRODUCTIONS OF THE ORIGINAL PAINTING"	{n}	0,auto;
 [efectuar]	{v}	"effect(icl>accomplish>do,agt>thing,obj>thing)"	"ACT SO AS TO BRING INTO EXISTENCE"	"CHEMISTS FAILED TO EFFECT SUCH DECOMPOSITION (OBJ)"	{v}	0,auto;
@@ -11051,7 +11044,6 @@
 [enfurecer]	{v}	"infuriate(icl>anger>do,agt>thing,obj>thing)"	"MAKE FURIOUS"	""	{v}	0,auto;
 [enfurecer]	{v}	"madden(icl>torment>do,agt>thing,obj>thing)"	"DRIVE UP THE WALL"	"GO ON SOMEONE'S NERVES"	{v}	0,auto;
 [engancharse]	{v}	"attach(icl>touch>be,obj>concrete_thing,aoj>concrete_thing)"	"BE IN CONTACT WITH"	"CHECK FOR LEAKS AT THE SEAM WHERE THE GARAGE ATTACHES TO THE HOUSE"	{v}	0,auto;
-[engancharse]	{v}	"attach(icl>touch>be,plt>thing,obj>thing,aoj>thing,ins>thing)"	"BE IN CONTACT WITH"	""	{v}	0,auto;
 [enganchar]	{v}	"attach(icl>touch>occur,plt>thing,obj>thing,ins>thing)"	"BECOME ATTACHED"	"THE SPIDER'S THREAD ATTACHED TO THE WINDOW SILL"	{v}	0,auto;
 [enganchar]	{v}	"snag(icl>obtain>do,agt>thing,obj>thing)"	"GET BY ACTING QUICKLY AND SMARTLY"	"SNAG A BARGAIN"	{v}	0,auto;
 [enganchar]	{v}	"tie(icl>limit>be,obj>person,aoj>abstract_thing)"	"LIMIT OR RESTRICT TO"	"UNFORTUNATELY I AM TIED TO TIME."	{v}	0,auto;
@@ -14007,7 +13999,7 @@
 [habón]	{n}	"puffiness(icl>enlargement>thing,equ>swelling)"	"ABNORMAL PROTUBERANCE OR LOCALIZED ENLARGEMENT"	""	{n}	0,auto;
 [hacer añicos]	{v}	"crush(icl>break_up>occur,obj>thing)"	"BREAK INTO SMALL PIECES"	"THE CAR CRUSHED THE TOY"	{v}	0,auto;
 [hacer el amor]	{v}	"love(icl>make_love>do,agt>living_thing,cag>living_thing)"	"TO HAVE SEX"	"WE (AGT) LOVED EACH OTHER (OBJ) ALL NIGHT LONG"	{v}	0,auto;
-[hacer pedazos]	{v}	"smash(icl>break>do,agt>thing,obj>thing,gol>thing,ins>thing)"	"BREAK; DESTROY"	"VANDALS HAD SMASHED ALL THE WINDOWS; TO SMASH A THEORY"	{v}	0,auto;
+[hacer pedazos]	{v}	"smash(icl>break>do,agt>thing,obj>concrete_thing,gol>thing,ins>thing)"	"BREAK; DESTROY"	"VANDALS HAD SMASHED ALL THE WINDOWS; TO SMASH A THEORY"	{v}	0,auto;
 [hacer pedazos]	{v}	"smash_up(icl>damage>do,equ>bang_up,agt>thing,obj>thing,gol>thing,ins>thing)"	"DAMAGE OR DESTROY AS IF BY VIOLENCE"	"THE TEENAGER BANGED UP THE CAR OF HIS MOTHER"	{v}	0,auto;
 [hacer referencia]	{v}	"reference(icl>do,agt>thing,obj>thing)"	""	"THE BOOK DOES NOT REFERENCE ANYTHING WRITTEN IN THE LAST 10 YEARS."	{v}	0,auto;
 [hacer ruido]	{v}	"go(icl>cause_to_be_perceived>do,equ>sound,agt>concrete_thing,obj>thing)"	"MAKE A CERTAIN NOISE OR SOUND"	"SHE (AGT) WENT `MMMMM' (OBJ)"	{v}	0,auto;
@@ -17144,7 +17136,7 @@
 [mitigar]	{v}	"dip(icl>change_intensity>do,equ>dim,agt>thing,obj>thing)"	"SWITCH (A CAR'S HEADLIGHTS) FROM A HIGHER TO A LOWER BEAM"	""	{v}	0,auto;
 [mitigar]	{v}	"ease(icl>lessen_pain>do,cob>thing,agt>thing,obj>thing)"	"LESSEN PAIN OR DISCOMFORT"	"THIS MEDICINE WILL EASE YOU OF YOUR PAIN"	{v}	0,auto;
 [mitigar]	{v}	"loosen_up(icl>change_state>occur,equ>relax,obj>thing)"	"BECOME LESS TENSE, REST, OR TAKE ONE'S EASE"	"HE RELAXED IN THE HOT TUB"	{v}	0,auto;
-[mitigar]	{v}	"relax(icl>occur,ant>tense,obj>thing)"	"BECOME LESS TENSE, REST, OR TAKE ONE'S EASE"	"HE (OBJ) RELAXED IN THE HOT TUB"	{v}	0,auto;
+[mitigar]	{v}	"relax(icl>calm>occur,obj>person)"	"BECOME LESS TENSE, REST, OR TAKE ONE'S EASE"	"HE (OBJ) RELAXED IN THE HOT TUB"	{v}	0,auto;
 [mitigar]	{v}	"unbend(icl>change_state>occur,equ>relax,obj>thing)"	"BECOME LESS TENSE, REST, OR TAKE ONE'S EASE"	"HE RELAXED IN THE HOT TUB"	{v}	0,auto;
 [mitigar]	{v}	"unwind(icl>change_state>occur,equ>relax,obj>thing)"	"BECOME LESS TENSE, REST, OR TAKE ONE'S EASE"	"HE RELAXED IN THE HOT TUB"	{v}	0,auto;
 [mitológico]	{a}	"mythological(icl>adj,equ>fabulous)"	"BASED ON OR TOLD OF IN TRADITIONAL STORIES"	"LACKING FACTUAL BASIS OR HISTORICAL VALIDITY"	{a}	0,auto;
