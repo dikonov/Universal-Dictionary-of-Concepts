@@ -160,7 +160,7 @@
 [abrazarse]	{v}	"nuzzle(icl>cling_to>do,equ>cuddle,agt>living_thing,obj>living_thing,plc>thing)"	"MOVE OR ARRANGE ONESELF IN A COMFORTABLE AND COZY POSITION"	"WE CUDDLED AGAINST EACH OTHER TO KEEP WARM"	{v}	0,auto;
 [abrazarse]	{v}	"snuggle(icl>cling_to>do,equ>cuddle,agt>living_thing,plc>thing)"	"MOVE OR ARRANGE ONESELF IN A COMFORTABLE AND COZY POSITION"	"WE CUDDLED AGAINST EACH OTHER TO KEEP WARM"	{v}	0,auto;
 [abrazar]	{v}	"adopt(icl>accept>do,equ>espouse,agt>thing,obj>thing)"	"TAKE UP THE CAUSE, IDEOLOGY, PRACTICE, METHOD, OF SOMEONE AND USE IT AS ONE'S OWN"	"SHE EMBRACED CATHOLICISM"	{v}	0,auto;
-[abrazar]	{v}	"embrace(icl>adopt>do,agt>thing,obj>thing)"	"COMPRISE, SPAN"	"WE HOPE THESE REGIONS WILL EMBRACE DEMOCRATIC REFORMS"	{v}	0,auto;
+[abrazar]	{v}	"embrace(icl>adopt>do,agt>thing,obj>thing)"	"Take up the cause, ideology, practice, method, of someone and use it as one's own"	"WE HOPE THESE REGIONS WILL EMBRACE DEMOCRATIC REFORMS"	{v}	0,auto;
 [abrazar]	{v}	"espouse(icl>do,equ>follow,agt>person,obj>uw)"	"CHOOSE AND FOLLOW"	"THE CANDIDATE (AGT) ~S REPUBLICAN IDEALS (OBJ)"	{v}	0,auto;
 [abrazar]	{v}	"sweep_up(icl>accept>do,equ>espouse,agt>volitional_thing,obj>thing)"	"TAKE UP THE CAUSE, IDEOLOGY, PRACTICE, METHOD, OF SOMEONE AND USE IT AS ONE'S OWN"	"SHE EMBRACED CATHOLICISM"	{v}	0,auto;
 [abreviar]	{v}	"abbreviate(icl>decrease>do,equ>abridge,agt>thing,obj>thing)"	"REDUCE IN SCOPE WHILE RETAINING ESSENTIAL ELEMENTS"	"THE MANUSCRIPT MUST BE SHORTENED"	{v}	0,auto;
