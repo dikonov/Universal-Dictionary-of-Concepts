@@ -8001,7 +8001,7 @@
 [từ]	{}	"word(icl>information,pof>sentence)"	"A UNIT OF LANGUAGE"	"SENTENCES ARE MADE OF WORDS"	{n}	2,auto-polysemic-3lang;
 [từ xa]	{}	"radio-controlled(icl>adj)"	"OPERATED AND GUIDED BY RADIO"	"A RADIO-CONTROLLED AIRPLANE"	{a}	2,auto-monosemic-2lang;
 [tự xưng]	{}	"self-styled(icl>adj)"	"AS CLAIMED BY AND FOR YOURSELF OFTEN WITHOUT JUSTIFICATION"	"THE SELF-STYLED `DOCTOR' HAS NO DEGREE OF ANY KIND"	{a}	1,auto-monosemic-1lang;
-[tuyên bố]	{}	"declare(icl>judge,equ>claim,cob>thing,agt>volitional_thing,obj>thing)"	"PRONOUNCE A THING TO BE SOMETHING"	"SHE (AGT) DECLARED HIM (OBJ) AN IMPOSTOR (COB)"	{n}	2,auto-polysemic-3lang;
+[tuyên bố]	{}	"declare(icl>judge>do,cob>thing,agt>volitional_thing,obj>thing)"	"PRONOUNCE A THING TO BE SOMETHING"	"SHE (AGT) DECLARED HIM (OBJ) AN IMPOSTOR (COB)"	{n}	2,auto-polysemic-3lang;
 [tuyên bố]	{}	"declare(icl>show>do,equ>acknowledge,agt>volitional_thing,obj>thing)"	"ACKNOWLEDGE POSSESSION OF"	"DECLARE GOODS (OBJ) AT THE CUSTOMS"	{v}	2,auto-polysemic-3lang;
 [tuyên bố]	{}	"declare(icl>state>do,equ>announce,agt>volitional_thing,obj>uw)"	"ANNOUNCE PUBLICLY OR FORMALLY"	"DECLARE WAR (OBJ)"	{v}	2,auto-polysemic-3lang;
 [tuyên bố]	{}	"declare(icl>state>do,equ>assert,agt>volitional_thing,obj>uw)"	"STATE EMPHATICALLY"	"HE (AGT) DECLARED THAT (OBJ) HE NEEDED MORE MONEY"	{v}	2,auto-polysemic-3lang;
