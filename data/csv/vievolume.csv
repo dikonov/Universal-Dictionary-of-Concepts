@@ -5980,7 +5980,7 @@
 [reni]	{}	"rhenium(icl>metallic_element>thing)"	"A RARE HEAVY POLYVALENT METALLIC ELEMENT THAT RESEMBLES MANGANESE CHEMICALLY AND IS USED IN SOME ALLOYS"	"IS OBTAINED AS A BY-PRODUCT IN REFINING MOLYBDENUM"	{n}	2,auto-monosemic-2lang;
 [rèn lại]	{}	"reforge(icl>remake>do,equ>recast,agt>thing,obj>thing)"	"CAST OR MODEL ANEW"	"SHE HAD TO RECAST HER IMAGE TO PLEASE THE ELECTORATE IN HER HOME STATE"	{v}	2,auto-monosemic-2lang;
 [rèn luyện lại]	{}	"reforge(icl>remake>do,equ>recast,agt>thing,obj>thing)"	"CAST OR MODEL ANEW"	"SHE HAD TO RECAST HER IMAGE TO PLEASE THE ELECTORATE IN HER HOME STATE"	{v}	2,auto-monosemic-2lang;
-[rên rỉ]	{}	"groan(icl>utter>di,equ>moan,rsn>uw,agt>person)"	"TO MAKE A LONG DEEP SOUND BECAUSE YOU ARE IN PAIN OR DISPLEASURE"	"GROAN WITH PAIN (RSN)"	{n}	2,auto-polysemic-3lang;
+[rên rỉ]	{}	"groan(icl>utter>do,equ>moan,rsn>uw,agt>person)"	"TO MAKE A LONG DEEP SOUND BECAUSE YOU ARE IN PAIN OR DISPLEASURE"	"GROAN WITH PAIN (RSN)"	{n}	2,auto-polysemic-3lang;
 [rên rỉ]	{}	"moan(icl>utter>do,equ>groan,rsn>uw,agt>person,obj>uw)"	"TO MAKE A LONG LOW SOUND"	"HE (AGT) IS EVERLASTINGLY MOANING AND GROANING / TO MOAN WITH PAIN (RSN)"	{v}	2,auto-polysemic-3lang;
 [rễ]	{}	"root(icl>number>thing)"	"A NUMBER THAT WHEN MULTIPLIED BY ITSELF SOME NUMBER OF TIMES EQUALS A GIVEN NUMBER"	""	{n}	2,auto-polysemic-3lang;
 [rễ]	{}	"root(icl>plant_organ>thing)"	"(BOTANY) THE USUALLY UNDERGROUND ORGAN THAT LACKS BUDS OR LEAVES OR NODES"	"ABSORBS WATER AND MINERAL SALTS"	{n}	2,auto-polysemic-3lang;
