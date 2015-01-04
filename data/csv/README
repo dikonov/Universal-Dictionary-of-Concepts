@@ -5,19 +5,22 @@ This is the main format of the data. Other formats available are convertions fro
 
 All unicode text editors and standard POSIX and GNU tools like diff, patch, grep, sort work well with csv. OpenOffice/LibreOffice Calc is a good GUI tool to open them. Select "TAB" as the only column separator and leave text separator field (usually ["] ) empty.
 
-    unlvolume.csv	Pivot dictionary of concepts - Provides links to Wordnet and SUMO
-    engvolume.csv	English local dictionary
-    rusvolume.csv	Russian local dictionary
-    fravolume.csv	Experimental French local dictionary
-    espvolume.csv	Experimental Spanish local dictionary
-    msavolume.csv	Experimental Malay local dictionary
-    vievolume.csv	Experimental Vietnamese local dictionary
-    uwlinks.csv		Semantic links between concepts
+    dict-unl.csv	Pivot dictionary of concepts - Provides links to Wordnet and SUMO
+    dict-nl-eng.csv	English local dictionary
+    dict-nl-rus.csv	Russian local dictionary
+    dict-nl-fra.csv	Experimental French local dictionary
+    dict-nl-esp.csv	Experimental Spanish local dictionary
+    dict-nl-msa.csv	Experimental Malay local dictionary
+    dict-nl-vie.csv	Experimental Vietnamese local dictionary
+    links-unl-uw.csv	Semantic links between concepts
+    links-ext-sumo.csv	Links between UNL concepts and SUMO ontology
+    links-ext-wn21.csv	Links between UNL concepts and Wordnet 2.1
+    links-ext-wn30.csv	Links between UNL concepts and Wordnet 3.0
 
-NOTE, that the uwlinks.csv file, still contains only a part of the semantic network data it is supposed to provide.
+NOTE, that the links-unl-uw.csv file, still contains only a part of the semantic network data it is supposed to provide.
 
 Other linked semantic resources:
 Suggested Upper Merged Ontology (SUMO) http://www.ontologyportal.org/
 Princeton Wordnet http://wordnet.princeton.edu/
-DBPedia http://dbpedia.org/About
+DBPedia http://dbpedia.org/About (proper names volumes)
 ...

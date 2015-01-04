@@ -1,11 +1,11 @@
 This folder contains snapshots of the data taken at irregular points of time.
 All data here is outdated. The latest version is in the "data/csv" folder.
-Please, choose the latest version, if you want to use a 'stable' version of the data.
+Please, choose the latest version, if you want to use this version of the data.
 
 The version numbers consist of digits and an optional (alpha|beta) suffix indicating the status of the snapshot.
 
 'alpha' means "work in progress, early stage of development" 
 'beta' means "work in progress, the data set is considered to be reasonably complete for further work"
-In any case there may be errors in the data and you have been warned!
+In any case, there may be errors in the data and you have been warned!
 
-A more detailed quality estimate for each snaphot after 0.5 will be available in the docs folder and inside the relevant archive file.
+A more detailed quality estimate for each snapshot after 0.5 will be available in the docs folder and inside the relevant archive file.
