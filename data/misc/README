@@ -1,0 +1,8 @@
+russian-synsets.csv - Russian synsets automatically produced from the main UNL dictionary data. 
+
+File Format is a TAB-separated text table (tsv).
+
+Columns left-to-right:
+1 - List of Russian words forming a synset (set of synonyms).
+2 - Textual comment describing their common meaning. (Most of the comments come from the English Wordnet)
+3 - List of UNL UWs that create the synset.
