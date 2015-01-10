@@ -4708,8 +4708,8 @@
 [ngẫu nhiên]	{}	"adventitious(icl>adj,equ>accidental)"	"ASSOCIATED BY CHANCE AND NOT AN INTEGRAL PART"	"THEY HAD TO DECIDE WHETHER HIS MISCONDUCT WAS ADVENTITIOUS OR THE RESULT OF A FLAW IN HIS CHARACTER"	{a}	2,auto-polysemic-3lang;
 [ngày]	{}	"day(icl>era>thing)"	"AN ERA OF EXISTENCE OR INFLUENCE"	"IN THE DAY OF THE DINOSAURS"	{n}	2,auto-polysemic-3lang;
 [ngày]	{}	"day(icl>period>time,icl>unit)"	"MEASURE OF TIME"	"HE LEFT TWO DAYS AGO"	{n}	2,auto-polysemic-3lang;
+[ngày]	{}	"day(icl>time_period>abstract_thing,fld>astronomy)"	"THE PERIOD OF TIME TAKEN BY A PLANET TO MAKE A COMPLETE ROTATION ON ITS AXIS"	"HOW LONG IS A DAY ON JUPITER?"	{n}	2,auto-polysemic-3lang;
 [ngày]	{}	"day(icl>time_period>thing,equ>daylight,ant>night)"	"THE TIME AFTER SUNRISE AND BEFORE SUNSET WHILE IT IS LIGHT OUTSIDE"	"THE DAWN TURNED NIGHT INTO DAY"	{n}	2,auto-polysemic-3lang;
-[ngày]	{}	"day(icl>time_period>unit,fld>astronomy)"	"THE PERIOD OF TIME TAKEN BY A PLANET TO MAKE A COMPLETE ROTATION ON ITS AXIS"	"HOW LONG IS A DAY ON JUPITER?"	{n}	2,auto-polysemic-3lang;
 [ngày]	{}	"day(icl>work_time>thing)"	"THE RECURRING HOURS WHEN YOU ARE NOT SLEEPING (ESPECIALLY THOSE WHEN YOU ARE WORKING)"	"MY DAY BEGAN EARLY THIS MORNING"	{n}	2,auto-polysemic-3lang;
 [ngay lúc ấy]	{}	"immediately(icl>how,com>immediate)"	"NEAR OR CLOSE BY"	"HE PASSED IMMEDIATELY BEHIND HER"	{misc}	2,auto-monosemic-2lang;
 [ngày thứ ba]	{}	"tuesday(icl>weekday>thing)"	"THE THIRD DAY OF THE WEEK"	"THE SECOND WORKING DAY"	{n}	2,auto-monosemic-2lang;
