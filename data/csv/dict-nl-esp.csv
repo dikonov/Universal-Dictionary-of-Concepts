@@ -14580,7 +14580,7 @@
 [impartir]	{v}	"leave(icl>tell>do,agt>person,obj>information,plc>thing)"	"TELL OR DEPOSIT INFORMATION"	"LEAVE YOUR NAME AND ADDRESS (OBJ) HERE (PLC)"	{v}	0,auto;
 [impasibilidad]	{n}	"impassivity(icl>apathy>thing,equ>emotionlessness)"	"APATHY DEMONSTRATED BY AN ABSENCE OF EMOTIONAL REACTIONS"	""	{n}	0,auto;
 [impasibilidad]	{n}	"stolidity(icl>apathy>thing,equ>emotionlessness)"	"APATHY DEMONSTRATED BY AN ABSENCE OF EMOTIONAL REACTIONS"	""	{n}	0,auto;
-[impasible]	{a}	"cool(icl>adj)"	"(USED OF A NUMBER OR SUM)  WITHOUT EXAGGERATION OR QUALIFICATION"	"A COOL MILLION BUCKS"	{a}	0,auto;
+[impasible]	{a}	"cool(icl>adj,equ>whole,aoj>number)"	"(USED OF A NUMBER OR SUM)  WITHOUT EXAGGERATION OR QUALIFICATION"	"A COOL MILLION BUCKS"	{a}	0,auto;
 [impasible]	{a}	"impassive(icl>adj)"	"HAVING OR REVEALING LITTLE EMOTION OR SENSIBILITY"	"HER IMPASSIVE REMOTENESS"	{a}	0,auto;
 [impasividad]	{n}	"impassivity(icl>apathy>thing,equ>emotionlessness)"	"APATHY DEMONSTRATED BY AN ABSENCE OF EMOTIONAL REACTIONS"	""	{n}	0,auto;
 [impasividad]	{n}	"stolidity(icl>apathy>thing,equ>emotionlessness)"	"APATHY DEMONSTRATED BY AN ABSENCE OF EMOTIONAL REACTIONS"	""	{n}	0,auto;
