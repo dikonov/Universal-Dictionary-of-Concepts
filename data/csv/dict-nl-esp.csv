@@ -2081,7 +2081,7 @@
 [anunciar]	{v}	"push(icl>praise>do,agt>person,obj>thing,rec>person)"	"MAKE PUBLICITY FOR; TRY TO SELL (A PRODUCT)"	"WE DON'T TRY TO PUSH OUR RELIGION (OBJ) ON ANYONE (REC)"	{v}	0,auto;
 [anuncio]	{n}	"ad(icl>promotion>thing)"	"A PUBLIC PROMOTION OF SOME PRODUCT OR SERVICE"	""	{n}	0,auto;
 [anuncio]	{n}	"advert(icl>promotion>thing,equ>ad)"	"A PUBLIC PROMOTION OF SOME PRODUCT OR SERVICE"	""	{n}	0,auto;
-[anuncio]	{n}	"advertisement(icl>action>abstract_thing,agt>person,obj>thing)"	"A PUBLIC PROMOTION OF SOME PRODUCT OR SERVICE"	"EFFECTIVE RECRUITMENT SYSTEMS INCLUDE ~ OF VACANCIES (OBJ) BY ORGANIZATIONS (AGT)"	{n}	0,auto;
+[anuncio]	{n}	"advertisement(icl>promotion>thing,agt>person,obj>thing)"	"A PUBLIC PROMOTION OF SOME PRODUCT OR SERVICE"	"EFFECTIVE RECRUITMENT SYSTEMS INCLUDE ~ OF VACANCIES (OBJ) BY ORGANIZATIONS (AGT)"	{n}	0,auto;
 [anuncio]	{n}	"announcement(icl>statement>thing)"	"A PUBLIC STATEMENT ABOUT SOMETHING THAT IS HAPPENING OR GOING TO HAPPEN"	"THE ANNOUNCEMENT APPEARED IN THE LOCAL NEWSPAPER"	{n}	0,auto;
 [anuncio]	{n}	"annunciation(icl>statement>thing,equ>announcement)"	"A FORMAL PUBLIC STATEMENT"	"THE GOVERNMENT MADE AN ANNOUNCEMENT ABOUT CHANGES IN THE DRUG WAR"	{n}	0,auto;
 [anuncio]	{n}	"bill(icl>sign>thing,equ>poster)"	"A SIGN POSTED IN A PUBLIC PLACE AS AN ADVERTISEMENT"	"A POSTER ADVERTISED THE COMING ATTRACTIONS"	{n}	0,auto;
@@ -2338,12 +2338,12 @@
 [apostar]	{v}	"station(icl>move>do,agt>volitional_thing,obj>concrete_thing,plc>thing)"	"ASSIGN TO A STATION"	""	{v}	0,auto;
 [apostasía]	{n}	"apostasy(icl>rejection>thing)"	"THE STATE OF HAVING REJECTED YOUR RELIGIOUS BELIEFS OR YOUR POLITICAL PARTY OR A CAUSE (OFTEN IN FAVOR OF OPPOSING BELIEFS OR CAUSES)"	""	{n}	0,auto;
 [apóstol]	{n}	"apostle(icl>christian>thing)"	"(NEW TESTAMENT) ONE OF THE ORIGINAL 12 DISCIPLES CHOSEN BY CHRIST TO PREACH HIS GOSPEL"	""	{n}	0,auto;
-[apoyarse]	{v}	"lean(icl>slope>do,plt>thing,agt>thing,obj>thing)"	"CAUSE TO LEAN OR INCLINE"	"HE (AGT) LEANED HIS RIFLE (OBJ) AGAINST THE WALL (PLT)"	{v}	0,auto;
+[apoyarse]	{v}	"lean(icl>put>do,agt>person,obj>concrete_thing,cob>concrete_thing)"	"CAUSE TO LEAN OR INCLINE"	"HE (AGT) LEANED HIS RIFLE (OBJ) AGAINST THE WALL (PLT)"	{v}	0,auto;
 [apoyarse]	{v}	"lie(icl>be>be,obj>thing,aoj>thing)"	"HAVE A PLACE IN RELATION TO SOMETHING ELSE"	"THE FATE OF BOSNIA LIES IN THE HANDS OF THE WEST"	{v}	0,auto;
 [apoyar]	{v}	"back(icl>approve>do,agt>volitional_thing,obj>thing)"	"BE BEHIND; APPROVE OF"	"I (AGT) BACKED KENNEDY (OBJ) IN 1960"	{v}	0,auto;
 [apoyar]	{v}	"back_up(icl>do,equ>support,agt>thing,obj>thing)"	"GIVE MORAL OR PSYCHOLOGICAL SUPPORT, AID, OR COURAGE TO"	"SHE SUPPORTED HIM DURING THE ILLNESS"	{v}	0,auto;
 [apoyar]	{v}	"endorse(icl>approve>be,obj>thing,aoj>person)"	"GIVE SUPPORT OR ONE'S APPROVAL TO"	"THE PRIME MINISTER IS UNLIKELY TO ENDORSE THIS VIEW"	{v}	0,auto;
-[apoyar]	{v}	"lean(icl>slope>do,plt>thing,agt>thing,obj>thing)"	"CAUSE TO LEAN OR INCLINE"	"HE (AGT) LEANED HIS RIFLE (OBJ) AGAINST THE WALL (PLT)"	{v}	0,auto;
+[apoyar]	{v}	"lean(icl>put>do,agt>person,obj>concrete_thing,cob>concrete_thing)"	"CAUSE TO LEAN OR INCLINE"	"HE (AGT) LEANED HIS RIFLE (OBJ) AGAINST THE WALL (PLT)"	{v}	0,auto;
 [apoyar]	{v}	"prop(icl>support>do,agt>thing,obj>thing,ins>thing)"	"SUPPORT BY PLACING AGAINST SOMETHING SOLID OR RIGID"	"CAN WE (AGT) PROP THE WINDOW (OBJ) OPEN WITH SOMETHING (INS)? / HE SAT WITH HIS CHIN (OBJ) PROPPED IN HIS HAND"	{v}	0,auto;
 [apoyar]	{v}	"prop_up(icl>support>do,agt>thing,obj>thing,ins>thing)"	"SUPPORT BY PLACING AGAINST SOMETHING SOLID OR RIGID"	"PROP UP SMB.'S MORALE (OBJ) / PROP UP A ROOF (OBJ) WITH TIMBERS (INS)"	{v}	0,auto;
 [apoyar]	{v}	"shore(icl>hold>do,equ>prop_up,agt>thing,obj>thing,ins>thing)"	"SUPPORT BY PLACING AGAINST SOMETHING SOLID OR RIGID"	"SHORE AND BUTTRESS AN OLD BUILDING"	{v}	0,auto;
@@ -19858,7 +19858,7 @@
 [reciclar]	{v}	"reclaim(icl>recycle>do,agt>thing,obj>thing)"	"REUSE (MATERIALS FROM WASTE PRODUCTS)"	""	{v}	0,auto;
 [reciclar]	{v}	"recover(icl>recycle>do,src>uw,obj>thing)"	"TECHNICAL TERM: TO OBTAIN FROM WASTE"	"TO RECOVER METAL (OBJ) FROM METAL-BEARING WASTE (SRC)"	{v}	0,auto;
 [recidiva]	{n}	"lapse(icl>failure>thing,equ>backsliding)"	"A FAILURE TO MAINTAIN A HIGHER STATE"	""	{n}	0,auto;
-[reclinar]	{v}	"lean(icl>slope>do,plt>thing,agt>thing,obj>thing)"	"CAUSE TO LEAN OR INCLINE"	"HE (AGT) LEANED HIS RIFLE (OBJ) AGAINST THE WALL (PLT)"	{v}	0,auto;
+[reclinar]	{v}	"lean(icl>put>do,agt>person,obj>concrete_thing,cob>concrete_thing)"	"CAUSE TO LEAN OR INCLINE"	"HE (AGT) LEANED HIS RIFLE (OBJ) AGAINST THE WALL (PLT)"	{v}	0,auto;
 [recluido]	{a}	"recluse(icl>adj)"	"WITHDRAWN FROM SOCIETY"	"SEEKING SOLITUDE"	{a}	0,auto;
 [recluido]	{a}	"withdrawn(icl>adj,equ>recluse)"	"WITHDRAWN FROM SOCIETY"	"SEEKING SOLITUDE"	{a}	0,auto;
 [recluirse]	{v}	"seclude(icl>isolate>do,plf>thing,agt>thing,obj>concrete_thing)"	"KEEP AWAY FROM OTHERS"	"HE SEQUESTERED HIMSELF IN HIS STUDY TO WRITE A BOOK"	{v}	0,auto;
