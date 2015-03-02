@@ -1,4 +1,7 @@
 This folder contains an XDXF rendering of the data.
+Warning: These files are not up-to-date. Please, check the csv files for the latest snapshot of the core part of the UNLDC data.
+Large binary files should not be stored at github and it is not possible to update them frequently due to technical limitations.
+
 
 XDXF is a simple XML dictionary data interchange format supported by several GUI dictionary shells available for Linux, Windows, Android, etc.
 It can be used to lookup and browse the dictionary locally in a convenient way.
