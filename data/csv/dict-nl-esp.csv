@@ -844,7 +844,7 @@
 [adversidad]	{n}	"reverse(icl>happening>thing)"	"AN UNFORTUNATE HAPPENING THAT HINDERS OR IMPEDES"	"SOMETHING THAT IS THWARTING OR FRUSTRATING"	{n}	0,auto;
 [adversidad]	{n}	"scourge(icl>affliction>thing,equ>bane)"	"SOMETHING CAUSES MISERY OR DEATH"	"THE BANE OF MY LIFE"	{n}	0,auto;
 [adverso]	{a}	"antipathetic(icl>adj)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"ANTIPATHETIC TO NEW IDEAS"	{a}	0,auto;
-[adverso]	{a}	"averse(icl>adj,equ>antipathetic)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
+[adverso]	{a}	"averse(icl>adj,equ>antipathetic,obj>uw)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
 [advertencia]	{n}	"warning(icl>informing>thing)"	"A MESSAGE INFORMING OF DANGER"	""	{n}	0,auto;
 [advertir]	{v}	"advise(icl>inform>do,cob>thing,agt>person,obj>uw,ben>person)"	"INFORM (SOMEBODY) OF SOMETHING"	"ADVISED HIM (BEN) THAT (OBJ) THE RENT WAS DUE"	{v}	0,auto;
 [advertir]	{v}	"apprise(icl>inform>do,equ>advise,agt>thing,obj>thing)"	"INFORM (SOMEBODY) OF SOMETHING"	"I ADVISED HIM THAT THE RENT WAS DUE"	{v}	0,auto;
@@ -1969,7 +1969,7 @@
 [ansiolítico]	{n}	"depressant(icl>medicine>thing,equ>sedative)"	"A DRUG THAT REDUCES EXCITABILITY AND CALMS A PERSON"	""	{n}	0,auto;
 [ansiolítico]	{n}	"sedative(icl>medicine>thing)"	"A DRUG THAT REDUCES EXCITABILITY AND CALMS A PERSON"	""	{n}	0,auto;
 [ansioso]	{a}	"anxious(icl>adj)"	"CAUSING OR FRAUGHT WITH OR SHOWING ANXIETY"	"SPENT AN ANXIOUS NIGHT WAITING FOR THE TEST RESULTS"	{a}	0,auto;
-[ansioso]	{a}	"eager(icl>adj,ant>uneager)"	"HAVING OR SHOWING KEEN INTEREST OR INTENSE DESIRE OR IMPATIENT EXPECTANCY"	"EAGER TO LEARN"	{a}	0,auto;
+[ansioso]	{a}	"eager(icl>adj,ant>uneager,obj>uw)"	"HAVING OR SHOWING KEEN INTEREST OR INTENSE DESIRE OR IMPATIENT EXPECTANCY"	"EAGER TO LEARN"	{a}	0,auto;
 [ansioso]	{a}	"esurient(icl>adj,equ>avid)"	"(OFTEN FOLLOWED BY `FOR') ARDENTLY OR EXCESSIVELY DESIROUS"	"THE ESURIENT EYES OF AN AVID CURIOSITY"	{a}	0,auto;
 [ansioso]	{a}	"unquiet(icl>adj,equ>anxious)"	"CAUSING OR FRAUGHT WITH OR SHOWING ANXIETY"	"AN UNQUIET MIND"	{a}	0,auto;
 [antagónico]	{a}	"antagonistic(icl>adj,ant>synergistic)"	"USED ESPECIALLY OF DRUGS OR MUSCLES THAT COUNTERACT OR NEUTRALIZE EACH OTHER'S EFFECT"	""	{a}	0,auto;
@@ -2030,7 +2030,7 @@
 [antiguo]	{a}	"superannuated(icl>adj,equ>obsolete)"	"OLD"	"SUPERANNUATED LAWS"	{a}	0,auto;
 [antipatía]	{n}	"dislike(icl>feeling>thing,ant>liking)"	"A FEELING OF AVERSION OR ANTIPATHY"	"MY DISLIKE OF HIM WAS INSTINCTIVE"	{n}	0,auto;
 [antipático]	{a}	"antipathetic(icl>adj)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"ANTIPATHETIC TO NEW IDEAS"	{a}	0,auto;
-[antipático]	{a}	"averse(icl>adj,equ>antipathetic)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
+[antipático]	{a}	"averse(icl>adj,equ>antipathetic,obj>uw)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
 [antitético]	{a}	"antipathetic(icl>adj,equ>antagonistic)"	"CHARACTERIZED BY ANTAGONISM OR ANTIPATHY"	"ANTIPATHETIC FACTIONS WITHIN THE PARTY"	{a}	0,auto;
 [antojo]	{n}	"impulse(icl>desire>thing,equ>caprice)"	"A SUDDEN DESIRE"	"HE BOUGHT IT ON AN IMPULSE"	{n}	0,auto;
 [antojo]	{n}	"whim(icl>desire>thing,equ>caprice)"	"A SUDDEN DESIRE"	"HE BOUGHT IT ON AN IMPULSE"	{n}	0,auto;
@@ -7222,7 +7222,7 @@
 [contradicción]	{n}	"contradiction(icl>opposition>thing)"	"OPPOSITION BETWEEN TWO CONFLICTING FORCES OR IDEAS"	""	{n}	0,auto;
 [contradictorio]	{a}	"antipathetic(icl>adj,equ>antagonistic)"	"CHARACTERIZED BY ANTAGONISM OR ANTIPATHY"	"ANTIPATHETIC FACTIONS WITHIN THE PARTY"	{a}	0,auto;
 [contradictorio]	{a}	"antipathetic(icl>adj)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"ANTIPATHETIC TO NEW IDEAS"	{a}	0,auto;
-[contradictorio]	{a}	"averse(icl>adj,equ>antipathetic)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
+[contradictorio]	{a}	"averse(icl>adj,equ>antipathetic,obj>uw)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
 [contraerse]	{v}	"flinch(icl>move>do,rsn>thing,agt>living_thing)"	"DRAW BACK, AS WITH FEAR OR PAIN"	"SHE FLINCHED WHEN THEY SHOWED THE SLAUGHTERING OF THE CALF"	{v}	0,auto;
 [contraerse]	{v}	"funk(icl>move>do,equ>flinch,rsn>thing,agt>living_thing)"	"DRAW BACK, AS WITH FEAR OR PAIN"	"SHE FLINCHED WHEN THEY SHOWED THE SLAUGHTERING OF THE CALF"	{v}	0,auto;
 [contraerse]	{v}	"quail(icl>move>do,equ>flinch,rsn>thing,agt>living_thing)"	"DRAW BACK, AS WITH FEAR OR PAIN"	"SHE FLINCHED WHEN THEY SHOWED THE SLAUGHTERING OF THE CALF"	{v}	0,auto;
@@ -7252,7 +7252,7 @@
 [contrariedad]	{n}	"trouble(icl>happening>thing)"	"AN EVENT CAUSING DISTRESS OR PAIN"	"HEART TROUBLE"	{n}	0,auto;
 [contrario]	{a}	"antipathetic(icl>adj,equ>antagonistic)"	"CHARACTERIZED BY ANTAGONISM OR ANTIPATHY"	"ANTIPATHETIC FACTIONS WITHIN THE PARTY"	{a}	0,auto;
 [contrario]	{a}	"antipathetic(icl>adj)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"ANTIPATHETIC TO NEW IDEAS"	{a}	0,auto;
-[contrario]	{a}	"averse(icl>adj,equ>antipathetic)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
+[contrario]	{a}	"averse(icl>adj,equ>antipathetic,obj>uw)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
 [contrario]	{n}	"opponent(icl>contestant>thing,equ>opposition)"	"A CONTESTANT THAT YOU ARE MATCHED AGAINST"	""	{n}	0,auto;
 [contrario]	{n}	"opposite(icl>contestant>thing,equ>opposition)"	"A CONTESTANT THAT YOU ARE MATCHED AGAINST"	""	{n}	0,auto;
 [contrario]	{n}	"opposite(icl>opposition>thing,equ>inverse)"	"SOMETHING INVERTED IN SEQUENCE OR CHARACTER OR EFFECT"	"WHEN THE DIRECT APPROACH FAILED HE TRIED THE INVERSE"	{n}	0,auto;
@@ -17891,7 +17891,7 @@
 [oprimir]	{v}	"suppress(icl>do,equ>oppress,agt>thing,obj>thing)"	"COME DOWN ON OR KEEP DOWN BY UNJUST USE OF ONE'S AUTHORITY"	"THE GOVERNMENT OPPRESSES POLITICAL ACTIVISTS"	{v}	0,auto;
 [optimista]	{a}	"optimistic(icl>adj,equ>affirmative)"	"EXPECTING THE BEST"	"AN AFFIRMATIVE OUTLOOK"	{a}	0,auto;
 [opuesto]	{a}	"antipathetic(icl>adj)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"ANTIPATHETIC TO NEW IDEAS"	{a}	0,auto;
-[opuesto]	{a}	"averse(icl>adj,equ>antipathetic)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
+[opuesto]	{a}	"averse(icl>adj,equ>antipathetic,obj>uw)"	"(USUALLY FOLLOWED BY `TO') STRONGLY OPPOSED"	"AVERSE TO TAKING RISKS"	{a}	0,auto;
 [opulencia]	{n}	"opulence(icl>wealth>thing,equ>luxury)"	"WEALTH AS EVIDENCED BY SUMPTUOUS LIVING"	""	{n}	0,auto;
 [opulencia]	{n}	"sumptuousness(icl>expensiveness>thing,equ>lavishness)"	"THE QUALITY POSSESSED BY SOMETHING THAT IS EXCESSIVELY EXPENSIVE"	""	{n}	0,auto;
 [opulencia]	{n}	"sumptuousness(icl>wealth>thing,equ>luxury)"	"WEALTH AS EVIDENCED BY SUMPTUOUS LIVING"	""	{n}	0,auto;
