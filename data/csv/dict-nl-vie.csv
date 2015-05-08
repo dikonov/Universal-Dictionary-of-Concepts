@@ -2244,7 +2244,7 @@
 [đất]	{n}	"earth(icl>material>thing)"	"THE LOOSE SOFT MATERIAL THAT MAKES UP A LARGE PART OF THE LAND SURFACE"	"THEY DUG INTO THE EARTH OUTSIDE THE CHURCH"	{n}	2,auto-polysemic-3lang;
 [đất]	{n}	"ground(icl>connection>thing)"	"A CONNECTION BETWEEN AN ELECTRICAL DEVICE AND A LARGE CONDUCTING BODY, SUCH AS THE EARTH (WHICH IS TAKEN TO BE AT ZERO VOLTAGE)"	""	{n}	2,auto-polysemic-3lang;
 [đất]	{n}	"ground(icl>material>thing,equ>earth)"	"THE LOOSE SOFT MATERIAL THAT MAKES UP A LARGE PART OF THE LAND SURFACE"	"THEY DUG INTO THE GROUND OUTSIDE THE CHURCH"	{n}	2,auto-polysemic-3lang;
-[đất]	{n}	"ground(icl>object>thing,equ>land)"	"AN AREA OF LAND"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	2,auto-polysemic-3lang;
+[đất]	{n}	"ground(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	2,auto-polysemic-3lang;
 [đất]	{n}	"land(icl>area,ant>air,ant>sea)"	"THE SOLID PART OF THE EARTH'S SURFACE"	"THE PLANE WAS BACK OVER LAND NOW"	{n}	2,auto-polysemic-3lang;
 [đất]	{n}	"soil(icl>earth>thing)"	"THE PART OF THE EARTH'S SURFACE CONSISTING OF HUMUS AND DISINTEGRATED ROCK"	""	{n}	2,auto-polysemic-3lang;
 [đất]	{n}	"soil(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"GOOD AGRICULTURAL SOIL"	{n}	2,auto-polysemic-3lang;
@@ -3347,7 +3347,7 @@
 [giống ruột]	{a}	"intestinal(icl>adj,com>intestine)"	"OF OR RELATING TO OR INSIDE THE INTESTINES"	"INTESTINAL DISEASE"	{a}	2,auto-monosemic-2lang;
 [giống trung]	{n}	"neuter(icl>gender>thing)"	"A GENDER THAT REFERS CHIEFLY (BUT NOT EXCLUSIVELY) TO INANIMATE OBJECTS (NEITHER MASCULINE NOR FEMININE)"	""	{n}	2,auto-monosemic-2lang;
 [gió nhẹ]	{n}	"breeze(icl>wind>thing)"	"A SLIGHT WIND (USUALLY REFRESHING)"	"THE BREEZE WAS COOLED BY THE LAKE"	{n}	2,auto-polysemic-3lang;
-[giờ]	{n}	"hour(icl>distance>thing)"	"DISTANCE MEASURED BY THE TIME TAKEN TO COVER IT"	"WE LIVE AN HOUR FROM THE AIRPORT"	{n}	2,auto-polysemic-3lang;
+[giờ]	{n}	"hour(icl>distance>abstract_thing,plt>place,plf>place)"	"DISTANCE MEASURED BY THE TIME TAKEN TO COVER IT"	"WE LIVE AN HOUR FROM THE AIRPORT"	{n}	2,auto-polysemic-3lang;
 [giờ]	{n}	"hour(icl>time_period>thing)"	"A SPECIAL AND MEMORABLE PERIOD"	"IT WAS THEIR FINEST HOUR"	{n}	2,auto-polysemic-3lang;
 [giờ]	{n}	"time(icl>reading>abstract_thing,equ>clock_time)"	"THE TIME AS GIVEN BY A CLOCK"	"DO YOU KNOW WHAT TIME IT IS?"	{n}	2,auto-polysemic-3lang;
 [gió]	{n}	"wind(icl>weather>thing)"	"AIR MOVING (SOMETIMES WITH CONSIDERABLE FORCE) FROM AN AREA OF HIGH PRESSURE TO AN AREA OF LOW PRESSURE"	"TREES BENT UNDER THE FIERCE WINDS"	{n}	2,auto-polysemic-3lang;
@@ -4062,7 +4062,7 @@
 [kết quả]	{n}	"event(icl>phenomenon>thing,equ>consequence)"	"A PHENOMENON THAT FOLLOWS AND IS CAUSED BY SOME PREVIOUS PHENOMENON"	"HE ACTED VERY WISE AFTER THE EVENT"	{n}	2,auto-polysemic-3lang;
 [kẻ trộm]	{n}	"stealer(icl>criminal>thing,equ>thief)"	"A CRIMINAL WHO TAKES PROPERTY BELONGING TO SOMEONE ELSE WITH THE INTENTION OF KEEPING IT OR SELLING IT"	""	{n}	2,auto-polysemic-3lang;
 [kết thúc]	{v}	"close(icl>end>occur,obj>thing,met>thing)"	"BE FINISHED"	"THE CONCERT (OBJ) CLOSED WITH A NOCTURNE BY CHOPIN"	{v}	2,auto-polysemic-3lang;
-[kết thúc]	{v}	"conclude(icl>end>do,obj>thing,man>uw)"	"BRING TO AN END"	"DELEGATES CONCLUDED THE MEETING WITH APPLAUSE"	{v}	2,auto-polysemic-3lang;
+[kết thúc]	{v}	"conclude(icl>end>do,obj>thing,man>uw)"	"BRING TO A CLOSE"	"DELEGATES CONCLUDED THE MEETING WITH APPLAUSE"	{v}	2,auto-polysemic-3lang;
 [kết thúc]	{v}	"conclude(icl>end>occur,obj>thing)"	"COME TO A CLOSE"	"THE CONCERT CLOSED WITH A NOCTURNE BY CHOPIN"	{v}	2,auto-polysemic-3lang;
 [kết thúc]	{v}	"end(icl>be,equ>finish,obj>thing,aoj>thing,met>thing)"	"BE THE END OF"	"THIS SCENE (AOJ) ENDS THE MOVIE (OBJ)"	{v}	2,auto-polysemic-3lang;
 [kết thúc]	{v}	"finish(icl>act>do,equ>land_up,agt>person,gol>thing)"	"FINALLY BE OR DO SOMETHING"	"HE ENDED UP MARRYING HIS HIGH SCHOOL SWEETHEART"	{v}	2,auto-polysemic-3lang;
@@ -6197,7 +6197,7 @@
 [nhận]	{v}	"accept(icl>evaluate>be,equ>consider_true,src>thing,obj>information,aoj>person)"	"CONSIDER OR HOLD AS TRUE"	"I CANNOT ACCEPT THIS POINT OF VIEW"	{v}	2,auto-polysemic-3lang;
 [nhận]	{v}	"accept(icl>get>do,equ>take,agt>volitional_thing,obj>thing,cag>thing)"	"TAKE SOMETHING GIVEN OR OFFERED"	"PLEASE ACCEPT MY PRESENT"	{v}	2,auto-polysemic-3lang;
 [nhận]	{v}	"accept(icl>react>do,agt>volitional_thing,obj>uw)"	"REACT FAVORABLY TO"	"PEOPLE (AGT) DID NOT ACCEPT ATONAL MUSIC (OBJ) AT THAT TIME"	{v}	2,auto-polysemic-3lang;
-[nhận]	{v}	"accept(icl>take>do,plt>thing,obj>human)"	"ADMIT INTO A GROUP"	"THE UNIVERSITY ACCEPTS STUDENTS FOR GRADUATE STUDY"	{v}	2,auto-polysemic-3lang;
+[nhận]	{v}	"accept(icl>take>do,plt>thing,obj>human)"	"ADMIT INTO A GROUP OR COMMUNITY"	"THE UNIVERSITY ACCEPTS STUDENTS FOR GRADUATE STUDY"	{v}	2,auto-polysemic-3lang;
 [nhận]	{v}	"admit(icl>let_in>do,agt>thing,obj>thing,scn>thing)"	"ALLOW PARTICIPATION IN"	"ADMIT SOMEONE TO THE PROFESSION"	{v}	2,auto-polysemic-3lang;
 [nhận]	{v}	"confess(icl>do,equ>own_up,agt>person,obj>uw,rec>thing)"	"TO DISCLOSE"	"SHE (AGT) CONFESSED JOHN (REC) THAT (OBJ) SHE HAD TAKEN THE MONEY"	{v}	2,auto-polysemic-3lang;
 [nhận]	{v}	"find(icl>be,equ>receive,obj>abstract_thing,aoj>uw)"	"RECEIVE A SPECIFIED TREATMENT (ABSTRACT)"	"THESE ASPECTS OF CIVILIZATION (AOJ) DO NOT FIND EXPRESSION (OBJ) OR RECEIVE AN INTERPRETATION"	{v}	2,auto-polysemic-3lang;
@@ -7123,7 +7123,7 @@
 [rừng sú vẹt]	{n}	"mangrove(icl>angiospermous_tree>thing)"	"A TROPICAL TREE OR SHRUB BEARING FRUIT THAT GERMINATES WHILE STILL ON THE TREE AND HAVING NUMEROUS PROP ROOTS THAT EVENTUALLY FORM AN IMPENETRABLE MASS AND ARE IMPORTANT IN LAND BUILDING"	""	{n}	2,auto-monosemic-2lang;
 [ru ngủ]	{v}	"lull(icl>calm>do,agt>volitional_thing,obj>volitional_thing,gol>thing)"	"CALM BY DECEPTION"	"DON'T LET YOURSELF BE LULLED INTO A FALSE STATE OF SECURITY"	{v}	2,auto-polysemic-3lang;
 [ruồng bỏ]	{v}	"abandon(icl>throw_out>do,obj>concrete_thing)"	"LEAVE BEHIND"	"WE ABANDONED THE OLD CAR IN THE EMPTY PARKING LOT"	{v}	2,auto-polysemic-3lang;
-[ruộng đất]	{n}	"ground(icl>object>thing,equ>land)"	"AN AREA OF LAND"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	2,auto-polysemic-3lang;
+[ruộng đất]	{n}	"ground(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	2,auto-polysemic-3lang;
 [ruộng nho]	{n}	"vineyard(icl>farm>thing)"	"A FARM OF GRAPEVINES WHERE WINE GRAPES ARE PRODUCED"	""	{n}	2,auto-polysemic-3lang;
 [ruột]	{a}	"intestinal(icl>adj,com>intestine)"	"OF OR RELATING TO OR INSIDE THE INTESTINES"	"INTESTINAL DISEASE"	{a}	2,auto-polysemic-3lang;
 [ruột]	{n}	"gut(icl>internal_organ>thing,equ>intestine)"	"THE PART OF THE ALIMENTARY CANAL BETWEEN THE STOMACH AND THE ANUS"	""	{n}	2,auto-polysemic-3lang;

@@ -392,8 +392,8 @@
 [aceptable]	{a}	"acceptable(icl>adj,equ>satisfactory)"	"MEETING REQUIREMENTS"	"THE STEP MAKES A SATISFACTORY SEAT"	{a}	0,auto;
 [aceptación]	{n}	"acceptation(icl>blessing>thing,equ>adoption)"	"THE ACT OF ACCEPTING WITH APPROVAL"	"FAVORABLE RECEPTION"	{n}	0,auto;
 [aceptar]	{v}	"accept(icl>get>do,equ>take,agt>volitional_thing,obj>thing,cag>thing)"	"TAKE SOMETHING GIVEN OR OFFERED"	"PLEASE ACCEPT MY PRESENT"	{v}	0,auto;
-[aceptar]	{v}	"accept(icl>take>do,plt>thing,obj>human)"	"ADMIT INTO A GROUP"	"THE UNIVERSITY ACCEPTS STUDENTS FOR GRADUATE STUDY"	{v}	0,auto;
-[aceptar]	{v}	"admit(icl>allow_in>do,plt>thing,agt>person,obj>person)"	"ALLOW TO ENTER"	"WE CANNOT ADMIT NON-MEMBERS INTO OUR CLUB"	{v}	0,auto;
+[aceptar]	{v}	"accept(icl>take>do,plt>thing,obj>human)"	"ADMIT INTO A GROUP OR COMMUNITY"	"THE UNIVERSITY ACCEPTS STUDENTS FOR GRADUATE STUDY"	{v}	0,auto;
+[aceptar]	{v}	"admit(icl>allow_in>do,plt>thing,agt>person,obj>person)"	"ADMIT INTO A GROUP OR COMMUNITY"	"WE CANNOT ADMIT NON-MEMBERS INTO OUR CLUB"	{v}	0,auto;
 [aceptar]	{v}	"assume(icl>bear>do,agt>person,obj>expenses)"	"TAKE ON THE EXPENSES OR DEBTS OF ANOTHER PERSON"	"I'LL ACCEPT THE CHARGES"	{v}	0,auto;
 [aceptar]	{v}	"take_on(icl>get>do,agt>thing,obj>thing)"	"ADMIT INTO A GROUP OR COMMUNITY"	"TO TAKE ON EXTRA WORKERS (OBJ) / EXTRA WORK (OBJ) / ETC."	{v}	0,auto;
 [aceptar]	{v}	"take_over(icl>get>do,plf>uw,agt>person,obj>thing)"	"TAKE ON TITLES, OFFICES, DUTIES, RESPONSIBILITIES"	"HE (AGT) HAS TAKEN OVER FROM HIS FATHER (PLF) THIS RARE GIFT (OBJ) / TO TAKE OVER THE LIABILITIES (OBJ) OF THE FIRM"	{v}	0,auto;
@@ -4100,7 +4100,6 @@
 [blasfemar]	{v}	"curse(icl>express>do,agt>person,obj>thing)"	"UTTER OBSCENITIES OR PROFANITIES"	"THE DRUNKEN MEN WERE CURSING LOUDLY IN THE STREET"	{v}	0,auto;
 [blasfemar]	{v}	"imprecate(icl>express>do,equ>curse,agt>thing)"	"UTTER OBSCENITIES OR PROFANITIES"	"THE DRUNKEN MEN WERE CURSING LOUDLY IN THE STREET"	{v}	0,auto;
 [blasfemar]	{v}	"swear(icl>curse>do,agt>person)"	"TO USE PROFANE OR OBSCENE LANGUAGE"	"HE (AGT) SWORE UNDER HIS BREATH"	{v}	0,auto;
-[blasfemar]	{v}	"swear(icl>use_bad_language>do,agt>person,rec>thing)"	"UTTER OBSCENITIES OR PROFANITIES"	"DON'T SWEAR IN FRONT OF THE CHILDREN"	{v}	0,auto;
 [bloquear]	{v}	"block(icl>interrupt>do,equ>jam,agt>thing,obj>thing)"	"INTERFERE WITH OR PREVENT THE RECEPTION OF SIGNALS"	"BLOCK THE SIGNALS EMITTED BY THIS STATION"	{v}	0,auto;
 [bloquear]	{v}	"immobilize(icl>withhold>do,equ>freeze,agt>volitional_thing,obj>thing)"	"PROHIBIT THE CONVERSION OR USE OF (ASSETS)"	"BLOCKED FUNDS"	{v}	0,auto;
 [bloque]	{n}	"block(icl>solid>thing)"	"A THREE-DIMENSIONAL SHAPE WITH SIX SQUARE OR RECTANGULAR SIDES"	""	{n}	0,auto;
@@ -5946,7 +5945,7 @@
 [clamar]	{v}	"hollo(icl>utter>do,equ>shout,agt>thing)"	"UTTER A SUDDEN LOUD CRY"	"SHE CRIED WITH PAIN WHEN THE DOCTOR INSERTED THE NEEDLE"	{v}	0,auto;
 [clamar]	{v}	"scream(icl>cry>do,agt>living_thing,obj>uw,rec>thing)"	"MAKE A LOUD HIGH NOISE WITH YOUR VOICE; SHOUT SOMETHING IN A VERY LOUD HIGH VOICE"	"SHE JUMPED TO HER FEET, SCREAMING IN TERROR"	{v}	0,auto;
 [clamar]	{v}	"squall(icl>utter>do,equ>shout,agt>living_thing,obj>thing)"	"UTTER A SUDDEN LOUD CRY"	"SHE CRIED WITH PAIN WHEN THE DOCTOR INSERTED THE NEEDLE"	{v}	0,auto;
-[clamar]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"HE (AGT) YELLED TO US (REC) THAT (OBJ) THE HOUSE WAS ON FIRE"	{v}	0,auto;
+[clamar]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"I (agt) yelled to her (rec) from the window but she couldn't hear me"	{v}	0,auto;
 [clamor]	{n}	"call(icl>utterance>thing,equ>cry)"	"A LOUD EMOTIONAL UTTERANCE"	"ANGRY CALLS FROM THE STREET"	{n}	0,auto;
 [clamor]	{n}	"cry(icl>utterance>thing)"	"A LOUD UTTERANCE OF EMOTION (ESPECIALLY WHEN INARTICULATE)"	"A CRY OF RAGE"	{n}	0,auto;
 [clamor]	{n}	"outcry(icl>utterance>thing,equ>cry)"	"A LOUD UTTERANCE"	"OFTEN IN PROTEST OR OPPOSITION"	{n}	0,auto;
@@ -11695,7 +11694,7 @@
 [esparcir]	{v}	"dust(icl>discharge>do,equ>scatter,agt>thing,obj>thing)"	"DISTRIBUTE LOOSELY"	"HE SCATTERED GUN POWDER UNDER THE WAGON"	{v}	0,auto;
 [esparcir]	{v}	"scatter(icl>discharge>do,agt>thing,obj>thing,ins>thing)"	"DISTRIBUTE LOOSELY"	"HE SCATTERED GUN POWDER UNDER THE WAGON"	{v}	0,auto;
 [esparcir]	{v}	"scatter(icl>distribute>do,agt>thing,obj>thing)"	"STREW OR DISTRIBUTE OVER AN AREA"	"SCATTER CARDS (OBJ) ACROSS THE TABLE (PLC)"	{v}	0,auto;
-[esparcir]	{v}	"spread(icl>cover>occur,equ>overspread,cob>concrete_thing,obj>concrete_thing)"	"COVER THE SURFACE OF"	"AN OIL SPOT SPREAD ACROSS THE WATER"	{v}	0,auto;
+[esparcir]	{v}	"spread(icl>cover>occur,equ>overspread,cob>concrete_thing,obj>concrete_thing)"	"Expand over a larger area"	"AN OIL SPOT SPREAD ACROSS THE WATER"	{v}	0,auto;
 [esparcir]	{v}	"spread_out(icl>circulate>do,equ>spread,agt>thing,obj>thing)"	"STREW OR DISTRIBUTE OVER AN AREA"	"HE SPREAD FERTILIZER OVER THE LAWN"	{v}	0,auto;
 [esparcir]	{v}	"sprinkle(icl>discharge>do,equ>scatter,agt>thing,obj>concrete_thing)"	"DISTRIBUTE LOOSELY"	"HE SCATTERED GUN POWDER UNDER THE WAGON"	{v}	0,auto;
 [espartano]	{a}	"spartan(icl>adj,equ>severe)"	"UNSPARING AND UNCOMPROMISING IN DISCIPLINE OR JUDGMENT"	"A SPARTAN UPBRINGING"	{a}	0,auto;
@@ -12456,7 +12455,7 @@
 [extenderse]	{v}	"prolong(icl>lengthen>do,agt>thing,obj>thing,dur>thing)"	"LENGTHEN IN TIME"	"CAUSE TO BE OR LAST LONGER"	{v}	0,auto;
 [extenderse]	{v}	"protract(icl>lengthen>do,equ>prolong,agt>thing,obj>thing)"	"LENGTHEN IN TIME"	"CAUSE TO BE OR LAST LONGER"	{v}	0,auto;
 [extender]	{v}	"scatter(icl>distribute>do,agt>thing,obj>thing)"	"STREW OR DISTRIBUTE OVER AN AREA"	"SCATTER CARDS (OBJ) ACROSS THE TABLE (PLC)"	{v}	0,auto;
-[extender]	{v}	"spread(icl>cover>occur,equ>overspread,cob>concrete_thing,obj>concrete_thing)"	"COVER THE SURFACE OF"	"AN OIL SPOT SPREAD ACROSS THE WATER"	{v}	0,auto;
+[extender]	{v}	"spread(icl>cover>occur,equ>overspread,cob>concrete_thing,obj>concrete_thing)"	"Expand over a larger area"	"AN OIL SPOT SPREAD ACROSS THE WATER"	{v}	0,auto;
 [extender]	{v}	"spread_out(icl>circulate>do,equ>spread,agt>thing,obj>thing)"	"STREW OR DISTRIBUTE OVER AN AREA"	"HE SPREAD FERTILIZER OVER THE LAWN"	{v}	0,auto;
 [extendido]	{a}	"extended(icl>adj,equ>elongated)"	"DRAWN OUT OR MADE LONGER SPATIALLY"	"THE EXTENDED AIRPORT RUNWAYS CAN ACCOMMODATE LARGER PLANES"	{a}	0,auto;
 [extendido]	{a}	"prolonged(icl>adj,equ>elongated)"	"DRAWN OUT OR MADE LONGER SPATIALLY"	"A PROLONGED BLACK LINE ACROSS THE PAGE"	{a}	0,auto;
@@ -13117,7 +13116,7 @@
 [formular]	{v}	"contrive(icl>create_by_mental_act>do,equ>invent,agt>thing,obj>thing)"	"COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT"	"EXCOGITATE A WAY TO MEASURE THE SPEED OF LIGHT"	{v}	0,auto;
 [formular]	{v}	"devise(icl>create_by_mental_act>do,equ>invent,agt>volitional_thing,obj>thing)"	"COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT"	"EXCOGITATE A WAY TO MEASURE THE SPEED OF LIGHT"	{v}	0,auto;
 [formular]	{v}	"excogitate(icl>create_by_mental_act>do,equ>invent,agt>thing,obj>thing)"	"COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT"	"EXCOGITATE A WAY TO MEASURE THE SPEED OF LIGHT"	{v}	0,auto;
-[formular]	{v}	"forge(icl>invent>do,agt>person,obj>thing)"	"MAKE OUT OF COMPONENTS (OFTEN IN AN IMPROVISING MANNER)"	"BACK IN THE 1980S, THEY WERE ATTEMPTING TO FORGE A NEW KIND OF ROCK MUSIC"	{v}	0,auto;
+[formular]	{v}	"forge(icl>invent>do,agt>person,obj>thing)"	"come up with (an idea, plan, explanation, theory, or principle) after a mental effort"	"BACK IN THE 1980S, THEY WERE ATTEMPTING TO FORGE A NEW KIND OF ROCK MUSIC"	{v}	0,auto;
 [formular]	{v}	"invent(icl>create>do,agt>thing,obj>thing)"	"TO PRODUCE OR CONTRIVE SOMETHING PREVIOUSLY UNKNOWN AFTER A MENTAL EFFORT"	"TO IVENT A NEW MACHINE (OBJ)"	{v}	0,auto;
 [formular]	{v}	"pose(icl>be,equ>present,obj>uw,aoj>thing)"	"INTRODUCE OR CAUSE"	"RISING UNEMPLOYMENT (AGT) IS POSING SERIOUS PROBLEMS (OBJ) FOR THE ADMINISTRATION."	{v}	0,auto;
 [formular]	{v}	"present(icl>cause>be,obj>thing,aoj>thing)"	"CONSTITUTE OR INTRODUCE"	"THE FEW POINTS (AOJ) WHICH PRESENT ANY DIFFICULTY (OBJ)"	{v}	0,auto;
@@ -13862,7 +13861,7 @@
 [gritar]	{v}	"shout(icl>utter>do,agt>person,obj>uw,rec>thing)"	"UTTER IN A LOUD VOICE"	"MY GRANDMOTHER IS HARD OF HEARING - YOU'LL HAVE TO SHOUT"	{v}	0,auto;
 [gritar]	{v}	"squall(icl>utter>do,equ>shout,agt>living_thing,obj>thing)"	"UTTER A SUDDEN LOUD CRY"	"SHE CRIED WITH PAIN WHEN THE DOCTOR INSERTED THE NEEDLE"	{v}	0,auto;
 [gritar]	{v}	"squawk(icl>complain>do,equ>gripe,agt>thing)"	"COMPLAIN"	"WHAT WAS HE HOLLERING ABOUT?"	{v}	0,auto;
-[gritar]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"HE (AGT) YELLED TO US (REC) THAT (OBJ) THE HOUSE WAS ON FIRE"	{v}	0,auto;
+[gritar]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"I (agt) yelled to her (rec) from the window but she couldn't hear me"	{v}	0,auto;
 [griterío]	{n}	"hullabaloo(icl>disturbance>thing,equ>agitation)"	"DISTURBANCE USUALLY IN PROTEST"	""	{n}	0,auto;
 [griterío]	{n}	"upheaval(icl>disturbance>thing,equ>agitation)"	"DISTURBANCE USUALLY IN PROTEST"	""	{n}	0,auto;
 [grito]	{n}	"call(icl>utterance>thing,equ>cry)"	"A LOUD EMOTIONAL UTTERANCE"	"ANGRY CALLS FROM THE STREET"	{n}	0,auto;
@@ -14277,7 +14276,7 @@
 [honrar]	{v}	"honour(icl>accept>do,equ>honor,agt>thing,obj>thing)"	"ACCEPT AS PAY"	"WE HONOR CHECKS AND DRAFTS"	{v}	0,auto;
 [honrar]	{v}	"honour(icl>reward>do,cob>thing,rsn>uw,agt>person,obj>person)"	"BESTOW HONOR OR REWARDS UPON"	"HE (OBJ) WAS HONORED WITH AN AWARD (COB) FOR EXCELLENCE (RSN) IN TEACHING"	{v}	0,auto;
 [honrar]	{v}	"reward(icl>recognize>do,equ>honor,agt>thing,obj>thing)"	"BESTOW HONOR OR REWARDS UPON"	"TODAY WE HONOR OUR SOLDIERS"	{v}	0,auto;
-[hora]	{n}	"hour(icl>distance>thing)"	"DISTANCE MEASURED BY THE TIME TAKEN TO COVER IT"	"WE LIVE AN HOUR FROM THE AIRPORT"	{n}	0,auto;
+[hora]	{n}	"hour(icl>distance>abstract_thing,plt>place,plf>place)"	"DISTANCE MEASURED BY THE TIME TAKEN TO COVER IT"	"WE LIVE AN HOUR FROM THE AIRPORT"	{n}	0,auto;
 [hora]	{n}	"minute(icl>distance>thing,equ>hour)"	"DISTANCE MEASURED BY THE TIME TAKEN TO COVER IT"	"WE LIVE AN HOUR FROM THE AIRPORT"	{n}	0,auto;
 [horca]	{n}	"pitchfork(icl>hand_tool>thing)"	"A LONG-HANDLED HAND TOOL WITH SHARP WIDELY SPACED PRONGS FOR LIFTING AND PITCHING HAY"	""	{n}	0,auto;
 [horda]	{n}	"horde(icl>crowd>thing,equ>drove)"	"A MOVING CROWD"	""	{n}	0,auto;
@@ -14473,7 +14472,7 @@
 [idear]	{v}	"contrive(icl>create_by_mental_act>do,equ>invent,agt>thing,obj>thing)"	"COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT"	"EXCOGITATE A WAY TO MEASURE THE SPEED OF LIGHT"	{v}	0,auto;
 [idear]	{v}	"devise(icl>create_by_mental_act>do,equ>invent,agt>volitional_thing,obj>thing)"	"COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT"	"EXCOGITATE A WAY TO MEASURE THE SPEED OF LIGHT"	{v}	0,auto;
 [idear]	{v}	"excogitate(icl>create_by_mental_act>do,equ>invent,agt>thing,obj>thing)"	"COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT"	"EXCOGITATE A WAY TO MEASURE THE SPEED OF LIGHT"	{v}	0,auto;
-[idear]	{v}	"forge(icl>invent>do,agt>person,obj>thing)"	"MAKE OUT OF COMPONENTS (OFTEN IN AN IMPROVISING MANNER)"	"BACK IN THE 1980S, THEY WERE ATTEMPTING TO FORGE A NEW KIND OF ROCK MUSIC"	{v}	0,auto;
+[idear]	{v}	"forge(icl>invent>do,agt>person,obj>thing)"	"come up with (an idea, plan, explanation, theory, or principle) after a mental effort"	"BACK IN THE 1980S, THEY WERE ATTEMPTING TO FORGE A NEW KIND OF ROCK MUSIC"	{v}	0,auto;
 [idear]	{v}	"invent(icl>create>do,agt>thing,obj>thing)"	"TO PRODUCE OR CONTRIVE SOMETHING PREVIOUSLY UNKNOWN AFTER A MENTAL EFFORT"	"TO IVENT A NEW MACHINE (OBJ)"	{v}	0,auto;
 [idéntico]	{a}	"siamese(icl>adj,equ>thai,com>siamese)"	"OF OR RELATING TO OR CHARACTERISTIC OF THAILAND OR ITS PEOPLE"	"SIAMESE KINGS"	{a}	0,auto;
 [idéntico]	{a}	"siamese(icl>adj,equ>thai,com>siam)"	"OF OR RELATING TO THAILAND"	"THE THAI BORDER WITH LAOS"	{a}	0,auto;
@@ -15270,7 +15269,7 @@
 [insignificante]	{a}	"insignificant(icl>adj)"	"NOT WORTHY OF NOTICE"	""	{a}	0,auto;
 [insignificante]	{a}	"little(icl>adj,equ>fiddling)"	"(INFORMAL) SMALL AND OF LITTLE IMPORTANCE"	"A LITTLE (OR SMALL) MATTER"	{a}	0,auto;
 [insignificante]	{a}	"measly(icl>adj)"	"CONTEMPTIBLY SMALL IN AMOUNT"	"A MEASLY TIP"	{a}	0,auto;
-[insignificante]	{a}	"narrow(icl>adj,ant>wide)"	"VERY LIMITED IN DEGREE"	"WON BY A NARROW MARGIN"	{a}	0,auto;
+[insignificante]	{a}	"narrow(icl>adj,ant>wide,com>degree)"	"VERY LIMITED IN DEGREE"	"WON BY A NARROW MARGIN"	{a}	0,auto;
 [insignificante]	{a}	"niggling(icl>adj,equ>fiddling)"	"(INFORMAL) SMALL AND OF LITTLE IMPORTANCE"	"A DISPUTE OVER NIGGLING DETAILS"	{a}	0,auto;
 [insignificante]	{a}	"picayune(icl>adj,equ>fiddling)"	"(INFORMAL) SMALL AND OF LITTLE IMPORTANCE"	"GIVING A POLICE OFFICER A FREE MEAL MAY BE AGAINST THE LAW, BUT IT SEEMS TO BE A PICAYUNE INFRACTION"	{a}	0,auto;
 [insignificante]	{a}	"piddling(icl>adj,equ>fiddling)"	"(INFORMAL) SMALL AND OF LITTLE IMPORTANCE"	"A FIDDLING SUM OF MONEY"	{a}	0,auto;
@@ -15577,7 +15576,7 @@
 [inventar]	{v}	"contrive(icl>create_by_mental_act>do,equ>invent,agt>thing,obj>thing)"	"COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT"	"EXCOGITATE A WAY TO MEASURE THE SPEED OF LIGHT"	{v}	0,auto;
 [inventar]	{v}	"devise(icl>create_by_mental_act>do,equ>invent,agt>volitional_thing,obj>thing)"	"COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT"	"EXCOGITATE A WAY TO MEASURE THE SPEED OF LIGHT"	{v}	0,auto;
 [inventar]	{v}	"excogitate(icl>create_by_mental_act>do,equ>invent,agt>thing,obj>thing)"	"COME UP WITH  (AN IDEA, PLAN, EXPLANATION, THEORY, OR PRINCIPLE) AFTER A MENTAL EFFORT"	"EXCOGITATE A WAY TO MEASURE THE SPEED OF LIGHT"	{v}	0,auto;
-[inventar]	{v}	"forge(icl>invent>do,agt>person,obj>thing)"	"MAKE OUT OF COMPONENTS (OFTEN IN AN IMPROVISING MANNER)"	"BACK IN THE 1980S, THEY WERE ATTEMPTING TO FORGE A NEW KIND OF ROCK MUSIC"	{v}	0,auto;
+[inventar]	{v}	"forge(icl>invent>do,agt>person,obj>thing)"	"come up with (an idea, plan, explanation, theory, or principle) after a mental effort"	"BACK IN THE 1980S, THEY WERE ATTEMPTING TO FORGE A NEW KIND OF ROCK MUSIC"	{v}	0,auto;
 [inventar]	{v}	"invent(icl>create>do,agt>thing,obj>thing)"	"TO PRODUCE OR CONTRIVE SOMETHING PREVIOUSLY UNKNOWN AFTER A MENTAL EFFORT"	"TO IVENT A NEW MACHINE (OBJ)"	{v}	0,auto;
 [inversión]	{n}	"reversal(icl>reordering>thing,equ>transposition)"	"THE ACT OF REVERSING THE ORDER OR PLACE OF"	""	{n}	0,auto;
 [inversión]	{n}	"transposition(icl>reordering>thing)"	"THE ACT OF REVERSING THE ORDER OR PLACE OF"	""	{n}	0,auto;
@@ -15797,7 +15796,6 @@
 [jurar]	{v}	"curse(icl>express>do,agt>person,obj>thing)"	"UTTER OBSCENITIES OR PROFANITIES"	"THE DRUNKEN MEN WERE CURSING LOUDLY IN THE STREET"	{v}	0,auto;
 [jurar]	{v}	"imprecate(icl>express>do,equ>curse,agt>thing)"	"UTTER OBSCENITIES OR PROFANITIES"	"THE DRUNKEN MEN WERE CURSING LOUDLY IN THE STREET"	{v}	0,auto;
 [jurar]	{v}	"swear(icl>curse>do,agt>person)"	"TO USE PROFANE OR OBSCENE LANGUAGE"	"HE (AGT) SWORE UNDER HIS BREATH"	{v}	0,auto;
-[jurar]	{v}	"swear(icl>use_bad_language>do,agt>person,rec>thing)"	"UTTER OBSCENITIES OR PROFANITIES"	"DON'T SWEAR IN FRONT OF THE CHILDREN"	{v}	0,auto;
 [justa]	{n}	"joust(icl>struggle>thing)"	"A COMBAT BETWEEN TWO MOUNTED KNIGHTS TILTING AGAINST EACH OTHER WITH BLUNTED LANCES"	""	{n}	0,auto;
 [justa]	{n}	"tilt(icl>struggle>thing,equ>joust)"	"A COMBAT BETWEEN TWO MOUNTED KNIGHTS TILTING AGAINST EACH OTHER WITH BLUNTED LANCES"	""	{n}	0,auto;
 [justificador]	{a}	"justificative(icl>adj,equ>defensive)"	"ATTEMPTING TO JUSTIFY OR DEFEND IN SPEECH OR WRITING"	""	{a}	0,auto;
@@ -16174,7 +16172,7 @@
 [llamar]	{v}	"scream(icl>cry>do,agt>living_thing,obj>uw,rec>thing)"	"MAKE A LOUD HIGH NOISE WITH YOUR VOICE; SHOUT SOMETHING IN A VERY LOUD HIGH VOICE"	"SHE JUMPED TO HER FEET, SCREAMING IN TERROR"	{v}	0,auto;
 [llamar]	{v}	"squall(icl>utter>do,equ>shout,agt>living_thing,obj>thing)"	"UTTER A SUDDEN LOUD CRY"	"SHE CRIED WITH PAIN WHEN THE DOCTOR INSERTED THE NEEDLE"	{v}	0,auto;
 [llamar]	{v}	"telephone(icl>phone>do,agt>person,pur>uw,rec>person)"	""	"I'LL TELEPHONE YOU LATER"	{v}	0,auto;
-[llamar]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"HE (AGT) YELLED TO US (REC) THAT (OBJ) THE HOUSE WAS ON FIRE"	{v}	0,auto;
+[llamar]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"I (agt) yelled to her (rec) from the window but she couldn't hear me"	{v}	0,auto;
 [llamativo]	{a}	"brassy(icl>adj)"	"TASTELESSLY SHOWY"	"A FLASH CAR"	{a}	0,auto;
 [llamativo]	{a}	"garish(icl>adj,equ>brassy)"	"TASTELESSLY SHOWY"	"GARISH COLORS"	{a}	0,auto;
 [llamativo]	{a}	"gaudy(icl>adj,equ>brassy)"	"TASTELESSLY SHOWY"	"A GAUDY COSTUME"	{a}	0,auto;
@@ -16700,9 +16698,9 @@
 [marco]	{n}	"scope(icl>extent>thing)"	"AN AREA IN WHICH SOMETHING ACTS OR OPERATES OR HAS POWER OR CONTROL: THE RANGE OF A SUPERSONIC JET"	"WITHIN THE SCOPE OF AN INVESTIGATION"	{n}	0,auto;
 [marco teórico]	{n}	"framework(icl>hypothesis>thing,equ>model)"	"A HYPOTHETICAL DESCRIPTION OF A COMPLEX ENTITY OR PROCESS"	"THE COMPUTER PROGRAM WAS BASED ON A MODEL OF THE CIRCULATORY AND RESPIRATORY SYSTEMS"	{n}	0,auto;
 [marco teórico]	{n}	"model(icl>hypothesis>thing)"	"A HYPOTHETICAL DESCRIPTION OF A COMPLEX ENTITY OR PROCESS"	"THE COMPUTER PROGRAM WAS BASED ON A MODEL OF THE CIRCULATORY AND RESPIRATORY SYSTEMS"	{n}	0,auto;
-[marear]	{v}	"jiggle(icl>shake>occur,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
-[marear]	{v}	"joggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
-[marear]	{v}	"wiggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[marear]	{v}	"jiggle(icl>shake>occur,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[marear]	{v}	"joggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[marear]	{v}	"wiggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
 [marfil]	{n}	"ivory(icl>white>thing,equ>bone)"	"A SHADE OF WHITE THE COLOR OF BLEACHED BONES"	""	{n}	0,auto;
 [marfil]	{n}	"pearl(icl>white>thing,equ>bone)"	"A SHADE OF WHITE THE COLOR OF BLEACHED BONES"	""	{n}	0,auto;
 [margen]	{n}	"border(icl>boundary>thing,equ>margin)"	"THE BOUNDARY LINE OR THE AREA IMMEDIATELY INSIDE THE BOUNDARY"	""	{n}	0,auto;
@@ -16902,16 +16900,16 @@
 [mendrugo]	{n}	"dunderhead(icl>simpleton>thing,equ>dunce)"	"THESE WORDS ARE USED TO EXPRESS A LOW OPINION OF SOMEONE'S INTELLIGENCE"	""	{n}	0,auto;
 [mendrugo]	{n}	"lunkhead(icl>simpleton>thing,equ>dunce)"	"THESE WORDS ARE USED TO EXPRESS A LOW OPINION OF SOMEONE'S INTELLIGENCE"	""	{n}	0,auto;
 [mendrugo]	{n}	"numskull(icl>simpleton>thing,equ>dunce)"	"THESE WORDS ARE USED TO EXPRESS A LOW OPINION OF SOMEONE'S INTELLIGENCE"	""	{n}	0,auto;
-[menearse]	{v}	"jiggle(icl>shake>occur,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
-[menearse]	{v}	"joggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
-[menearse]	{v}	"wiggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[menearse]	{v}	"jiggle(icl>shake>occur,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[menearse]	{v}	"joggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[menearse]	{v}	"wiggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
 [menear]	{v}	"didder(icl>move_involuntarily>occur,equ>shake,obj>thing)"	"MOVE WITH OR AS IF WITH A TREMOR"	"HIS HANDS SHOOK"	{v}	0,auto;
-[menear]	{v}	"jiggle(icl>shake>occur,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
-[menear]	{v}	"joggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[menear]	{v}	"jiggle(icl>shake>occur,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[menear]	{v}	"joggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
 [menear]	{v}	"shake(icl>move>occur,rsn>thing,obj>concrete_thing)"	"VIBRATE OR MOVE IN TREMOR"	"HIS HANDS (OBJ) SHOOK"	{v}	0,auto;
 [menear]	{v}	"waggle(icl>move>occur,equ>wamble,obj>concrete_thing)"	"MOVE UNSTEADILY OR WITH A WEAVING OR ROLLING MOTION"	""	{v}	0,auto;
 [menear]	{v}	"wamble(icl>move>occur,obj>thing)"	"MOVE UNSTEADILY OR WITH A WEAVING OR ROLLING MOTION"	""	{v}	0,auto;
-[menear]	{v}	"wiggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[menear]	{v}	"wiggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
 [menospreciar]	{v}	"belittle(icl>decrease>do,equ>diminish,agt>thing,obj>thing)"	"LESSEN THE AUTHORITY, DIGNITY, OR REPUTATION OF"	"DON'T BELITTLE YOUR COLLEAGUES"	{v}	0,auto;
 [menospreciar]	{v}	"diminish(icl>decrease>do,src>thing,agt>thing,obj>thing,gol>thing,val>thing)"	"LESSEN THE AUTHORITY, DIGNITY, OR REPUTATION OF"	"DON'T BELITTLE YOUR COLLEAGUES"	{v}	0,auto;
 [menosprecio]	{n}	"despite(icl>dislike>thing,equ>contempt)"	"LACK OF RESPECT ACCOMPANIED BY A FEELING OF INTENSE DISLIKE"	"THE DESPITE IN WHICH OUTSIDERS WERE HELD IS LEGENDARY"	{n}	0,auto;
@@ -19156,7 +19154,7 @@
 [pregonar]	{v}	"hollo(icl>utter>do,equ>shout,agt>thing)"	"UTTER A SUDDEN LOUD CRY"	"SHE CRIED WITH PAIN WHEN THE DOCTOR INSERTED THE NEEDLE"	{v}	0,auto;
 [pregonar]	{v}	"scream(icl>cry>do,agt>living_thing,obj>uw,rec>thing)"	"MAKE A LOUD HIGH NOISE WITH YOUR VOICE; SHOUT SOMETHING IN A VERY LOUD HIGH VOICE"	"SHE JUMPED TO HER FEET, SCREAMING IN TERROR"	{v}	0,auto;
 [pregonar]	{v}	"squall(icl>utter>do,equ>shout,agt>living_thing,obj>thing)"	"UTTER A SUDDEN LOUD CRY"	"SHE CRIED WITH PAIN WHEN THE DOCTOR INSERTED THE NEEDLE"	{v}	0,auto;
-[pregonar]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"HE (AGT) YELLED TO US (REC) THAT (OBJ) THE HOUSE WAS ON FIRE"	{v}	0,auto;
+[pregonar]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"I (agt) yelled to her (rec) from the window but she couldn't hear me"	{v}	0,auto;
 [pregón]	{n}	"annunciation(icl>statement>thing,equ>announcement)"	"A FORMAL PUBLIC STATEMENT"	"THE GOVERNMENT MADE AN ANNOUNCEMENT ABOUT CHANGES IN THE DRUG WAR"	{n}	0,auto;
 [preguntar]	{v}	"ask(icl>question>do,cob>volitional_thing,agt>volitional_thing,obj>uw)"	"INQUIRE SOMEBODY TO RECEIVE INFORMATION"	"SHE (AGT) ASKED MIKE (COB) IF HE LOVED HER (OBJ)"	{v}	0,auto;
 [preguntar]	{v}	"inquire(icl>ask>do,agt>volitional_thing,obj>uw,cao>thing,rec>thing)"	"INQUIRE ABOUT"	"THE WAITER INQUIRED WHETHER (OBJ) WE WOULD LIKE TO SIT NEAR THE WINDOW"	{v}	0,auto;
@@ -20586,10 +20584,10 @@
 [sacudida]	{n}	"tug(icl>pull>thing)"	"A SUDDEN ABRUPT PULL"	""	{n}	0,auto;
 [sacudir]	{v}	"didder(icl>move_involuntarily>occur,equ>shake,obj>thing)"	"MOVE WITH OR AS IF WITH A TREMOR"	"HIS HANDS SHOOK"	{v}	0,auto;
 [sacudir]	{v}	"jerk(icl>pull>do,plt>thing,plf>thing,agt>thing,obj>concrete_thing)"	"PULL, OR MOVE WITH A SUDDEN MOVEMENT"	"HE (AGT) TURNED THE HANDLE AND JERKED THE DOOR (OBJ) OPEN"	{v}	0,auto;
-[sacudir]	{v}	"jiggle(icl>shake>occur,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
-[sacudir]	{v}	"joggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[sacudir]	{v}	"jiggle(icl>shake>occur,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[sacudir]	{v}	"joggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
 [sacudir]	{v}	"shake(icl>move>occur,rsn>thing,obj>concrete_thing)"	"VIBRATE OR MOVE IN TREMOR"	"HIS HANDS (OBJ) SHOOK"	{v}	0,auto;
-[sacudir]	{v}	"wiggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
+[sacudir]	{v}	"wiggle(icl>shake>occur,equ>jiggle,obj>concrete_thing)"	"MOVE SOMETHING TO AND FRO"	"DON'T JIGGLE YOUR FINGER WHILE THE NURSE IS PUTTING ON THE BANDAGE!"	{v}	0,auto;
 [sacudir]	{v}	"yank(icl>pull>do,agt>thing,obj>thing)"	"PULL, OR MOVE WITH A SUDDEN MOVEMENT"	"HE TURNED THE HANDLE AND JERKED THE DOOR OPEN"	{v}	0,auto;
 [sagaz]	{a}	"awake(icl>adj,equ>alert)"	"(USUALLY FOLLOWED BY `TO') SHOWING ACUTE AWARENESS"	"AWAKE TO THE DANGERS OF HER SITUATION"	{a}	0,auto;
 [sagaz]	{a}	"cunning(icl>adj,equ>crafty)"	"MARKED BY SKILL IN DECEPTION"	"CUNNING MEN OFTEN PASS FOR WISE"	{a}	0,auto;
@@ -21059,7 +21057,7 @@
 [sudoración]	{n}	"transpiration(icl>bodily_process>thing)"	"THE PROCESS OF GIVING OFF OR EXHALING WATER VAPOR THROUGH THE SKIN OR MUCOUS MEMBRANES"	""	{n}	0,auto;
 [sudoresis]	{n}	"sweat(icl>secretion>thing,equ>perspiration)"	"SALTY FLUID SECRETED BY SWEAT GLANDS"	"SWEAT POURED OFF HIS BROW"	{n}	0,auto;
 [sudor]	{n}	"sweat(icl>secretion>thing,equ>perspiration)"	"SALTY FLUID SECRETED BY SWEAT GLANDS"	"SWEAT POURED OFF HIS BROW"	{n}	0,auto;
-[suelo]	{n}	"ground(icl>object>thing,equ>land)"	"AN AREA OF LAND"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	0,auto;
+[suelo]	{n}	"ground(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	0,auto;
 [suelo]	{n}	"soil(icl>earth>thing)"	"THE PART OF THE EARTH'S SURFACE CONSISTING OF HUMUS AND DISINTEGRATED ROCK"	""	{n}	0,auto;
 [suelo]	{n}	"soil(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"GOOD AGRICULTURAL SOIL"	{n}	0,auto;
 [suelto]	{a}	"loose(icl>adj,ant>compact)"	"NOT COMPACT OR DENSE IN STRUCTURE OR ARRANGEMENT"	"LOOSE GRAVEL"	{a}	0,auto;
@@ -21838,7 +21836,7 @@
 [vocear]	{v}	"hollo(icl>utter>do,equ>shout,agt>thing)"	"UTTER A SUDDEN LOUD CRY"	"SHE CRIED WITH PAIN WHEN THE DOCTOR INSERTED THE NEEDLE"	{v}	0,auto;
 [vocear]	{v}	"scream(icl>cry>do,agt>living_thing,obj>uw,rec>thing)"	"MAKE A LOUD HIGH NOISE WITH YOUR VOICE; SHOUT SOMETHING IN A VERY LOUD HIGH VOICE"	"SHE JUMPED TO HER FEET, SCREAMING IN TERROR"	{v}	0,auto;
 [vocear]	{v}	"squall(icl>utter>do,equ>shout,agt>living_thing,obj>thing)"	"UTTER A SUDDEN LOUD CRY"	"SHE CRIED WITH PAIN WHEN THE DOCTOR INSERTED THE NEEDLE"	{v}	0,auto;
-[vocear]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"HE (AGT) YELLED TO US (REC) THAT (OBJ) THE HOUSE WAS ON FIRE"	{v}	0,auto;
+[vocear]	{v}	"yell(icl>bawl>do,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"UTTER A SUDDEN LOUD CRY"	"I (agt) yelled to her (rec) from the window but she couldn't hear me"	{v}	0,auto;
 [vocería]	{n}	"hullabaloo(icl>disturbance>thing,equ>agitation)"	"DISTURBANCE USUALLY IN PROTEST"	""	{n}	0,auto;
 [vocería]	{n}	"upheaval(icl>disturbance>thing,equ>agitation)"	"DISTURBANCE USUALLY IN PROTEST"	""	{n}	0,auto;
 [vociferador]	{a}	"clamant(icl>adj,equ>blatant)"	"CONSPICUOUSLY AND OFFENSIVELY LOUD"	"GIVEN TO VEHEMENT OUTCRY"	{a}	0,auto;
