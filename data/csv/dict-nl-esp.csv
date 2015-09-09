@@ -13655,7 +13655,7 @@
 [global]	{a}	"worldwide(icl>adj,equ>global)"	"INVOLVING THE ENTIRE EARTH"	"OF WORLDWIDE SIGNIFICANCE"	{a}	0,auto;
 [global]	{a}	"worldwide(icl>adj)"	"SPANNING OR EXTENDING THROUGHOUT THE ENTIRE WORLD"	"WORLDWIDE DISTRIBUTION"	{a}	0,auto;
 [globo]	{n}	"balloon(icl>lighter-than-air_craft>thing)"	"LARGE TOUGH NONRIGID BAG FILLED WITH GAS OR HEATED AIR"	""	{n}	0,auto;
-[globo]	{n}	"globe(icl>sphere>thing)"	"A SPHERE ON WHICH A MAP (ESPECIALLY OF THE EARTH) IS REPRESENTED"	""	{n}	0,auto;
+[globo]	{n}	"globe(icl>sphere>functional_thing,obj>planet)"	"A SPHERE ON WHICH A MAP (ESPECIALLY OF THE EARTH) IS REPRESENTED"	""	{n}	0,auto;
 [globoso]	{a}	"globose(icl>adj,equ>ball-shaped)"	"HAVING THE SHAPE OF A SPHERE OR BALL"	"A SPHERICAL OBJECT"	{a}	0,auto;
 [globuloso]	{a}	"globose(icl>adj,equ>ball-shaped)"	"HAVING THE SHAPE OF A SPHERE OR BALL"	"A SPHERICAL OBJECT"	{a}	0,auto;
 [gloria]	{n}	"bliss(icl>elation>thing)"	"A STATE OF EXTREME HAPPINESS"	""	{n}	0,auto;
