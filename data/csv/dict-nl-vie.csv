@@ -7856,7 +7856,7 @@
 [sự vi phạm]	{n}	"infringement(icl>wrongdoing>thing,equ>violation)"	"AN ACT THAT DISREGARDS AN AGREEMENT OR A RIGHT"	"HE CLAIMED A VIOLATION OF HIS RIGHTS UNDER THE FIFTH AMENDMENT"	{n}	2,auto-polysemic-3lang;
 [sự vi phạm]	{n}	"violation(icl>crime>thing,equ>misdemeanor)"	"A CRIME LESS SERIOUS THAN A FELONY"	""	{n}	2,auto-polysemic-3lang;
 [sự vi phạm]	{n}	"violation(icl>wrongdoing>thing)"	"AN ACT THAT DISREGARDS AN AGREEMENT OR A RIGHT"	"HE CLAIMED A VIOLATION OF HIS RIGHTS UNDER THE FIFTH AMENDMENT"	{n}	2,auto-polysemic-3lang;
-[sự vi phạm qui chế]	{n}	"crime(icl>transgression>thing)"	"AN EVIL ACT NOT NECESSARILY PUNISHABLE BY LAW"	"CRIMES OF THE HEART"	{n}	1,auto-monosemic-1lang;
+[sự vi phạm qui chế]	{n}	"crime(icl>transgression>thing,com>law)"	"(criminal law) an act punishable by law"	"a long record of crimes"	{n}	1,auto-monosemic-1lang;
 [sự vô hiệu]	{n}	"uselessness(icl>quality>thing,equ>inutility,ant>usefulness)"	"THE QUALITY OF HAVING NO PRACTICAL USE"	""	{n}	2,auto-monosemic-2lang;
 [sự vô ơn bạc nghĩa]	{n}	"ingratitude(icl>feeling>thing,ant>gratitude)"	"A LACK OF GRATITUDE"	""	{n}	2,auto-monosemic-2lang;
 [sự vô tài]	{n}	"uselessness(icl>quality>thing,equ>inutility,ant>usefulness)"	"THE QUALITY OF HAVING NO PRACTICAL USE"	""	{n}	2,auto-monosemic-2lang;
@@ -8995,7 +8995,7 @@
 [tóc]	{n}	"hair(icl>process>thing)"	"A FILAMENTOUS PROJECTION OR PROCESS ON AN ORGANISM"	""	{n}	2,auto-polysemic-3lang;
 [to đầu]	{a}	"macrocephalous(icl>adj,equ>macrocephalic,com>macrocephaly)"	"HAVING AN EXCEPTIONALLY LARGE HEAD AND BRAIN"	""	{a}	2,auto-monosemic-2lang;
 [tô điểm]	{v}	"deck(icl>decorate>do,cob>thing,agt>thing,obj>concrete_thing)"	"DECORATE"	"DECK THE HALLS WITH HOLLY"	{v}	2,auto-polysemic-3lang;
-[tội ác]	{n}	"crime(icl>transgression>thing)"	"AN EVIL ACT NOT NECESSARILY PUNISHABLE BY LAW"	"CRIMES OF THE HEART"	{n}	2,auto-polysemic-3lang;
+[tội ác]	{n}	"crime(icl>transgression>thing,com>law)"	"(criminal law) an act punishable by law"	"a long record of crimes"	{n}	2,auto-polysemic-3lang;
 [tối]	{a}	"dark(icl>adj,ant>light)"	"(USED OF COLOR) HAVING A DARK HUE"	"DARK GREEN"	{a}	2,auto-polysemic-3lang;
 [tối đa]	{a}	"maximal(icl>adj,ant>minimal)"	"THE GREATEST OR MOST COMPLETE OR BEST POSSIBLE"	"MAXIMAL EXPANSION"	{a}	2,auto-polysemic-3lang;
 [tối giản]	{a}	"irreducible(icl>adj,ant>reducible)"	"INCAPABLE OF BEING MADE SMALLER OR SIMPLER"	"AN IRREDUCIBLE MINIMUM"	{a}	2,auto-monosemic-2lang;
