@@ -43,7 +43,9 @@ Columns left to right:
 - 1 - parent node (UW)
 - 2 - UNL-relation corresponding to the type of the link
 - 3 - daughter node (UW)
-
+- 4 - link annotation tags 
+    * "deriv" tag marks equivalence relations between UWs linked to semantically similar words with different POS tags in natural languages (a run - to run).
+    * "self" tag marks equivalence relations between UWs, which relate to the same general concept except the regular "passive" transformation (beat - undergo beating).
 
 Wordnet links file format - links-ext-wn*
 -----------------------------------------
