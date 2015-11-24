@@ -428,7 +428,7 @@
 [bé]	{a}	"small(icl>adj,ant>large)"	"LIMITED OR BELOW AVERAGE IN NUMBER OR QUANTITY OR MAGNITUDE OR EXTENT"	"A SMALL CAR"	{a}	2,auto-polysemic-3lang;
 [bé]	{a}	"small(icl>adj,equ>minor)"	"LIMITED IN SIZE OR SCOPE"	"A SMALL BUSINESS"	{a}	2,auto-polysemic-3lang;
 [bè bè chắc nịch]	{a}	"stocky(icl>adj,equ>compact)"	"HEAVY AND COMPACT IN FORM OR STATURE"	"STOCKY LEGS"	{a}	1,auto-monosemic-1lang;
-[bẻ cong]	{v}	"bend(icl>cause>do,agt>thing,obj>thing,ins>thing)"	"CAUSE TO CHANGE FORM"	"BEND THE ROD"	{v}	2,auto-polysemic-3lang;
+[bẻ cong]	{v}	"bend(icl>cause>do,agt>thing,obj>thing,ins>thing)"	"Cause (a plastic object) to assume a crooked or angular form"	"BEND THE ROD"	{v}	2,auto-polysemic-3lang;
 [bẻ cong]	{v}	"bend(icl>flex>do,agt>volitional_thing)"	"BEND A JOINT"	"BEND YOUR KNEES"	{v}	2,auto-polysemic-3lang;
 [bề dày]	{n}	"thickness(icl>dimension>thing,ant>thinness)"	"THE DIMENSION THROUGH AN OBJECT AS OPPOSED TO ITS LENGTH OR WIDTH"	""	{n}	2,auto-polysemic-3lang;
 [bẻ gãy]	{v}	"break(icl>be_damaged>occur,obj>thing,gol>thing)"	"STOP OPERATING OR FUNCTIONING"	"THE COFFEE MAKER BROKE"	{v}	2,auto-polysemic-3lang;
@@ -862,7 +862,7 @@
 [cai tù]	{n}	"jailer(icl>lawman>thing,equ>prison_guard)"	"SOMEONE WHO GUARDS PRISONERS"	""	{n}	2,auto-polysemic-3lang;
 [cái vợt cá gáo tát nước]	{n}	"sieve(icl>strainer>thing)"	"A STRAINER FOR SEPARATING LUMPS FROM POWDERED MATERIAL OR GRADING PARTICLES"	""	{n}	2,auto-monosemic-2lang;
 [ca kịch nhẹ]	{n}	"operetta(icl>comic_opera>thing)"	"A SHORT AMUSING OPERA"	""	{n}	2,auto-monosemic-2lang;
-[calo]	{n}	"calorie(icl>work_unit>thing)"	"A UNIT OF HEAT EQUAL TO THE AMOUNT OF HEAT REQUIRED TO RAISE THE TEMPERATURE OF ONE KILOGRAM OF WATER BY ONE DEGREE AT ONE ATMOSPHERE PRESSURE"	"USED BY NUTRITIONISTS TO CHARACTERIZE THE ENERGY-PRODUCING POTENTIAL IN FOOD"	{n}	2,auto-polysemic-3lang;
+[calo]	{n}	"calorie(icl>work_unit>thing)"	"Unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure"	"The heat of vaporization of water at 100°C is 539 calories"	{n}	2,auto-polysemic-3lang;
 [caloric]	{a}	"calorific(icl>adj)"	"HEAT-GENERATING"	"THE CALORIFIC PROPERTIES OF FUELS"	{a}	1,auto-monosemic-1lang;
 [cá mập]	{n}	"shark(icl>elasmobranch>thing)"	"ANY OF NUMEROUS ELONGATE MOSTLY MARINE CARNIVOROUS FISHES WITH HETEROCERCAL CAUDAL FINS AND TOUGH SKIN COVERED WITH SMALL TOOTHLIKE SCALES"	""	{n}	2,auto-polysemic-3lang;
 [cá mập]	{n}	"shark(icl>wrongdoer>thing)"	"A PERSON WHO IS RUTHLESS AND GREEDY AND DISHONEST"	""	{n}	2,auto-polysemic-3lang;
@@ -1179,7 +1179,7 @@
 [chấy]	{n}	"louse(icl>insect>thing,equ>bird_louse)"	"WINGLESS INSECT WITH MOUTH PARTS ADAPTED FOR BITING"	"MOSTLY PARASITIC ON BIRDS"	{n}	2,auto-polysemic-3lang;
 [chạy nước kiệu nhỏ]	{n}	"canter(icl>gait>thing)"	"A SMOOTH THREE-BEAT GAIT"	"BETWEEN A TROT AND A GALLOP"	{n}	1,auto-monosemic-1lang;
 [chảy thành dòng nhỏ]	{v}	"trickle(icl>run>occur,obj>matter)"	"RUN OR FLOW SLOWLY, AS IN DROPS OR IN AN UNSTEADY STREAM"	"WATER TRICKLED ONTO THE LAWN FROM THE BROKEN HOSE"	{v}	2,auto-monosemic-2lang;
-[chạy trốn]	{v}	"fly(icl>move>do,equ>flee,plt>place,plf>thing,agt>volitional_thing,met>thing)"	"HE THREW DOWN HIS GUN AND FLEW"	"RUN AWAY QUICKLY"	{v}	2,auto-polysemic-3lang;
+[chạy trốn]	{v}	"fly(icl>move>do,equ>flee,plt>place,plf>thing,agt>volitional_thing,met>thing)"	"Run away quickly"	"HE (AGT) THREW DOWN HIS GUN AND FLEW"	{v}	2,auto-polysemic-3lang;
 [chạy trốn]	{v}	"run_away(icl>go>do,equ>flee,plt>uw,plf>uw,agt>thing)"	"FLEE"	"TO RUN AWAY FROM SCHOOL (PLF)"	{v}	2,auto-polysemic-3lang;
 [chạy trục trặc]	{a}	"intermittent(icl>adj)"	"STOPPING AND STARTING AT REGULAR INTERVALS"	""	{a}	1,auto-monosemic-1lang;
 [chảy]	{v}	"flow(icl>occur,equ>pour,obj>thing,plc>thing)"	"BE ABUNDANTLY PRESENT"	"THE CHAMPAGNE FLOWED AT THE WEDDING"	{v}	2,auto-polysemic-3lang;
@@ -2845,7 +2845,7 @@
 [động vật học]	{n}	"zoology(icl>biology>thing)"	"THE BRANCH OF BIOLOGY THAT STUDIES ANIMALS"	""	{n}	2,auto-polysemic-3lang;
 [động vật]	{n}	"animal(icl>organism>thing)"	"A LIVING ORGANISM CHARACTERIZED BY VOLUNTARY MOVEMENT"	""	{n}	2,auto-polysemic-3lang;
 [động vật sinh sản]	{a}	"reproductive(icl>adj,equ>generative)"	"PRODUCING NEW LIFE OR OFFSPRING"	"THE REPRODUCTIVE POTENTIAL OF A SPECIES IS ITS RELATIVE CAPACITY TO REPRODUCE ITSELF UNDER OPTIMAL CONDITIONS"	{a}	2,auto-monosemic-2lang;
-[đóng]	{v}	"close(icl>end>do,agt>person,obj>window,fld>computer)"	"TO TERMINATE ACCESS TO"	"CLOSE ALL OPEN APPLICATION WINDOWS (OBJ)"	{v}	2,auto-polysemic-3lang;
+[đóng]	{v}	"close(icl>end>do,agt>person,obj>window,fld>computer)"	"Cause a window or an application to disappear on a computer desktop"	"CLOSE ALL OPEN APPLICATION WINDOWS (OBJ)"	{v}	2,auto-polysemic-3lang;
 [động viên]	{v}	"mobilize(icl>call>do,equ>call_up,agt>thing,obj>thing)"	"CALL TO ARMS"	"OF MILITARY PERSONNEL"	{v}	2,auto-polysemic-3lang;
 [đóng]	{v}	"play(icl>gamble>do,cob>thing,agt>person,obj>thing)"	"BET OR WAGER MONEY"	"HE (AGT) PLAYED $20 (OBJ) ON THE NEW HORSE (COB)"	{v}	2,auto-polysemic-3lang;
 [đóng]	{v}	"raise(icl>construct>do,agt>thing,obj>thing)"	"CONSTRUCT, BUILD, OR ERECT"	"RAISE A BARN (OBJ)"	{v}	2,auto-polysemic-3lang;
@@ -4150,7 +4150,7 @@
 [khéo léo]	{misc}	"deftly(icl>how,equ>dexterously,com>deft)"	"WITH DEXTERITY"	"IN A DEXTEROUS MANNER"	{misc}	2,auto-polysemic-3lang;
 [khéo léo]	{misc}	"dexterously(icl>how,com>dexterous)"	"WITH DEXTERITY"	"IN A DEXTEROUS MANNER"	{misc}	2,auto-polysemic-3lang;
 [khéo vờ vĩnh]	{misc}	"slyly(icl>how,equ>craftily,com>sly)"	"IN AN ARTFUL MANNER"	"HE CRAFTILY ARRANGED TO BE THERE WHEN THE DECISION WAS ANNOUNCED"	{misc}	2,auto-monosemic-2lang;
-[khép]	{v}	"close(icl>end>do,agt>person,obj>window,fld>computer)"	"TO TERMINATE ACCESS TO"	"CLOSE ALL OPEN APPLICATION WINDOWS (OBJ)"	{v}	2,auto-polysemic-3lang;
+[khép]	{v}	"close(icl>end>do,agt>person,obj>window,fld>computer)"	"Cause a window or an application to disappear on a computer desktop"	"CLOSE ALL OPEN APPLICATION WINDOWS (OBJ)"	{v}	2,auto-polysemic-3lang;
 [khép]	{v}	"shut(icl>close>do,agt>person,obj>concrete_thing)"	"CLOSE AN OPENING"	"TO SHUT THE DOOR"	{v}	2,auto-polysemic-3lang;
 [khét tiếng]	{a}	"notorious(icl>adj,equ>ill-famed)"	"HAVING AN EXCEEDINGLY BAD REPUTATION"	"A NOTORIOUS GANGSTER"	{a}	2,auto-monosemic-2lang;
 [khế ước]	{n}	"contract(icl>written_agreement>thing)"	"A BINDING AGREEMENT BETWEEN TWO OR MORE PERSONS THAT IS ENFORCEABLE BY LAW"	""	{n}	2,auto-polysemic-3lang;
@@ -4714,7 +4714,7 @@
 [lantan]	{n}	"lanthanum(icl>metallic_element>thing)"	"A WHITE SOFT METALLIC ELEMENT THAT TARNISHES READILY"	"OCCURS IN RARE EARTH MINERALS AND IS USUALLY CLASSIFIED AS A RARE EARTH"	{n}	2,auto-monosemic-2lang;
 [lặn]	{v}	"dive(icl>plunge>do,agt>living_thing,plc>thing)"	"JUMP INTO A LIQUID HEAD FIRST"	"HE (AGT) DOVE IN AND SAVED HER LIFE"	{v}	2,auto-polysemic-3lang;
 [lặn]	{v}	"plunge(icl>immerse>occur,obj>thing,gol>thing)"	"FALL ABRUPTLY"	"SHE (OBJ) PLUNGED INTO THE SEA (PLT)"	{v}	2,auto-polysemic-3lang;
-[lăn]	{v}	"roll(icl>move>do,plt>uw,plf>uw,agt>thing,obj>thing,plc>uw)"	"TO ROLL A BALL (OBJ) ALONG THE GROUND (PLC)"	"MOVE SOMETHING BY TURNING OVER OR ROTATING"	{v}	2,auto-polysemic-3lang;
+[lăn]	{v}	"roll(icl>move>do,plt>uw,plf>uw,agt>thing,obj>thing,plc>uw)"	"Move something by turning over or rotating"	"TO ROLL A BALL (OBJ) ALONG THE GROUND (PLC)"	{v}	2,auto-polysemic-3lang;
 [lao động vất vã]	{n}	"toil(icl>work>thing,equ>labor)"	"PRODUCTIVE WORK (ESPECIALLY PHYSICAL WORK DONE FOR WAGES)"	"HIS LABOR DID NOT REQUIRE A GREAT DEAL OF SKILL"	{n}	2,auto-monosemic-2lang;
 [lão luyện]	{a}	"experienced(icl>adj,ant>inexperienced)"	"HAVING EXPERIENCE"	"HAVING KNOWLEDGE OR SKILL FROM OBSERVATION OR PARTICIPATION"	{a}	2,auto-polysemic-3lang;
 [lạo sạo]	{n}	"rustle(icl>noise>thing)"	"THE LIGHT NOISE LIKE THE NOISE OF SILK CLOTHING OR LEAVES BLOWING IN THE WIND"	""	{n}	1,auto-monosemic-1lang;
@@ -5498,7 +5498,7 @@
 [mức độ]	{n}	"degree(icl>exponent>thing)"	"THE HIGHEST POWER OF A TERM OR VARIABLE"	""	{n}	2,auto-polysemic-3lang;
 [mức độ]	{n}	"degree(icl>state>thing)"	"A SPECIFIC IDENTIFIABLE POSITION IN A CONTINUUM OR SERIES OR ESPECIALLY IN A PROCESS"	"A REMARKABLE DEGREE OF FRANKNESS"	{n}	2,auto-polysemic-3lang;
 [mục lục sách tham khảo]	{n}	"bibliography(icl>list>thing)"	"A LIST OF WRITINGS WITH TIME AND PLACE OF PUBLICATION (SUCH AS THE WRITINGS OF A SINGLE AUTHOR OR THE WORKS REFERRED TO IN PREPARING A DOCUMENT ETC.)"	""	{n}	2,auto-monosemic-2lang;
-[mục]	{n}	"article(icl>information,com>writing,agt>person,obj>uw)"	"A PIECE OF WRITING"	"AN ARTICLE ON GARDENING (OBJ)"	{n}	2,auto-polysemic-3lang;
+[mục]	{n}	"article(icl>information,com>writing,agt>person,obj>uw)"	"Nonfictional prose forming an independent part of a publication"	"AN ARTICLE ON GARDENING (OBJ)"	{n}	2,auto-polysemic-3lang;
 [mục]	{n}	"article(icl>information,pof>document,com>legal)"	"A SEPARATE SECTION OF A LEGAL DOCUMENT"	"AN ARTICLE OF AGREEMENT"	{n}	2,auto-polysemic-3lang;
 [mức]	{n}	"grade(icl>property>thing,equ>degree)"	"A POSITION ON A SCALE OF INTENSITY OR AMOUNT OR QUALITY"	"A MODERATE GRADE OF INTELLIGENCE"	{n}	2,auto-polysemic-3lang;
 [mực]	{n}	"ink(icl>liquid_body_substance>thing)"	"DARK PROTECTIVE FLUID EJECTED INTO THE WATER BY CUTTLEFISH AND OTHER CEPHALOPODS"	""	{n}	2,auto-polysemic-3lang;
@@ -7294,7 +7294,7 @@
 [sôi]	{v}	"boil(icl>be,aoj>matter)"	"CHANGE FROM A LIQUID TO VAPOR"	"WATER BOILS AT 100 DEGREES CELSIUS"	{v}	2,auto-polysemic-3lang;
 [sôi]	{v}	"boil(icl>be,equ>seethe,rsn>abstract_thing,aoj>person)"	"BE AGITATED EMOTIONALLY"	"HE WAS BOILING WITH ANGER"	{v}	2,auto-polysemic-3lang;
 [sôi]	{v}	"boil(icl>move>be,equ>churn,aoj>thing)"	"BE AGITATED"	"THE SEA WAS BOILING AND FOAMING FURIOUSLY IN THE STORM"	{v}	2,auto-polysemic-3lang;
-[số không]	{n}	"cipher(icl>digit>thing,equ>zero)"	"A MATHEMATICAL ELEMENT THAT WHEN ADDED TO ANOTHER NUMBER YIELDS THE SAME NUMBER"	""	{n}	2,auto-polysemic-3lang;
+[số không]	{n}	"cipher(icl>digit>thing,equ>zero)"	"Digit 0"	""	{n}	2,auto-polysemic-3lang;
 [sôlênôit]	{n}	"solenoid(icl>coil>thing)"	"A COIL OF WIRE AROUND AN IRON CORE"	"BECOMES A MAGNET WHEN CURRENT PASSES THROUGH THE COIL"	{n}	2,auto-monosemic-2lang;
 [số lượng]	{a}	"quantitative(icl>adj,ant>qualitative)"	"EXPRESSIBLE AS A QUANTITY OR RELATING TO OR SUSCEPTIBLE OF MEASUREMENT"	"EXPORT WHEAT WITHOUT QUANTITATIVE LIMITATIONS"	{a}	2,auto-polysemic-3lang;
 [số lượng]	{n}	"amount(icl>abstraction>thing,equ>measure)"	"HOW MUCH THERE IS OF SOMETHING THAT YOU CAN QUANTIFY"	""	{n}	2,auto-polysemic-3lang;
@@ -9009,7 +9009,7 @@
 [tối ưu]	{a}	"optimal(icl>adj,equ>optimum)"	"MOST DESIRABLE POSSIBLE UNDER A RESTRICTION EXPRESSED OR IMPLIED"	"OPTIMAL CONCENTRATION OF A DRUG"	{a}	2,auto-polysemic-3lang;
 [tới]	{v}	"find(icl>reach>occur,cob>thing,obj>thing,scn>uw)"	"SUCCEED IN REACHING; ARRIVE AT"	"THE ARROW (OBJ) FOUND ITS MARK (COB); WATER (OBJ) FINDS ITS LEVEL (COB)"	{v}	2,auto-polysemic-3lang;
 [tới]	{v}	"make(icl>score>do,agt>thing,obj>thing)"	"ACHIEVE A POINT OR GOAL"	"SHE (AGT) MAY NOT MAKE THE GRADE (OBJ)"	{v}	2,auto-polysemic-3lang;
-[tới]	{v}	"reach(icl>extend>be,aoj>thing,gol>thing)"	"REACH A POINT IN TIME, A CERTAIN STATE OR LEVEL"	"HIS BEARD (AOJ) REACHED TO HIS WAIST (GOL) / THIS CAR (AOJ) CAN REACH A SPEED (GOL) OF 140 MILES PER HOUR"	{v}	2,auto-polysemic-3lang;
+[tới]	{v}	"reach(icl>extend>be,aoj>thing,gol>thing)"	"Reach a point in time, or a certain state or level"	"HIS BEARD (AOJ) REACHED TO HIS WAIST (GOL) / THIS CAR (AOJ) CAN REACH A SPEED (GOL) OF 140 MILES PER HOUR"	{v}	2,auto-polysemic-3lang;
 [to kềnh]	{a}	"elephantine(icl>adj)"	"OF GREAT MASS"	"HUGE AND BULKY"	{a}	1,auto-monosemic-1lang;
 [tổ kiến]	{n}	"anthill(icl>knoll>thing)"	"A MOUND OF EARTH MADE BY ANTS AS THEY DIG THEIR NEST"	""	{n}	2,auto-polysemic-3lang;
 [tổ kiến]	{n}	"formicary(icl>knoll>thing,equ>anthill)"	"A MOUND OF EARTH MADE BY ANTS AS THEY DIG THEIR NEST"	""	{n}	2,auto-polysemic-3lang;

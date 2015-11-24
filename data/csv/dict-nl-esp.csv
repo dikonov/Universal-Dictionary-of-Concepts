@@ -2254,7 +2254,7 @@
 [aplacar]	{v}	"stay(icl>quell>do,agt>thing,obj>thing)"	"OVERCOME OR ALLAY"	"HE OFFERED HER A SNACK TO STAY HER STOMACH (OBJ)"	{v}	0,auto;
 [aplanado]	{a}	"flat(icl>adj,equ>compressed)"	"FLATTENED LATERALLY ALONG THE WHOLE LENGTH (E.G., CERTAIN LEAFSTALKS OR FLATFISHES)"	""	{a}	0,auto;
 [aplanar]	{v}	"flatten(icl>shape>do,agt>thing,obj>thing)"	"MAKE FLAT OR FLATTER"	"FLATTEN A ROAD"	{v}	0,auto;
-[aplanar]	{v}	"roll(icl>flatten>do,obj>concrete_thing)"	"TO ROLL PASTE FOR PIES"	"TO ROLL PASTE FOR PIES"	{v}	0,auto;
+[aplanar]	{v}	"roll(icl>flatten>do,obj>concrete_thing)"	"Flatten or spread with a roller"	"TO ROLL PASTE FOR PIES"	{v}	0,auto;
 [aplanar]	{v}	"roll_out(icl>flatten>do,plt>thing,plf>thing,agt>thing,obj>concrete_thing)"	"FLATTEN OR SPREAD WITH A ROLLER"	"ROLL OUT THE PAPER (OBJ)"	{v}	0,auto;
 [aplastar]	{v}	"blast(icl>hit>do,equ>smash,agt>thing,obj>thing)"	"HIT HARD"	"BLASTED A HOME RUN"	{v}	0,auto;
 [aplastar]	{v}	"boom(icl>hit>do,equ>smash,agt>thing,obj>thing)"	"HIT HARD"	"HE SMASHED A 3-RUN HOMER"	{v}	0,auto;
@@ -2424,7 +2424,7 @@
 [apretar]	{v}	"fasten(icl>change>do,equ>tighten,agt>thing,obj>thing)"	"MAKE TIGHT OR TIGHTER"	"TIGHTEN THE WIRE"	{v}	0,auto;
 [apretar]	{v}	"jampack(icl>stuff>do,equ>jam,agt>thing,obj>concrete_thing,ins>thing)"	"CROWD OR PACK TO CAPACITY"	"THE THEATER WAS JAMPACKED"	{v}	0,auto;
 [apretar]	{v}	"press(icl>push>do,agt>person,obj>thing)"	"EXERT PRESSURE TO OR UPON"	"LILY (AGT) PRESSED THE SWITCH (OBJ)"	{v}	0,auto;
-[apretar]	{v}	"push(icl>move(icl>cause)>do,ant>pull,plt>uw,plf>uw,obj>thing)"	"MOVE WITH FORCE, HE PUSHED THE TABLE INTO A CORNER"	"PHILIP (AGT) PUSHED HIM (OBJ) TOWARDS THE DOOR (PLT)"	{v}	0,auto;
+[apretar]	{v}	"push(icl>move(icl>cause)>do,ant>pull,plt>uw,plf>uw,obj>thing)"	"Move with force"	"PHILIP (AGT) PUSHED HIM (OBJ) TOWARDS THE DOOR (PLT)"	{v}	0,auto;
 [apretar]	{v}	"ram(icl>stuff>do,equ>jam,agt>thing,obj>thing)"	"CROWD OR PACK TO CAPACITY"	"THE THEATER WAS JAMPACKED"	{v}	0,auto;
 [apretar]	{v}	"tighten(icl>draw_tight>do,agt>person,obj>thing,ins>thing)"	"MAKE TIGHT OR TIGHTER"	"TIGHTEN THE SCREWS FIRMLY"	{v}	0,auto;
 [apretar]	{v}	"wad(icl>stuff>do,equ>jam,agt>thing,obj>thing)"	"CROWD OR PACK TO CAPACITY"	"THE THEATER WAS JAMPACKED"	{v}	0,auto;
@@ -5426,7 +5426,7 @@
 [centellear]	{v}	"glint(icl>look>occur,equ>glitter,obj>thing)"	"BE SHINY, AS IF WET"	"HIS EYES WERE GLISTENING"	{v}	0,auto;
 [centellear]	{v}	"glisten(icl>look>occur,equ>glitter,obj>concrete_thing,cao>thing)"	"BE SHINY, AS IF WET"	"HIS EYES WERE GLISTENING"	{v}	0,auto;
 [centellear]	{v}	"glitter(icl>look>occur,obj>concrete_thing,cao>thing)"	"BE SHINY, AS IF WET"	"HIS EYES WERE GLISTENING"	{v}	0,auto;
-[centenar]	{n}	"hundred(icl>quantity)"	"QUANTITY"	"ONE HUNDRED AND TWELVE"	{n}	0,auto;
+[centenar]	{n}	"hundred(icl>large_integer>quantity)"	"QUANTITY"	"ONE HUNDRED AND TWELVE"	{n}	0,auto;
 [centímetro cúbico]	{n}	"mil(icl>metric_capacity_unit>thing,equ>milliliter)"	"A METRIC UNIT OF VOLUME EQUAL TO ONE THOUSANDTH OF A LITER"	""	{n}	0,auto;
 [centímetro cúbico]	{n}	"ml(icl>metric_capacity_unit>thing,equ>milliliter)"	"A METRIC UNIT OF VOLUME EQUAL TO ONE THOUSANDTH OF A LITER"	""	{n}	0,auto;
 [centímetro]	{n}	"centimetre(icl>metric_linear_unit>thing,equ>centimeter)"	"A METRIC UNIT OF LENGTH EQUAL TO ONE HUNDREDTH OF A METER"	""	{n}	0,auto;
@@ -5509,7 +5509,7 @@
 [cerrado]	{a}	"recovered(icl>adj,equ>cured)"	"FREED FROM ILLNESS OR INJURY"	"APPEARS TO BE ENTIRELY RECOVERED"	{a}	0,auto;
 [cerrar]	{v}	"close_down(icl>close_up>occur,com>institution,obj>thing)"	"CEASE TO OPERATE"	"THIS COMPANY CLOSED DOWN IN 1966"	{v}	0,auto;
 [cerrar]	{v}	"close(icl>close_up>occur,com>institution,obj>thing)"	"CEASE TO OPERATE"	"MY BUSINESS CLOSES EVERY NIGHT AT 8 P.M."	{v}	0,auto;
-[cerrar]	{v}	"close(icl>shut>occur,obj>thing,ins>thing)"	"SHUT"	"THE DOOR (OBJ) CLOSED WITH A BANG"	{v}	0,auto;
+[cerrar]	{v}	"close(icl>shut>occur,obj>thing,ins>thing)"	"Become closed"	"THE DOOR (OBJ) CLOSED WITH A BANG"	{v}	0,auto;
 [cerrar]	{v}	"close_off(icl>discontinue>be,equ>shut_off,obj>thing,aoj>thing)"	"STOP THE FLOW OF"	"CLOSE OFF THE GAS WHEN YOU LEAVE FOR A VACATION"	{v}	0,auto;
 [cerrar]	{v}	"fold(icl>fail>occur,obj>thing)"	"CEASE TO OPERATE OR CAUSE TO CEASE OPERATING"	"THE BAND FOLDED IN DECEMBER 1966"	{v}	0,auto;
 [cerrar]	{v}	"shut_down(icl>cause>do,equ>stop,agt>volitional_thing,obj>thing)"	"CAUSE TO CEASE OPERATING"	"THE COMMISSION SHUTS DOWN TWO MINES"	{v}	0,auto;
@@ -5817,7 +5817,7 @@
 [ciénaga]	{n}	"marshland(icl>wetland>thing,equ>marsh)"	"LOW-LYING WET LAND WITH GRASSY VEGETATION"	"THOUSANDS OF ACRES OF MARSHLAND"	{n}	0,auto;
 [ciencia]	{n}	"encyclopedism(icl>education>thing,equ>eruditeness)"	"PROFOUND SCHOLARLY KNOWLEDGE"	""	{n}	0,auto;
 [ciencias exactas]	{n}	"math(icl>science>thing,equ>mathematics)"	"A SCIENCE (OR GROUP OF RELATED SCIENCES) DEALING WITH THE LOGIC OF QUANTITY AND SHAPE AND ARRANGEMENT"	""	{n}	0,auto;
-[cien]	{n}	"hundred(icl>quantity)"	"QUANTITY"	"ONE HUNDRED AND TWELVE"	{n}	0,auto;
+[cien]	{n}	"hundred(icl>large_integer>quantity)"	"QUANTITY"	"ONE HUNDRED AND TWELVE"	{n}	0,auto;
 [cierne]	{n}	"bloom(icl>organic_process>thing,equ>blooming)"	"THE ORGANIC PROCESS OF BEARING FLOWERS"	"YOU WILL STOP ALL BLOOM IF YOU LET THE FLOWERS GO TO SEED"	{n}	0,auto;
 [cierre]	{n}	"close(icl>section>thing,equ>conclusion)"	"THE LAST SECTION OF A COMMUNICATION"	"IN CONCLUSION I WANT TO SAY..."	{n}	0,auto;
 [cierre]	{n}	"closing(icl>section>thing,equ>conclusion)"	"THE LAST SECTION OF A COMMUNICATION"	"IN CONCLUSION I WANT TO SAY..."	{n}	0,auto;
@@ -6635,7 +6635,7 @@
 [conciso]	{a}	"terse(icl>adj,equ>crisp)"	"BRIEF AND TO THE POINT"	"SHORT AND TERSE AND EASY TO UNDERSTAND"	{a}	0,auto;
 [concluido]	{a}	"complete(icl>adj)"	"HAVING COME OR BEEN BROUGHT TO A CONCLUSION"	"THE HARVESTING WAS COMPLETE"	{a}	0,auto;
 [concluir]	{v}	"cease(icl>stop>occur,obj>event)"	"HAVE AN END"	"THE FIGHTING (OBJ) CEASED"	{v}	0,auto;
-[concluir]	{v}	"close(icl>shut>occur,obj>thing,ins>thing)"	"SHUT"	"THE DOOR (OBJ) CLOSED WITH A BANG"	{v}	0,auto;
+[concluir]	{v}	"close(icl>shut>occur,obj>thing,ins>thing)"	"Become closed"	"THE DOOR (OBJ) CLOSED WITH A BANG"	{v}	0,auto;
 [concluir]	{v}	"conclude(icl>think>do,equ>decide,src>thing,agt>person,obj>uw)"	"DECIDE BY REASONING"	"I (AGT) CONCLUDE FROM HIS BEHAVIOR (RSN) THAT (OBJ) HE IS MAD"	{v}	0,auto;
 [concluir]	{v}	"end(icl>be,equ>stop,aoj>thing,plc>concrete_thing)"	"HAVE AN END OR ARRIVE SOMEWHERE"	"MY PROPERTY (AOJ) ENDS BY THE BUSHES (PLC)"	{v}	0,auto;
 [concluir]	{v}	"finish(icl>occur,equ>end,obj>thing,gol>uw)"	"HAVE AN END, IN A TEMPORAL, SPATIAL, OR QUANTITATIVE SENSE; EITHER SPATIAL OR METAPHORICAL"	"THE SYMPHONY FINISHES IN A PIANISSIMO"	{v}	0,auto;
@@ -6981,7 +6981,7 @@
 [considerable]	{a}	"sizable(icl>adj,equ>goodly)"	"LARGE IN AMOUNT OR EXTENT OR DEGREE"	"A SIZABLE FORTUNE"	{a}	0,auto;
 [considerable]	{a}	"tidy(icl>adj,equ>goodly)"	"LARGE IN AMOUNT OR EXTENT OR DEGREE"	"A TIDY SUM OF MONEY"	{a}	0,auto;
 [consideración]	{n}	"comment(icl>statement>thing,equ>remark)"	"A STATEMENT THAT EXPRESSES A PERSONAL OPINION OR BELIEF"	"FROM TIME TO TIME SHE CONTRIBUTED A PERSONAL COMMENT ON HIS ACCOUNT"	{n}	0,auto;
-[consideración]	{n}	"consideration(icl>respect>abstract_thing,obj>thing,aoj>person)"	"THEY'VE GOT NO CONSIDERATION FOR OTHERS (OBJ)"	"THE QUALITY OF THINKING ABOUT OTHER PEOPLE'S FEELINGS AND BEING CAREFUL NOT TO UPSET THEM"	{n}	0,auto;
+[consideración]	{n}	"consideration(icl>respect>abstract_thing,obj>thing,aoj>person)"	"THE QUALITY OF THINKING ABOUT OTHER PEOPLE'S FEELINGS AND BEING CAREFUL NOT TO UPSET THEM"	"THEY'VE GOT NO CONSIDERATION FOR OTHERS (OBJ)"	{n}	0,auto;
 [consideración]	{n}	"consideration(icl>scrutiny>abstract_thing,agt>person,obj>thing)"	"CAREFUL THOUGHT AND ATTENTION, ESPECIALLY BEFORE MAKING AN OFFICIAL OR IMPORTANT DECISION"	"PROPOSALS PUT FORWARD FOR CONSIDERATION"	{n}	0,auto;
 [consideración]	{n}	"remark(icl>statement>thing)"	"A STATEMENT THAT EXPRESSES A PERSONAL OPINION OR BELIEF"	"FROM TIME TO TIME SHE CONTRIBUTED A PERSONAL COMMENT ON HIS ACCOUNT"	{n}	0,auto;
 [consideración]	{n}	"respectfulness(icl>courtesy>thing,equ>deference)"	"COURTEOUS REGARD FOR PEOPLE'S FEELINGS"	"IN DEFERENCE TO YOUR WISHES"	{n}	0,auto;
@@ -7114,14 +7114,14 @@
 [contacto]	{n}	"contact(icl>representative>thing)"	"A PERSON WHO IS IN A POSITION TO GIVE YOU SPECIAL ASSISTANCE"	"HE USED HIS BUSINESS CONTACTS TO GET AN INTRODUCTION TO THE GOVERNOR"	{n}	0,auto;
 [contacto]	{n}	"link(icl>relation>abstract_thing,obj>thing,aoj>thing)"	"A CHANNEL FOR COMMUNICATION BETWEEN GROUPS"	"THE COMPANY HAS STRONG LINKS WITH BIG INVESTORS"	{n}	0,auto;
 [contacto]	{n}	"tangency(icl>junction>thing,equ>contact)"	"(ELECTRONICS) A JUNCTION WHERE THINGS (AS TWO ELECTRICAL CONDUCTORS) TOUCH OR ARE IN PHYSICAL CONTACT"	"THEY FORGET TO SOLDER THE CONTACTS"	{n}	0,auto;
-[contagiar]	{v}	"infect(icl>be,cob>disease,obj>thing,aoj>thing)"	"GIVE A DISEASE"	"YOUR CHILDREN (AOJ) HAVE INFECTED YOU (OBJ) WITH THIS HEAD COLD (COB)"	{v}	0,auto;
+[contagiar]	{v}	"infect(icl>be,cob>disease,obj>thing,aoj>thing)"	"communicate a disease to"	"YOUR CHILDREN (AOJ) HAVE INFECTED YOU (OBJ) WITH THIS HEAD COLD (COB)"	{v}	0,auto;
 [contaminación]	{n}	"contamination(icl>impurity>thing)"	"THE STATE OF BEING CONTAMINATED"	""	{n}	0,auto;
 [contaminación]	{n}	"taint(icl>impurity>thing,equ>contamination)"	"THE STATE OF BEING CONTAMINATED"	""	{n}	0,auto;
 [contaminado]	{a}	"dirty(icl>adj,equ>contaminated)"	"CONTAMINATED WITH INFECTING ORGANISMS"	"DIRTY WOUNDS"	{a}	0,auto;
 [contaminado]	{a}	"pestiferous(icl>adj,equ>contaminated)"	"CONTAMINATED WITH INFECTING ORGANISMS"	"DIRTY WOUNDS"	{a}	0,auto;
 [contaminar]	{v}	"contaminate(icl>dirty>do,equ>pollute,cob>matter,agt>thing,obj>matter)"	"MAKE IMPURE"	"THE INDUSTRIAL WASTES POLLUTED THE LAKE"	{v}	0,auto;
 [contaminar]	{v}	"foul(icl>dirty>do,equ>pollute,agt>thing,obj>thing)"	"MAKE IMPURE"	"THE INDUSTRIAL WASTES POLLUTED THE LAKE"	{v}	0,auto;
-[contaminar]	{v}	"infect(icl>be,cob>disease,obj>thing,aoj>thing)"	"GIVE A DISEASE"	"YOUR CHILDREN (AOJ) HAVE INFECTED YOU (OBJ) WITH THIS HEAD COLD (COB)"	{v}	0,auto;
+[contaminar]	{v}	"infect(icl>be,cob>disease,obj>thing,aoj>thing)"	"communicate a disease to"	"YOUR CHILDREN (AOJ) HAVE INFECTED YOU (OBJ) WITH THIS HEAD COLD (COB)"	{v}	0,auto;
 [contaminar]	{v}	"pollute(icl>dirty>do,cob>matter,agt>thing,obj>matter)"	"MAKE IMPURE"	"THE INDUSTRIAL WASTES POLLUTED THE LAKE"	{v}	0,auto;
 [contar]	{v}	"count(icl>do,equ>calculate,agt>thing,obj>thing)"	"DETERMINE THE NUMBER"	"TO COUNT LOSSES (OBJ)"	{v}	0,auto;
 [contar]	{v}	"enumerate(icl>determine>do,equ>count,agt>thing,obj>thing)"	"DETERMINE THE NUMBER OR AMOUNT OF"	"CAN YOU COUNT THE BOOKS ON YOUR SHELF?"	{v}	0,auto;
@@ -7949,7 +7949,7 @@
 [curtir]	{v}	"bronze(icl>discolor>occur,equ>tan,obj>thing)"	"GET A TAN, FROM WIND OR SUN"	""	{v}	0,auto;
 [curtir]	{v}	"tan(icl>convert>do,cob>thing,agt>thing,obj>thing)"	"TREAT SKINS AND HIDES WITH TANNIC ACID SO AS TO CONVERT THEM INTO LEATHER"	""	{v}	0,auto;
 [curtir]	{v}	"tan(icl>discolor>occur,obj>thing)"	"GET A TAN, FROM WIND OR SUN"	""	{v}	0,auto;
-[curvar]	{v}	"bend(icl>cause>do,agt>thing,obj>thing,ins>thing)"	"CAUSE TO CHANGE FORM"	"BEND THE ROD"	{v}	0,auto;
+[curvar]	{v}	"bend(icl>cause>do,agt>thing,obj>thing,ins>thing)"	"Cause (a plastic object) to assume a crooked or angular form"	"BEND THE ROD"	{v}	0,auto;
 [curvar]	{v}	"flex(icl>change_shape>occur,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"BEND THE ROD"	{v}	0,auto;
 [curvar]	{v}	"turn(icl>bend>do,agt>thing,obj>concrete_thing)"	"CAUSE TO ASSUME A CROOKED OR ANGULAR FORM"	"THE MAN (AGT) COULD TURN AN IRON BAR (OBJ); HIS MOUSTACHE (OBJ) WERE TURNED AND CURLED"	{v}	0,auto;
 [curvar]	{v}	"twist(icl>change_shape>occur,equ>flex,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	0,auto;
@@ -8104,9 +8104,8 @@
 [decaído]	{a}	"downcast(icl>adj,equ>blue)"	"LOW IN SPIRITS"	"DOWNCAST AFTER HIS DEFEAT"	{a}	0,auto;
 [decaído]	{a}	"low(icl>adj,equ>blue)"	"LOW IN SPIRITS"	"LONELY AND BLUE IN A STRANGE CITY"	{a}	0,auto;
 [decaído]	{a}	"low-spirited(icl>adj,equ>blue)"	"LOW IN SPIRITS"	"LONELY AND BLUE IN A STRANGE CITY"	{a}	0,auto;
-[decena]	{n}	"ten(icl>large_integer>thing)"	"THE CARDINAL NUMBER THAT IS THE SUM OF NINE AND ONE"	"THE BASE OF THE DECIMAL SYSTEM"	{n}	0,auto;
-[decena]	{n}	"tenner(icl>large_integer>thing,equ>ten)"	"THE CARDINAL NUMBER THAT IS THE SUM OF NINE AND ONE"	"THE BASE OF THE DECIMAL SYSTEM"	{n}	0,auto;
-[decena]	{n}	"x(icl>large_integer>thing,equ>ten)"	"THE CARDINAL NUMBER THAT IS THE SUM OF NINE AND ONE"	"THE BASE OF THE DECIMAL SYSTEM"	{n}	0,auto;
+[decena]	{n}	"ten(icl>large_integer>quantity)"	"THE CARDINAL NUMBER THAT IS THE SUM OF NINE AND ONE"	"THE BASE OF THE DECIMAL SYSTEM"	{n}	0,auto;
+[decena]	{n}	"x(icl>large_integer>thing,equ>ten)"	"Roman digit 10"	"X, XI, XII"	{n}	0,auto;
 [decenio]	{n}	"decade(icl>time_period>thing)"	"A PERIOD OF 10 YEARS"	""	{n}	0,auto;
 [decenio]	{n}	"decennary(icl>time_period>thing,equ>decade)"	"A PERIOD OF 10 YEARS"	""	{n}	0,auto;
 [decente]	{a}	"decent(icl>adj)"	"DECENTLY CLOTHED"	"ARE YOU DECENT?"	{a}	0,auto;
@@ -8475,7 +8474,7 @@
 [demostración]	{n}	"presentment(icl>show>thing,equ>presentation)"	"A SHOW OR DISPLAY"	"THE ACT OF PRESENTING SOMETHING TO SIGHT OR VIEW"	{n}	0,auto;
 [demostración]	{n}	"provability(icl>indisputability>thing,equ>demonstrability)"	"CAPABILITY OF BEING DEMONSTRATED OR LOGICALLY PROVED"	""	{n}	0,auto;
 [demostrar]	{v}	"attest(icl>testify>do,agt>thing,obj>thing)"	"PROVIDE EVIDENCE FOR"	"STAND AS PROOF OF"	{v}	0,auto;
-[demostrar]	{v}	"demonstrate(icl>confirm>be,equ>prove,obj>uw,aoj>thing)"	"ESTABLISH VALIDITY OF"	"THE EXPERIMENT (AOJ) DEMONSTRATES THE INSTABILITY (OBJ) OF THE COMPOUND"	{v}	0,auto;
+[demostrar]	{v}	"demonstrate(icl>confirm>be,equ>prove,obj>uw,aoj>thing)"	"Establish the validity of something, as by an example, explanation or experiment"	"THE EXPERIMENT (AOJ) DEMONSTRATES THE INSTABILITY (OBJ) OF THE COMPOUND"	{v}	0,auto;
 [demostrar]	{v}	"demonstrate(icl>testify>be,equ>attest,obj>thing,aoj>thing)"	"TO SHOW EVIDENCE OF"	"IT (AOJ) ONLY DEMONSTRATES YOUR GENERAL ATTITUDE (OBJ)"	{v}	0,auto;
 [demostrar]	{v}	"establish(icl>prove>do,agt>thing,obj>uw)"	"CHECK THE VALIDITY OF SOMETHING"	"IT IS ESTABLISHED THAT (OBJ) BLAIR LIED"	{v}	0,auto;
 [demostrar]	{v}	"evidence(icl>be,equ>attest,obj>uw,aoj>thing,ben>thing,met>thing)"	"BE THE EVIDENCE FOR"	"DOCUMENTS (AOJ) EVIDENCING SHIPMENT (OBJ)"	{v}	0,auto;
@@ -9698,7 +9697,7 @@
 [dictar]	{v}	"dictate(icl>inflict>do,equ>order,agt>volitional_thing,obj>thing,rec>volitional_thing)"	"ISSUE COMMANDS OR ORDERS FOR"	""	{v}	0,auto;
 [dictar]	{v}	"govern(icl>determine>be,obj>uw,aoj>thing)"	"DIRECT OR STRONGLY INFLUENCE THE BEHAVIOR OF"	"HIS BELIEF (AOJ) IN GOD GOVERNS HIS CONDUCT (OBJ)"	{v}	0,auto;
 [dictar]	{v}	"order(icl>tell>do,agt>volitional_thing,obj>uw,rec>thing)"	"ISSUE COMMANDS OR ORDERS FOR"	"TO ORDER TROOPS (REC) TO ADVANCE (OBJ)"	{v}	0,auto;
-[dictar]	{v}	"prescribe(icl>order>do,agt>thing,obj>uw,rec>person)"	"WHAT PUNISHMENT (OBJ) DOES THE LAW (AGT) PRESCRIBE FOR THIS CRIME?"	"TO STATE WHAT SHOULD BE DONE IN A PARTICULAR SITUATION"	{v}	0,auto;
+[dictar]	{v}	"prescribe(icl>order>do,agt>thing,obj>uw,rec>person)"	"To state what should be done in a particular situation"	"WHAT PUNISHMENT (OBJ) DOES THE LAW (AGT) PRESCRIBE FOR THIS CRIME?"	{v}	0,auto;
 [dictar]	{v}	"render(icl>communicate>do,agt>thing,obj>thing)"	"PASS DOWN"	"RENDER A VERDICT"	{v}	0,auto;
 [dictar]	{v}	"return(icl>let_know>do,agt>volitional_thing,obj>uw)"	"DECLARE"	"TO RETURN GUILTY (OBJ)"	{v}	0,auto;
 [dicterio]	{n}	"barb(icl>remark>thing,equ>shot)"	"AN AGGRESSIVE REMARK DIRECTED AT A PERSON LIKE A MISSILE AND INTENDED TO HAVE A TELLING EFFECT"	"HIS PARTING SHOT WAS `DROP DEAD'"	{n}	0,auto;
@@ -10154,7 +10153,7 @@
 [divulgación]	{n}	"dissemination(icl>transmission>thing)"	"THE OPENING OF A SUBJECT TO WIDESPREAD DISCUSSION AND DEBATE"	""	{n}	0,auto;
 [divulgar]	{v}	"relay(icl>communicate>do,via>thing,agt>volitional_thing,obj>thing,rec>thing)"	"PASS ALONG"	"PLEASE RELAY THE NEWS TO THE VILLAGERS"	{v}	0,auto;
 [divulgativo]	{a}	"informatory(icl>adj,equ>informative,ant>uninformative)"	"PROVIDING OR CONVEYING INFORMATION"	""	{a}	0,auto;
-[doblar]	{v}	"bend(icl>cause>do,agt>thing,obj>thing,ins>thing)"	"CAUSE TO CHANGE FORM"	"BEND THE ROD"	{v}	0,auto;
+[doblar]	{v}	"bend(icl>cause>do,agt>thing,obj>thing,ins>thing)"	"Cause (a plastic object) to assume a crooked or angular form"	"BEND THE ROD"	{v}	0,auto;
 [doblar]	{v}	"flex(icl>change_shape>occur,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"BEND THE ROD"	{v}	0,auto;
 [doblar]	{v}	"fold(icl>bend>do,agt>thing,obj>concrete_thing,gol>thing)"	"BEND OR LAY SO THAT ONE PART COVERS THE OTHER"	"FOLD THE PAPER ALONG THE DOTTED LINE"	{v}	0,auto;
 [doblar]	{v}	"fold_up(icl>wrap>do,cob>thing,agt<person,obj>thing)"	"BEND OR LAY SO THAT ONE PART COVERS THE OTHER"	"I LIKE TO FOLD PRESENTS UP IN PRETTY PAPER"	{v}	0,auto;
@@ -10172,10 +10171,8 @@
 [doblez]	{n}	"plait(icl>fold>thing,equ>pleat)"	"ANY OF VARIOUS TYPES OF FOLD FORMED BY DOUBLING FABRIC BACK UPON ITSELF AND THEN PRESSING OR STITCHING INTO SHAPE"	""	{n}	0,auto;
 [doblez]	{n}	"pleat(icl>fold>thing)"	"ANY OF VARIOUS TYPES OF FOLD FORMED BY DOUBLING FABRIC BACK UPON ITSELF AND THEN PRESSING OR STITCHING INTO SHAPE"	""	{n}	0,auto;
 [doceavo]	{a}	"twelfth(icl>adj)"	"COMING NEXT AFTER THE ELEVENTH AND JUST BEFORE THE THIRTEENTH IN POSITION"	""	{a}	0,auto;
-[doce]	{n}	"dozen(icl>large_integer>thing,equ>twelve)"	"A SET OF TWELVE"	"A DOZEN OF EGGS"	{n}	0,auto;
-[doce]	{n}	"dozen(icl>quantity)"	"QUANTITY"	"TWO DOZEN AND ONE GREYHOUNDS"	{n}	0,auto;
+[doce]	{n}	"dozen(icl>set>thing)"	"A SET OF TWELVE"	"DOZEN OF EGGS"	{n}	0,auto;
 [docente]	{n}	"academic(icl>educator>thing,equ>academician)"	"AN EDUCATOR WHO WORKS AT A COLLEGE OR UNIVERSITY"	""	{n}	0,auto;
-[doce]	{n}	"twelve(icl>large_integer>thing)"	"THE CARDINAL NUMBER THAT IS THE SUM OF ELEVEN AND ONE"	""	{n}	0,auto;
 [dócil]	{a}	"supine(icl>adj,equ>resistless)"	"OFFERING NO RESISTANCE"	"RESISTLESS HOSTAGES"	{a}	0,auto;
 [dócil]	{a}	"tame(icl>adj,ant>wild)"	"BROUGHT FROM WILDNESS INTO A DOMESTICATED STATE"	"TAME ANIMALS"	{a}	0,auto;
 [dócil]	{a}	"teachable(icl>adj,equ>docile)"	"READY AND WILLING TO BE TAUGHT"	"TEACHABLE YOUNGSTERS"	{a}	0,auto;
@@ -11518,7 +11515,7 @@
 [escaparse]	{v}	"scarper(icl>leave>do,equ>scat,plt>thing,plf>thing,agt>living_thing)"	"FLEE"	"TAKE TO ONE'S HEELS"	{v}	0,auto;
 [escaparse]	{v}	"scat(icl>leave>do,plt>thing,plf>thing,agt>living_thing)"	"FLEE"	"TAKE TO ONE'S HEELS"	{v}	0,auto;
 [escapar]	{v}	"escape(icl>avoid>do,equ>get_off,agt>thing)"	"ESCAPE POTENTIALLY UNPLEASANT CONSEQUENCES"	"GET AWAY WITH A FORBIDDEN ACTION"	{v}	0,auto;
-[escapar]	{v}	"fly(icl>move>do,equ>flee,plt>place,plf>thing,agt>volitional_thing,met>thing)"	"HE THREW DOWN HIS GUN AND FLEW"	"RUN AWAY QUICKLY"	{v}	0,auto;
+[escapar]	{v}	"fly(icl>move>do,equ>flee,plt>place,plf>thing,agt>volitional_thing,met>thing)"	"Run away quickly"	"HE (AGT) THREW DOWN HIS GUN AND FLEW"	{v}	0,auto;
 [escapar]	{v}	"get_away(icl>avoid>do,equ>get_off,agt>thing,obj>thing)"	"ESCAPE POTENTIALLY UNPLEASANT CONSEQUENCES"	"GET AWAY WITH A FORBIDDEN ACTION"	{v}	0,auto;
 [escapar]	{v}	"get_by(icl>avoid>do,equ>get_off,agt>thing)"	"ESCAPE POTENTIALLY UNPLEASANT CONSEQUENCES"	"GET AWAY WITH A FORBIDDEN ACTION"	{v}	0,auto;
 [escapar]	{v}	"get_off(icl>avoid>do,agt>thing)"	"ESCAPE POTENTIALLY UNPLEASANT CONSEQUENCES"	"GET AWAY WITH A FORBIDDEN ACTION"	{v}	0,auto;
@@ -16200,7 +16197,7 @@
 [llegar a ser]	{v}	"go(icl>occur,equ>become,obj>thing,gol>uw)"	"ENTER OR ASSUME A CERTAIN STATE OR CONDITION"	"HER FACE (OBJ) WENT RED (GOL) WITH ANGER"	{v}	0,auto;
 [llegar a]	{v}	"attain(icl>occur,equ>reach,obj>thing,gol>thing)"	"TO COME TO AS THE END OF A PROGRESSION"	"HE ATTAINED THE AGE OF NINETY"	{v}	0,auto;
 [llegar a]	{v}	"hit(icl>increase>occur,equ>reach,obj>thing,gol>thing)"	"REACH A POINT IN TIME A CERTAIN STATE OR LEVEL"	"SALES (OBJ) HAVE HIT THE 1 MILLION MARK (GOL)"	{v}	0,auto;
-[llegar a]	{v}	"reach(icl>extend>be,aoj>thing,gol>thing)"	"REACH A POINT IN TIME, A CERTAIN STATE OR LEVEL"	"HIS BEARD (AOJ) REACHED TO HIS WAIST (GOL) / THIS CAR (AOJ) CAN REACH A SPEED (GOL) OF 140 MILES PER HOUR"	{v}	0,auto;
+[llegar a]	{v}	"reach(icl>extend>be,aoj>thing,gol>thing)"	"Reach a point in time, or a certain state or level"	"HIS BEARD (AOJ) REACHED TO HIS WAIST (GOL) / THIS CAR (AOJ) CAN REACH A SPEED (GOL) OF 140 MILES PER HOUR"	{v}	0,auto;
 [llegar]	{v}	"come(icl>move>do,plt>place,agt>person)"	"TRAVEL TOWARD SOMETHING OR SOMEBODY"	"COME WITH ME (PTN) TO THE CASBAH (PLT)"	{v}	0,auto;
 [llegar]	{v}	"come(icl>move>do,plt>thing,plf>thing,agt>thing)"	"REACH A DESTINATION"	"HE (AGT) CAME HOME (PLT) AT 8 O'CLOCK"	{v}	0,auto;
 [llegar]	{v}	"come_up(icl>move>do,plt>thing,plf>place,agt>person)"	"MOVE TOWARD"	"HE CAME UP TO ME"	{v}	0,auto;
@@ -16554,7 +16551,7 @@
 [mandar]	{v}	"mail(icl>transfer>do,agt>thing,obj>thing)"	"CAUSE TO BE DIRECTED OR TRANSMITTED TO ANOTHER PLACE"	"I'LL MAIL YOU THE PAPER WHEN IT'S WRITTEN"	{v}	0,auto;
 [mandar]	{v}	"order(icl>tell>do,agt>volitional_thing,obj>uw,rec>thing)"	"ISSUE COMMANDS OR ORDERS FOR"	"TO ORDER TROOPS (REC) TO ADVANCE (OBJ)"	{v}	0,auto;
 [mandar]	{v}	"post(icl>send>do,plt>uw,plf>uw,agt>person,obj>thing)"	"TO SEND A LETTER, PACKAGE ETC BY POST"	"SHE'S (AGT) JUST GONE TO POST A LETTER (OBJ)"	{v}	0,auto;
-[mandar]	{v}	"prescribe(icl>order>do,agt>thing,obj>uw,rec>person)"	"WHAT PUNISHMENT (OBJ) DOES THE LAW (AGT) PRESCRIBE FOR THIS CRIME?"	"TO STATE WHAT SHOULD BE DONE IN A PARTICULAR SITUATION"	{v}	0,auto;
+[mandar]	{v}	"prescribe(icl>order>do,agt>thing,obj>uw,rec>person)"	"To state what should be done in a particular situation"	"WHAT PUNISHMENT (OBJ) DOES THE LAW (AGT) PRESCRIBE FOR THIS CRIME?"	{v}	0,auto;
 [mandar]	{v}	"require(icl>demand>do,agt>volitional_thing,obj>uw,cag>thing)"	"MAKE SOMEONE DO SOMETHING"	"THE COURT (AGT) REQUIRES YOU (CAG) TO ATTEND (OBJ)"	{v}	0,auto;
 [mandar]	{v}	"send(icl>transfer>do,plt>uw,plf>uw,agt>thing,obj>thing,rec>thing)"	"CAUSE TO BE TRANSFERRED TO ANOTHER PLACE"	"SEND ME (REC) YOUR LATEST RESULTS (OBJ)"	{v}	0,auto;
 [mandar]	{v}	"send_off(icl>transfer>do,equ>send,agt>thing,obj>thing)"	"TRANSFER"	"THE SPY SENT THE CLASSIFIED INFORMATION OFF TO RUSSIA"	{v}	0,auto;
@@ -17065,10 +17062,8 @@
 [milla náutica]	{n}	"mi(icl>nautical_linear_unit>thing,equ>nautical_mile)"	"A UNIT OF LENGTH USED IN NAVIGATION"	"EQUIVALENT TO THE DISTANCE SPANNED BY ONE MINUTE OF ARC IN LATITUDE"	{n}	0,auto;
 [milla]	{n}	"knot(icl>nautical_linear_unit>thing,equ>nautical_mile)"	"A UNIT OF LENGTH USED IN NAVIGATION"	"EQUIVALENT TO THE DISTANCE SPANNED BY ONE MINUTE OF ARC IN LATITUDE"	{n}	0,auto;
 [milla]	{n}	"mi(icl>nautical_linear_unit>thing,equ>nautical_mile)"	"A UNIT OF LENGTH USED IN NAVIGATION"	"EQUIVALENT TO THE DISTANCE SPANNED BY ONE MINUTE OF ARC IN LATITUDE"	{n}	0,auto;
-[mil]	{n}	"chiliad(icl>large_integer>thing,equ>thousand)"	"THE CARDINAL NUMBER THAT IS THE PRODUCT OF 10 AND 100"	""	{n}	0,auto;
-[mil]	{n}	"g(icl>large_integer>thing,equ>thousand)"	"THE CARDINAL NUMBER THAT IS THE PRODUCT OF 10 AND 100"	""	{n}	0,auto;
-[mil]	{n}	"m(icl>large_integer>thing,equ>thousand)"	"THE CARDINAL NUMBER THAT IS THE PRODUCT OF 10 AND 100"	""	{n}	0,auto;
-[mil]	{n}	"thousand(icl>large_integer>thing)"	"THE CARDINAL NUMBER THAT IS THE PRODUCT OF 10 AND 100"	""	{n}	0,auto;
+[mil]	{n}	"chiliad(icl>large_integer>quantity,equ>thousand)"	"THE CARDINAL NUMBER THAT IS THE PRODUCT OF 10 AND 100"	""	{n}	0,auto;
+[mil]	{n}	"thousand(icl>large_integer>quantity)"	"THE CARDINAL NUMBER THAT IS THE PRODUCT OF 10 AND 100"	""	{n}	0,auto;
 [ministra]	{n}	"minister(icl>executive>thing)"	"A PERSON APPOINTED TO A HIGH OFFICE IN THE GOVERNMENT"	"MINISTER OF FINANCE"	{n}	0,auto;
 [ministrar]	{v}	"ply(icl>give>do,equ>provide,cob>thing,agt>thing,obj>thing)"	"PROVIDE WHAT IS DESIRED OR NEEDED, ESPECIALLY SUPPORT, FOOD OR SUSTENANCE"	"THE HOSTESS PROVIDED LUNCH FOR ALL THE GUESTS"	{v}	0,auto;
 [ministrar]	{v}	"provide(icl>supply>do,obj>thing,ben>thing)"	"TO SUPPLY SOMETHING TO SOMEONE"	"TO PROVIDE ENTERTAINMENT (OBJ) FOR THE GUESTS (BEN)"	{v}	0,auto;
@@ -18816,7 +18811,7 @@
 [pillar]	{v}	"loot(icl>steal>do,agt>volitional_thing,obj>thing)"	"TAKE ILLEGALLY"	"OF INTELLECTUAL PROPERTY"	{v}	0,auto;
 [pillar]	{v}	"plunder(icl>steal>do,equ>loot,agt>volitional_thing,obj>thing)"	"TAKE ILLEGALLY"	"OF INTELLECTUAL PROPERTY"	{v}	0,auto;
 [pillar]	{v}	"plunder(icl>take>do,equ>sack,agt>thing,obj>thing)"	"PLUNDER (A TOWN) AFTER CAPTURE"	"THE BARBARIANS SACKED ROME"	{v}	0,auto;
-[pillar]	{v}	"sack(icl>plunder>do,agt>person,obj>place)"	"THE BARBARIANS (AGT) SACKED ROME (OBJ)"	"GO THROUGH DESTROYING OR STEALING THINGS AND ATTACKING PEOPLE"	{v}	0,auto;
+[pillar]	{v}	"sack(icl>plunder>do,agt>person,obj>place)"	"Plunder (a town) after capture"	"THE BARBARIANS (AGT) SACKED ROME (OBJ)"	{v}	0,auto;
 [piña]	{n}	"bang(icl>blow>thing,equ>knock)"	"A VIGOROUS BLOW"	"HE GOT A BANG ON THE HEAD"	{n}	0,auto;
 [piña]	{n}	"bash(icl>blow>thing,equ>knock)"	"A VIGOROUS BLOW"	"HE TOOK A BASH RIGHT IN HIS FACE"	{n}	0,auto;
 [piña]	{n}	"smash(icl>blow>thing,equ>knock)"	"A VIGOROUS BLOW"	"THE SUDDEN KNOCK FLOORED HIM"	{n}	0,auto;
