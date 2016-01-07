@@ -6833,7 +6833,7 @@
 [phụ nữ]	{n}	"woman(icl>female>person,ant>man)"	"A HUMAN FEMALE"	"SHE IS A WOMAN"	{n}	2,auto-polysemic-3lang;
 [phụ nữ]	{n}	"woman(icl>female>person,equ>lover,pos>man)"	"A WOMAN WHO PLAYS A SIGNIFICANT ROLE (WIFE OR MISTRESS OR GIRLFRIEND) IN THE LIFE OF A PARTICULAR MAN"	"HE WAS FAITHFUL TO HIS WOMAN"	{n}	2,auto-polysemic-3lang;
 [phường hội]	{n}	"corporation(icl>firm>thing)"	"A BUSINESS FIRM WHOSE ARTICLES OF INCORPORATION HAVE BEEN APPROVED IN SOME STATE"	""	{n}	2,auto-polysemic-3lang;
-[phương nam]	{n}	"south(icl>place,plc>place)"	"THE CARDINAL COMPASS POINT THAT IS AT 180 DEGREES"	"GATWICK AIRPORT IS A FEW MILES TO THE ~ OF LONDON"	{n}	2,auto-polysemic-3lang;
+[phương nam]	{n}	"south(iof>cardinal_compass_point>thing)"	"THE CARDINAL COMPASS POINT THAT IS AT 180 DEGREES"	"GATWICK AIRPORT IS A FEW MILES TO THE ~ OF LONDON"	{n}	2,auto-polysemic-3lang;
 [phương pháp hồi sinh]	{n}	"resuscitation(icl>revival>thing)"	"THE ACT OF REVIVING A PERSON AND RETURNING THEM TO CONSCIOUSNESS"	"ALTHOUGH HE WAS APPARENTLY DROWNED, RESUSCITATION WAS ACCOMPLISHED BY ARTIFICIAL RESPIRATION"	{n}	2,auto-monosemic-2lang;
 [phương pháp hồi sức]	{n}	"resuscitation(icl>revival>thing)"	"THE ACT OF REVIVING A PERSON AND RETURNING THEM TO CONSCIOUSNESS"	"ALTHOUGH HE WAS APPARENTLY DROWNED, RESUSCITATION WAS ACCOMPLISHED BY ARTIFICIAL RESPIRATION"	{n}	2,auto-monosemic-2lang;
 [phương pháp]	{n}	"method(icl>know-how>thing)"	"A WAY OF DOING SOMETHING, ESPECIALLY A SYSTEMATIC WAY"	"IMPLIES AN ORDERLY LOGICAL ARRANGEMENT (USUALLY IN STEPS)"	{n}	2,auto-polysemic-3lang;
