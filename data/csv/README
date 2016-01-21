@@ -16,6 +16,7 @@ All unicode text editors and standard POSIX and GNU tools like diff, patch, grep
     links-ext-sumo.csv	Links between UNL concepts and SUMO ontology
     links-ext-wn21.csv	Links between UNL concepts and Wordnet 2.1
     links-ext-wn30.csv	Links between UNL concepts and Wordnet 3.0
+    links-ext-hinwn.csv	Links between UNL concepts and Hindi Wordnet
 
 NOTE, that links-unl-uw.csv still contains only a part of the semantic network data it is supposed to provide.
 
