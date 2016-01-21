@@ -278,7 +278,7 @@
 [abyecto]	{a}	"scummy(icl>adj,equ>abject)"	"OF THE MOST CONTEMPTIBLE KIND"	"A SCUMMY RABBLE"	{a}	0,auto;
 [abyecto]	{a}	"scurvy(icl>adj,equ>abject)"	"OF THE MOST CONTEMPTIBLE KIND"	"A SCURVY TRICK"	{a}	0,auto;
 [acabado]	{n}	"finish(icl>decorativeness>thing,equ>coating)"	"A DECORATIVE TEXTURE OR APPEARANCE OF A SURFACE (OR THE SUBSTANCE THAT GIVES IT THAT APPEARANCE)"	"THE BOAT HAD A METALLIC FINISH"	{n}	0,auto;
-[acabamiento]	{n}	"end(icl>place,aoj>concrete_thing)"	"A BOUNDARY MARKING THE EXTREMITIES OF SOMETHING"	"THE END OF TOWN"	{n}	0,auto;
+[acabamiento]	{n}	"end(icl>boundary>abstract_thing,aoj>concrete_thing)"	"A BOUNDARY MARKING THE EXTREMITIES OF SOMETHING"	"THE END OF TOWN"	{n}	0,auto;
 [acabar con]	{v}	"clear_up(icl>complete>do,equ>get_through,agt>thing,obj>thing)"	"FINISH A TASK COMPLETELY"	"I FINALLY GOT THROUGH THIS HOMEWORK ASSIGNMENT"	{v}	0,auto;
 [acabar con]	{v}	"finish(icl>cause>do,equ>end,cob>person,agt>thing,obj>person)"	"CAUSE TO FINISH A RELATIONSHIP WITH SOMEBODY"	"THAT FINISHED ME WITH MARY"	{v}	0,auto;
 [acabar con]	{v}	"finish_off(icl>complete>do,equ>get_through,agt>volitional_thing,obj>thing,met>thing)"	"FINISH A TASK COMPLETELY"	"I FINALLY GOT THROUGH THIS HOMEWORK ASSIGNMENT"	{v}	0,auto;
@@ -9481,7 +9481,7 @@
 [destreza]	{n}	"craft(icl>skill>thing)"	"SKILL IN AN OCCUPATION OR TRADE"	""	{n}	0,auto;
 [destreza]	{n}	"dexterity(icl>adeptness>thing)"	"ADROITNESS IN USING THE HANDS"	""	{n}	0,auto;
 [destreza]	{n}	"sleight(icl>adeptness>thing,equ>dexterity)"	"ADROITNESS IN USING THE HANDS"	""	{n}	0,auto;
-[destrozarse]	{v}	"shatter(icl>break>occur,obj>concrete_thing,gol>thing,ins>thing)"	"BREAK INTO MANY PIECES"	"THE PLATE HIT THE FLOOR, AND SHATTERED INTO TINY BITS"	{v}	0,auto;
+[destrozarse]	{v}	"shatter(icl>break>occur,obj>concrete_thing,gol>thing,ins>thing)"	"BECOME BROKEN INTO MANY PIECES"	"THE PLATE HIT THE FLOOR, AND SHATTERED INTO TINY BITS"	{v}	0,auto;
 [destrozar]	{v}	"bust_up(icl>destroy>do,agt>thing,obj>thing)"	"SMASH OR BREAK FORCEFULLY"	"THE KID BUSTED UP THE CAR"	{v}	0,auto;
 [destrozar]	{v}	"cut_up(icl>damage>do,equ>mutilate,agt>thing,obj>thing)"	"DESTROY OR INJURE SEVERELY"	"THE MADMAN MUTILATES ART WORK"	{v}	0,auto;
 [destrozar]	{v}	"demolish(icl>get_the_better_of>do,agt>thing,obj>thing)"	"DEFEAT SOUNDLY"	"THE HOME TEAM DEMOLISHED THE VISITORS"	{v}	0,auto;
@@ -9496,7 +9496,7 @@
 [destrozar]	{v}	"ravage(icl>destroy>do,equ>lay_waste_to,agt>thing,obj>thing)"	"DEVASTATE OR RAVAGE"	"THE ENEMY LAY WASTE TO THE COUNTRYSIDE AFTER THE INVASION"	{v}	0,auto;
 [destrozar]	{v}	"ruin(icl>do,equ>destroy,agt>thing,obj>thing,met>thing)"	"DESTROY COMPLETELY"	"DAMAGE IRREPARABLY"	{v}	0,auto;
 [destrozar]	{v}	"scourge(icl>destroy>do,equ>lay_waste_to,agt>thing,obj>thing)"	"DEVASTATE OR RAVAGE"	"THE ENEMY LAY WASTE TO THE COUNTRYSIDE AFTER THE INVASION"	{v}	0,auto;
-[destrozar]	{v}	"shatter(icl>break>occur,obj>concrete_thing,gol>thing,ins>thing)"	"BREAK INTO MANY PIECES"	"THE PLATE HIT THE FLOOR, AND SHATTERED INTO TINY BITS"	{v}	0,auto;
+[destrozar]	{v}	"shatter(icl>break>occur,obj>concrete_thing,gol>thing,ins>thing)"	"BECOME BROKEN INTO MANY PIECES"	"THE PLATE HIT THE FLOOR, AND SHATTERED INTO TINY BITS"	{v}	0,auto;
 [destrozar]	{v}	"smash(icl>break>do,agt>thing,obj>concrete_thing,gol>thing,ins>thing)"	"BREAK; DESTROY"	"VANDALS HAD SMASHED ALL THE WINDOWS; TO SMASH A THEORY"	{v}	0,auto;
 [destrozar]	{v}	"smash_up(icl>damage>do,equ>bang_up,agt>thing,obj>thing,gol>thing,ins>thing)"	"DAMAGE OR DESTROY AS IF BY VIOLENCE"	"THE TEENAGER BANGED UP THE CAR OF HIS MOTHER"	{v}	0,auto;
 [destrozar]	{v}	"waste(icl>devastate>do,agt>volitional_thing,obj>thing)"	"DEVASTATE OR RAVAGE"	"HE FELL SUDDENLY ON THEM WITH FOUR LEGIONS, SEIZED THEIR CATTLE, WASTED THEIR COUNTRY."	{v}	0,auto;
@@ -9507,7 +9507,7 @@
 [destrozo]	{n}	"scathe(icl>change_of_integrity>thing,equ>damage)"	"THE ACT OF DAMAGING SOMETHING OR SOMEONE"	""	{n}	0,auto;
 [destrucción]	{n}	"destruction(icl>state>thing,equ>end)"	"A FINAL STATE"	"HE CAME TO A BAD END"	{n}	0,auto;
 [destrucción]	{n}	"destruction(icl>termination>thing)"	"THE TERMINATION OF SOMETHING BY CAUSING SO MUCH DAMAGE TO IT THAT IT CANNOT BE REPAIRED OR NO LONGER EXISTS"	""	{n}	0,auto;
-[destrucción]	{n}	"end(icl>state,aoj>thing)"	"A FINAL STATE"	"HE CAME TO A BAD END"	{n}	0,auto;
+[destrucción]	{n}	"end(icl>state>abstract_thing,aoj>thing)"	"A FINAL STATE"	"HE CAME TO A BAD END"	{n}	0,auto;
 [destrucción]	{n}	"eradication(icl>destruction>thing)"	"THE COMPLETE DESTRUCTION OF EVERY TRACE OF SOMETHING"	""	{n}	0,auto;
 [destrucción]	{n}	"obliteration(icl>destruction>thing,equ>eradication)"	"THE COMPLETE DESTRUCTION OF EVERY TRACE OF SOMETHING"	""	{n}	0,auto;
 [destructivo]	{a}	"negative(icl>adj,equ>damaging)"	"DESIGNED OR TENDING TO DISCREDIT, ESPECIALLY WITHOUT POSITIVE OR HELPFUL SUGGESTIONS"	"NEGATIVE CRITICISM"	{a}	0,auto;
@@ -10126,7 +10126,6 @@
 [dividirse]	{v}	"separate(icl>divide>occur,cob>thing,obj>concrete_thing,gol>uw)"	"COME APART"	"AT THIS POINT THE SATELLITE (OBJ) SEPARATES FROM ITS LAUNCHER (COB)"	{v}	0,auto;
 [dividir]	{v}	"carve_up(icl>change_integrity>do,equ>divide,agt>thing,obj>thing)"	"SEPARATE INTO PARTS OR PORTIONS"	"DIVIDE THE CAKE INTO THREE EQUAL PARTS"	{v}	0,auto;
 [dividir]	{v}	"dissever(icl>change_integrity>do,equ>divide,cob>thing,agt>thing,obj>thing)"	"SEPARATE INTO PARTS OR PORTIONS"	"DIVIDE THE CAKE INTO THREE EQUAL PARTS"	{v}	0,auto;
-[dividir]	{v}	"divide(icl>calculate>do,agt>thing,obj>thing)"	"PERFORM A DIVISION"	"CAN YOU DIVIDE 49 BY SEVEN?"	{v}	0,auto;
 [dividir]	{v}	"divide(icl>calculate>do,cob>number,agt>thing,obj>thing)"	"PERFORM MATHEMATICAL DIVISION"	"TO DIVIDE 60 (OBJ) BY 12 (COB)"	{v}	0,auto;
 [dividir]	{v}	"divide(icl>change>do,equ>separate,agt>thing,obj>thing,gol>thing,ins>thing)"	"SEPARATE SMTH INTO PARTS"	"DIVIDE THE DOUGH (OBJ) INTO TWO BALLS (GOL) WITH A KNIFE (INS)"	{v}	0,auto;
 [dividir]	{v}	"divide(icl>give>do,equ>distribute,agt>thing,obj>thing,ins>thing,rec>thing)"	"TO DISTRIBUTE BETWEEN SEVERAL RECEPIENTS"	"TO DIVIDE THE PRIZE (OBJ) BETWEEN THE WINNERS (REC)"	{v}	0,auto;
@@ -11996,7 +11995,7 @@
 [estrellarse]	{v}	"break_up(icl>disintegrate>occur,equ>crash,obj>thing)"	"BREAK VIOLENTLY OR NOISILY"	"SMASH"	{v}	0,auto;
 [estrellarse]	{v}	"crash(icl>disintegrate>occur,obj>thing)"	"BREAK VIOLENTLY OR NOISILY"	"SMASH"	{v}	0,auto;
 [estrellarse]	{v}	"crash(icl>move>occur,obj>thing)"	"MOVE WITH, OR AS IF WITH, A CRASHING NOISE"	"THE CAR CRASHED THROUGH THE GLASS DOOR"	{v}	0,auto;
-[estrellar]	{v}	"shatter(icl>break>occur,obj>concrete_thing,gol>thing,ins>thing)"	"BREAK INTO MANY PIECES"	"THE PLATE HIT THE FLOOR, AND SHATTERED INTO TINY BITS"	{v}	0,auto;
+[estrellar]	{v}	"shatter(icl>break>occur,obj>concrete_thing,gol>thing,ins>thing)"	"BECOME BROKEN INTO MANY PIECES"	"THE PLATE HIT THE FLOOR, AND SHATTERED INTO TINY BITS"	{v}	0,auto;
 [estremecedor]	{a}	"shivery(icl>adj,equ>chilling)"	"SO SCARY AS TO CAUSE CHILLS AND SHUDDERS"	"THE MOST TERRIBLE AND SHUDDERY...TALES OF MURDER AND REVENGE"	{a}	0,auto;
 [estremecerse]	{v}	"shiver(icl>tremble>occur,rsn>thing,obj>living_thing)"	"SHAKE, AS FROM COLD"	"THE CHILDREN WAITED OUTSIDE THE SCHOOL, SHIVERING WITH COLD"	{v}	0,auto;
 [estremecerse]	{v}	"shudder(icl>move_involuntarily>occur,equ>shiver,rsn>thing,obj>living_thing)"	"SHAKE, AS FROM COLD"	"THE CHILDREN ARE SHIVERING--TURN ON THE HEAT!"	{v}	0,auto;
@@ -12526,7 +12525,7 @@
 [extremista]	{n}	"radical(icl>person>thing)"	"A PERSON WHO HAS RADICAL IDEAS OR OPINIONS"	""	{n}	0,auto;
 [extremo]	{a}	"net(icl>adj,equ>final)"	"CONCLUSIVE IN A PROCESS OR PROGRESSION"	"THE NET RESULT WILL BE HIGHER COSTS TO THE CONSUMER"	{a}	0,auto;
 [extremo]	{a}	"utmost(icl>adj,equ>last)"	"HIGHEST IN EXTENT OR DEGREE"	"TO THE LAST MEASURE OF HUMAN ENDURANCE"	{a}	0,auto;
-[extremo]	{n}	"end(icl>place,aoj>concrete_thing)"	"A BOUNDARY MARKING THE EXTREMITIES OF SOMETHING"	"THE END OF TOWN"	{n}	0,auto;
+[extremo]	{n}	"end(icl>boundary>abstract_thing,aoj>concrete_thing)"	"A BOUNDARY MARKING THE EXTREMITIES OF SOMETHING"	"THE END OF TOWN"	{n}	0,auto;
 [extremo superior]	{n}	"point(icl>convex_shape>thing)"	"A V SHAPE"	"THE CANNIBAL'S TEETH WERE FILED TO SHARP POINTS"	{n}	0,auto;
 [extremo superior]	{n}	"tip(icl>convex_shape>thing,equ>point)"	"A V SHAPE"	"THE CANNIBAL'S TEETH WERE FILED TO SHARP POINTS"	{n}	0,auto;
 [extrovertido]	{a}	"forthcoming(icl>adj,equ>extroverted)"	"AT EASE IN TALKING TO OTHERS"	""	{a}	0,auto;
@@ -12920,7 +12919,7 @@
 [finalizar]	{v}	"stop(icl>occur,ant>continue,obj>thing)"	"HAVE AN END, IN A TEMPORAL, SPATIAL, OR QUANTITATIVE SENSE"	"BY MIDDAY THE RAIN (OBJ) HAD STOPPED"	{v}	0,auto;
 [finalizar]	{v}	"terminate(icl>end>occur,obj>thing,gol>thing)"	"HAVE AN END, IN A TEMPORAL, SPATIAL, OR QUANTITATIVE SENSE"	"THERE HAS BEEN A SECOND BATTLE IN SPAIN, WHICH TERMINATED IN FAVOUR OF KING CHARLES"	{v}	0,auto;
 [finalizar]	{v}	"wind_up(icl>bring_to_an_end>do,agt>person,obj>thing)"	"FINALLY BE OR DO SOMETHING"	"OK, JUST TO WIND UP, COULD I SUMMARIZE WHAT WE'VE DECIDED?"	{v}	0,auto;
-[final]	{n}	"end(icl>state,aoj>thing)"	"A FINAL STATE"	"HE CAME TO A BAD END"	{n}	0,auto;
+[final]	{n}	"end(icl>state>abstract_thing,aoj>thing)"	"A FINAL STATE"	"HE CAME TO A BAD END"	{n}	0,auto;
 [final]	{n}	"finish(icl>happening>thing,equ>ending,ant>beginning)"	"EVENT WHOSE OCCURRENCE ENDS SOMETHING"	"WHEN THESE FINAL EPISODES ARE BROADCAST IT WILL BE THE FINISH OF THE SHOW"	{n}	0,auto;
 [financiación]	{n}	"financing(icl>finance>thing)"	"THE ACT OF FINANCING"	""	{n}	0,auto;
 [finca]	{n}	"demesne(icl>real_property>thing,equ>estate)"	"EXTENSIVE LANDED PROPERTY (ESPECIALLY IN THE COUNTRY) RETAINED BY THE OWNER FOR HIS OWN USE"	"THE FAMILY OWNED A LARGE ESTATE ON LONG ISLAND"	{n}	0,auto;
@@ -18342,7 +18341,7 @@
 [pastrana]	{n}	"hoax(icl>trickery>thing,equ>fraud)"	"SOMETHING INTENDED TO DECEIVE"	"DELIBERATE TRICKERY INTENDED TO GAIN AN ADVANTAGE"	{n}	0,auto;
 [pastrana]	{n}	"humbug(icl>trickery>thing,equ>fraud)"	"SOMETHING INTENDED TO DECEIVE"	"DELIBERATE TRICKERY INTENDED TO GAIN AN ADVANTAGE"	{n}	0,auto;
 [patán]	{n}	"barbarian(icl>unpleasant_person>thing,equ>peasant)"	"A CRUDE UNCOUTH ILL-BRED PERSON LACKING CULTURE OR REFINEMENT"	""	{n}	0,auto;
-[patán]	{n}	"boor(icl>unpleasant_person>thing,equ>peasant)"	"A CRUDE UNCOUTH ILL-BRED PERSON LACKING CULTURE OR REFINEMENT"	""	{n}	0,auto;
+[patán]	{n}	"boor(icl>unpleasant_person>thing,equ>peasant,com>male)"	"A CRUDE UNCOUTH ILL-BRED PERSON LACKING CULTURE OR REFINEMENT"	""	{n}	0,auto;
 [patán]	{n}	"churl(icl>unpleasant_person>thing,equ>peasant)"	"A CRUDE UNCOUTH ILL-BRED PERSON LACKING CULTURE OR REFINEMENT"	""	{n}	0,auto;
 [patán]	{n}	"goth(icl>unpleasant_person>thing,equ>peasant)"	"A CRUDE UNCOUTH ILL-BRED PERSON LACKING CULTURE OR REFINEMENT"	""	{n}	0,auto;
 [patearse]	{v}	"traipse(icl>walk>do,agt>living_thing)"	"WALK OR TRAMP ABOUT"	""	{v}	0,auto;
@@ -20305,7 +20304,7 @@
 [resultar]	{v}	"go_over(icl>happen>occur,equ>go_off,obj>thing)"	"HAPPEN IN A PARTICULAR MANNER"	"HOW DID YOUR TALK GO OVER?"	{v}	0,auto;
 [resultar]	{v}	"turn_out(icl>happen>be,obj>uw,aoj>thing)"	"PROVE TO BE IN THE RESULT OR END"	"IT TURNS OUT THAT HE WAS RIGHT"	{v}	0,auto;
 [resumen]	{n}	"summary(icl>statement>thing)"	"A BRIEF STATEMENT THAT PRESENTS THE MAIN POINTS IN A CONCISE FORM"	"HE GAVE A SUMMARY OF THE CONCLUSIONS"	{n}	0,auto;
-[retal]	{n}	"end(icl>piece_of_cloth>concrete_thing)"	"A PIECE OF CLOTH THAT IS LEFT OVER AFTER THE REST HAS BEEN USED OR SOLD"	""	{n}	0,auto;
+[retal]	{n}	"end(icl>piece>concrete_thing,com>cloth)"	"A PIECE OF CLOTH THAT IS LEFT OVER AFTER THE REST HAS BEEN USED OR SOLD"	""	{n}	0,auto;
 [retal]	{n}	"snip(icl>piece>thing)"	"A SMALL PIECE OF ANYTHING (ESPECIALLY A PIECE THAT HAS BEEN SNIPPED OFF)"	""	{n}	0,auto;
 [retal]	{n}	"snippet(icl>piece>thing,equ>snip)"	"A SMALL PIECE OF ANYTHING (ESPECIALLY A PIECE THAT HAS BEEN SNIPPED OFF)"	""	{n}	0,auto;
 [retazo]	{n}	"chip(icl>fragment>thing,equ>bit)"	"A SMALL FRAGMENT OF SOMETHING BROKEN OFF FROM THE WHOLE"	"A BIT OF ROCK CAUGHT HIM IN THE EYE"	{n}	0,auto;

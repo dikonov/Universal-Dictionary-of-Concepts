@@ -3370,7 +3370,7 @@
 [giúp đỡ]	{v}	"help(icl>better>occur,obj>thing,ben>living_thing)"	"IMPROVE THE CONDITION OF"	"THESE PILLS (OBJ) WILL HELP THE PATIENT (BEN)"	{v}	2,auto-polysemic-3lang;
 [giúp việc]	{v}	"assist(icl>do,equ>aid,agt>person,ben>person,met>thing,scn>thing)"	"GIVE HELP OR ASSISTANCE"	"WOULD YOU BE KIND ENOUGH TO ASSIST ME IN A SMALL EXPERIMENT"	{v}	2,auto-polysemic-3lang;
 [giúp việc]	{v}	"assist(icl>work>do,agt>thing)"	"ACT AS AN ASSISTANT IN A SUBORDINATE OR SUPPORTIVE FUNCTION"	"ANOTHER SURGEON ASSISTED ON THE OPERATION"	{v}	2,auto-polysemic-3lang;
-[giữ]	{v}	"keep(icl>store>do,agt>thing,obj>thing,plc>thing)"	"STORE OR KEEP CUSTOMARILY"	"WHERE DO YOU (AGT) KEEP YOUR GARDENING TOOLS (OBJ)?"	{v}	2,auto-polysemic-3lang;
+[giữ]	{v}	"keep(icl>store>do,agt>person,obj>thing,plc>thing)"	"STORE OR KEEP CUSTOMARILY"	"WHERE DO YOU (AGT) KEEP YOUR GARDENING TOOLS (OBJ)?"	{v}	2,auto-polysemic-3lang;
 [giữ]	{v}	"maintain(icl>have>do,equ>keep,agt>thing,obj>thing)"	"MAINTAIN FOR USE AND SERVICE"	"I KEEP A CAR IN THE COUNTRYSIDE"	{v}	2,auto-polysemic-3lang;
 [glixerin]	{n}	"glycerin(icl>alcohol>thing,equ>glycerol)"	"A SWEET SYRUPY TRIHYDROXY ALCOHOL OBTAINED BY SAPONIFICATION OF FATS AND OILS"	""	{n}	1,auto-monosemic-1lang;
 [glucogen]	{n}	"glycogen(icl>polysaccharide>thing)"	"ONE FORM IN WHICH BODY FUEL IS STORED"	"STORED PRIMARILY IN THE LIVER AND BROKEN DOWN INTO GLUCOSE WHEN NEEDED BY THE BODY"	{n}	2,auto-monosemic-2lang;
@@ -5661,7 +5661,7 @@
 [ngà voi]	{n}	"ivory(icl>dentine>thing)"	"A HARD SMOOTH IVORY COLORED DENTINE THAT MAKES UP MOST OF THE TUSKS OF ELEPHANTS AND WALRUSES"	""	{n}	1,auto-monosemic-1lang;
 [ngay]	{a}	"instantaneous(icl>adj)"	"OCCURRING WITH NO DELAY"	"RELIEF WAS INSTANTANEOUS"	{a}	2,auto-polysemic-3lang;
 [ngay lúc ấy]	{misc}	"immediately(icl>how,com>immediate)"	"NEAR OR CLOSE BY"	"HE PASSED IMMEDIATELY BEHIND HER"	{misc}	2,auto-monosemic-2lang;
-[ngày]	{n}	"day(icl>era>thing)"	"AN ERA OF EXISTENCE OR INFLUENCE"	"IN THE DAY OF THE DINOSAURS"	{n}	2,auto-polysemic-3lang;
+[ngày]	{n}	"day(icl>abstract_thing,equ>era,aoj>uw)"	"AN ERA OF EXISTENCE OR INFLUENCE"	"IN THE DAY OF THE DINOSAURS"	{n}	2,auto-polysemic-3lang;
 [ngày]	{n}	"day(icl>period>time,icl>unit)"	"MEASURE OF TIME"	"HE LEFT TWO DAYS AGO"	{n}	2,auto-polysemic-3lang;
 [ngày]	{n}	"day(icl>time_period>thing,equ>daylight,ant>night)"	"THE TIME AFTER SUNRISE AND BEFORE SUNSET WHILE IT IS LIGHT OUTSIDE"	"THE DAWN TURNED NIGHT INTO DAY"	{n}	2,auto-polysemic-3lang;
 [ngày]	{n}	"day(icl>work_time>thing)"	"THE RECURRING HOURS WHEN YOU ARE NOT SLEEPING (ESPECIALLY THOSE WHEN YOU ARE WORKING)"	"MY DAY BEGAN EARLY THIS MORNING"	{n}	2,auto-polysemic-3lang;
