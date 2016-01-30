@@ -27983,7 +27983,6 @@ thunder(icl>shout>do,agt>thing)	Direct	v	1(2)	11217
 thunderbolt(icl>lightning>thing)	Direct	n	1(2)	10012
 thurible(icl>vessel>thing,equ>censer)	Direct	n	3(2)	9177
 thursday(icl>weekday>thing)	Direct	n	3(2),1(2)	1749
-thus(icl>how)	Direct	adv	3(2),3(2)	10811
 thwarted(icl>adj,equ>defeated)	Direct	a	1(2)	13089
 thymus(icl>endocrine_gland>thing,equ>thymus_gland)	Direct	n	1(2)	24106
 thymus_gland(icl>endocrine_gland>thing)	Direct	n	1(2)	24106
@@ -30838,7 +30837,6 @@ warm(icl>become_warm>occur,obj>concrete_thing,gol>thing)	Direct	v	3(2)	5926
 warm(icl>make_warm>do,agt>thing,obj>concrete_thing,gol>thing)	Direct	v	2(2)	5962
 warm-blooded(icl>adj,ant>cold-blooded)	Direct	a	1(4),2(4)	13288
 warm_up(icl>boil_up>do,agt>thing,obj>concrete_thing)	Direct	v	3(2)	5926
-warn(icl>inform>do,agt>thing)	Direct	v	2(2)	11150
 warn(icl>rede>do,agt>thing,obj>thing)	Direct	v	1(2)	5473
 warning(icl>informing>thing)	Direct	n	1(4)	5287
 warp(icl>misrepresent>do,equ>falsify,agt>volitional_thing,obj>thing)	Direct	v	1(2)	5625
