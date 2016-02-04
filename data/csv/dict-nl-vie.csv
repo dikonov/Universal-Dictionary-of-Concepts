@@ -5609,7 +5609,7 @@
 [nấu chảy]	{v}	"melt(icl>liquefy>do,equ>dissolve,src>thing,agt>thing,obj>matter,gol>thing)"	"BECOME OR CAUSE TO BECOME SOFT OR LIQUID"	"THE SUN MELTED THE ICE"	{v}	2,auto-polysemic-3lang;
 [này]	{a}	"that(icl>determiner>adj,com>remote,mod<concrete_thing)"	"DETERMINER - THE SPECIFIED REMOTE THING"	"THAT (MOD) THING"	{a}	2,auto-polysemic-3lang;
 [này]	{a}	"this(icl>determiner>adj,mod<concrete_thing)"	"DETERMINER - THE SPECIFIED CLOSELY LOCATED THING"	"THIS (MOD) THING"	{a}	2,auto-polysemic-3lang;
-[này!]	{misc}	"hey(icl>how)"	"USED TO CALL ATTENTION"	"HEY, MISTER!"	{misc}	2,auto-polysemic-3lang;
+[này!]	{misc}	"hey(icl>how,com>address,obj>person)"	"USED TO CALL ATTENTION"	"HEY, MISTER!"	{misc}	2,auto-polysemic-3lang;
 [nệ cổ]	{a}	"old-fashioned(icl>adj,equ>antique)"	"OUT OF FASHION"	"A SUIT OF RATHER ANTIQUE APPEARANCE"	{a}	1,auto-monosemic-1lang;
 [ném]	{v}	"pitch(icl>fling>do,equ>flip,plt>thing,agt>living_thing,obj>concrete_thing)"	"THROW OR TOSS WITH A LIGHT MOTION"	"FLIP ME THE BEACHBALL"	{v}	2,auto-polysemic-3lang;
 [nền móng]	{n}	"foundation(icl>support>thing)"	"LOWEST SUPPORT OF A STRUCTURE"	"IT WAS BUILT ON A BASE OF SOLID ROCK"	{n}	2,auto-polysemic-3lang;
