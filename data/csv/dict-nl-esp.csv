@@ -232,12 +232,12 @@
 [absurdo]	{a}	"preposterous(icl>adj,equ>absurd)"	"INCONGRUOUS"	"A PREPOSTEROUS ATTEMPT TO TURN BACK THE PAGES OF HISTORY"	{a}	0,auto;
 [abucheo]	{n}	"barracking(icl>break>thing,equ>heckling)"	"SHOUTING TO INTERRUPT A SPEECH WITH WHICH YOU DISAGREE"	""	{n}	0,auto;
 [abuela]	{n}	"beldame(icl>old_woman>thing,equ>beldam)"	"A WOMAN OF ADVANCED AGE"	""	{n}	0,auto;
-[abuela]	{n}	"grandmother(icl>grandparent>thing,equ>grandma)"	"THE MOTHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
+[abuela]	{n}	"grandmother(icl>grandparent>thing,equ>grandma,obj>woman,cob>person)"	"THE MOTHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
 [abuela]	{n}	"granny(icl>grandparent>thing,equ>grandma)"	"THE MOTHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
 [abuelito]	{n}	"gramps(icl>grandparent>thing,equ>grandfather)"	"THE FATHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
-[abuelito]	{n}	"grandfather(icl>grandparent>thing)"	"THE FATHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
+[abuelito]	{n}	"grandfather(icl>grandparent>thing,obj>man,cob>person)"	"THE FATHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
 [abuelo]	{n}	"gramps(icl>grandparent>thing,equ>grandfather)"	"THE FATHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
-[abuelo]	{n}	"grandfather(icl>grandparent>thing)"	"THE FATHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
+[abuelo]	{n}	"grandfather(icl>grandparent>thing,obj>man,cob>person)"	"THE FATHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
 [abuelo]	{n}	"grandpa(icl>grandparent>thing,equ>grandfather)"	"THE FATHER OF YOUR FATHER OR MOTHER"	""	{n}	0,auto;
 [abuelo]	{n}	"graybeard(icl>oldster>thing,equ>old_man)"	"A MAN WHO IS VERY OLD"	""	{n}	0,auto;
 [abuelo]	{n}	"methuselah(icl>oldster>thing,equ>old_man)"	"A MAN WHO IS VERY OLD"	""	{n}	0,auto;
@@ -1991,7 +1991,7 @@
 [antecesor]	{n}	"root(icl>relative>thing,equ>ancestor,ant>descendant)"	"SOMEONE FROM WHOM YOU ARE DESCENDED (BUT USUALLY MORE REMOTE THAN A GRANDPARENT)"	""	{n}	0,auto;
 [antepasado]	{n}	"ancestor(icl>relative>thing,ant>descendant)"	"SOMEONE FROM WHOM YOU ARE DESCENDED (BUT USUALLY MORE REMOTE THAN A GRANDPARENT)"	""	{n}	0,auto;
 [antepasado]	{n}	"ascendant(icl>relative>thing,equ>ancestor,ant>descendant)"	"SOMEONE FROM WHOM YOU ARE DESCENDED (BUT USUALLY MORE REMOTE THAN A GRANDPARENT)"	""	{n}	0,auto;
-[antepasado]	{n}	"father(icl>ancestor>person,equ>forefather)"	"THE FOUNDER OF A FAMILY"	"KEEP THE FAITH OF OUR FATHERS"	{n}	0,auto;
+[antepasado]	{n}	"father(icl>ancestor>person,equ>forefather,obj>man,cob>person)"	"THE FOUNDER OF A FAMILY"	"KEEP THE FAITH OF OUR FATHERS"	{n}	0,auto;
 [antepasado]	{n}	"forefather(icl>ancestor>thing)"	"THE FOUNDER OF A FAMILY"	"KEEP THE FAITH OF OUR FOREFATHERS"	{n}	0,auto;
 [antepasado]	{n}	"root(icl>relative>thing,equ>ancestor,ant>descendant)"	"SOMEONE FROM WHOM YOU ARE DESCENDED (BUT USUALLY MORE REMOTE THAN A GRANDPARENT)"	""	{n}	0,auto;
 [antepasado]	{n}	"sire(icl>ancestor>thing,equ>forefather)"	"THE FOUNDER OF A FAMILY"	"KEEP THE FAITH OF OUR FOREFATHERS"	{n}	0,auto;
@@ -18025,7 +18025,7 @@
 [pacto]	{n}	"deal(icl>agreement>thing,equ>bargain)"	"AN AGREEMENT BETWEEN PARTIES (USUALLY ARRIVED AT AFTER DISCUSSION) FIXING OBLIGATIONS OF EACH"	"HE MADE A BARGAIN WITH THE DEVIL"	{n}	0,auto;
 [pacto]	{n}	"pact(icl>written_agreement>thing,equ>treaty)"	"A WRITTEN AGREEMENT BETWEEN TWO STATES OR SOVEREIGNS"	""	{n}	0,auto;
 [padre]	{n}	"begetter(icl>parent>thing,equ>father,ant>mother)"	"A MALE PARENT (ALSO USED AS A TERM OF ADDRESS TO YOUR FATHER)"	"HIS FATHER WAS BORN IN ATLANTA"	{n}	0,auto;
-[padre]	{n}	"father(icl>parent>living_thing,ant>mother,pos>child)"	"A MALE PARENT"	"HIS FATHER WAS BORN IN ATLANTA"	{n}	0,auto;
+[padre]	{n}	"father(icl>parent>thing,ant>mother,obj>man,cob>person)"	"A MALE PARENT"	"HIS FATHER WAS BORN IN ATLANTA"	{n}	0,auto;
 [paga]	{n}	"pay(icl>regular_payment>thing,equ>wage)"	"SOMETHING THAT REMUNERATES"	"HE WASTED HIS PAY ON DRINK"	{n}	0,auto;
 [paga]	{n}	"wage(icl>regular_payment>thing)"	"SOMETHING THAT REMUNERATES"	"WAGES WERE PAID BY CHECK"	{n}	0,auto;
 [pagar]	{v}	"repay(icl>pay>do,agt>volitional_thing,obj>thing,met>thing)"	"PAY BACK MONEY THAT YOU HAVE BORROWED"	"I'LL REPAY YOU (BEN) THE MONEY (OBJ) YOU LENT ME NEXT WEEK"	{v}	0,auto;
@@ -18130,7 +18130,7 @@
 [pañuelo]	{n}	"hanky(icl>piece_of_cloth>thing,equ>handkerchief)"	"A SQUARE PIECE OF CLOTH USED FOR WIPING THE EYES OR NOSE OR AS A COSTUME ACCESSORY"	""	{n}	0,auto;
 [panza]	{n}	"belly(icl>adipose_tissue>thing)"	"A PROTRUDING ABDOMEN"	""	{n}	0,auto;
 [papa]	{n}	"begetter(icl>parent>thing,equ>father,ant>mother)"	"A MALE PARENT (ALSO USED AS A TERM OF ADDRESS TO YOUR FATHER)"	"HIS FATHER WAS BORN IN ATLANTA"	{n}	0,auto;
-[papa]	{n}	"father(icl>parent>living_thing,ant>mother,pos>child)"	"A MALE PARENT"	"HIS FATHER WAS BORN IN ATLANTA"	{n}	0,auto;
+[papa]	{n}	"father(icl>parent>thing,ant>mother,obj>man,cob>person)"	"A MALE PARENT"	"HIS FATHER WAS BORN IN ATLANTA"	{n}	0,auto;
 [papa]	{n}	"pope(icl>spiritual_leader>thing)"	"THE HEAD OF THE ROMAN CATHOLIC CHURCH"	""	{n}	0,auto;
 [papa]	{n}	"pop(icl>father>thing,equ>dad)"	"AN INFORMAL TERM FOR A FATHER"	"PROBABLY DERIVED FROM BABY TALK"	{n}	0,auto;
 [papel]	{n}	"part(icl>abstract_thing,equ>role,obj>thing,aoj>thing)"	"AN ACTOR'S PORTRAYAL OF SOMEONE IN A PLAY"	"SHE PLAYED THE PART OF DESDEMONA"	{n}	0,auto;
@@ -19282,7 +19282,7 @@
 [primero]	{a}	"premier(icl>adj,equ>premier)"	"FIRST IN RANK OR DEGREE"	"AN ARCHITECT OF PREMIER RANK"	{a}	0,auto;
 [primero]	{a}	"prime(icl>adj,equ>premier)"	"FIRST IN RANK OR DEGREE"	"THE PRIME MINISTER"	{a}	0,auto;
 [primitivo]	{a}	"primitive(icl>adj,equ>crude)"	"BELONGING TO AN EARLY STAGE OF TECHNICAL DEVELOPMENT"	"PRIMITIVE MOVIES OF THE 1890S"	{a}	0,auto;
-[primo]	{n}	"cousin(icl>relative>person,pos>person)"	"THE CHILD OF YOUR AUNT OR UNCLE"	"MY COUSIN MARK HELPED ME"	{n}	0,auto;
+[primo]	{n}	"cousin(icl>relative>thing,obj>person,cob>person)"	"THE CHILD OF YOUR AUNT OR UNCLE"	"MY COUSIN MARK HELPED ME"	{n}	0,auto;
 [primo]	{n}	"fool(icl>victim>thing,equ>chump)"	"A PERSON WHO IS GULLIBLE AND EASY TO TAKE ADVANTAGE OF"	""	{n}	0,auto;
 [primo]	{n}	"gull(icl>victim>thing,equ>chump)"	"A PERSON WHO IS GULLIBLE AND EASY TO TAKE ADVANTAGE OF"	""	{n}	0,auto;
 [primordial]	{a}	"basal(icl>adj)"	"OF PRIMARY IMPORTANCE"	""	{a}	0,auto;
