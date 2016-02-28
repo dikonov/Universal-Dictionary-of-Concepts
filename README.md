@@ -33,7 +33,7 @@ Authors:
 - Viacheslav Dikonov - Russian and initial versions of the French, Malay and Vietnamese volumes.
 - Spanish UNL center at UPM (Madrid) - Initial set of UWs generated automatically from Princeton Wordnet 2.1.
 - French UNL center "Study Group for Machine Translation and Automated Processing of Languages and Speech" at the Laboratory of Informatics (LIG) in Grenoble (UMR CNRS/INPG/UJF 5217) - French dictionary, dBPedia conversion, terminology and support in making the initial version of the Russian volume.
-- Center for Indian Language Technology (CFILT) in Mumbai - Hindi dictionary
+- Center for Indian Language Technology (CFILT) at IIT Mumbai - Hindi dictionary and the Hindi Wordnet
 
 Contributors:
 ------------
