@@ -9219,7 +9219,6 @@ easter(icl>wind>thing,equ>east_wind)	Direct	n	2(4)	1001
 easterly(icl>wind>thing,equ>east_wind)	Direct	n	2(4),1(4)	1001
 eastern(icl>adj)	Direct	a	1(5),3(4)	6909
 easy(icl>adj,ant>difficult)	Direct	a	1(5),4(4),3(4)	1478
-easy(icl>how,equ>slowly,ant>quickly,com>slow)	Direct	adv	15(4)	10085
 easy_chair(icl>armchair>thing)	Direct	n	3(2)	17516
 eat(icl>consume>do,agt>living_thing,obj>concrete_thing,ins>thing)	Direct	v	1(5)	4655
 eat(icl>consume>do,agt>thing)	Direct	v	1(7),2(4),3(7)	13868
@@ -9912,7 +9911,6 @@ exonerate(icl>pronounce>do,equ>acquit,cob>thing,agt>volitional_thing,obj>person)
 exorcism(icl>supernaturalism>thing)	Hypernymy	n	2(4)	14021
 expand(icl>cause>do,equ>enlarge,src>thing,agt>thing,obj>thing,gol>thing,val>thing)	Direct	v	1(5)	36092
 expand(icl>clarify>do,agt>person,obj>thing)	Direct	v	3(2)	8223
-expand(icl>grow>occur,obj>thing)	Direct	v	1(2)	7105
 expanse(icl>extent>thing,equ>area)	Direct	n	1(2)	3252
 expansion(icl>discussion>thing)	Direct	n	1(2)	28866
 expansion(icl>increase>thing,ant>contraction)	Direct	n	(4)	11210
@@ -13293,8 +13291,6 @@ home(icl>location>thing)	Direct	n	3(10)	1907
 home(icl>location>thing)	Direct	n	4(6),2(10),1(6)	28385
 home(icl>location>thing,equ>base)	Direct	n	2(3)	28384
 home(icl>residence>thing)	Hypernymy	n	1(2)	35287
-home(icl>residence>thing,pos>person)	Direct	n	3(10)	1907
-home(icl>residence>thing,pos>person)	Direct	n	4(6),2(10),1(6)	28385
 home(icl>unit>thing,equ>family)	Hypernymy	n	1(2)	32177
 home(icl>unit>thing,equ>family)	Direct	n	3(4),5(4)	4388
 home_guard(icl>military_unit>thing)	Direct	n	1(2)	10547
@@ -15654,7 +15650,6 @@ litmus(icl>acid-base_indicator>thing)	Direct	n	1(4)	33595
 litmus_paper(icl>paper>thing)	Direct	n	2(2)	37515
 little(icl>adj,equ>fiddling)	Direct	a	14(4)	2264
 little(icl>adj,equ>small,ant>big)	Direct	a	1(5),3(4)	26601
-little(icl>how)	Direct	adv	3(2)	34925
 little(icl>small_indefinite_quantity>thing)	Direct	n	1(2)	1702
 little_brother(icl>brother>thing)	Direct	n	2(4)	80
 little_finger(icl>finger>thing)	Direct	n	9(2)	4026
@@ -26371,7 +26366,6 @@ slovenian(icl>adj,com>slovenia)	Direct	a	2(2)	19680
 slovenian(icl>european>person)	Direct	n	2(2)	19677
 slow(icl>adj,equ>boring)	Direct	a	2(2)	4459
 slow(icl>adj,equ>dense)	Direct	a	2(4)	12300
-slow(icl>how,equ>behind)	Direct	adv	2(2)	37505
 slow_up(icl>weaken>occur,equ>slow,obj>thing)	Direct	v	1(2)	30732
 slowly(icl>how,ant>quickly,com>slow)	Direct	adv	15(4),1(4)	10085
 slowness(icl>pace>thing)	Direct	n	3(2)	19940

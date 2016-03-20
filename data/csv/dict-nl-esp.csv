@@ -21756,7 +21756,7 @@
 [verter]	{v}	"slop(icl>move>do,equ>spill,agt>thing,obj>concrete_thing)"	"CAUSE OR ALLOW (A LIQUID SUBSTANCE) TO RUN OR FLOW FROM A CONTAINER"	"SPILL THE MILK"	{v}	0,auto;
 [verter]	{v}	"spill(icl>pour>occur,plt>thing,plf>thing,obj>concrete_thing)"	"FLOW, RUN OR FALL OUT AND BECOME LOST"	"THE INK HAS SPILT ON THE DESK"	{v}	0,auto;
 [verter]	{v}	"splatter(icl>move>do,equ>spill,agt>thing,obj>thing)"	"CAUSE OR ALLOW (A LIQUID SUBSTANCE) TO RUN OR FLOW FROM A CONTAINER"	"SPLATTER WATER"	{v}	0,auto;
-[ver]	{v}	"visit(icl>do,agt>living_thing,obj>thing)"	"GO TO SEE A PLACE, AS FOR ENTERTAINMENT"	"I (AGT) VISITED THE SCIENCE MUSEUM (OBJ)"	{v}	0,auto;
+[ver]	{v}	"visit(icl>travel>do,equ>travel_to,agt>thing,obj>thing)"	"GO TO SEE A PLACE, AS FOR ENTERTAINMENT"	"I (AGT) VISITED THE SCIENCE MUSEUM (OBJ)"	{v}	0,auto;
 [veste]	{n}	"attire(icl>clothing>thing)"	"CLOTHING OF A DISTINCTIVE STYLE OR FOR A PARTICULAR OCCASION"	"FORMAL ATTIRE"	{n}	0,auto;
 [veste]	{n}	"dress(icl>clothing>thing,equ>attire)"	"CLOTHING OF A DISTINCTIVE STYLE OR FOR A PARTICULAR OCCASION"	"BATTLE DRESS"	{n}	0,auto;
 [veste]	{n}	"garb(icl>clothing>thing,equ>attire)"	"CLOTHING OF A DISTINCTIVE STYLE OR FOR A PARTICULAR OCCASION"	"FORMAL ATTIRE"	{n}	0,auto;
