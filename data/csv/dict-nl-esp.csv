@@ -412,7 +412,7 @@
 [acervo]	{n}	"stock(icl>accumulation>thing,equ>store)"	"A SUPPLY OF SOMETHING AVAILABLE FOR FUTURE USE"	"HE BROUGHT BACK A LARGE STORE OF CUBAN CIGARS"	{n}	0,auto;
 [acervo]	{n}	"store(icl>abstract_thing,equ>stock,obj>thing)"	""	"HE BROUGHT BACK A LARGE STORE OF CUBAN CIGARS"	{n}	0,auto;
 [achacar]	{v}	"ascribe(icl>evaluate>do,equ>impute,agt>thing,obj>thing,gol>thing)"	"ATTRIBUTE OR CREDIT TO"	"WE ATTRIBUTED THIS QUOTATION TO SHAKESPEARE"	{v}	0,auto;
-[achacar]	{v}	"assign(icl>evaluate>do,equ>ascribe,to>person,agt>person,obj>thing)"	"ASCRIBE TO"	"POEMS ASSIGNED TO SHAKESPEAR"	{v}	0,auto;
+[achacar]	{v}	"assign(icl>evaluate>do,equ>ascribe,agt>person,obj>thing,gol>thing)"	"ASCRIBE TO"	"POEMS ASSIGNED TO SHAKESPEAR"	{v}	0,auto;
 [achacar]	{v}	"attribute(icl>do,equ>ascribe,cob>thing,agt>volitional_thing,obj>thing)"	"REGARD AS BELONGING OR APPROPRIATE TO"	"PEOPLE (AGT) WERE BEGINNING TO ATTRIBUTE SUPERHUMAN QUALITIES (OBJ) TO HIM (COB)"	{v}	0,auto;
 [achacar]	{v}	"impute(icl>evaluate>do,agt>thing,obj>thing,gol>thing)"	"ATTRIBUTE OR CREDIT TO"	"PEOPLE IMPUTE GREAT CLEVERNESS TO CATS"	{v}	0,auto;
 [achaque]	{n}	"ill(icl>disorder>thing,equ>ailment)"	"AN OFTEN PERSISTENT BODILY DISORDER OR DISEASE"	"A CAUSE FOR COMPLAINING"	{n}	0,auto;
@@ -3010,7 +3010,7 @@
 [asignar]	{v}	"ascribe(icl>evaluate>do,equ>impute,agt>thing,obj>thing,gol>thing)"	"ATTRIBUTE OR CREDIT TO"	"WE ATTRIBUTED THIS QUOTATION TO SHAKESPEARE"	{v}	0,auto;
 [asignar]	{v}	"assign(icl>appoint>do,equ>send,plt>place,agt>volitional_thing,obj>person)"	"SEND TO SOME PLACE"	"HE WAS ASSIGNED TO RUSSIA"	{v}	0,auto;
 [asignar]	{v}	"assign(icl>distribute>do,equ>allot,agt>volitional_thing,obj>concrete_thing,rec>person)"	"GIVE OUT OR ALLOT FOR USE"	"OUR TEACHER ASSIGNED US NEW SEATS"	{v}	0,auto;
-[asignar]	{v}	"assign(icl>evaluate>do,equ>ascribe,to>person,agt>person,obj>thing)"	"ASCRIBE TO"	"POEMS ASSIGNED TO SHAKESPEAR"	{v}	0,auto;
+[asignar]	{v}	"assign(icl>evaluate>do,equ>ascribe,agt>person,obj>thing,gol>thing)"	"ASCRIBE TO"	"POEMS ASSIGNED TO SHAKESPEAR"	{v}	0,auto;
 [asignar]	{v}	"attribute(icl>do,equ>ascribe,cob>thing,agt>volitional_thing,obj>thing)"	"REGARD AS BELONGING OR APPROPRIATE TO"	"PEOPLE (AGT) WERE BEGINNING TO ATTRIBUTE SUPERHUMAN QUALITIES (OBJ) TO HIM (COB)"	{v}	0,auto;
 [asignar]	{v}	"deal(icl>give>do,equ>deliver,agt>thing,obj>thing,ben>thing)"	"CAUSE TO BE RECEIVED OR ADMINISTER"	"TO DEAL A BLOW (OBJ)"	{v}	0,auto;
 [asignar]	{v}	"deal_out(icl>give>do,equ>distribute,agt>volitional_thing,obj>thing,rec>thing)"	"ADMINISTER OR BESTOW, AS IN SMALL PORTIONS"	"ADMINISTER CRITICAL REMARKS TO EVERYONE PRESENT"	{v}	0,auto;
@@ -3353,7 +3353,7 @@
 [atrevido]	{a}	"positive(icl>adj,equ>cocksure)"	"MARKED BY EXCESSIVE CONFIDENCE"	"THE LESS HE KNOWS THE MORE POSITIVE HE GETS"	{a}	0,auto;
 [atrevimiento]	{n}	"gall(icl>discourtesy>thing,equ>crust)"	"THE TRAIT OF BEING RUDE AND IMPERTINENT"	"INCLINED TO TAKE LIBERTIES"	{n}	0,auto;
 [atribuir]	{v}	"ascribe(icl>evaluate>do,equ>impute,agt>thing,obj>thing,gol>thing)"	"ATTRIBUTE OR CREDIT TO"	"WE ATTRIBUTED THIS QUOTATION TO SHAKESPEARE"	{v}	0,auto;
-[atribuir]	{v}	"assign(icl>evaluate>do,equ>ascribe,to>person,agt>person,obj>thing)"	"ASCRIBE TO"	"POEMS ASSIGNED TO SHAKESPEAR"	{v}	0,auto;
+[atribuir]	{v}	"assign(icl>evaluate>do,equ>ascribe,agt>person,obj>thing,gol>thing)"	"ASCRIBE TO"	"POEMS ASSIGNED TO SHAKESPEAR"	{v}	0,auto;
 [atribuir]	{v}	"attribute(icl>do,equ>ascribe,cob>thing,agt>volitional_thing,obj>thing)"	"REGARD AS BELONGING OR APPROPRIATE TO"	"PEOPLE (AGT) WERE BEGINNING TO ATTRIBUTE SUPERHUMAN QUALITIES (OBJ) TO HIM (COB)"	{v}	0,auto;
 [atribuir]	{v}	"impute(icl>evaluate>do,agt>thing,obj>thing,gol>thing)"	"ATTRIBUTE OR CREDIT TO"	"PEOPLE IMPUTE GREAT CLEVERNESS TO CATS"	{v}	0,auto;
 [atributo]	{n}	"attribute(icl>concept>thing,equ>property)"	"A CONSTRUCT WHEREBY OBJECTS OR INDIVIDUALS CAN BE DISTINGUISHED"	"SELF-CONFIDENCE IS NOT AN ENDEARING PROPERTY"	{n}	0,auto;

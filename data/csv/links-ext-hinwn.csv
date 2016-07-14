@@ -6914,7 +6914,6 @@ devilry(icl>misbehavior>thing,equ>mischief)	Direct	n	1(2)	20284
 deviltry(icl>misbehavior>thing,equ>mischief)	Direct	n	8(2)	20284
 deviousness(icl>dishonesty>thing,equ>crookedness)	Direct	n	2(2)	4052
 devise(icl>create_by_mental_act>do,equ>invent,agt>volitional_thing,obj>thing)	Direct	v	5(2)	7133
-devoid(icl>adj)	Direct	a	2(6)	10057
 devoid(icl>adj,equ>barren)	Direct	a	2(6)	10057
 devolve(icl>worsen>occur,obj>thing)	Direct	v	1(2)	38101
 devote(icl>dedicate>do,agt>person,obj>thing,ben>thing)	Direct	v	1(2)	28103
@@ -21127,7 +21126,7 @@ pharynx(icl>tubular_cavity>thing,equ>throat)	Direct	n	1(4)	5076
 phase(icl>time_period>thing)	Direct	n	1(2)	37998
 phaseolus_aconitifolius(icl>legume>thing,equ>moth_bean)	Direct	n	2(2)	9862
 phaseolus_aureus(icl>legume>thing,equ>mung)	Direct	n	1(2)	20697
-phd(icl>doctor_of_philosophy>thing,equ>ph.d.)	Direct	n	1(2),1(2)	35814
+phd(icl>doctor_of_philosophy>thing)	Direct	n	1(2),1(2)	35814
 pheasant(icl>phasianid>thing)	Direct	n	2(2)	37013
 phenol(icl>acid>thing,equ>carbolic_acid)	Direct	n	(4)	20732
 philadelphia(iof>city>thing)	Direct	n	1(2)	34847

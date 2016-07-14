@@ -3348,7 +3348,7 @@
 [giống trung]	{n}	"neuter(icl>gender>thing)"	"A GENDER THAT REFERS CHIEFLY (BUT NOT EXCLUSIVELY) TO INANIMATE OBJECTS (NEITHER MASCULINE NOR FEMININE)"	""	{n}	2,auto-monosemic-2lang;
 [gió nhẹ]	{n}	"breeze(icl>wind>thing)"	"A SLIGHT WIND (USUALLY REFRESHING)"	"THE BREEZE WAS COOLED BY THE LAKE"	{n}	2,auto-polysemic-3lang;
 [giờ]	{n}	"hour(icl>distance>abstract_thing,plt>place,plf>place)"	"DISTANCE MEASURED BY THE TIME TAKEN TO COVER IT"	"WE LIVE AN HOUR FROM THE AIRPORT"	{n}	2,auto-polysemic-3lang;
-[giờ]	{n}	"hour(icl>time_period>thing)"	"A SPECIAL AND MEMORABLE PERIOD"	"IT WAS THEIR FINEST HOUR"	{n}	2,auto-polysemic-3lang;
+[giờ]	{n}	"hour(icl>time_period>abstract_thing,pos>thing)"	"A SPECIAL AND MEMORABLE PERIOD"	"IT WAS THEIR FINEST HOUR"	{n}	2,auto-polysemic-3lang;
 [giờ]	{n}	"time(icl>reading>abstract_thing,equ>clock_time)"	"THE TIME AS GIVEN BY A CLOCK"	"DO YOU KNOW WHAT TIME IT IS?"	{n}	2,auto-polysemic-3lang;
 [gió]	{n}	"wind(icl>weather>thing)"	"AIR MOVING (SOMETIMES WITH CONSIDERABLE FORCE) FROM AN AREA OF HIGH PRESSURE TO AN AREA OF LOW PRESSURE"	"TREES BENT UNDER THE FIERCE WINDS"	{n}	2,auto-polysemic-3lang;
 [gió tây nam]	{n}	"southwester(icl>wind>thing)"	"A STRONG WIND FROM THE SOUTHWEST"	""	{n}	2,auto-monosemic-2lang;
