@@ -9715,7 +9715,7 @@
 [viết]	{v}	"write(icl>inform>do,agt>person,obj>uw,rec>person)"	"INFORM BY LETTER"	"HE (AGT) WROTE TO ME (REC) THAT HE WOULD BE COMING SOON (OBJ)"	{v}	2,auto-polysemic-3lang;
 [vi khuẩn]	{n}	"bacterium(icl>microorganism>thing,equ>bacteria)"	"(MICROBIOLOGY) SINGLE-CELLED OR NONCELLULAR SPHERICAL OR SPIRAL OR ROD-SHAPED ORGANISMS LACKING CHLOROPHYLL THAT REPRODUCE BY FISSION"	"IMPORTANT AS PATHOGENS AND FOR BIOCHEMICAL PROPERTIES"	{n}	2,auto-polysemic-3lang;
 [vị lợi]	{a}	"utilitarian(icl>adj)"	"HAVING UTILITY OFTEN TO THE EXCLUSION OF VALUES"	"PLAIN UTILITARIAN KITCHENWARE"	{a}	2,auto-polysemic-3lang;
-[vì]	{misc}	"as(icl>how,equ>because,com>reason,rsn<uww,obj>uw)"	"FOR THE REASON THAT"	"WENT TO BED AS I WAS EXHAUSTED"	{misc}	2,auto-polysemic-3lang;
+[vì]	{misc}	"as(icl>how,equ>because,com>reason,rsn<uw,obj>uw)"	"FOR THE REASON THAT"	"WENT TO BED AS I WAS EXHAUSTED"	{misc}	2,auto-polysemic-3lang;
 [vì]	{misc}	"because(icl>how,equ>since,rsn<uw,obj>uw)"	"FOR THE REASON THAT"	"JOHN RESTED BECAUSE HE WAS TIRED"	{misc}	2,auto-polysemic-3lang;
 [vì]	{misc}	"for(icl>how,equ>since,rsn<uw,obj>uw)"	"BECAUSE OF THE FACT"	"HE FELT NO FEAR, FOR HE WAS A BRAVE MAN"	{misc}	2,auto-polysemic-3lang;
 [vì]	{misc}	"since(icl>how,equ>because,rsn<uw,obj>uw)"	"BECAUSE OF THE FACT"	"SINCE YOU DON'T ANSWER, WE SHOULD ASK SOMEONE ELSE"	{misc}	2,auto-polysemic-3lang;

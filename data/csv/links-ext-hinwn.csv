@@ -8812,7 +8812,6 @@ down(iof>doctor>thing)	Direct	n	2(2),2(2)	27423
 downcast(icl>adj,equ>blue)	Direct	a	1(2)	31711
 downfall(icl>weakening>thing,equ>fall,ant>rise)	Direct	n	1(4)	385
 downhill(icl>descent>thing)	Direct	n	1(2)	39076
-download(icl>transfer>do,agt>thing,obj>thing)	Direct	v	1(2)	34583
 downpour(icl>rain>thing)	Direct	n	1(4)	33664
 downriver(icl>how,ant>upriver)	Direct	adv	2(2)	27740
 downstream(icl>how,equ>downriver,ant>upstream)	Direct	adv	2(2)	27740
