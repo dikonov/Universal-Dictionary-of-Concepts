@@ -43,9 +43,16 @@ Columns left to right:
 - 1 - parent node (UW)
 - 2 - UNL-relation corresponding to the type of the link
 - 3 - daughter node (UW)
-- 4 - link annotation tags 
-    * "deriv" tag marks equivalence relations between UWs linked to semantically similar words with different POS tags in natural languages (a run - to run).
-    * "self" tag marks equivalence relations between UWs, which relate to the same general concept except the regular "passive" transformation (beat - undergo beating).
+- 4 - comma-separated list of tags annotating links 
+   * "deriv" tag marks equivalence relations between UWs linked to semantically similar words with different POS tags in natural languages (a run - to run).
+   * "self" tag marks equivalence relations between UWs, which relate to the same general concept except the regular "passive" transformation (beat - undergo beating).
+   * "inferred" tag marks automatically added links, logically inferred from other pre-existing links.
+   * "semlink" manually added extra semantic links. 
+   * "OptionalPartOf" subtype of the pof (Part Of) link - Optiona part, which can be absent. Not all objects of the class necessarily have this part.
+   * "DetachablePartOf" subtype of the pof (Part Of) link - Part of an object, which is not a physical part of the whole and can easily be detached.
+   * "MemberOf" subtype of the pof (Part Of) link - Individual memeber of a group or an organization.
+   * "IngredientOf" subtype of the pof (Part Of) link - Substance, which is a chemical or mix ingredient of the object.
+   * "SubstanceOf" subtype of the pof (Part Of) link - Substance, which the object is made of.
 
 Wordnet links file format - links-ext-wn*
 -----------------------------------------
