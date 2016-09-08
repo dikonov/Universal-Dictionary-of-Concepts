@@ -26900,7 +26900,6 @@ spacecraft(icl>craft>thing)	Direct	n	2(2),1(2)	34301
 spade(icl>playing_card>thing)	Direct	n	1(4)	20411
 spain(iof>european_country>thing)	Direct	n	1(4)	19186
 span(icl>linear_unit>thing)	Direct	n	2(2)	4752
-span(icl>structure>thing,equ>bridge)	Direct	n	1(2)	6885
 span(icl>two>thing,equ>couple)	Direct	n	3(2)	11399
 span(icl>two>thing,equ>couple)	Direct	n	10(4)	5642
 spangle(icl>adornment>thing,equ>sequin)	Direct	n	3(2)	12729
@@ -32498,8 +32497,8 @@ wart(icl>blemish>thing)	Direct	n	1(5)	7552
 wash(icl>cleanse>do,agt>concrete_thing,obj>concrete_thing,ins>concrete_thing)	Hypernymy	v	2(2),1(2)	5046
 wash(icl>cleanse>do,equ>launder,agt>concrete_thing,obj>cloth,ins>matter)	Direct	v	1(5)	12774
 wash(icl>cleanse>do,equ>launder,agt>concrete_thing,obj>cloth,ins>matter)	Direct	v	1(5)	9335
-wash(icl>work>thing)	Direct	n	1(7),1(7)	6323
-wash(icl>work>thing)	Direct	n	2(9),2(7)	6324
+wash(icl>work>thing,equ>laundering,agt>concrete_thing,obj>cloth,ins>matter)	Direct	n	1(7),1(7)	6323
+wash(icl>work>thing,equ>laundering,agt>concrete_thing,obj>cloth,ins>matter)	Direct	n	2(9),2(7)	6324
 wash_away(icl>move>occur,com>water,cob>concrete_thing,obj>concrete_thing,ins>thing)	Hypernymy	v	2(2),1(2)	5046
 wash_off(icl>clean>do,agt>thing,obj>thing,ins>thing)	Hypernymy	v	2(2),1(2)	5046
 wash_out(icl>clean>do,agt>thing,obj>thing,ins>thing)	Hypernymy	v	2(2),1(2)	5046
