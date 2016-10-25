@@ -50,7 +50,7 @@ Columns left to right:
    * "semlink" manually added extra semantic links. 
    * "OptionalPartOf" subtype of the pof (Part Of) link - Optiona part, which can be absent. Not all objects of the class necessarily have this part.
    * "DetachablePartOf" subtype of the pof (Part Of) link - Part of an object, which is not a physical part of the whole and can easily be detached.
-   * "MemberOf" subtype of the pof (Part Of) link - Individual memeber of a group or an organization.
+   * "MemberOf" subtype of the pof (Part Of) link - Individual memeber of a group/organization or a functionally linked set of different things.
    * "IngredientOf" subtype of the pof (Part Of) link - Substance, which is a chemical or mix ingredient of the object.
    * "SubstanceOf" subtype of the pof (Part Of) link - Substance, which the object is made of.
 
