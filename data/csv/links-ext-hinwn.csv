@@ -23563,7 +23563,6 @@ remote(icl>adj,equ>distant)	Direct	a	1(2),1(2)	22004
 remote(icl>adj,equ>distant)	Direct	a	1(4),1(4)	26743
 remote(icl>adj,equ>outback)	Direct	a	1(2)	27552
 remote(icl>device>thing,equ>remote_control)	Direct	n	3(2)	26641
-remote_control(icl>device>thing)	Direct	n	3(2)	26641
 removal(icl>separation>thing)	Direct	n	4(4)	21905
 remove(icl>kill>do,agt>person,obj>person)	Direct	v	1(4)	7622
 remuneration(icl>regular_payment>thing,equ>wage)	Hypernymy	n	2(2),1(2)	10233

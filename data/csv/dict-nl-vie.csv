@@ -5088,11 +5088,11 @@
 [mái dốc]	{n}	"scarp(icl>slope>thing,equ>escarpment)"	"A LONG STEEP SLOPE OR CLIFF AT THE EDGE OF A PLATEAU OR RIDGE"	"USUALLY FORMED BY EROSION"	{n}	1,auto-monosemic-1lang;
 [mái đua]	{n}	"cornice(icl>framework>thing)"	"A DECORATIVE FRAMEWORK TO CONCEAL CURTAIN FIXTURES AT THE TOP OF A WINDOW CASING"	""	{n}	2,auto-polysemic-3lang;
 [mái đua]	{n}	"cornice(icl>molding>thing)"	"A MOLDING AT THE CORNER BETWEEN THE CEILING AND THE TOP OF A WALL"	""	{n}	2,auto-polysemic-3lang;
-[mái hòm nhĩ]	{n}	"roof(icl>protective_covering>thing)"	"PROTECTIVE COVERING ON TOP OF A MOTOR VEHICLE"	""	{n}	2,auto-monosemic-2lang;
+[mái hòm nhĩ]	{n}	"roof(icl>protective_covering>thing,pof>vehicle)"	"PROTECTIVE COVERING ON TOP OF A MOTOR VEHICLE"	""	{n}	2,auto-monosemic-2lang;
 [mãi mãi]	{misc}	"always(icl>how)"	"SEEMINGLY WITHOUT INTERRUPTION"	"ALWAYS LOOKING FOR FAULTS"	{misc}	2,auto-polysemic-3lang;
 [mãi mãi]	{misc}	"ever(icl>how,equ>always)"	"AT ALL TIMES"	"EVER BUSY"	{misc}	2,auto-polysemic-3lang;
-[mái nhà]	{n}	"roof(icl>protective_covering>thing)"	"PROTECTIVE COVERING ON TOP OF A MOTOR VEHICLE"	""	{n}	2,auto-polysemic-3lang;
-[mái]	{n}	"roof(icl>protective_covering>thing)"	"PROTECTIVE COVERING ON TOP OF A MOTOR VEHICLE"	""	{n}	2,auto-polysemic-3lang;
+[mái nhà]	{n}	"roof(icl>protective_covering>thing,pof>vehicle)"	"PROTECTIVE COVERING ON TOP OF A MOTOR VEHICLE"	""	{n}	2,auto-polysemic-3lang;
+[mái]	{n}	"roof(icl>protective_covering>thing,pof>vehicle)"	"PROTECTIVE COVERING ON TOP OF A MOTOR VEHICLE"	""	{n}	2,auto-polysemic-3lang;
 [mai táng]	{v}	"bury(icl>forget>do,agt>person,obj>thing)"	"DISMISS FROM THE MIND; STOP REMEMBERING"	"I TRIED TO BURY THESE UNPLEASANT MEMORIES"	{v}	2,auto-polysemic-3lang;
 [mai táng]	{v}	"bury(icl>lay>do,agt>person,obj>person,plc>uw)"	"PLACE IN A GRAVE OR TOMB"	"STALIN WAS BURIED BEHIND THE KREMLIN WALL ON RED SQUARE"	{v}	2,auto-polysemic-3lang;
 [mai táng]	{v}	"inter(icl>lay>do,equ>bury,plt>thing,agt>thing,obj>concrete_thing)"	"PLACE IN A GRAVE OR TOMB"	"STALIN WAS BURIED BEHIND THE KREMLIN WALL ON RED SQUARE"	{v}	2,auto-polysemic-3lang;
@@ -6238,7 +6238,7 @@
 [nhà thiên văn học]	{n}	"astronomer(icl>physicist>thing)"	"A PHYSICIST WHO STUDIES ASTRONOMY"	""	{n}	2,auto-monosemic-2lang;
 [nhà thiên văn]	{n}	"astronomer(icl>physicist>thing)"	"A PHYSICIST WHO STUDIES ASTRONOMY"	""	{n}	3,auto-monosemic-3lang;
 [nhà thờ lớn]	{a}	"cathedral(icl>adj,com>cathedra)"	"RELATING TO OR CONTAINING OR ISSUING FROM A BISHOP'S OFFICE OR THRONE"	"A CATHEDRAL CHURCH"	{a}	2,auto-polysemic-3lang;
-[nhà thờ lớn]	{n}	"cathedral(icl>church>thing)"	"THE PRINCIPAL CHRISTIAN CHURCH BUILDING OF A BISHOP'S DIOCESE"	""	{n}	2,auto-polysemic-3lang;
+[nhà thờ lớn]	{n}	"cathedral(icl>church>thing,pof<cathedra)"	"THE PRINCIPAL CHRISTIAN CHURCH BUILDING OF A BISHOP'S DIOCESE"	""	{n}	2,auto-polysemic-3lang;
 [nhà thơ ngụ ngôn]	{n}	"fabulist(icl>narrator>thing)"	"A PERSON WHO TELLS OR INVENTS FABLES"	""	{n}	2,auto-monosemic-2lang;
 [nhà thơ]	{n}	"poet(icl>writer>thing)"	"A WRITER OF POEMS (THE TERM IS USUALLY RESERVED FOR WRITERS OF GOOD POETRY)"	""	{n}	2,auto-polysemic-3lang;
 [nhà thơ trào phúng]	{n}	"satirist(icl>humorist>thing)"	"A HUMORIST WHO USES RIDICULE AND IRONY AND SARCASM"	""	{n}	2,auto-monosemic-2lang;
