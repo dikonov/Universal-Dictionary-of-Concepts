@@ -1029,7 +1029,7 @@ armistice(icl>peace>thing)	Direct	n	(4),4(4)	10437
 armless(icl>adj,ant>armed)	Direct	a	2(2)	14373
 armlet(icl>band>thing)	Direct	n	2(2)	1981
 armlet(icl>band>thing)	Hypernymy	n	1(2)	33596
-armored(icl>adj,ant>unarmored)	Direct	a	1(4),2(4),3(4)	12216
+armored(icl>adj,mod<animal)	Direct	a	1(4),2(4),3(4)	12216
 armory(icl>military_installation>thing,equ>arsenal)	Direct	n	1(4)	8525
 armour(icl>military_unit>thing,equ>armor)	Direct	n	3(2),3(2)	28440
 armoured(icl>adj,ant>unarmored,equ>armored)	Direct	a	5(2)	38878
