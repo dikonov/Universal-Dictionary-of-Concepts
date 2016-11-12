@@ -13139,7 +13139,6 @@ high-tech(icl>adj,ant>low-tech)	Direct	a	2(2),2(2),1(2),1(2)	38916
 high_command(icl>leadership>thing)	Direct	n	2(2),1(2)	35343
 high_commission(icl>embassy>thing)	Direct	n	1(2)	28008
 high_commissioner(icl>diplomat>thing)	Direct	n	1(2)	28009
-high_court(icl>court>thing,equ>supreme_court)	Direct	n	1(2),2(2)	1645
 high_tech(icl>technology>thing,equ>high_technology)	Direct	n	1(2)	38917
 high_technology(icl>technology>thing)	Direct	n	1(2)	38917
 high_tide(icl>tide>thing,ant>low_tide)	Direct	n	1(2)	3785
@@ -14373,7 +14372,6 @@ internal(icl>adj,ant>external)	Direct	a	5(7),1(4)	2098
 internal_organ(icl>organ>thing)	Direct	n	1(2)	1346
 international(icl>adj,ant>national)	Direct	a	1(6)	2104
 international_labor_organization(icl>united_nations_agency>thing)	Direct	n	1(2),1(2),2(2),2(2)	35256
-international_society_for_krishna_consciousness(icl>sect>thing,equ>hare_krishna)	Direct	n	2(2)	28450
 internet(iof>computer_network>thing)	Direct	n	1(4)	26695
 internment(icl>seizure>thing,equ>impoundment)	Direct	n	3(2)	8591
 internode(icl>segment>thing)	Direct	n	2(2)	13141
@@ -14532,7 +14530,6 @@ irruption(icl>happening>thing,equ>outbreak)	Direct	n	1(2)	25512
 irruption(icl>happening>thing,equ>outbreak)	Hypernymy	n	1(2)	37503
 isi(icl>international_intelligence_agency>thing,equ>directorate_for_inter-services_intelligence)	Direct	n	1(2)	36255
 isinglass(icl>mineral>thing,equ>mica)	Direct	n	2(2)	8140
-iskcon(icl>sect>thing,equ>hare_krishna)	Direct	n	2(2)	28450
 islam(icl>monotheism>thing)	Direct	n	3(6)	1800
 islamabad(iof>national_capital>thing)	Direct	n	1(2)	24209
 islamic(icl>adj,equ>muslim,com>islamism)	Direct	a	1(4)	22586
@@ -27373,7 +27370,7 @@ state_capital(icl>capital>thing)	Hypernymy	n	2(2),1(2)	24441
 state_capital(icl>capital>thing)	Hypernymy	n	2(2),3(2),1(2)	24857
 state_capital(icl>capital>thing)	Hypernymy	n	2(2),1(2)	4763
 state_government(icl>government>thing)	Direct	n	1(2)	34399
-state_supreme_court(icl>court>thing,equ>supreme_court)	Direct	n	1(2),2(2)	1645
+state_supreme_court(icl>court>thing)	Direct	n	1(2),2(2)	1645
 stated(icl>adj,equ>declared)	Direct	a	2(2)	25407
 stately(icl>adj)	Direct	a	1(2)	29320
 stately(icl>adj,equ>baronial)	Direct	a	2(4)	12039
@@ -27997,9 +27994,7 @@ suppression(icl>prevention>thing)	Direct	n	1(2)	26213
 suppurate(icl>discharge>occur,equ>fester,obj>thing)	Direct	v	1(2)	38578
 suppuration(icl>liquid_body_substance>thing,equ>pus)	Direct	n	3(4),1(4)	6858
 supra(icl>how,equ>above,ant>below)	Direct	adv	1(4)	11701
-supreme_court(icl>court>thing)	Direct	n	1(2),2(2)	1645
-supreme_court(icl>federal_court>thing)	Direct	n	1(4)	1646
-supreme_court_of_the_united_states(icl>federal_court>thing,equ>supreme_court)	Direct	n	2(2)	1646
+supreme_court_of_the_united_states(icl>federal_court>thing)	Direct	n	2(2)	1646
 supreme_headquarters(icl>leadership>thing,equ>high_command)	Direct	n	2(2),1(2)	35343
 sura(icl>skeletal_muscle>thing,equ>calf)	Direct	n	1(2)	1390
 surcharge(icl>charge>thing)	Direct	n	2(2)	15386
@@ -30763,7 +30758,6 @@ united_arab_emirates(iof>asian_country>thing)	Direct	n	1(4)	21123
 united_nations_children's_fund(icl>united_nations_agency>thing)	Direct	n	2(2)	29712
 united_nations_international_children's_emergency_fund(icl>united_nations_agency>thing,equ>united_nations_children's_fund)	Direct	n	2(2)	29712
 united_states_dollar(icl>dollar>thing)	Direct	n	1(2)	20713
-united_states_supreme_court(icl>federal_court>thing,equ>supreme_court)	Direct	n	2(2)	1646
 unity(icl>identity>thing,equ>oneness)	Direct	n	1(5),3(4)	3908
 unity(icl>quantity,equ>one)	Direct	n	1(4)	11994
 unity(icl>quantity,equ>one)	Direct	n	1(4)	2929
