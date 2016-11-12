@@ -54,6 +54,7 @@ Columns left to right:
    * "IngredientOf" subtype of the pof (Part Of) link - Substance, which is a chemical or mix ingredient of the object.
    * "SubstanceOf" subtype of the pof (Part Of) link - Substance, which the object is made of.
    * "ProductOf" subtype of the pof (Part Of) link - An object, which is obtained from another object, e.g. fruit of a plant.
+   * "SubUnit" subtype of the pof (Part Of) link - Links a smaller measurement unit with a larger one.
 
 Wordnet links file format - links-ext-wn*
 -----------------------------------------

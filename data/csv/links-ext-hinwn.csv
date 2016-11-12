@@ -27994,7 +27994,7 @@ suppression(icl>prevention>thing)	Direct	n	1(2)	26213
 suppurate(icl>discharge>occur,equ>fester,obj>thing)	Direct	v	1(2)	38578
 suppuration(icl>liquid_body_substance>thing,equ>pus)	Direct	n	3(4),1(4)	6858
 supra(icl>how,equ>above,ant>below)	Direct	adv	1(4)	11701
-supreme_court_of_the_united_states(icl>federal_court>thing)	Direct	n	2(2)	1646
+supreme_court(icl>court>thing)	Direct	n	2(2)	1646
 supreme_headquarters(icl>leadership>thing,equ>high_command)	Direct	n	2(2),1(2)	35343
 sura(icl>skeletal_muscle>thing,equ>calf)	Direct	n	1(2)	1390
 surcharge(icl>charge>thing)	Direct	n	2(2)	15386
