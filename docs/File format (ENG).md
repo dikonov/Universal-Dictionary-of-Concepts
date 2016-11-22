@@ -55,6 +55,7 @@ Columns left to right:
    * "SubstanceOf" subtype of the pof (Part Of) link - Substance, which the object is made of.
    * "ProductOf" subtype of the pof (Part Of) link - An object, which is obtained from another object, e.g. fruit of a plant.
    * "SubUnit" subtype of the pof (Part Of) link - Links a smaller measurement unit with a larger one.
+   * "believes" component of the meaning com (Component) - Links an adherent of some political, religious or scientific theories and beliefs with those theories/beliefs.
 
 Wordnet links file format - links-ext-wn*
 -----------------------------------------
