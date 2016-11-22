@@ -643,7 +643,6 @@ amendment(icl>statement>thing)	Direct	n	1(2)	39101
 amenities(icl>support>thing,equ>comforts)	Direct	n	3(2),1(2)	38907
 amercement(icl>penalty>thing,equ>fine)	Direct	n	1(4),4(4)	3500
 america(iof>land>thing)	Direct	n	2(2)	10832
-america(iof>north_american_country>thing,equ>united_states)	Direct	n	2(4)	7867
 american(icl>inhabitant>person)	Direct	n	3(4)	13406
 american_samoa(iof>district>thing)	Direct	n	1(2),1(2),1(2)	27097
 americium(icl>metallic_element>thing)	Direct	n	2(2)	27248
@@ -3093,7 +3092,6 @@ by_artificial_means(icl>how,equ>artificially,ant>naturally,com>artificial)	Direc
 by_choice(icl>how,equ>intentionally,ant>unintentionally,com>intentional)	Direct	adv	2(2)	1121
 by_design(icl>how,equ>intentionally,ant>unintentionally,com>intentional)	Direct	adv	2(2)	1121
 bye(icl>farewell>thing,equ>adieu)	Direct	n	(4)	34470
-byelorussia(iof>european_country>thing,equ>belarus)	Direct	n	2(2),2(2)	19290
 byelorussian(icl>slavic>abstract_thing,iof>language,equ>belarusian)	Direct	n	2(2),2(2),3(2),3(2)	19486
 bylaw(icl>rule>thing)	Direct	n	2(2),1(2)	10510
 bypass(icl>conductor>thing,equ>shunt)	Direct	n	3(2)	37980
@@ -12090,7 +12088,6 @@ glom(icl>steal>do,equ>hook,agt>thing,obj>thing)	Direct	v	3(2)	5278
 glomerular_capsule(icl>membrane>thing,equ>bowman's_capsule)	Direct	n	2(2)	10663
 glorification(icl>adoration>thing)	Direct	n	1(2)	23574
 gloriole(icl>light>thing,equ>aura)	Direct	n	2(2)	119
-glory(icl>light>thing,equ>aura)	Direct	n	2(2)	119
 gloss(icl>appearance>thing,equ>semblance)	Direct	n	7(2)	4792
 gloss(icl>polish>do,agt>thing,obj>thing,ins>thing)	Direct	v	2(2)	39450
 gloss(icl>radiance>thing,equ>polish)	Direct	n	3(2)	20526
@@ -14908,7 +14905,6 @@ katari(icl>adj,equ>qatari,com>qatar)	Direct	a	3(2)	21088
 katari(icl>arab>thing,equ>qatari)	Direct	n	2(2)	21087
 kathmandu(iof>national_capital>thing)	Direct	n	1(2),1(2)	4773
 kazakh(icl>turki>abstract_thing,iof>language,equ>kazak)	Direct	n	2(2),2(2)	20956
-kazakh(iof>asian_country>thing,equ>kazakhstan)	Direct	n	4(1),4(1)	20954
 kazakhstan(iof>asian_country>thing)	Direct	n	4(1),4(1)	20954
 kazakhstani(icl>adj,com>kazakhstan)	Direct	a	2(2)	20957
 kazakhstani(icl>asian>thing)	Direct	n	2(2)	20955
@@ -15000,8 +14996,6 @@ kinship(icl>relation>thing)	Direct	n	2(5)	8169
 kip(icl>laotian_monetary_unit>thing)	Direct	n	1(2)	21019
 kip(icl>rest>occur,equ>sleep,obj>thing)	Direct	v	1(4)	8500
 kirghiz(icl>turki>abstract_thing,iof>language)	Direct	n	4(0),4(0),4(0)	20989
-kirghiz(iof>asian_country>thing,equ>kyrgyzstan)	Direct	n	19(1),19(1)	20979
-kirghizia(iof>asian_country>thing,equ>kyrgyzstan)	Direct	n	19(1),19(1),19(1)	20979
 kiribati(iof>country>thing)	Direct	n	3(2),3(2)	20815
 kiribati_dollar(icl>dollar>thing)	Direct	n	1(2)	20817
 kirkuk(iof>city>thing)	Direct	n	2(2)	35756
@@ -15091,6 +15085,7 @@ kwanzaa(icl>festival>thing)	Direct	n	2(2),2(2)	20028
 kwashiorkor(icl>malnutrition>thing)	Direct	n	1(2)	27202
 kweek(icl>grass>thing,equ>bermuda_grass)	Direct	n	3(2)	2815
 kyat(icl>myanmar_monetary_unit>thing)	Direct	n	2(2)	20927
+kyrgyzstan(iof>asian_country>thing)	Direct	n	19(1),19(1),19(1)	20979
 kyrgyzstani(icl>adj,com>kyrgyzstan)	Direct	a	1(2)	20984
 l(icl>large_integer>thing,equ>fifty)	Direct	n	1(4)	13813
 l(icl>metric_capacity_unit>thing,equ>liter)	Direct	n	1(2)	11114
@@ -17477,7 +17472,6 @@ moisture(icl>wetness>thing)	Direct	n	3(4)	10240
 molar(icl>tooth>thing)	Direct	n	1(2)	310
 molasses(icl>syrup>thing)	Direct	n	3(2)	9971
 mold(icl>change>occur,obj>thing)	Hypernymy	v	1(2),1(2),2(2),2(2),3(2),3(2)	38394
-moldavia(iof>european_country>thing,equ>moldova)	Direct	n	2(2)	19641
 moldova(iof>european_country>thing)	Direct	n	2(2)	19641
 moldovan(icl>adj,com>moldova)	Direct	a	2(2)	19648
 mole(icl>blemish>thing)	Direct	n	1(5)	5998
@@ -24585,7 +24579,6 @@ rush(icl>flow>thing)	Direct	n	3(2)	8754
 rush(icl>motion>thing,equ>haste)	Direct	n	8(2),8(2)	6297
 russet(icl>homespun>thing)	Direct	n	1(2)	28297
 russia(iof>country>thing)	Direct	n	1(4)	10957
-russia(iof>country>thing,equ>soviet_union)	Direct	n	3(2)	21096
 russian(icl>european>person)	Direct	n	3(2),2(2),1(2)	9934
 russian(icl>nationality>adj)	Direct	a	1(4)	9937
 russian(icl>slavic>abstract_thing,iof>language)	Direct	n	4(4),1(4)	9936
@@ -27546,7 +27539,6 @@ stop(icl>do,ant>move,agt>concrete_thing,plc>uw)	Hypernymy	v	2(4),1(4)	36507
 stop(icl>inaction>thing,equ>arrest)	Direct	n	1(4)	38406
 stop(icl>punctuation>thing,equ>period)	Direct	n	5(2)	376
 stop_up(icl>close>do,equ>plug,cob>thing,agt>thing,obj>concrete_thing)	Direct	v	1(2)	25412
-stoplight(icl>light>thing,equ>traffic_light)	Direct	n	2(2)	38306
 stoppage(icl>inaction>thing,equ>arrest)	Direct	n	1(4)	38406
 stopper(icl>blockage>thing,equ>plug)	Direct	n	1(4)	34220
 storage(icl>computer_operation>thing)	Direct	n	2(2)	37968
@@ -28315,7 +28307,6 @@ tactical(icl>adj,com>tactic)	Direct	a	1(4)	36097
 tactically(icl>how,com>tactical)	Direct	adv	2(4),1(4)	594
 tactician(icl>planner>thing)	Direct	n	1(2)	22110
 tactics(icl>plan_of_action>thing,equ>tactic)	Direct	n	1(4)	35059
-tadjik(iof>asian_country>thing,equ>tajikistan)	Direct	n	2(2),2(2),2(2)	21095
 taekwondo(icl>martial_art>thing,equ>tae_kwon_do)	Direct	n	1(2),1(2)	39150
 tag(icl>piece_of_cloth>thing,equ>rag)	Direct	n	2(2)	4933
 tag(icl>pursue>do,equ>chase,agt>thing,obj>thing)	Direct	v	1(2)	9172
@@ -28339,6 +28330,7 @@ taj_mahal(iof>mausoleum>thing)	Direct	n	2(2)	1508
 tajik(icl>asian>thing)	Direct	n	2(2),2(2)	21099
 tajik(icl>ethnic_group>thing)	Direct	n	2(2),2(2)	21100
 tajiki(icl>iranian>thing)	Direct	n	2(2),2(2),2(2)	21098
+tajikistan(iof>asian_country>thing)	Direct	n	2(2),2(2),2(2)	21095
 take(icl>buy>do,agt>thing,obj>thing)	Direct	v	3(2)	2152
 take(icl>consider>be,obj>thing,aoj>person)	Direct	v	2(2)	12025
 take(icl>contain>be,obj>thing,aoj>thing)	Direct	v	1(4)	11050
@@ -29825,7 +29817,6 @@ traducer(icl>detractor>thing,equ>defamer)	Direct	n	3(2)	4862
 traffic(icl>collection>thing)	Direct	n	2(2)	28395
 traffic(icl>communication>thing)	Direct	n	2(2)	27970
 traffic_light(icl>light>thing)	Direct	n	2(2)	38306
-traffic_signal(icl>light>thing,equ>traffic_light)	Direct	n	2(2)	38306
 tragedy(icl>drama>thing,ant>comedy)	Direct	n	(4)	6186
 tragedy(icl>misfortune>thing,equ>calamity)	Direct	n	2(2)	34540
 trail(icl>drag>do,plt>thing,plf>thing,agt>thing,obj>thing)	Direct	v	1(2)	7461
@@ -30325,7 +30316,6 @@ turkish(icl>adj,com>turkey)	Direct	a	1(2)	13295
 turkish(icl>adj,com>turkey)	Direct	a	2(4)	13300
 turkish(icl>adj,com>turkey)	Direct	a	1(2)	18676
 turkish(icl>turki>thing)	Direct	n	2(4),1(4)	13296
-turkmenia(iof>country>thing,equ>turkmenistan)	Direct	n	6(1),6(1),6(1)	21109
 turkmenistan(iof>country>thing)	Direct	n	6(1)	21109
 turkoman(icl>turki>abstract_thing,iof>language,equ>turkmen)	Direct	n	2(2),2(2),2(2)	21112
 turkoman(icl>turki>person)	Direct	n	3(2),3(2),3(2)	19430
@@ -31731,7 +31721,6 @@ uruguay(iof>south_american_country>thing)	Direct	n	1(2)	19991
 uruguay_river(iof>river>thing)	Direct	n	3(2)	19999
 uruguayan(icl>adj,com>uruguay)	Direct	a	3(2)	19994
 uruguayan(icl>south_american>person)	Direct	n	1(2)	19993
-us(iof>north_american_country>thing,equ>united_states)	Direct	n	6(4)	7867
 usa(iof>north_american_country>thing,equ>united_states)	Direct	n	1(2),1(2),5(4)	7867
 usable(icl>adj,equ>functional)	Direct	a	1(4),1(4)	25549
 usage(icl>activity>thing,equ>use)	Direct	n	1(4)	11730
@@ -31781,7 +31770,6 @@ utterance(icl>auditory_communication>thing)	Hypernymy	n	1(2)	35161
 uttered(icl>adj,equ>expressed)	Direct	a	5(2)	4041
 uvula(icl>flap>thing)	Direct	n	4(4)	4267
 uzbek(icl>turki>abstract_thing,iof>language)	Direct	n	10(4),10(4),10(4),10(4),10(4)	21163
-uzbek(iof>asian_country>thing,equ>uzbekistan)	Direct	n	12(4)	21153
 uzbekistan(iof>asian_country>thing)	Direct	n	8(4)	21153
 uzbekistani(icl>adj,com>uzbekistan)	Direct	a	2(2)	21164
 v.p.(icl>executive>thing,equ>vice_president)	Direct	n	1(2)	1784

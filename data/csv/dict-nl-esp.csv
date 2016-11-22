@@ -3444,12 +3444,10 @@
 [aumento]	{n}	"step-up(icl>change_of_magnitude>thing,equ>increase,ant>decrease)"	"THE ACT OF INCREASING SOMETHING"	"HE GAVE ME AN INCREASE IN SALARY"	{n}	0,auto;
 [aura]	{n}	"aura(icl>light>thing)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [aura]	{n}	"gloriole(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
-[aura]	{n}	"glory(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [aura]	{n}	"halo(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [aura]	{n}	"nimbus(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [aureola]	{n}	"aura(icl>light>thing)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [aureola]	{n}	"gloriole(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
-[aureola]	{n}	"glory(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [aureola]	{n}	"halo(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [aureola]	{n}	"nimbus(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [ausencia]	{n}	"absence(icl>epilepsy>thing,equ>petit_mal_epilepsy)"	"EPILEPSY CHARACTERIZED BY PAROXYSMAL ATTACKS OF BRIEF CLOUDING OF CONSCIOUSNESS (A POSSIBLE OTHER ABNORMALITIES)"	""	{n}	0,auto;
@@ -6414,7 +6412,7 @@
 [compensar]	{v}	"counterbalance(icl>contrast>do,equ>oppose,agt>thing,obj>thing)"	"OPPOSE WITH EQUAL WEIGHT OR FORCE"	""	{v}	0,auto;
 [compensar]	{v}	"indemnify(icl>pay>do,equ>compensate,cob>thing,agt>volitional_thing,obj>thing)"	"MAKE AMENDS FOR"	"PAY COMPENSATION FOR"	{v}	0,auto;
 [compensar]	{v}	"oppose(icl>contrast>do,cob>thing,agt>thing,obj>thing)"	"TO COMPARE TWO THINGS, IDEAS, PEOPLE ETC TO SHOW HOW DIFFERENT THEY ARE FROM EACH OTHER"	""	{v}	0,auto;
-[compensar]	{v}	"recompense(icl>pay>do,equ>compensate,cob>thing,agt>volitional_thing,obj>thing)"	"MAKE PAYMENT TO"	"COMPENSATE"	{v}	0,auto;
+[compensar]	{v}	"recompense(icl>pay>do,equ>compensate,rec>volitional_thing,agt>volitional_thing,obj>thing)"	"MAKE PAYMENT TO"	"COMPENSATE"	{v}	0,auto;
 [compensar]	{v}	"redress(icl>change>do,equ>right,agt>thing,obj>thing)"	"MAKE REPARATIONS OR AMENDS FOR"	"RIGHT A WRONGS DONE TO THE VICTIMS OF THE HOLOCAUST"	{v}	0,auto;
 [compensar]	{v}	"remunerate(icl>pay>do,equ>compensate,cob>thing,agt>volitional_thing,obj>thing)"	"MAKE PAYMENT TO"	"COMPENSATE"	{v}	0,auto;
 [compensar]	{v}	"repair(icl>compensate>do,agt>person,obj>abstract_thing)"	"DO SOMETHING TO REMOVE HARM"	"ONE CAN NEVER FULLY REPAIR THE SUFFERING (OBJ) AND LOSSES OF THE JEWS IN THE THIRD REICH"	{v}	0,auto;
@@ -14029,7 +14027,6 @@
 [hall]	{n}	"lobby(icl>room>thing,equ>anteroom)"	"A LARGE ENTRANCE OR RECEPTION ROOM OR AREA"	""	{n}	0,auto;
 [halo]	{n}	"aura(icl>light>thing)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [halo]	{n}	"gloriole(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
-[halo]	{n}	"glory(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [halo]	{n}	"halo(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [halo]	{n}	"nimbus(icl>light>thing,equ>aura)"	"AN INDICATION OF RADIANT LIGHT DRAWN AROUND THE HEAD OF A SAINT"	""	{n}	0,auto;
 [hambre]	{n}	"famine(icl>lack>thing,equ>dearth)"	"AN ACUTE INSUFFICIENCY"	""	{n}	0,auto;
@@ -19878,7 +19875,7 @@
 [recolectar]	{v}	"garner(icl>do,equ>gather,agt>thing,obj>thing)"	"ASSEMBLE OR GET TOGETHER"	"GATHER SOME STONES"	{v}	0,auto;
 [recolectar]	{v}	"gather(icl>do,equ>accumulate,plf>thing,agt>thing,obj>thing,plc>thing)"	"CONTINUALLY ACCUMULATE IN ONE PLACE"	"GATHER INFORMATION (OBJ) OUT OF DIFFERENT SOURCES (SRC)"	{v}	0,auto;
 [recompensar]	{v}	"compensate(icl>pay>do,equ>reward,rsn>uw,agt>volitional_thing,obj>money,ben>person)"	"PAY FOR"	"THEY ALWAYS COMPENSATE HER FOR EXTRA WORK"	{v}	0,auto;
-[recompensar]	{v}	"recompense(icl>pay>do,equ>compensate,cob>thing,agt>volitional_thing,obj>thing)"	"MAKE PAYMENT TO"	"COMPENSATE"	{v}	0,auto;
+[recompensar]	{v}	"recompense(icl>pay>do,equ>compensate,rec>volitional_thing,agt>volitional_thing,obj>thing)"	"MAKE PAYMENT TO"	"COMPENSATE"	{v}	0,auto;
 [recompensar]	{v}	"remunerate(icl>pay>do,equ>compensate,cob>thing,agt>volitional_thing,obj>thing)"	"MAKE PAYMENT TO"	"COMPENSATE"	{v}	0,auto;
 [reconocer]	{v}	"acknowledge(icl>recognize>do,cob>thing,agt>volitional_thing,obj>thing)"	"ACCEPT (SOMEONE) TO BE WHAT IS CLAIMED OR ACCEPT HIS POWER AND AUTHORITY"	"THE CROWN PRINCE WAS ACKNOWLEDGED AS THE TRUE HEIR TO THE THRONE"	{v}	0,auto;
 [reconocer]	{v}	"recognize(icl>accept>be,cob>uw,obj>uw,aoj>person)"	"ACCEPT SOMEONE TO BE WHAT IS CLAIMED OR ACCEPT HIS POWER AND AUTHORITY"	"WE (AOJ) DO NOT RECOGNIZE YOUR GODS (OBJ)"	{v}	0,auto;

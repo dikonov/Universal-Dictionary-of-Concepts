@@ -1678,7 +1678,6 @@
 [công dân]	{n}	"citizen(icl>national>thing,ant>noncitizen)"	"A NATIVE OR NATURALIZED MEMBER OF A STATE OR OTHER POLITICAL COMMUNITY"	""	{n}	2,auto-polysemic-3lang;
 [côngfeti]	{n}	"confetti(icl>paper>thing)"	"SMALL PIECES OR STREAMERS OF COLORED PAPER THAT ARE THROWN AROUND ON FESTIVE OCCASIONS (AS AT A WEDDING)"	""	{n}	2,auto-monosemic-2lang;
 [công giáo]	{n}	"catholicism(icl>christianity>thing)"	"THE BELIEFS AND PRACTICES OF A CATHOLIC CHURCH"	""	{n}	2,auto-polysemic-3lang;
-[công giáo]	{n}	"catholicity(icl>christianity>thing,equ>catholicism)"	"THE BELIEFS AND PRACTICES OF A CATHOLIC CHURCH"	""	{n}	2,auto-polysemic-3lang;
 [cơ nghiệp]	{n}	"fortune(icl>treasure>thing)"	"A LARGE AMOUNT OF WEALTH OR PROSPERITY"	""	{n}	2,auto-polysemic-3lang;
 [con giòi]	{n}	"maggot(icl>grub>thing)"	"THE LARVA OF THE HOUSEFLY AND BLOWFLY COMMONLY FOUND IN DECAYING ORGANIC MATTER"	""	{n}	2,auto-monosemic-2lang;
 [công khai]	{misc}	"openly(icl>how,com>open)"	"IN AN OPEN WAY"	"HE OPENLY FLAUNTED HIS AFFECTION FOR HIS SISTER"	{misc}	2,auto-polysemic-3lang;
@@ -2212,7 +2211,6 @@
 [đạo]	{n}	"religion(icl>institution>thing)"	"AN INSTITUTION TO EXPRESS BELIEF IN A DIVINE POWER"	"HE WAS RAISED IN THE BAPTIST RELIGION"	{n}	2,auto-polysemic-3lang;
 [đảo san hô vòng]	{n}	"atoll(icl>coral_reef>thing)"	"AN ISLAND CONSISTING OF A CIRCULAR CORAL REEF SURROUNDING A LAGOON"	""	{n}	2,auto-monosemic-2lang;
 [đạo thiên chúa]	{n}	"catholicism(icl>christianity>thing)"	"THE BELIEFS AND PRACTICES OF A CATHOLIC CHURCH"	""	{n}	2,auto-polysemic-3lang;
-[đạo thiên chúa]	{n}	"catholicity(icl>christianity>thing,equ>catholicism)"	"THE BELIEFS AND PRACTICES OF A CATHOLIC CHURCH"	""	{n}	2,auto-polysemic-3lang;
 [đào]	{v}	"delve(icl>remove>do,equ>dig,agt>volitional_thing,obj>matter)"	"TURN UP, LOOSEN, OR REMOVE EARTH"	"DIG WE MUST"	{v}	2,auto-polysemic-3lang;
 [đảo]	{v}	"knock_over(icl>overturn>do,agt>living_thing,obj>concrete_thing)"	"TO HIT OR PUSH SOMETHING OR SOMEONE, WITH THE RESULT THAT THEY FALL DOWN OR ONTO THEIR SIDE"	"AT THAT MOMENT SALLY JUMPED UP, KNOCKING OVER HER GLASS OF WINE"	{v}	2,auto-polysemic-3lang;
 [dao xắn cá]	{n}	"trowel(icl>hand_tool>thing)"	"A SMALL HAND TOOL WITH A HANDLE AND FLAT METAL BLADE"	"USED FOR SCOOPING OR SPREADING PLASTER OR SIMILAR MATERIALS"	{n}	2,auto-monosemic-2lang;
