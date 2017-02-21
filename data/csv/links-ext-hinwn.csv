@@ -4465,7 +4465,6 @@ computation(icl>problem_solving>thing,equ>calculation)	Direct	n	1(4)	4824
 computer(icl>machine>thing)	Direct	n	1(4)	11029
 computer_file(icl>file>thing)	Direct	n	1(2)	34590
 computer_game(icl>game>thing)	Direct	n	1(2)	35096
-computer_monitor(icl>monitor>thing)	Direct	n	2(4)	10385
 computerisation(icl>abstract_thing,mod>thing)	Direct	n	2(2)	20438
 comrade(icl>friend>thing,equ>brother,obj>person,cob>person)	Direct	n	1(2)	27123
 comrade(icl>friend>thing,equ>companion)	Direct	n	2(4),1(5)	17398
@@ -5450,7 +5449,7 @@ curry(icl>dish>thing)	Direct	n	1(2)	12396
 curse(icl>raise>do,agt>thing,obj>thing)	Direct	v	1(4)	11522
 curse(icl>raise>do,agt>thing,obj>thing)	Direct	v	1(5)	17821
 curse(icl>spell>thing,equ>hex)	Direct	n	1(5),3(4)	3008
-cursor(icl>indicator>thing)	Direct	n	1(4)	27996
+cursor(icl>indicator>thing,fld>computer)	Direct	n	1(4)	27996
 cursorily(icl>how,com>cursory)	Direct	adv	1(4)	10191
 curt(icl>adj,equ>crisp)	Direct	a	2(2),1(2)	16121
 curtain(icl>blind>thing)	Direct	n	4(3)	801
@@ -14931,8 +14930,6 @@ kernel(icl>plant_part>thing)	Direct	n	2(4)	7184
 kerosene(icl>fuel>thing)	Direct	n	(4),(4)	8647
 kettle(icl>percussion_instrument>thing)	Direct	n	2(2)	5817
 kettle(icl>pot>thing)	Direct	n	1(3)	906
-key(icl>device>thing)	Direct	n	1(4)	29730
-key(icl>device>thing)	Direct	n	2(4),1(4),3(5)	5196
 key(icl>lever>thing)	Hypernymy	n	1(2)	7085
 key(icl>mechanical_device>thing,equ>winder)	Direct	n	1(2)	5195
 keyboard(icl>device>thing)	Direct	n	3(2),2(2),1(2)	23092
@@ -25354,7 +25351,7 @@ scholarship(icl>aid>thing)	Direct	n	1(7)	8802
 scholarship(icl>education>thing,equ>eruditeness)	Direct	n	(4),1(4)	881
 scholastic(icl>adj,com>school)	Direct	a	1(4)	17292
 school(icl>building>thing)	Direct	n	2(7),1(4)	17031
-school(icl>educational_institution>thing,pur>children)	Direct	n	1(4)	27490
+school(icl>educational_institution>group,com>stuff,com>students)	Direct	n	1(4)	27490
 school(icl>group,com>trend)	Direct	n	2(4)	27382
 school(icl>time_period>thing)	Direct	n	2(4)	27491
 schoolbag(icl>bag>thing)	Direct	n	1(2)	10758

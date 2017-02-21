@@ -905,7 +905,7 @@
 [cản gió]	{a}	"windward(icl>adj,ant>leeward)"	"ON THE SIDE EXPOSED TO THE WIND"	"THE WINDWARD ISLANDS"	{a}	1,auto-monosemic-1lang;
 [cảng]	{n}	"harbour(icl>port>thing,equ>seaport)"	"A SHELTERED PORT WHERE SHIPS CAN TAKE ON OR DISCHARGE CARGO"	""	{n}	2,auto-polysemic-3lang;
 [cảng]	{n}	"haven(icl>port>thing,equ>seaport)"	"A SHELTERED PORT WHERE SHIPS CAN TAKE ON OR DISCHARGE CARGO"	""	{n}	2,auto-polysemic-3lang;
-[cảng]	{n}	"port(icl>computer_circuit>thing,equ>interface)"	"(COMPUTER SCIENCE) COMPUTER CIRCUIT CONSISTING OF THE HARDWARE AND ASSOCIATED CIRCUITRY THAT LINKS ONE DEVICE WITH ANOTHER (ESPECIALLY A COMPUTER AND A HARD DISK DRIVE OR OTHER PERIPHERALS)"	""	{n}	2,auto-polysemic-3lang;
+[cảng]	{n}	"port(icl>computer_circuit>thing,equ>interface,fld>computer)"	"(COMPUTER SCIENCE) COMPUTER CIRCUIT CONSISTING OF THE HARDWARE AND ASSOCIATED CIRCUITRY THAT LINKS ONE DEVICE WITH ANOTHER (ESPECIALLY A COMPUTER AND A HARD DISK DRIVE OR OTHER PERIPHERALS)"	""	{n}	2,auto-polysemic-3lang;
 [cảng]	{n}	"port(icl>geographic_point>thing)"	"A PLACE (SEAPORT OR AIRPORT) WHERE PEOPLE AND MERCHANDISE CAN ENTER OR LEAVE A COUNTRY"	""	{n}	2,auto-polysemic-3lang;
 [ca ngợi]	{v}	"laud(icl>praise>do,agt>volitional_thing,obj>thing)"	"PRAISE, GLORIFY, OR HONOR"	"EXTOL THE VIRTUES OF ONE'S CHILDREN"	{v}	2,auto-polysemic-3lang;
 [ca ngợi]	{v}	"praise(icl>evaluate>do,ant>criticize,rsn>uw,agt>person,obj>thing)"	"EXPRESS APPROVAL OF"	"THE PARENTS (AGT) PRAISED THEIR CHILDREN (OBJ) FOR THEIR ACADEMIC PERFORMANCE (RSN)"	{v}	2,auto-polysemic-3lang;
@@ -8488,7 +8488,7 @@
 [thức dậy]	{v}	"awaken(icl>change_state>occur,equ>wake_up,obj>thing)"	"STOP SLEEPING"	"SHE WOKE UP TO THE SOUND OF THE ALARM CLOCK"	{v}	2,auto-polysemic-3lang;
 [thức dậy]	{v}	"wake(icl>awake>occur,src>thing,obj>living_thing)"	"STOP SLEEPING"	"THEY WOKE TO THE SOUNDS OF MUSIC."	{v}	2,auto-polysemic-3lang;
 [thực đơn]	{n}	"menu(icl>bill>thing)"	"A LIST OF DISHES AVAILABLE AT A RESTAURANT"	"THE MENU WAS IN FRENCH"	{n}	2,auto-polysemic-3lang;
-[thực đơn]	{n}	"menu(icl>list>thing)"	"(COMPUTER SCIENCE) A LIST OF OPTIONS AVAILABLE TO A COMPUTER USER"	""	{n}	2,auto-polysemic-3lang;
+[thực đơn]	{n}	"menu(icl>list>thing,pof>gui,fld>computer)"	"(COMPUTER SCIENCE) A LIST OF OPTIONS AVAILABLE TO A COMPUTER USER"	""	{n}	2,auto-polysemic-3lang;
 [thực hành]	{a}	"practical(icl>adj,ant>impractical)"	"CONCERNED WITH ACTUAL USE OR PRACTICE"	"HE IS A VERY PRACTICAL PERSON"	{a}	2,auto-polysemic-3lang;
 [thực hành]	{v}	"realize(icl>do,equ>substantiate,obj>uw)"	""	"SHE (AGT) NEVER REALIZED HER AMBITION (OBJ) OF WINNING A GOLD MEDAL."	{v}	2,auto-polysemic-3lang;
 [thực hành]	{v}	"realize(icl>sell>do,obj>thing)"	"CONVERT INTO CASH; OF GOODS AND PROPERTY"	"TO REALIZE SECURITIES (OBJ)"	{v}	2,auto-polysemic-3lang;
@@ -9308,7 +9308,7 @@
 [trường hợp]	{n}	"occasion(icl>social_event>thing,equ>affair)"	"A VAGUELY SPECIFIED SOCIAL EVENT"	"AN OCCASION ARRANGED TO HONOR THE PRESIDENT"	{n}	2,auto-polysemic-3lang;
 [trường hợp]	{n}	"occasion(icl>time>thing)"	"THE TIME OF A PARTICULAR EVENT"	"ON THE OCCASION OF HIS 60TH BIRTHDAY"	{n}	2,auto-polysemic-3lang;
 [trường]	{n}	"school(icl>building>thing)"	"A BUILDING WHERE YOUNG PEOPLE RECEIVE EDUCATION"	"THE SCHOOL WAS BUILT IN 1932"	{n}	2,auto-polysemic-3lang;
-[trường]	{n}	"school(icl>educational_institution>thing,pur>children)"	"AN INSTITUTION FOR THE TEACHING OF CHILDREN AND TEENAGERS"	"THE SCHOOL KEEPS PARENTS INFORMED"	{n}	2,auto-polysemic-3lang;
+[trường]	{n}	"school(icl>educational_institution>group,com>stuff,com>students)"	"AN INSTITUTION FOR THE TEACHING OF CHILDREN AND TEENAGERS"	"THE SCHOOL KEEPS PARENTS INFORMED"	{n}	2,auto-polysemic-3lang;
 [trường]	{n}	"school(icl>education>thing)"	"THE PROCESS OF BEING FORMALLY EDUCATED AT A SCHOOL"	"WHAT WILL YOU DO WHEN YOU FINISH SCHOOL?"	{n}	2,auto-polysemic-3lang;
 [trường]	{n}	"school(icl>group,com>trend)"	"A BODY OF CREATIVE ARTISTS OR WRITERS OR THINKERS LINKED BY A SIMILAR STYLE OR BY SIMILAR TEACHERS"	"THE VENETIAN SCHOOL OF PAINTING"	{n}	2,auto-polysemic-3lang;
 [trường]	{n}	"school(icl>time_period>thing)"	"THE PERIOD OF INSTRUCTION IN A SCHOOL"	"STAY AFTER SCHOOL"	{n}	2,auto-polysemic-3lang;
