@@ -4463,7 +4463,6 @@ compulsory(icl>adj)	Direct	a	1(5),8(4)	2248
 compunction(icl>sorrow>thing)	Direct	n	2(4),6(4),4(4)	2187
 computation(icl>problem_solving>thing,equ>calculation)	Direct	n	1(4)	4824
 computer(icl>machine>thing)	Direct	n	1(4)	11029
-computer_file(icl>file>thing)	Direct	n	1(2)	34590
 computer_game(icl>game>thing)	Direct	n	1(2)	35096
 computerisation(icl>abstract_thing,mod>thing)	Direct	n	2(2)	20438
 comrade(icl>friend>thing,equ>brother,obj>person,cob>person)	Direct	n	1(2)	27123
@@ -15641,7 +15640,6 @@ listen(icl>heed>do,agt>person,obj>thing)	Direct	v	1(4)	11479
 listen(icl>heed>do,agt>person,obj>thing)	Direct	v	1(4)	12220
 listen_in(icl>listen>do,agt>thing,obj>thing)	Direct	v	1(2)	15983
 listener(icl>perceiver>thing,equ>hearer)	Direct	n	1(2)	10129
-listing(icl>database>thing,equ>list)	Direct	n	1(5),1(5)	1876
 lit(icl>adj,equ>illuminated)	Direct	a	1(4)	11444
 litas(icl>lithuanian_monetary_unit>thing)	Direct	n	2(2)	19614
 litchi(icl>edible_fruit>thing)	Direct	n	1(2),1(2),1(2),1(2),1(2),1(2)	9990
