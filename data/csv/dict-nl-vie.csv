@@ -9308,7 +9308,7 @@
 [trường hợp]	{n}	"occasion(icl>social_event>thing,equ>affair)"	"A VAGUELY SPECIFIED SOCIAL EVENT"	"AN OCCASION ARRANGED TO HONOR THE PRESIDENT"	{n}	2,auto-polysemic-3lang;
 [trường hợp]	{n}	"occasion(icl>time>thing)"	"THE TIME OF A PARTICULAR EVENT"	"ON THE OCCASION OF HIS 60TH BIRTHDAY"	{n}	2,auto-polysemic-3lang;
 [trường]	{n}	"school(icl>building>thing)"	"A BUILDING WHERE YOUNG PEOPLE RECEIVE EDUCATION"	"THE SCHOOL WAS BUILT IN 1932"	{n}	2,auto-polysemic-3lang;
-[trường]	{n}	"school(icl>educational_institution>group,com>stuff,com>students)"	"AN INSTITUTION FOR THE TEACHING OF CHILDREN AND TEENAGERS"	"THE SCHOOL KEEPS PARENTS INFORMED"	{n}	2,auto-polysemic-3lang;
+[trường]	{n}	"school(icl>educational_institution>thing,pur>children)"	"AN INSTITUTION FOR THE TEACHING OF CHILDREN AND TEENAGERS"	"THE SCHOOL KEEPS PARENTS INFORMED"	{n}	2,auto-polysemic-3lang;
 [trường]	{n}	"school(icl>education>thing)"	"THE PROCESS OF BEING FORMALLY EDUCATED AT A SCHOOL"	"WHAT WILL YOU DO WHEN YOU FINISH SCHOOL?"	{n}	2,auto-polysemic-3lang;
 [trường]	{n}	"school(icl>group,com>trend)"	"A BODY OF CREATIVE ARTISTS OR WRITERS OR THINKERS LINKED BY A SIMILAR STYLE OR BY SIMILAR TEACHERS"	"THE VENETIAN SCHOOL OF PAINTING"	{n}	2,auto-polysemic-3lang;
 [trường]	{n}	"school(icl>time_period>thing)"	"THE PERIOD OF INSTRUCTION IN A SCHOOL"	"STAY AFTER SCHOOL"	{n}	2,auto-polysemic-3lang;

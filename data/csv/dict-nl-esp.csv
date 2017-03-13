@@ -15577,7 +15577,7 @@
 [invertir]	{v}	"knock_over(icl>overturn>do,agt>living_thing,obj>concrete_thing)"	"TO HIT OR PUSH SOMETHING OR SOMEONE, WITH THE RESULT THAT THEY FALL DOWN OR ONTO THEIR SIDE"	"AT THAT MOMENT SALLY JUMPED UP, KNOCKING OVER HER GLASS OF WINE"	{v}	0,auto;
 [invertir]	{v}	"overturn(icl>move>do,agt>thing,obj>thing)"	"CAUSE TO OVERTURN FROM AN UPRIGHT OR NORMAL POSITION"	"THE CAT KNOCKED OVER THE FLOWER VASE"	{v}	0,auto;
 [invertir]	{v}	"overturn(icl>turn>occur,obj>thing)"	"TURN FROM AN UPRIGHT OR NORMAL POSITION"	"THE BIG VASE OVERTURNED"	{v}	0,auto;
-[invertir]	{v}	"reverse(icl>invert>do,agt>thing,obj>thing)"	"TURN INSIDE OUT OR UPSIDE DOWN"	"REVERSE THE PAPER (OBJ) IN THE PRINTER / SHE (AGT) REVERSED THE SKIRT (OBJ) TO ITS SOLID, QUIET SIDE"	{v}	0,auto;
+[invertir]	{v}	"reverse(icl>invert>do,agt>thing,obj>thing)"	"TURN INSIDE OUT"	"SHE (AGT) REVERSED THE SKIRT (OBJ) TO ITS SOLID, QUIET SIDE"	{v}	0,auto;
 [invertir]	{v}	"turn_over(icl>move>do,equ>overturn,agt>thing,obj>thing)"	"CAUSE TO OVERTURN FROM AN UPRIGHT OR NORMAL POSITION"	"THE CAT KNOCKED OVER THE FLOWER VASE"	{v}	0,auto;
 [invertir]	{v}	"turn_over(icl>turn>occur,equ>overturn,obj>thing)"	"TURN FROM AN UPRIGHT OR NORMAL POSITION"	"THE BIG VASE OVERTURNED"	{v}	0,auto;
 [invertir]	{v}	"upset(icl>overturn>do,agt>thing,obj>thing)"	"CAUSE TO OVERTURN FROM AN UPRIGHT OR NORMAL POSITION"	"THE CAT KNOCKED OVER THE FLOWER VASE"	{v}	0,auto;
@@ -17537,7 +17537,6 @@
 [narizota]	{n}	"snout(icl>nose>thing,equ>beak)"	"INFORMAL TERMS FOR THE NOSE"	""	{n}	0,auto;
 [narración]	{n}	"narration(icl>report>thing)"	"THE ACT OF GIVING AN ACCOUNT DESCRIBING INCIDENTS OR A COURSE OF EVENTS"	"HIS NARRATION WAS HESITANT"	{n}	0,auto;
 [narración]	{n}	"yarn(icl>report>thing,equ>narration)"	"THE ACT OF GIVING AN ACCOUNT DESCRIBING INCIDENTS OR A COURSE OF EVENTS"	"HIS NARRATION WAS HESITANT"	{n}	0,auto;
-[narrar]	{v}	"recite(icl>re-create>do,agt>thing,obj>thing)"	"RENDER VERBALLY, RECITE A POEM"	"RETELL A STORY"	{v}	0,auto;
 [narrar]	{v}	"recite(icl>repeat>do,agt>volitional_thing,obj>thing,rec>person)"	"REPEAT ALOUD FROM MEMORY"	"SHE RECITED A POEM"	{v}	0,auto;
 [narrar]	{v}	"retell(icl>re-create>do,equ>recite,agt>person,obj>thing,rec>thing)"	"RENDER VERBALLY, RECITE A POEM"	"RETELL A STORY"	{v}	0,auto;
 [natalidad]	{n}	"birthrate(icl>rate>thing)"	"THE RATIO OF LIVE BIRTHS IN AN AREA TO THE POPULATION OF THAT AREA"	"EXPRESSED PER 1000 POPULATION PER YEAR"	{n}	0,auto;

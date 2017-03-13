@@ -25349,7 +25349,7 @@ scholarship(icl>aid>thing)	Direct	n	1(7)	8802
 scholarship(icl>education>thing,equ>eruditeness)	Direct	n	(4),1(4)	881
 scholastic(icl>adj,com>school)	Direct	a	1(4)	17292
 school(icl>building>thing)	Direct	n	2(7),1(4)	17031
-school(icl>educational_institution>group,com>stuff,com>students)	Direct	n	1(4)	27490
+school(icl>educational_institution>thing,pur>children)	Direct	n	1(4)	27490
 school(icl>group,com>trend)	Direct	n	2(4)	27382
 school(icl>time_period>thing)	Direct	n	2(4)	27491
 schoolbag(icl>bag>thing)	Direct	n	1(2)	10758
