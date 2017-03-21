@@ -6971,7 +6971,7 @@
 [conservar]	{v}	"conserve(icl>keep>do,agt>thing,obj>thing)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"CHILDREN MUST BE TAUGHT TO CONSERVE OUR NATIONAL HERITAGE"	{v}	0,auto;
 [conservar]	{v}	"hold_on(icl>have>do,equ>keep,agt>thing,obj>thing)"	"RETAIN POSSESSION OF"	"CAN I KEEP MY OLD STUFFED ANIMALS?"	{v}	0,auto;
 [conservar]	{v}	"keep_up(icl>keep>do,equ>conserve,agt>thing,obj>thing)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"THE OLD LADY COULD NOT KEEP UP THE BUILDING"	{v}	0,auto;
-[conservar]	{v}	"maintain(icl>keep_up>do,agt>thing,obj>uw,met>uw)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"TO MAINTAIN ONE'S COMPOSURE"	{v}	0,auto;
+[conservar]	{v}	"maintain(icl>keep_up>do,agt>thing,obj>uw,met>uw)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"TO MAINTAIN MACHINERY"	{v}	0,auto;
 [conservar]	{v}	"preserve(icl>conserve>do,agt>thing,obj>food,plc>thing)"	"PREVENT FROM ROTTING"	"ORANGES (OBJ) PRESERVED IN BRANDY (PLC)"	{v}	0,auto;
 [conservar]	{v}	"retain(icl>contain>be,obj>thing,aoj>thing)"	"HOLD WITHIN"	"THIS SOIL RETAINS WATER"	{v}	0,auto;
 [conservar]	{v}	"save(icl>keep>do,agt>thing,obj>thing)"	"TO KEEP UP AND RESERVE FOR PERSONAL OR SPECIAL USE"	"SHE (AGT) SAVES THE OLD FAMILY PHOTOGRAPHS (OBJ) IN A DRAWER"	{v}	0,auto;
@@ -9669,8 +9669,8 @@
 [dialogar]	{v}	"talk(icl>be,obj>thing,aoj>person)"	"USE LANGUAGE"	"THE BABY (AOJ) TALKS ALREADY / DOLPHINS (AOJ) WERE TALKING THEIR OWN DOLPHIN TALK (OBJ)"	{v}	0,auto;
 [diálogo]	{n}	"dialogue(icl>conversation>action,agt>thing,obj>uw,ptn>thing)"	"A CONVERSATION BETWEEN TWO PERSONS"	""	{n}	0,auto;
 [diálogo]	{n}	"duologue(icl>talk>thing,equ>dialogue)"	"A CONVERSATION BETWEEN TWO PERSONS"	""	{n}	0,auto;
-[día]	{n}	"day(icl>period>time,icl>unit)"	"MEASURE OF TIME"	"HE LEFT TWO DAYS AGO"	{n}	0,auto;
 [día]	{n}	"day(icl>time_period>thing,equ>daylight,ant>night)"	"THE TIME AFTER SUNRISE AND BEFORE SUNSET WHILE IT IS LIGHT OUTSIDE"	"THE DAWN TURNED NIGHT INTO DAY"	{n}	0,auto;
+[día]	{n}	"day(icl>time_unit>thing)"	"MEASURE OF TIME"	"HE LEFT TWO DAYS AGO"	{n}	0,auto;
 [día]	{n}	"daytime(icl>time_period>thing,equ>day,ant>night)"	"THE TIME AFTER SUNRISE AND BEFORE SUNSET WHILE IT IS LIGHT OUTSIDE"	"IT IS EASIER TO MAKE THE REPAIRS IN THE DAYTIME"	{n}	0,auto;
 [diario]	{n}	"paper(icl>press>thing,equ>newspaper)"	"A DAILY OR WEEKLY PUBLICATION ON FOLDED SHEETS"	"CONTAINS NEWS AND ARTICLES AND ADVERTISEMENTS"	{n}	0,auto;
 [diario]	{n}	"paper(icl>product>thing,equ>newspaper)"	"THE PHYSICAL OBJECT THAT IS THE PRODUCT OF A NEWSPAPER PUBLISHER"	"WHEN IT BEGAN TO RAIN HE COVERED HIS HEAD WITH A NEWSPAPER"	{n}	0,auto;
@@ -16618,7 +16618,7 @@
 [mantener]	{v}	"continue(icl>be,equ>extend,obj>thing,aoj>thing)"	"BE A SEQUEL TO"	"THE SECOND BOOK (AOJ) CONTINUES THE STORY (OBJ) OF THE FIRST"	{v}	0,auto;
 [mantener]	{v}	"keep_up(icl>keep>do,equ>conserve,agt>thing,obj>thing)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"THE OLD LADY COULD NOT KEEP UP THE BUILDING"	{v}	0,auto;
 [mantener]	{v}	"maintain(icl>do,equ>support,agt>thing,obj>uw)"	"SUPPLY WITH NECESSITIES AND SUPPORT"	"MAINTAIN A FAMILY"	{v}	0,auto;
-[mantener]	{v}	"maintain(icl>keep_up>do,agt>thing,obj>uw,met>uw)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"TO MAINTAIN ONE'S COMPOSURE"	{v}	0,auto;
+[mantener]	{v}	"maintain(icl>keep_up>do,agt>thing,obj>uw,met>uw)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"TO MAINTAIN MACHINERY"	{v}	0,auto;
 [mantener]	{v}	"preserve(icl>maintain>do,agt>thing,obj>thing,cag>thing)"	"CAUSE TO REMAIN OR LAST"	"OUR FAMILY (AGT) TRIES TO PRESERVE TRADITIONS (OBJ)"	{v}	0,auto;
 [mantener]	{v}	"uphold(icl>defend>do,agt>thing,obj>thing)"	"STAND UP FOR"	"STICK UP FOR"	{v}	0,auto;
 [mantener]	{v}	"uphold(icl>keep_up>do,agt>thing,obj>thing)"	"KEEP OR MAINTAIN IN UNALTERED CONDITION"	"A COMMITTEE THAT AIMS TO UPHOLD EDUCATIONAL STANDARDS"	{v}	0,auto;

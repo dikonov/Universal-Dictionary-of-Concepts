@@ -336,7 +336,7 @@
 [bao hàm]	{v}	"comprise(icl>be,equ>consist,src>thing,obj>thing,aoj>uw)"	"BE COMPOSED OF"	"THE COUNTRY COMPRISES SEVERAL PROVINCES"	{v}	2,auto-polysemic-3lang;
 [bao la]	{a}	"immense(icl>adj,equ>huge)"	"UNUSUALLY GREAT IN SIZE OR AMOUNT OR DEGREE OR ESPECIALLY EXTENT OR SCOPE"	"THE LOS ANGELES AQUEDUCT WINDS LIKE AN IMMENSE SNAKE ALONG THE BASE OF THE MOUNTAINS"	{a}	2,auto-polysemic-3lang;
 [bạo lực]	{n}	"violence(icl>aggression>thing)"	"AN ACT OF AGGRESSION (AS ONE AGAINST A PERSON WHO RESISTS)"	"HE MAY ACCOMPLISH BY CRAFT IN THE LONG RUN WHAT HE CANNOT DO BY FORCE AND VIOLENCE IN THE SHORT ONE"	{n}	2,auto-polysemic-3lang;
-[bảo lưu]	{v}	"maintain(icl>keep_up>do,agt>thing,obj>uw,met>uw)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"TO MAINTAIN ONE'S COMPOSURE"	{v}	2,auto-polysemic-3lang;
+[bảo lưu]	{v}	"maintain(icl>keep_up>do,agt>thing,obj>uw,met>uw)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"TO MAINTAIN MACHINERY"	{v}	2,auto-polysemic-3lang;
 [bao]	{n}	"bag(icl>container>thing)"	"A CONTAINER USED FOR CARRYING MONEY AND SMALL PERSONAL ITEMS OR ACCESSORIES (ESPECIALLY BY WOMEN)"	"SHE REACHED INTO HER BAG AND FOUND A COMB"	{n}	2,auto-polysemic-3lang;
 [báo]	{n}	"journal(icl>book>thing)"	"A RECORD BOOK AS A PHYSICAL OBJECT"	""	{n}	2,auto-polysemic-3lang;
 [báo]	{n}	"journal(icl>periodical>thing)"	"A PERIODICAL DEDICATED TO A PARTICULAR SUBJECT"	"HE READS THE MEDICAL JOURNALS"	{n}	2,auto-polysemic-3lang;
@@ -348,8 +348,8 @@
 [báo]	{n}	"paper(icl>publisher>thing,equ>newspaper)"	"A BUSINESS FIRM THAT PUBLISHES NEWSPAPERS"	"MURDOCH OWNS MANY NEWSPAPERS"	{n}	2,auto-polysemic-3lang;
 [bao]	{n}	"sack(icl>bag>thing)"	"A BAG MADE OF PAPER OR PLASTIC FOR HOLDING CUSTOMER'S PURCHASES"	""	{n}	2,auto-polysemic-3lang;
 [bao phấn]	{n}	"anther(icl>reproductive_structure>thing)"	"THE PART OF THE STAMEN THAT CONTAINS POLLEN"	"USUALLY BORNE ON A STALK"	{n}	2,auto-monosemic-2lang;
-[bảo tàng]	{n}	"museum(icl>depository>thing)"	"A DEPOSITORY FOR COLLECTING AND DISPLAYING OBJECTS HAVING SCIENTIFIC OR HISTORICAL OR ARTISTIC VALUE"	""	{n}	2,auto-polysemic-3lang;
-[bảo tàng tự nhiên học]	{n}	"museum(icl>depository>thing)"	"A DEPOSITORY FOR COLLECTING AND DISPLAYING OBJECTS HAVING SCIENTIFIC OR HISTORICAL OR ARTISTIC VALUE"	""	{n}	2,auto-monosemic-2lang;
+[bảo tàng]	{n}	"museum(icl>building>thing)"	"A DEPOSITORY FOR COLLECTING AND DISPLAYING OBJECTS HAVING SCIENTIFIC OR HISTORICAL OR ARTISTIC VALUE"	""	{n}	2,auto-polysemic-3lang;
+[bảo tàng tự nhiên học]	{n}	"museum(icl>building>thing)"	"A DEPOSITORY FOR COLLECTING AND DISPLAYING OBJECTS HAVING SCIENTIFIC OR HISTORICAL OR ARTISTIC VALUE"	""	{n}	2,auto-monosemic-2lang;
 [bão táp]	{n}	"hurricane(icl>cyclone>thing)"	"A SEVERE TROPICAL CYCLONE USUALLY WITH HEAVY RAINS AND WINDS MOVING A 73-136 KNOTS (12 ON THE BEAUFORT SCALE)"	""	{n}	2,auto-polysemic-3lang;
 [bão táp]	{n}	"storm(icl>atmospheric_phenomenon>thing)"	"A VIOLENT WEATHER CONDITION WITH WINDS 64-72 KNOTS (11 ON THE BEAUFORT SCALE) AND PRECIPITATION AND THUNDER AND LIGHTENING"	""	{n}	2,auto-polysemic-3lang;
 [bảo thủ]	{a}	"conservative(icl>adj,ant>liberal)"	"RESISTANT TO CHANGE"	""	{a}	2,auto-polysemic-3lang;
@@ -361,7 +361,7 @@
 [bảo vệ]	{v}	"defend(icl>argue>do,equ>support)"	"SPEAK IN DEFENSE OF"	"TO DEFEND THE GENERAL PRINCIPLES"	{v}	2,auto-polysemic-3lang;
 [bảo vệ]	{v}	"defend(icl>fight>do,equ>protect)"	"PROTECT AGAINST AN ATTACK"	"TO DEFEND ONESELF FROM A DOG WITH A STICK"	{v}	2,auto-polysemic-3lang;
 [bảo vệ]	{v}	"guard(icl>watch>do,equ>protect,agt>living_thing,obj>thing,cag>thing)"	"WATCH OVER"	"TO GUARD SMB. (OBJ) AGAINST WIND AND RAIN (CAG)"	{v}	2,auto-polysemic-3lang;
-[bảo vệ]	{v}	"maintain(icl>keep_up>do,agt>thing,obj>uw,met>uw)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"TO MAINTAIN ONE'S COMPOSURE"	{v}	2,auto-polysemic-3lang;
+[bảo vệ]	{v}	"maintain(icl>keep_up>do,agt>thing,obj>uw,met>uw)"	"KEEP IN SAFETY AND PROTECT FROM HARM, DECAY, LOSS, OR DESTRUCTION"	"TO MAINTAIN MACHINERY"	{v}	2,auto-polysemic-3lang;
 [bảo vệ]	{v}	"preserve(icl>protect>do,agt>thing,obj>thing,cag>uw)"	"PROTECT FROM HARM OR DESTRUCTION"	"GOD (AGT) PRESERVED ME (OBJ) FROM SUCH A FATE (CAG)!"	{v}	2,auto-polysemic-3lang;
 [bảo vệ]	{v}	"protect(icl>assist>do,agt>thing,obj>thing)"	"USE TARIFFS TO FAVOR DOMESTIC INDUSTRY"	""	{v}	2,auto-polysemic-3lang;
 [bảo vệ]	{v}	"protect(icl>do,equ>defend,rsn>thing,agt>thing,obj>thing,met>thing)"	"SHIELD FROM DANGER, INJURY, DESTRUCTION, OR DAMAGE"	"THE COVER PROTECTS THE MACHINE FROM DUST."	{v}	2,auto-polysemic-3lang;
@@ -5660,9 +5660,9 @@
 [ngay]	{a}	"instantaneous(icl>adj)"	"OCCURRING WITH NO DELAY"	"RELIEF WAS INSTANTANEOUS"	{a}	2,auto-polysemic-3lang;
 [ngay lúc ấy]	{misc}	"immediately(icl>how,com>immediate)"	"NEAR OR CLOSE BY"	"HE PASSED IMMEDIATELY BEHIND HER"	{misc}	2,auto-monosemic-2lang;
 [ngày]	{n}	"day(icl>abstract_thing,equ>era,aoj>uw)"	"AN ERA OF EXISTENCE OR INFLUENCE"	"IN THE DAY OF THE DINOSAURS"	{n}	2,auto-polysemic-3lang;
-[ngày]	{n}	"day(icl>period>time,icl>unit)"	"MEASURE OF TIME"	"HE LEFT TWO DAYS AGO"	{n}	2,auto-polysemic-3lang;
+[ngày]	{n}	"day(icl>abstract_thing,equ>work_time)"	"THE RECURRING HOURS WHEN YOU ARE NOT SLEEPING (ESPECIALLY THOSE WHEN YOU ARE WORKING)"	"MY DAY BEGAN EARLY THIS MORNING"	{n}	2,auto-polysemic-3lang;
 [ngày]	{n}	"day(icl>time_period>thing,equ>daylight,ant>night)"	"THE TIME AFTER SUNRISE AND BEFORE SUNSET WHILE IT IS LIGHT OUTSIDE"	"THE DAWN TURNED NIGHT INTO DAY"	{n}	2,auto-polysemic-3lang;
-[ngày]	{n}	"day(icl>work_time>thing)"	"THE RECURRING HOURS WHEN YOU ARE NOT SLEEPING (ESPECIALLY THOSE WHEN YOU ARE WORKING)"	"MY DAY BEGAN EARLY THIS MORNING"	{n}	2,auto-polysemic-3lang;
+[ngày]	{n}	"day(icl>time_unit>thing)"	"MEASURE OF TIME"	"HE LEFT TWO DAYS AGO"	{n}	2,auto-polysemic-3lang;
 [ngày thứ ba]	{n}	"tuesday(icl>weekday>thing)"	"THE THIRD DAY OF THE WEEK"	"THE SECOND WORKING DAY"	{n}	2,auto-monosemic-2lang;
 [ngày thứ bảy]	{n}	"saturday(icl>weekday>thing)"	"THE SEVENTH AND LAST DAY OF THE WEEK"	"OBSERVED AS THE SABBATH BY JEWS AND SOME CHRISTIANS"	{n}	2,auto-monosemic-2lang;
 [ngày thứ hai]	{n}	"monday(icl>weekday>thing)"	"THE SECOND DAY OF THE WEEK"	"THE FIRST WORKING DAY"	{n}	2,auto-monosemic-2lang;
@@ -6094,7 +6094,7 @@
 [nguy ngập]	{a}	"alarming(icl>adj,ant>unalarming)"	"CAUSING ALARM OR FEAR"	""	{a}	2,auto-polysemic-3lang;
 [nhà ái quốc]	{n}	"patriot(icl>national>thing)"	"ONE WHO LOVES AND DEFENDS HIS OR HER COUNTRY"	""	{n}	2,auto-monosemic-2lang;
 [nhà báo]	{n}	"journalist(icl>writer>thing)"	"A WRITER FOR NEWSPAPERS AND MAGAZINES"	""	{n}	2,auto-polysemic-3lang;
-[nhà bảo tàng]	{n}	"museum(icl>depository>thing)"	"A DEPOSITORY FOR COLLECTING AND DISPLAYING OBJECTS HAVING SCIENTIFIC OR HISTORICAL OR ARTISTIC VALUE"	""	{n}	1,auto-monosemic-1lang;
+[nhà bảo tàng]	{n}	"museum(icl>building>thing)"	"A DEPOSITORY FOR COLLECTING AND DISPLAYING OBJECTS HAVING SCIENTIFIC OR HISTORICAL OR ARTISTIC VALUE"	""	{n}	1,auto-monosemic-1lang;
 [nhà bếp]	{n}	"kitchen(icl>room>thing)"	"A ROOM EQUIPPED FOR PREPARING MEALS"	""	{n}	2,auto-polysemic-3lang;
 [nhà biện chứng]	{n}	"dialectician(icl>logician>thing)"	"A LOGICIAN SKILLED IN DIALECTIC"	""	{n}	1,auto-monosemic-1lang;
 [nhà biện luận nghiêng ngả]	{n}	"acrobat(icl>athlete>thing)"	"AN ATHLETE WHO PERFORMS ACTS REQUIRING SKILL AND AGILITY AND COORDINATION"	""	{n}	2,auto-monosemic-2lang;
@@ -8651,7 +8651,7 @@
 [thứ tự]	{n}	"order(icl>magnitude>thing)"	"A DEGREE IN A CONTINUUM OF SIZE OR QUANTITY"	"IT WAS ON THE ORDER OF A MILE"	{n}	2,auto-polysemic-3lang;
 [thứ tự]	{n}	"order(icl>state>thing,ant>disorder)"	"ESTABLISHED CUSTOMARY STATE"	"ORDER RULED IN THE STREETS"	{n}	2,auto-polysemic-3lang;
 [thư viện lưu động]	{n}	"bookmobile(icl>van>thing)"	"A VAN WITH SHELVES OF BOOKS"	"SERVES AS A MOBILE LIBRARY OR BOOKSTORE"	{n}	2,auto-monosemic-2lang;
-[thư viện]	{n}	"library(icl>building,icl>organization)"	"A BUILDING THAT HOUSES A COLLECTION OF BOOKS AND OTHER MATERIALS"	"LIBRARY OF CONGRESS"	{n}	2,auto-polysemic-3lang;
+[thư viện]	{n}	"library(icl>building>thing)"	"A BUILDING THAT HOUSES A COLLECTION OF BOOKS AND OTHER MATERIALS"	"LIBRARY OF CONGRESS"	{n}	2,auto-polysemic-3lang;
 [thư viện]	{n}	"library(icl>collection>thing)"	"(COMPUTING) A COLLECTION OF STANDARD PROGRAMS AND SUBROUTINES THAT ARE STORED AND AVAILABLE FOR IMMEDIATE USE"	""	{n}	2,auto-polysemic-3lang;
 [thú vị]	{misc}	"agreeably(icl>how,equ>pleasantly,ant>disagreeably,com>agreeable)"	"IN AN ENJOYABLE MANNER"	"WE SPENT A PLEASANTLY LAZY AFTERNOON"	{misc}	2,auto-polysemic-3lang;
 [thú vị]	{misc}	"nicely(icl>how,com>nice)"	"IN A NICE WAY"	"A NICELY PAINTED HOUSE"	{misc}	2,auto-polysemic-3lang;
