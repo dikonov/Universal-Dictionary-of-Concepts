@@ -8239,11 +8239,11 @@
 [defender]	{v}	"support(icl>argue>do,equ>defend,agt>person,obj>thing)"	"ARGUE OR SPEAK IN DEFENSE OF"	"SHE (AGT) SUPPORTED THE MOTION (OBJ) TO STRIKE"	{v}	0,auto;
 [defendido]	{n}	"defendant(icl>litigant>thing,ant>plaintiff)"	"A PERSON OR INSTITUTION AGAINST WHOM AN ACTION IS BROUGHT IN A COURT OF LAW"	"THE PERSON BEING SUED OR ACCUSED"	{n}	0,auto;
 [defendido]	{n}	"suspect(icl>litigant>thing,equ>defendant,ant>plaintiff)"	"A PERSON OR INSTITUTION AGAINST WHOM AN ACTION IS BROUGHT IN A COURT OF LAW"	"THE PERSON BEING SUED OR ACCUSED"	{n}	0,auto;
-[defensa]	{n}	"defense(icl>executive_department>thing,equ>department_of_defense)"	"THE FEDERAL DEPARTMENT RESPONSIBLE FOR SAFEGUARDING NATIONAL SECURITY OF THE UNITED STATES"	"CREATED IN 1947"	{n}	0,auto;
 [defensa]	{n}	"defense(icl>justification>thing)"	"THE JUSTIFICATION FOR SOME ACT OR BELIEF"	"HE OFFERED A PERSUASIVE DEFENSE OF THE THEORY"	{n}	0,auto;
 [defensa]	{n}	"defense(icl>military_action>thing)"	"MILITARY ACTION OR RESOURCES PROTECTING A COUNTRY AGAINST POTENTIAL ENEMIES"	"THEY DIED IN THE DEFENSE OF STALINGRAD"	{n}	0,auto;
 [defensa]	{n}	"defense(icl>organization>thing)"	"AN ORGANIZATION OF DEFENDERS THAT PROVIDES RESISTANCE AGAINST ATTACK"	"HE JOINED THE DEFENSE AGAINST INVASION"	{n}	0,auto;
 [defensa]	{n}	"defense(icl>structure>thing,equ>defensive_structure)"	"A STRUCTURE USED TO DEFEND AGAINST ATTACK"	"THE ARTILLERY BATTERED DOWN THE DEFENSES"	{n}	0,auto;
+[defensa]	{n}	"defense(iof>executive_department>thing,equ>department_of_defense)"	"THE FEDERAL DEPARTMENT RESPONSIBLE FOR SAFEGUARDING NATIONAL SECURITY OF THE UNITED STATES"	"CREATED IN 1947"	{n}	0,auto;
 [defensivo]	{a}	"justificative(icl>adj,equ>defensive)"	"ATTEMPTING TO JUSTIFY OR DEFEND IN SPEECH OR WRITING"	""	{a}	0,auto;
 [defensivo]	{a}	"justificatory(icl>adj,equ>defensive)"	"ATTEMPTING TO JUSTIFY OR DEFEND IN SPEECH OR WRITING"	""	{a}	0,auto;
 [defensor del pueblo]	{n}	"ombudsman(icl>investigator>thing)"	"A GOVERNMENT APPOINTEE WHO INVESTIGATES COMPLAINTS BY PRIVATE PERSONS AGAINST THE GOVERNMENT"	""	{n}	0,auto;
@@ -14021,7 +14021,7 @@
 [hacienda]	{n}	"demesne(icl>real_property>thing,equ>estate)"	"EXTENSIVE LANDED PROPERTY (ESPECIALLY IN THE COUNTRY) RETAINED BY THE OWNER FOR HIS OWN USE"	"THE FAMILY OWNED A LARGE ESTATE ON LONG ISLAND"	{n}	0,auto;
 [hacienda]	{n}	"farm(icl>workplace>thing)"	"WORKPLACE CONSISTING OF FARM BUILDINGS AND CULTIVATED LAND AS A UNIT"	"IT TAKES SEVERAL PEOPLE TO WORK THE FARM"	{n}	0,auto;
 [hacienda]	{n}	"hacienda(icl>estate>thing)"	"A LARGE ESTATE IN SPANISH-SPEAKING COUNTRIES"	""	{n}	0,auto;
-[hacienda]	{n}	"treasury(icl>executive_department>thing,equ>department_of_the_treasury)"	"THE FEDERAL DEPARTMENT THAT COLLECTS REVENUE AND ADMINISTERS FEDERAL FINANCES"	"THE TREASURY DEPARTMENT WAS CREATED IN 1789"	{n}	0,auto;
+[hacienda]	{n}	"treasury(iof>executive_department>thing,equ>department_of_the_treasury)"	"THE FEDERAL DEPARTMENT THAT COLLECTS REVENUE AND ADMINISTERS FEDERAL FINANCES"	"THE TREASURY DEPARTMENT WAS CREATED IN 1789"	{n}	0,auto;
 [hado]	{n}	"fate(icl>causal_agent>thing,equ>destiny)"	"THE ULTIMATE AGENCY THAT PREDETERMINES THE COURSE OF EVENTS (OFTEN PERSONIFIED AS A WOMAN)"	"WE ARE HELPLESS IN THE FACE OF DESTINY"	{n}	0,auto;
 [hado]	{n}	"fate(icl>happening>thing,equ>destiny)"	"AN EVENT (OR A COURSE OF EVENTS) THAT WILL INEVITABLY HAPPEN IN THE FUTURE"	""	{n}	0,auto;
 [hall]	{n}	"lobby(icl>room>thing,equ>anteroom)"	"A LARGE ENTRANCE OR RECEPTION ROOM OR AREA"	""	{n}	0,auto;
@@ -20703,7 +20703,7 @@
 [semejante]	{a}	"similar(icl>adj,equ>alike,ant>unalike)"	"HAVING THE SAME OR SIMILAR CHARACTERISTICS"	"ALL POLITICIANS ARE ALIKE"	{a}	0,auto;
 [semejante]	{a}	"similar(icl>adj,equ>like,ant>unlike)"	"RESEMBLING OR SIMILAR"	"HAVING THE SAME OR SOME OF THE SAME CHARACTERISTICS"	{a}	0,auto;
 [semejante]	{a}	"suchlike(icl>adj)"	"OF THE SAME KIND"	"A LOCKER THAT USUALLY CONTAINED PAPER, INK, AND SUCHLIKE EQUIPMENT"	{a}	0,auto;
-[senado]	{n}	"senate(icl>senate>thing,equ>united_states_senate)"	"THE UPPER HOUSE OF THE UNITED STATES CONGRESS"	""	{n}	0,auto;
+[senado]	{n}	"united_states_senate(iof>senate>thing)"	"THE UPPER HOUSE OF THE UNITED STATES CONGRESS"	""	{n}	0,auto;
 [señal]	{n}	"marking(icl>design>thing)"	"A PATTERN OF MARKS"	""	{n}	0,auto;
 [señal]	{n}	"signal(icl>communication>thing)"	"ANY COMMUNICATION THAT ENCODES A MESSAGE"	"SIGNALS FROM THE BOAT SUDDENLY STOPPED"	{n}	0,auto;
 [sencillo]	{a}	"simple(icl>adj,ant>complex)"	"HAVING FEW PARTS"	"A SIMPLE PROBLEM"	{a}	0,auto;

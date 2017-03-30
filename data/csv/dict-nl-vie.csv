@@ -1532,8 +1532,8 @@
 [chủ tịch]	{n}	"chairperson(icl>presiding_officer>thing,equ>president)"	"THE OFFICER WHO PRESIDES AT THE MEETINGS OF AN ORGANIZATION"	"ADDRESS YOUR REMARKS TO THE CHAIRPERSON"	{n}	2,auto-polysemic-3lang;
 [chủ tịch]	{n}	"president(icl>corporate_executive>thing)"	"AN EXECUTIVE OFFICER OF A FIRM OR CORPORATION"	""	{n}	2,auto-polysemic-3lang;
 [chủ tịch]	{n}	"president(icl>head_of_state>thing)"	"THE CHIEF EXECUTIVE OF A REPUBLIC"	""	{n}	2,auto-polysemic-3lang;
-[chủ tịch]	{n}	"president(icl>presidency>thing,equ>president_of_the_united_states)"	"THE OFFICE OF THE UNITED STATES HEAD OF STATE"	"A PRESIDENT IS ELECTED EVERY FOUR YEARS"	{n}	2,auto-polysemic-3lang;
 [chủ tịch]	{n}	"president(icl>presiding_officer>thing)"	"THE OFFICER WHO PRESIDES AT THE MEETINGS OF AN ORGANIZATION"	"ADDRESS YOUR REMARKS TO THE CHAIRPERSON"	{n}	2,auto-polysemic-3lang;
+[chủ tịch]	{n}	"president(iof>presidency>thing,equ>president_of_the_united_states)"	"THE OFFICE OF THE UNITED STATES HEAD OF STATE"	"A PRESIDENT IS ELECTED EVERY FOUR YEARS"	{n}	2,auto-polysemic-3lang;
 [chu trình]	{n}	"cycle(icl>periodic_event>thing)"	"A SINGLE COMPLETE EXECUTION OF A PERIODICALLY REPEATED PHENOMENON"	"A YEAR CONSTITUTES A CYCLE OF THE SEASONS"	{n}	2,auto-polysemic-3lang;
 [chu trình]	{n}	"cycle(icl>repeat>thing)"	"A PERIODICALLY REPEATED SEQUENCE OF EVENTS"	"A CYCLE OF REPRISAL AND RETALIATION"	{n}	2,auto-polysemic-3lang;
 [chu trình]	{n}	"cycle(icl>series>thing)"	"A SERIES OF POEMS OR SONGS ON THE SAME THEME"	"SCHUBERT'S SONG CYCLES"	{n}	2,auto-polysemic-3lang;
@@ -8616,7 +8616,7 @@
 [thương nghiệp]	{n}	"traffic(icl>interchange>thing,equ>dealings)"	"SOCIAL OR VERBAL INTERCHANGE (USUALLY FOLLOWED BY `WITH')"	""	{n}	2,auto-polysemic-3lang;
 [thượng nghị sĩ]	{n}	"senator(icl>legislator>thing)"	"A MEMBER OF A SENATE"	""	{n}	2,auto-polysemic-3lang;
 [thượng nghị viện]	{n}	"senate(icl>legislature>thing)"	"ASSEMBLY POSSESSING HIGH LEGISLATIVE POWERS"	""	{n}	2,auto-polysemic-3lang;
-[thượng nghị viện]	{n}	"senate(icl>senate>thing,equ>united_states_senate)"	"THE UPPER HOUSE OF THE UNITED STATES CONGRESS"	""	{n}	2,auto-polysemic-3lang;
+[thượng nghị viện]	{n}	"united_states_senate(iof>senate>thing)"	"THE UPPER HOUSE OF THE UNITED STATES CONGRESS"	""	{n}	2,auto-polysemic-3lang;
 [thương nhân]	{n}	"merchant(icl>businessperson>thing)"	"A BUSINESSPERSON ENGAGED IN RETAIL TRADE"	""	{n}	2,auto-polysemic-3lang;
 [thượng sĩ phụ trách khẩu pháo]	{n}	"gunner(icl>serviceman>thing,equ>artilleryman)"	"A SERVICEMAN IN THE ARTILLERY"	""	{n}	2,auto-monosemic-2lang;
 [thường thường]	{a}	"ordinary(icl>adj,ant>extraordinary)"	"NOT EXCEPTIONAL IN ANY WAY ESPECIALLY IN QUALITY OR ABILITY OR SIZE OR DEGREE"	"ORDINARY EVERYDAY OBJECTS"	{a}	2,auto-polysemic-3lang;
@@ -9700,7 +9700,7 @@
 [viên giám học]	{n}	"prefect(icl>administrator>thing)"	"A CHIEF OFFICER OR CHIEF MAGISTRATE"	"THE PREFECT OF PARIS POLICE"	{n}	2,auto-monosemic-2lang;
 [viên hội thẩm]	{n}	"assessor(icl>bureaucrat>thing,equ>tax_assessor)"	"AN OFFICIAL WHO EVALUATES PROPERTY FOR THE PURPOSE OF TAXING IT"	""	{n}	1,auto-monosemic-1lang;
 [viện nguyên lão]	{n}	"senate(icl>legislature>thing)"	"ASSEMBLY POSSESSING HIGH LEGISLATIVE POWERS"	""	{n}	2,auto-polysemic-3lang;
-[viện nguyên lão]	{n}	"senate(icl>senate>thing,equ>united_states_senate)"	"THE UPPER HOUSE OF THE UNITED STATES CONGRESS"	""	{n}	2,auto-polysemic-3lang;
+[viện nguyên lão]	{n}	"united_states_senate(iof>senate>thing)"	"THE UPPER HOUSE OF THE UNITED STATES CONGRESS"	""	{n}	2,auto-polysemic-3lang;
 [viện]	{n}	"institute(icl>association>thing)"	"AN ASSOCIATION ORGANIZED TO PROMOTE ART OR SCIENCE OR EDUCATION"	""	{n}	2,auto-polysemic-3lang;
 [viên phụ thẩm]	{n}	"assistant(icl>worker>thing)"	"A PERSON WHO CONTRIBUTES TO THE FULFILLMENT OF A NEED OR FURTHERANCE OF AN EFFORT OR PURPOSE"	"MY INVALUABLE ASSISTANT"	{n}	1,auto-monosemic-1lang;
 [viên thư lại]	{n}	"notary(icl>official>thing)"	"SOMEONE LEGALLY EMPOWERED TO WITNESS SIGNATURES AND CERTIFY A DOCUMENT'S VALIDITY AND TO TAKE DEPOSITIONS"	""	{n}	2,auto-monosemic-2lang;
