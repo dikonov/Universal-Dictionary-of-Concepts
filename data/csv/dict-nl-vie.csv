@@ -834,7 +834,7 @@
 [cái gối cắm kim]	{n}	"pincushion(icl>cushion>thing)"	"A SMALL STIFF CUSHION INTO WHICH PINS ARE STUCK READY FOR USE"	""	{n}	1,auto-monosemic-1lang;
 [cái gối]	{n}	"pillow(icl>cushion>thing)"	"A CUSHION TO SUPPORT THE HEAD OF A SLEEPING PERSON"	""	{n}	2,auto-monosemic-2lang;
 [cái hái]	{n}	"scythe(icl>edge_tool>thing)"	"AN EDGE TOOL FOR CUTTING GRASS"	"HAS A LONG HANDLE THAT MUST BE HELD WITH BOTH HANDS AND A CURVED BLADE THAT MOVES PARALLEL TO THE GROUND"	{n}	2,auto-polysemic-3lang;
-[cái hãm]	{n}	"brake(icl>restraint>thing)"	"A RESTRAINT USED TO SLOW OR STOP A VEHICLE"	""	{n}	2,auto-polysemic-3lang;
+[cái hãm]	{n}	"brake(icl>restraint>functional_thing,pof>vehicle)"	"A RESTRAINT USED TO SLOW OR STOP A VEHICLE"	""	{n}	2,auto-polysemic-3lang;
 [cái kén]	{n}	"cocoon(icl>natural_object>thing)"	"SILKY ENVELOPE SPUN BY THE LARVAE OF MANY INSECTS TO PROTECT PUPAS AND BY SPIDERS TO PROTECT EGGS"	""	{n}	2,auto-polysemic-3lang;
 [cái kẹp]	{n}	"tongs(icl>device>thing)"	"ANY OF VARIOUS DEVICES FOR TAKING HOLD OF OBJECTS"	"USUALLY HAVE TWO HINGED LEGS WITH HANDLES ABOVE AND POINTED HOOKS BELOW"	{n}	2,auto-polysemic-3lang;
 [cái mở nút chai]	{n}	"corkscrew(icl>bottle_opener>thing)"	"A BOTTLE OPENER THAT PULLS CORKS"	""	{n}	2,auto-monosemic-2lang;
@@ -3035,8 +3035,8 @@
 [đường mật]	{a}	"unctuous(icl>adj,equ>buttery)"	"UNPLEASANTLY AND EXCESSIVELY SUAVE OR INGRATIATING IN MANNER OR SPEECH"	"THE UNCTUOUS URIAH HEEP"	{a}	2,auto-polysemic-3lang;
 [đường]	{n}	"channel(icl>body_of_water>thing)"	"A DEEP AND RELATIVELY NARROW BODY OF WATER (AS IN A RIVER OR A HARBOR OR A STRAIT LINKING TWO LARGER BODIES) THAT ALLOWS THE BEST PASSAGE FOR VESSELS"	"THE SHIP WENT AGROUND IN THE CHANNEL"	{n}	2,auto-polysemic-3lang;
 [đường]	{n}	"channel(icl>communication>thing)"	"(OFTEN PLURAL) A MEANS OF COMMUNICATION OR ACCESS"	"IT MUST GO THROUGH OFFICIAL CHANNELS"	{n}	2,auto-polysemic-3lang;
+[đường]	{n}	"channel(icl>content>information)"	"A TELEVISION STATION AND ITS PROGRAMS"	"A SATELLITE TV CHANNEL"	{n}	2,auto-polysemic-3lang;
 [đường]	{n}	"channel(icl>passage>thing)"	"A PASSAGE FOR WATER (OR OTHER FLUIDS) TO FLOW THROUGH"	"THE FIELDS WERE CROSSED WITH IRRIGATION CHANNELS"	{n}	2,auto-polysemic-3lang;
-[đường]	{n}	"channel(icl>television_station>thing)"	"A TELEVISION STATION AND ITS PROGRAMS"	"A SATELLITE TV CHANNEL"	{n}	2,auto-polysemic-3lang;
 [đường nho]	{n}	"glucose(icl>aldohexose>thing)"	"A MONOSACCHARIDE SUGAR THAT HAS SEVERAL FORMS"	"AN IMPORTANT SOURCE OF PHYSIOLOGICAL ENERGY"	{n}	1,auto-monosemic-1lang;
 [đường]	{n}	"line(icl>communication>thing,equ>channel)"	"(OFTEN PLURAL) A MEANS OF COMMUNICATION OR ACCESS"	"IT MUST GO THROUGH OFFICIAL CHANNELS"	{n}	2,auto-polysemic-3lang;
 [đường]	{n}	"line(icl>connection>thing,equ>telephone_line)"	"A TELEPHONE CONNECTION"	""	{n}	2,auto-polysemic-3lang;
@@ -4567,8 +4567,8 @@
 [lạc đà]	{n}	"camel(icl>even-toed_ungulate>thing)"	"CUD-CHEWING MAMMAL USED AS A DRAFT OR SADDLE ANIMAL IN DESERT REGIONS"	""	{n}	2,auto-polysemic-3lang;
 [lạch]	{n}	"channel(icl>body_of_water>thing)"	"A DEEP AND RELATIVELY NARROW BODY OF WATER (AS IN A RIVER OR A HARBOR OR A STRAIT LINKING TWO LARGER BODIES) THAT ALLOWS THE BEST PASSAGE FOR VESSELS"	"THE SHIP WENT AGROUND IN THE CHANNEL"	{n}	2,auto-polysemic-3lang;
 [lạch]	{n}	"channel(icl>communication>thing)"	"(OFTEN PLURAL) A MEANS OF COMMUNICATION OR ACCESS"	"IT MUST GO THROUGH OFFICIAL CHANNELS"	{n}	2,auto-polysemic-3lang;
+[lạch]	{n}	"channel(icl>content>information)"	"A TELEVISION STATION AND ITS PROGRAMS"	"A SATELLITE TV CHANNEL"	{n}	2,auto-polysemic-3lang;
 [lạch]	{n}	"channel(icl>passage>thing)"	"A PASSAGE FOR WATER (OR OTHER FLUIDS) TO FLOW THROUGH"	"THE FIELDS WERE CROSSED WITH IRRIGATION CHANNELS"	{n}	2,auto-polysemic-3lang;
-[lạch]	{n}	"channel(icl>television_station>thing)"	"A TELEVISION STATION AND ITS PROGRAMS"	"A SATELLITE TV CHANNEL"	{n}	2,auto-polysemic-3lang;
 [lạc]	{n}	"goober(icl>edible_nut>thing,equ>peanut)"	"POD OF THE PEANUT VINE CONTAINING USUALLY 2 NUTS OR SEEDS"	"`GROUNDNUT' AND `MONKEY NUT' ARE BRITISH TERMS"	{n}	2,auto-polysemic-3lang;
 [lạc]	{n}	"peanut(icl>legume>thing)"	"WIDELY CULTIVATED AMERICAN PLANT CULTIVATED IN TROPICAL AND WARM REGIONS"	"SHOWY YELLOW FLOWERS ON STALKS THAT BEND OVER TO THE SOIL SO THAT SEED PODS RIPEN UNDERGROUND"	{n}	2,auto-polysemic-3lang;
 [lactoza]	{n}	"lactose(icl>disaccharide>thing)"	"A SUGAR COMPRISING ONE GLUCOSE MOLECULE LINKED TO A GALACTOSE MOLECULE"	"COW'S MILK CONTAINS ABOUT 4.7% LACTOSE"	{n}	2,auto-monosemic-2lang;
