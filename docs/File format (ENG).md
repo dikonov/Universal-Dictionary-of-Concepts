@@ -56,6 +56,9 @@ Columns left to right:
    * "ProductOf" subtype of the pof (Part Of) link - An object, which is obtained from another object, e.g. fruit of a plant.
    * "SubUnit" subtype of the pof (Part Of) link - Links a smaller measurement unit with a larger one.
    * "believes" component of the meaning com (Component) - Links an adherent of some political, religious or scientific theories and beliefs with those theories/beliefs.
+   * "leader" subtype of the pof (Part Of) link - A single leader or master of a group, organization or some object, which needs a crew to maintain (e.g. ship).
+   * "managedBy" subtype of the pof (Part Of) link - A member of a leadership
+
 
 Wordnet links file format - links-ext-wn*
 -----------------------------------------
