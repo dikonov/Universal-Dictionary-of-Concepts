@@ -9571,7 +9571,7 @@
 [ván khuôn]	{n}	"form(icl>mold>thing)"	"A MOLD FOR SETTING CONCRETE"	"THEY BUILT ELABORATE FORMS FOR POURING THE FOUNDATION"	{n}	1,auto-monosemic-1lang;
 [ván nhỏ]	{n}	"tablet(icl>slab>thing)"	"A SLAB OF STONE OR WOOD SUITABLE FOR BEARING AN INSCRIPTION"	""	{n}	1,auto-monosemic-1lang;
 [van]	{n}	"valve(icl>control>thing)"	"CONTROL CONSISTING OF A MECHANICAL DEVICE FOR CONTROLLING THE FLOW OF A FLUID"	""	{n}	2,auto-polysemic-3lang;
-[văn phòng]	{n}	"office(icl>organization,icl>place,obj>organization)"	"PLACE OF BUSINESS WHERE PROFESSIONAL OR CLERICAL DUTIES ARE PERFORMED"	"HE RENTED AN OFFICE IN THE NEW BUILDING"	{n}	2,auto-polysemic-3lang;
+[văn phòng]	{n}	"office(icl>building>thing,pos>volitional_thing,obj>thing)"	"PLACE OF BUSINESS WHERE PROFESSIONAL OR CLERICAL DUTIES ARE PERFORMED"	"HE RENTED AN OFFICE IN THE NEW BUILDING"	{n}	2,auto-polysemic-3lang;
 [vận tải]	{v}	"transport(icl>move>do,plt>thing,plf>thing,agt>thing,obj>thing)"	"MOVE WHILE SUPPORTING, EITHER IN A VEHICLE OR IN ONE'S HANDS OR ON ONE'S BODY"	"THE STATUE WAS TRANSPORTED TO LONDON"	{v}	2,auto-polysemic-3lang;
 [vận tốc]	{n}	"speed(icl>motion>thing)"	"CHANGING LOCATION RAPIDLY"	""	{n}	2,auto-polysemic-3lang;
 [vận tốc]	{n}	"speed(icl>pace>thing)"	"A RATE (USUALLY RAPID) AT WHICH SOMETHING HAPPENS"	"THE PROJECT ADVANCED WITH GRATIFYING SPEED"	{n}	2,auto-polysemic-3lang;

@@ -19853,10 +19853,10 @@ offer(icl>worship>do,agt>person,obj>thing,ben>god)	Direct	v	2(4),2(4)	23633
 offering(icl>contribution>thing)	Direct	n	1(4)	6141
 offering(icl>speech_act>thing,equ>offer)	Direct	n	1(4),3(4)	6997
 offertory(icl>offering>thing)	Direct	n	3(2)	11410
-office(icl>organization,icl>place,obj>organization)	Hypernymy	n	2(2),1(2)	35311
-office(icl>organization,icl>place,obj>organization)	Hypernymy	n	1(2),2(2)	36044
-office(icl>organization,icl>place,obj>organization)	Hypernymy	n	2(2),1(2)	36319
-office(icl>organization,icl>place,obj>organization)	Direct	n	3(6)	3980
+office(icl>building>thing,pos>volitional_thing,obj>thing)	Hypernymy	n	2(2),1(2)	35311
+office(icl>building>thing,pos>volitional_thing,obj>thing)	Hypernymy	n	1(2),2(2)	36044
+office(icl>building>thing,pos>volitional_thing,obj>thing)	Hypernymy	n	2(2),1(2)	36319
+office(icl>building>thing,pos>volitional_thing,obj>thing)	Direct	n	3(6)	3980
 office(icl>organization,obj>thing)	Direct	n	1(2)	14147
 office(icl>organization,obj>thing)	Hypernymy	n	3(2),2(2),1(2)	35749
 office(icl>organization,obj>thing)	Hypernymy	n	2(2),1(2),3(2),3(2)	36341
