@@ -5814,7 +5814,7 @@
 [ciénaga]	{n}	"fen(icl>wetland>thing,equ>marsh)"	"LOW-LYING WET LAND WITH GRASSY VEGETATION"	"USUALLY IS A TRANSITION ZONE BETWEEN LAND AND WATER"	{n}	0,auto;
 [ciénaga]	{n}	"marshland(icl>wetland>thing,equ>marsh)"	"LOW-LYING WET LAND WITH GRASSY VEGETATION"	"THOUSANDS OF ACRES OF MARSHLAND"	{n}	0,auto;
 [ciencia]	{n}	"encyclopedism(icl>education>thing,equ>eruditeness)"	"PROFOUND SCHOLARLY KNOWLEDGE"	""	{n}	0,auto;
-[ciencias exactas]	{n}	"math(icl>science>thing,equ>mathematics)"	"A SCIENCE (OR GROUP OF RELATED SCIENCES) DEALING WITH THE LOGIC OF QUANTITY AND SHAPE AND ARRANGEMENT"	""	{n}	0,auto;
+[ciencias exactas]	{n}	"mathematics(icl>science>thing)"	"A SCIENCE (OR GROUP OF RELATED SCIENCES) DEALING WITH THE LOGIC OF QUANTITY AND SHAPE AND ARRANGEMENT"	""	{n}	0,auto;
 [cien]	{n}	"hundred(icl>large_integer>quantity)"	"QUANTITY"	"ONE HUNDRED AND TWELVE"	{n}	0,auto;
 [cierne]	{n}	"bloom(icl>organic_process>thing,equ>blooming)"	"THE ORGANIC PROCESS OF BEARING FLOWERS"	"YOU WILL STOP ALL BLOOM IF YOU LET THE FLOWERS GO TO SEED"	{n}	0,auto;
 [cierre]	{n}	"close(icl>section>thing,equ>conclusion)"	"THE LAST SECTION OF A COMMUNICATION"	"IN CONCLUSION I WANT TO SAY..."	{n}	0,auto;
@@ -16771,7 +16771,6 @@
 [matasiete]	{n}	"rowdy(icl>attacker>thing,equ>bully)"	"A CRUEL AND BRUTAL FELLOW"	""	{n}	0,auto;
 [matasiete]	{n}	"yobbo(icl>attacker>thing,equ>bully)"	"A CRUEL AND BRUTAL FELLOW"	""	{n}	0,auto;
 [matemáticas]	{n}	"mathematics(icl>science>thing)"	"A SCIENCE (OR GROUP OF RELATED SCIENCES) DEALING WITH THE LOGIC OF QUANTITY AND SHAPE AND ARRANGEMENT"	""	{n}	0,auto;
-[matemáticas]	{n}	"math(icl>science>thing,equ>mathematics)"	"A SCIENCE (OR GROUP OF RELATED SCIENCES) DEALING WITH THE LOGIC OF QUANTITY AND SHAPE AND ARRANGEMENT"	""	{n}	0,auto;
 [matemático]	{a}	"mathematical(icl>adj,equ>numerical,ant>verbal)"	"RELATING TO OR HAVING ABILITY TO THINK IN OR WORK WITH NUMBERS"	"A MATHEMATICAL WHIZ"	{a}	0,auto;
 [materializarse]	{v}	"materialize(icl>happen>occur,equ>happen,obj>thing)"	"COME INTO BEING"	"BECOME REALITY"	{v}	0,auto;
 [materia]	{n}	"matter(icl>matter,equ>substance)"	"SUBSTANCE, PHYSICAL OBJECTS"	"AN ATOM WAS CONSIDERED THE SMALLEST INDIVISIBLE UNIT OF MATTER"	{n}	0,auto;
