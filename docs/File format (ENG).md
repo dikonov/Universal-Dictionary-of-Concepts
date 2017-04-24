@@ -59,8 +59,9 @@ Columns left to right:
    * "managedBy" subtype of the pof (Part Of) link - A member of a leadership
    * "capitalCity" subtype of the pof (Part Of) link - Capital of a country.
    * "subsumesContentInstance" subtype of the pof (Part Of) link - Part of a bigger content bearing object.
-   * "believes" component of the meaning com (Component) - Links an adherent of some political, religious or scientific theories and beliefs with those theories/beliefs.
    * "author" component of the meaning com (Component) - Links the name of creator and his creation (also generic, e.g. poet - verse)
+   * "believes" component of the meaning com (Component) - Links an adherent of some political, religious or scientific theories and beliefs with those theories/beliefs.
+   * "hasExpertise" component of the meaning com (Component) - Links a name of a specialty/profession with the corresponding field of knowledge, thing or process that the specialist must know.
 
 
 Wordnet links file format - links-ext-wn*
