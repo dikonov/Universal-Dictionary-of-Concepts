@@ -45,6 +45,7 @@ Contributors:
 Other resources used:
 ---------------------
 - Princeton Wordnet 2.1, 3.0
+- Hindi wordnet, part of the Indonet project
 - WOLF French Wordnet (part of the French volume)
 - GPL subset of a Spanish Wordnet translation
 - FEV dictionary for Vietnamese
