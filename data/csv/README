@@ -20,7 +20,7 @@ All unicode text editors and standard POSIX and GNU tools like diff, patch, grep
 
 NOTE, that links-unl-uw.csv still contains only a part of the semantic network data it is supposed to provide.
 
-File format is further explained in [English](../../docs/File%20format%20(ENG).md) and [Russian](../../docs/File%20format%20(RUS).md) .
+File format is further explained in [English](../../docs/File%20format%20\(ENG\).md) and [Russian](../../docs/File%20format%20\(RUS\).md) .
 
 Other linked semantic resources:
 Suggested Upper Merged Ontology (SUMO) http://www.ontologyportal.org/
