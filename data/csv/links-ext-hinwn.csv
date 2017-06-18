@@ -21149,10 +21149,6 @@ physalis_peruviana(icl>ground_cherry>thing,equ>cape_gooseberry)	Direct	n	2(2)	99
 physiatrics(icl>therapy>thing,equ>physical_therapy)	Direct	n	2(2),1(2)	18206
 physical(icl>adj,ant>mental)	Direct	a	2(5),1(4)	39246
 physical(icl>adj,com>physics)	Direct	a	1(5)	39245
-physical_object(icl>physical_entity>thing,equ>object)	Hypernymy	n	2(2),1(2)	153
-physical_object(icl>physical_entity>thing,equ>object)	Direct	n	2(2)	1880
-physical_object(icl>physical_entity>thing,equ>object)	Hypernymy	n	1(2),2(2)	38080
-physical_object(icl>physical_entity>thing,equ>object)	Hypernymy	n	2(2),1(2)	39421
 physical_structure(icl>natural_object>thing,equ>body)	Direct	n	2(2)	1961
 physician(icl>medical_practitioner>thing,equ>doctor)	Direct	n	1(4)	3639
 physics(icl>natural_science>thing)	Direct	n	4(6)	20994
