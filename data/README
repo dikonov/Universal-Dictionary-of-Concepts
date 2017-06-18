@@ -1,3 +1,3 @@
 csv - current version of the data as TAB separated plain text tables.
 misc - miscellanious data files derived from the main data, e.g. synsets.
-xdxf - XML formatted data for various GUI dictionary shells.
+xdxf - XML formatted data for various GUI dictionary shells (Cannot be updated because of github limitations).
