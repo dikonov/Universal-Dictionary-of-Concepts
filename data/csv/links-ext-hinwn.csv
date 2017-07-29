@@ -5494,7 +5494,6 @@ cybercrime(icl>crime>thing)	Direct	n	2(2),1(2)	34802
 cybernation(icl>automation>thing,equ>computerization)	Direct	n	2(2)	20438
 cycle(icl>periodic_event>thing)	Direct	n	1(4)	13528
 cycle(icl>repeat>thing)	Hypernymy	n	1(4)	34171
-cycle(icl>wheeled_vehicle>thing,equ>bicycle)	Direct	n	4(5)	8840
 cycle_rickshaw(icl>tricycle>thing,equ>pedicab)	Direct	n	1(2)	13854
 cyclic(icl>adj,ant>noncyclic)	Direct	a	1(4)	10559
 cyclone(icl>windstorm>thing)	Direct	n	1(4),2(4)	7179
