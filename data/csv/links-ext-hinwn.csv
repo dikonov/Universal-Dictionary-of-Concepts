@@ -10100,7 +10100,7 @@ faisalabad(iof>city>thing)	Direct	n	2(2),2(2)	35867
 faith(icl>belief>thing)	Direct	n	2(4),1(4)	2941
 faith(icl>belief>thing,equ>religion)	Direct	n	1(4)	1166
 faith(icl>institution>thing,equ>religion)	Direct	n	1(4)	28458
-faithful(icl>adj,ant>unfaithful)	Direct	a	1(2)	14500
+faithful(icl>adj,ant>unfaithful,aoj>spouse)	Direct	a	1(2)	14500
 fake(icl>adj)	Direct	a	9(4),1(4),1(4),4(4),4(4),3(6),3(4)	3179
 fake(icl>deceiver>thing,equ>imposter)	Hypernymy	n	1(2),2(2),3(2)	1592
 faker(icl>deceiver>thing,equ>imposter)	Direct	n	2(2)	11180
@@ -33046,8 +33046,6 @@ work(icl>function>occur,obj>functional_thing)	Direct	v	1(4)	39056
 work(icl>handle>do,agt>person,obj>functional_thing)	Direct	v	1(2)	27686
 work(icl>operate>do,agt>thing,obj>thing)	Direct	v	3(2)	27800
 work(icl>process>do,agt>person,obj>matter,ins>concrete_thing)	Direct	v	2(2),2(2)	27688
-work(icl>product>thing)	Direct	n	1(4),2(4)	11814
-work(icl>product>thing)	Direct	n	1(4)	27638
 work(icl>product>thing,com>complete_set,pos>person)	Direct	n	1(2)	13169
 work(icl>stimulate>do,agt>person,obj>person,gol>state)	Direct	v	1(2)	27687
 work(icl>use>do,equ>exploit,agt>thing,obj>thing)	Direct	v	1(2)	12778
@@ -33090,9 +33088,9 @@ world_war_ii(iof>world_war>thing)	Direct	n	1(4),1(4),1(4)	38912
 worldliness(icl>outwardness>thing,ant>otherworldliness)	Direct	n	3(4)	11530
 worldling(icl>inhabitant>person,equ>tellurian)	Direct	n	1(2)	38110
 worldly-wise(icl>adj)	Direct	a	5(4)	1430
-worldwide(icl>adj)	Direct	a	1(4),1(4)	16041
+worldwide(icl>adj,com>size)	Direct	a	1(4),1(4)	16041
 worldwide(icl>adj,equ>cosmopolitan)	Direct	a	3(2),3(2)	2336
-worldwide(icl>adj,equ>global)	Direct	a	1(4)	13363
+worldwide(icl>adj,equ>global,com>significance)	Direct	a	1(4)	13363
 worm(icl>invertebrate>thing)	Direct	n	1(2)	4375
 worm-eaten(icl>adj,equ>vermiculate)	Direct	a	1(4)	1239
 wormy(icl>adj,equ>vermiculate)	Direct	a	1(4)	1239

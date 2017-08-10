@@ -166,7 +166,7 @@
 [bậc ba]	{a}	"cubic(icl>adj,ant>linear)"	"HAVING THREE DIMENSIONS"	""	{a}	2,auto-polysemic-3lang;
 [bác bẻ]	{v}	"object(icl>express>do,cob>thing,agt>person,obj>uw,rec>thing)"	"EXPRESS OR RAISE AN OBJECTION OR PROTEST OR CRITICISM OR EXPRESS DISSENT"	"WHEN ASKED TO DRIVE THE TRUCK, SHE OBJECTED THAT (OBJ) SHE DID NOT HAVE A DRIVER'S LICENSE / MY WIFE (AGT) OBJECTS TO MODERN FURNITURE (COB)"	{v}	2,auto-monosemic-2lang;
 [) bắc cầu]	{a}	"transitive(icl>adj,ant>intransitive)"	"DESIGNATING A VERB THAT REQUIRES A DIRECT OBJECT TO COMPLETE THE MEANING"	""	{a}	2,auto-monosemic-2lang;
-[bạch]	{a}	"white(icl>adj,ant>black)"	"OF OR BELONGING TO A RACIAL GROUP HAVING LIGHT SKIN COLORATION"	"WHITE POPULATION"	{a}	2,auto-polysemic-3lang;
+[bạch]	{a}	"white(icl>adj,com>skin)"	"OF OR BELONGING TO A RACIAL GROUP HAVING LIGHT SKIN COLORATION"	"WHITE POPULATION"	{a}	2,auto-polysemic-3lang;
 [bách hợp]	{n}	"lily(icl>liliaceous_plant>thing)"	"ANY LILIACEOUS PLANT OF THE GENUS LILIUM HAVING SHOWY PENDULOUS FLOWERS"	""	{n}	1,auto-monosemic-1lang;
 [bạch kim]	{n}	"platinum(icl>noble_metal>thing)"	"A HEAVY PRECIOUS METALLIC ELEMENT"	"GREY-WHITE AND RESISTANT TO CORRODING"	{n}	2,auto-monosemic-2lang;
 [bà chủ trì lễ khánh thành]	{n}	"godmother(icl>godparent>thing)"	"ANY WOMAN WHO SERVES AS A SPONSOR FOR A CHILD AT BAPTISM"	""	{n}	2,auto-monosemic-2lang;
@@ -2400,7 +2400,7 @@
 [đếm]	{v}	"count(icl>do,equ>calculate,agt>thing,obj>thing)"	"DETERMINE THE NUMBER"	"TO COUNT LOSSES (OBJ)"	{v}	2,auto-polysemic-3lang;
 [đếm]	{v}	"count(icl>recite>do,agt>thing)"	"NAME OR RECITE THE NUMBERS"	"THE TODDLER COULD COUNT TO 100"	{v}	2,auto-polysemic-3lang;
 [đếm]	{v}	"enumerate(icl>determine>do,equ>count,agt>thing,obj>thing)"	"DETERMINE THE NUMBER OR AMOUNT OF"	"CAN YOU COUNT THE BOOKS ON YOUR SHELF?"	{v}	2,auto-polysemic-3lang;
-[đen]	{a}	"black(icl>adj,ant>white)"	"OF OR BELONGING TO A RACIAL GROUP HAVING DARK SKIN ESPECIALLY OF SUB-SAHARAN AFRICAN ORIGIN"	"A GREAT PEOPLE--A BLACK PEOPLE--...INJECTED NEW MEANING AND DIGNITY INTO THE VEINS OF CIVILIZATION- MARTIN LUTHER KING JR."	{a}	2,auto-polysemic-3lang;
+[đen]	{a}	"black(icl>adj,com>skin)"	"OF OR BELONGING TO A RACIAL GROUP HAVING DARK SKIN ESPECIALLY OF SUB-SAHARAN AFRICAN ORIGIN"	"A GREAT PEOPLE--A BLACK PEOPLE--...INJECTED NEW MEANING AND DIGNITY INTO THE VEINS OF CIVILIZATION- MARTIN LUTHER KING JR."	{a}	2,auto-polysemic-3lang;
 [đen]	{a}	"black(icl>adj,equ>evil)"	"STEMMING FROM EVIL CHARACTERISTICS OR FORCES"	"BLACK DEEDS"	{a}	2,auto-polysemic-3lang;
 [đèn biển]	{n}	"lighthouse(icl>tower>thing,equ>beacon)"	"A TOWER WITH A LIGHT THAT GIVES WARNING OF SHOALS TO PASSING SHIPS"	""	{n}	2,auto-polysemic-3lang;
 [đèn cây đường phố]	{n}	"lantern(icl>lamp>thing)"	"LIGHT IN A TRANSPARENT PROTECTIVE CASE"	""	{n}	2,auto-monosemic-2lang;
@@ -3832,7 +3832,7 @@
 [hộ chiếu]	{n}	"passport(icl>legal_document>thing)"	"A DOCUMENT ISSUED BY A COUNTRY TO A CITIZEN ALLOWING THAT PERSON TO TRAVEL ABROAD AND RE-ENTER THE HOME COUNTRY"	""	{n}	2,auto-polysemic-3lang;
 [hocmon]	{n}	"hormone(icl>secretion>thing)"	"THE SECRETION OF AN ENDOCRINE GLAND THAT IS TRANSMITTED BY THE BLOOD TO THE TISSUE ON WHICH IT HAS A SPECIFIC EFFECT"	""	{n}	3,auto-monosemic-3lang;
 [hộc nước đá trong tủ lạnh]	{n}	"freezer(icl>electric_refrigerator>thing,equ>deep-freeze)"	"ELECTRIC REFRIGERATOR (TRADE NAME DEEPFREEZE) IN WHICH FOOD IS FROZEN AND STORED FOR LONG PERIODS OF TIME"	""	{n}	2,auto-monosemic-2lang;
-[học sinh đại học]	{n}	"student(icl>university_student>person,obj>knowledge_domain)"	""	"STUDENT OF LAW"	{n}	2,auto-polysemic-3lang;
+[học sinh đại học]	{n}	"student(icl>university_student>person,obj>knowledge_domain)"	"A learner who is enrolled in an higher educational institution"	"STUDENT OF LAW"	{n}	2,auto-polysemic-3lang;
 [học sinh được hưởng học bổng]	{n}	"bursar(icl>treasurer>thing)"	"THE TREASURER AT A COLLEGE OR UNIVERSITY"	""	{n}	1,auto-monosemic-1lang;
 [học sinh được hưởng trợ cấp]	{n}	"bursar(icl>treasurer>thing)"	"THE TREASURER AT A COLLEGE OR UNIVERSITY"	""	{n}	1,auto-monosemic-1lang;
 [học sinh]	{n}	"pupil(icl>enrollee>thing,equ>student)"	"A LEARNER WHO IS ENROLLED IN AN EDUCATIONAL INSTITUTION"	""	{n}	2,auto-polysemic-3lang;
@@ -8226,7 +8226,7 @@
 [thay]	{v}	"shift(icl>occur,equ>switch,obj>thing)"	"LAY ASIDE, ABANDON, OR LEAVE FOR ANOTHER"	"SWITCH TO A DIFFERENT BRAND OF BEER"	{v}	2,auto-polysemic-3lang;
 [thể giả định]	{a}	"subjunctive(icl>adj,com>subjunctive_mood)"	"RELATING TO A MOOD OF VERBS"	"SUBJUNCTIVE VERB ENDINGS"	{a}	2,auto-monosemic-2lang;
 [thế giới]	{a}	"worldwide(icl>adj,equ>cosmopolitan)"	"OF WORLDWIDE SCOPE OR APPLICABILITY"	"AN ISSUE OF COSMOPOLITAN IMPORT"	{a}	2,auto-polysemic-3lang;
-[thế giới]	{a}	"worldwide(icl>adj,equ>global)"	"INVOLVING THE ENTIRE EARTH"	"OF WORLDWIDE SIGNIFICANCE"	{a}	2,auto-polysemic-3lang;
+[thế giới]	{a}	"worldwide(icl>adj,equ>global,com>significance)"	"INVOLVING THE ENTIRE EARTH"	"OF WORLDWIDE SIGNIFICANCE"	{a}	2,auto-polysemic-3lang;
 [thế giới]	{n}	"globe(iof>terrestrial_planet>thing,equ>earth)"	"THE 3RD PLANET FROM THE SUN"	"THE PLANET WE LIVE ON"	{n}	2,auto-polysemic-3lang;
 [thế giới]	{n}	"world(icl>abstract_thing,com>experience)"	"ALL OF YOUR EXPERIENCES THAT DETERMINE HOW THINGS APPEAR TO YOU"	"HIS WORLD WAS SHATTERED"	{n}	2,auto-polysemic-3lang;
 [thế giới]	{n}	"world(icl>abstract_thing,equ>people)"	"PEOPLE IN GENERAL CONSIDERED AS A WHOLE"	"IN THE EYES OF THE WORLD"	{n}	2,auto-polysemic-3lang;
@@ -9088,7 +9088,7 @@
 [trần]	{a}	"open(icl>adj,equ>clear)"	"AFFORDING FREE PASSAGE OR VIEW"	"OPEN WATERS"	{a}	2,auto-polysemic-3lang;
 [trận đánh]	{n}	"battle(icl>attempt>thing,equ>struggle)"	"AN ENERGETIC ATTEMPT TO ACHIEVE SOMETHING"	"HE FOUGHT A BATTLE FOR RECOGNITION"	{n}	2,auto-polysemic-3lang;
 [trận đánh]	{n}	"fight(icl>boxing>thing)"	"A BOXING OR WRESTLING MATCH"	"THE FIGHT WAS ON TELEVISION LAST NIGHT"	{n}	2,auto-polysemic-3lang;
-[trắng]	{a}	"white(icl>adj,ant>black)"	"OF OR BELONGING TO A RACIAL GROUP HAVING LIGHT SKIN COLORATION"	"WHITE POPULATION"	{a}	2,auto-polysemic-3lang;
+[trắng]	{a}	"white(icl>adj,com>skin)"	"OF OR BELONGING TO A RACIAL GROUP HAVING LIGHT SKIN COLORATION"	"WHITE POPULATION"	{a}	2,auto-polysemic-3lang;
 [trang bị đồ nghề]	{n}	"equipment(icl>instrumentality>thing)"	"AN INSTRUMENTALITY NEEDED FOR AN UNDERTAKING OR TO PERFORM A SERVICE"	""	{n}	2,auto-monosemic-2lang;
 [trang bị]	{v}	"put_in(icl>put>do,equ>install,agt>thing,obj>thing)"	"SET UP FOR USE"	"WE PUT IN A NEW SINK"	{v}	2,auto-polysemic-3lang;
 [tráng cao su]	{v}	"rubberize(icl>coat>do,agt>thing,obj>thing)"	"COAT OR IMPREGNATE WITH RUBBER"	"RUBBERIZE FABRIC FOR RAIN COATS"	{v}	2,auto-monosemic-2lang;

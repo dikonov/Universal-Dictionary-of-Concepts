@@ -1664,7 +1664,7 @@
 [alumbrar]	{v}	"light(icl>illuminate>be,obj>thing,aoj>thing)"	"MAKE LIGHTER OR BRIGHTER"	"THIS LAMP (AOJ) LIGHTS THE ROOM (OBJ) A BIT"	{v}	0,auto;
 [alumbrar]	{v}	"light_up(icl>lighten>do,equ>light,agt>thing,obj>thing)"	"MAKE LIGHTER OR BRIGHTER"	"THIS LAMP LIGHTENS THE ROOM A BIT"	{v}	0,auto;
 [aluminio]	{n}	"aluminium(icl>metallic_element>thing,equ>aluminum)"	"A SILVERY DUCTILE METALLIC ELEMENT FOUND PRIMARILY IN BAUXITE"	""	{n}	0,auto;
-[alumno]	{n}	"student(icl>university_student>person,obj>knowledge_domain)"	""	"STUDENT OF LAW"	{n}	0,auto;
+[alumno]	{n}	"student(icl>university_student>person,obj>knowledge_domain)"	"A learner who is enrolled in an higher educational institution"	"STUDENT OF LAW"	{n}	0,auto;
 [aluvión]	{n}	"silt(icl>soil>thing)"	"MUD OR CLAY OR SMALL ROCKS DEPOSITED BY A RIVER OR LAKE"	""	{n}	0,auto;
 [alzado]	{n}	"thievery(icl>felony>thing,equ>larceny)"	"THE ACT OF TAKING SOMETHING FROM SOMEONE UNLAWFULLY"	"THE THIEVING IS AWFUL AT KENNEDY INTERNATIONAL"	{n}	0,auto;
 [alzamiento]	{n}	"revolt(icl>conflict>thing,equ>rebellion)"	"ORGANIZED OPPOSITION TO AUTHORITY"	"A CONFLICT IN WHICH ONE FACTION TRIES TO WREST CONTROL FROM ANOTHER"	{n}	0,auto;
@@ -9122,7 +9122,7 @@
 [desigual]	{a}	"spotty(icl>adj)"	"LACKING CONSISTENCY"	"THE GOLFER HIT THE BALL WELL BUT HIS PUTTING WAS SPOTTY"	{a}	0,auto;
 [desigual]	{a}	"uneven(icl>adj,ant>even)"	"NOT EVEN OR UNIFORM AS E.G. IN SHAPE OR TEXTURE"	"AN UNEVEN COLOR"	{a}	0,auto;
 [desigual]	{a}	"uneven(icl>adj,equ>spotty)"	"LACKING CONSISTENCY"	"THE GOLFER HIT THE BALL WELL BUT HIS PUTTING WAS SPOTTY"	{a}	0,auto;
-[desigual]	{a}	"unlike(icl>adj,ant>like)"	"NOT EQUAL IN AMOUNT"	"THEY DISTRIBUTED UNLIKE (OR UNEQUAL) SUMS TO THE VARIOUS CHARITIES"	{a}	0,auto;
+[desigual]	{a}	"unlike(icl>adj,ant>like,equ>unequal)"	"NOT EQUAL IN AMOUNT"	"THEY DISTRIBUTED UNLIKE (OR UNEQUAL) SUMS TO THE VARIOUS CHARITIES"	{a}	0,auto;
 [desigualdad]	{n}	"bumpiness(icl>roughness>thing)"	"THE TEXTURE OF A SURFACE THAT HAS MANY BUMPS"	""	{n}	0,auto;
 [desigualdad]	{n}	"inequality(icl>difference>thing,ant>equality)"	"LACK OF EQUALITY"	"THE GROWING INEQUALITY BETWEEN RICH AND POOR"	{n}	0,auto;
 [desilusión]	{n}	"disappointment(icl>dissatisfaction>thing)"	"A FEELING OF DISSATISFACTION THAT RESULTS WHEN YOUR EXPECTATIONS ARE NOT REALIZED"	"HIS HOPES WERE SO HIGH HE WAS DOOMED TO DISAPPOINTMENT"	{n}	0,auto;
@@ -13645,9 +13645,9 @@
 [global]	{a}	"globose(icl>adj,equ>ball-shaped)"	"HAVING THE SHAPE OF A SPHERE OR BALL"	"A SPHERICAL OBJECT"	{a}	0,auto;
 [global]	{a}	"oecumenical(icl>adj,equ>cosmopolitan)"	"OF WORLDWIDE SCOPE OR APPLICABILITY"	"AN ISSUE OF COSMOPOLITAN IMPORT"	{a}	0,auto;
 [global]	{a}	"overall(icl>adj)"	"INCLUDING EVERYTHING"	"THE OVERALL COST"	{a}	0,auto;
+[global]	{a}	"worldwide(icl>adj,com>size)"	"SPANNING OR EXTENDING THROUGHOUT THE ENTIRE WORLD"	"WORLDWIDE DISTRIBUTION"	{a}	0,auto;
 [global]	{a}	"worldwide(icl>adj,equ>cosmopolitan)"	"OF WORLDWIDE SCOPE OR APPLICABILITY"	"AN ISSUE OF COSMOPOLITAN IMPORT"	{a}	0,auto;
-[global]	{a}	"worldwide(icl>adj,equ>global)"	"INVOLVING THE ENTIRE EARTH"	"OF WORLDWIDE SIGNIFICANCE"	{a}	0,auto;
-[global]	{a}	"worldwide(icl>adj)"	"SPANNING OR EXTENDING THROUGHOUT THE ENTIRE WORLD"	"WORLDWIDE DISTRIBUTION"	{a}	0,auto;
+[global]	{a}	"worldwide(icl>adj,equ>global,com>significance)"	"INVOLVING THE ENTIRE EARTH"	"OF WORLDWIDE SIGNIFICANCE"	{a}	0,auto;
 [globo]	{n}	"balloon(icl>lighter-than-air_craft>thing)"	"LARGE TOUGH NONRIGID BAG FILLED WITH GAS OR HEATED AIR"	""	{n}	0,auto;
 [globo]	{n}	"globe(icl>sphere>functional_thing,obj>planet)"	"A SPHERE ON WHICH A MAP (ESPECIALLY OF THE EARTH) IS REPRESENTED"	""	{n}	0,auto;
 [globoso]	{a}	"globose(icl>adj,equ>ball-shaped)"	"HAVING THE SHAPE OF A SPHERE OR BALL"	"A SPHERICAL OBJECT"	{a}	0,auto;
@@ -17471,9 +17471,9 @@
 [mundial]	{a}	"cosmopolitan(icl>adj)"	"OF WORLDWIDE SCOPE OR APPLICABILITY"	"AN ISSUE OF COSMOPOLITAN IMPORT"	{a}	0,auto;
 [mundial]	{a}	"general(icl>adj,equ>cosmopolitan)"	"OF WORLDWIDE SCOPE OR APPLICABILITY"	"AN ISSUE OF COSMOPOLITAN IMPORT"	{a}	0,auto;
 [mundial]	{a}	"oecumenical(icl>adj,equ>cosmopolitan)"	"OF WORLDWIDE SCOPE OR APPLICABILITY"	"AN ISSUE OF COSMOPOLITAN IMPORT"	{a}	0,auto;
+[mundial]	{a}	"worldwide(icl>adj,com>size)"	"SPANNING OR EXTENDING THROUGHOUT THE ENTIRE WORLD"	"WORLDWIDE DISTRIBUTION"	{a}	0,auto;
 [mundial]	{a}	"worldwide(icl>adj,equ>cosmopolitan)"	"OF WORLDWIDE SCOPE OR APPLICABILITY"	"AN ISSUE OF COSMOPOLITAN IMPORT"	{a}	0,auto;
-[mundial]	{a}	"worldwide(icl>adj,equ>global)"	"INVOLVING THE ENTIRE EARTH"	"OF WORLDWIDE SIGNIFICANCE"	{a}	0,auto;
-[mundial]	{a}	"worldwide(icl>adj)"	"SPANNING OR EXTENDING THROUGHOUT THE ENTIRE WORLD"	"WORLDWIDE DISTRIBUTION"	{a}	0,auto;
+[mundial]	{a}	"worldwide(icl>adj,equ>global,com>significance)"	"INVOLVING THE ENTIRE EARTH"	"OF WORLDWIDE SIGNIFICANCE"	{a}	0,auto;
 [mundo]	{n}	"humankind(icl>homo>thing,equ>world)"	"ALL OF THE LIVING HUMAN INHABITANTS OF THE EARTH"	"ALL THE WORLD LOVES A LOVER"	{n}	0,auto;
 [mundo]	{n}	"man(icl>abstract_thing,equ>mankind)"	"MANKIND AS A WHOLE"	"THE MAN CONQUERED SPACE"	{n}	0,auto;
 [mundo]	{n}	"world(icl>abstract_thing,com>experience)"	"ALL OF YOUR EXPERIENCES THAT DETERMINE HOW THINGS APPEAR TO YOU"	"HIS WORLD WAS SHATTERED"	{n}	0,auto;
