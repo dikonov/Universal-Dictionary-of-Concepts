@@ -9815,7 +9815,6 @@ exact(icl>adj,equ>accurate)	Direct	a	3(4),2(4)	13591
 exactly(icl>how,equ>precisely,com>exact)	Direct	adv	3(2)	3916
 exactly(icl>how,equ>precisely,com>exact)	Direct	adv	1(4)	39339
 exaggeration(icl>trope>thing,equ>hyperbole)	Direct	n	2(6)	3591
-exam_paper(icl>examination>thing,equ>test_paper)	Direct	n	3(2),2(2),1(2)	6698
 examination(icl>communication>thing)	Direct	n	2(2)	9507
 examination(icl>investigation>thing)	Direct	n	1(5)	1306
 examination(icl>investigation>thing)	Direct	n	3(4),1(7)	4256
