@@ -2831,7 +2831,7 @@
 [arruinar]	{v}	"muff(icl>fail>do,equ>botch,agt>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"I BOTCHED THE DINNER AND WE HAD TO EAT OUT"	{v}	0,auto;
 [arruinar]	{v}	"ruin(icl>do,equ>destroy,agt>thing,obj>thing,met>thing)"	"DESTROY COMPLETELY"	"DAMAGE IRREPARABLY"	{v}	0,auto;
 [arruinar]	{v}	"ruin(icl>impoverish>do,agt>thing,obj>person)"	"MAKE SOMEONE LOSE ALL THEIR MONEY"	"JEFFERSON (OBJ) WAS RUINED BY THE LAWSUIT (AGT)"	{v}	0,auto;
-[arruinar]	{v}	"screw_up(icl>mess_up>do,agt>lovitional_thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"SHE REALIZED THAT SHE HAD SCREWED UP HER LIFE"	{v}	0,auto;
+[arruinar]	{v}	"screw_up(icl>mess_up>do,agt>volitional_thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"SHE REALIZED THAT SHE HAD SCREWED UP HER LIFE"	{v}	0,auto;
 [arruinar]	{v}	"smash(icl>impoverish>do,equ>bankrupt,agt>thing,obj>thing)"	"REDUCE TO BANKRUPTCY"	"MY DAUGHTER'S FANCY WEDDING IS GOING TO BREAK ME!"	{v}	0,auto;
 [arruinar]	{v}	"tumble(icl>change_integrity>occur,equ>crumble,obj>thing)"	"FALL APART"	"THE BUILDING CRUMBLED AFTER THE EXPLOSION"	{v}	0,auto;
 [arsenal]	{n}	"armoury(icl>military_installation>thing,equ>arsenal)"	"A MILITARY STRUCTURE WHERE ARMS AND AMMUNITION AND OTHER MILITARY EQUIPMENT ARE STORED AND TRAINING IS GIVEN IN THE USE OF ARMS"	""	{n}	0,auto;
@@ -2952,7 +2952,7 @@
 [asegurar]	{v}	"check(icl>verify>do,equ>see,agt>thing,obj>thing)"	"BE CAREFUL OR CERTAIN TO DO SOMETHING"	"MAKE CERTAIN OF SOMETHING"	{v}	0,auto;
 [asegurar]	{v}	"ensure(icl>guarantee>be,obj>thing,aoj>thing,ben>thing,cag>thing)"	"TO MAKE SURE OR CERTAIN, INSURE"	"THIS NEST EGG (AOJ) WILL ENSURE A NICE RETIREMENT (OBJ) FOR US (BEN)"	{v}	0,auto;
 [asegurar]	{v}	"ensure(icl>verify>do,equ>see,agt>thing,obj>thing)"	"BE CAREFUL OR CERTAIN TO DO SOMETHING"	"MAKE CERTAIN OF SOMETHING"	{v}	0,auto;
-[asegurar]	{v}	"fasten(icl>attach>do,cob>concrete_thing,agt>living_thing,obj>concrete_thing,ins>funtional_thing)"	"CAUSE TO BE FIRMLY ATTACHED"	"FASTEN THE LOCK ONTO THE DOOR"	{v}	0,auto;
+[asegurar]	{v}	"fasten(icl>attach>do,cob>concrete_thing,agt>living_thing,obj>concrete_thing,ins>functional_thing)"	"CAUSE TO BE FIRMLY ATTACHED"	"FASTEN THE LOCK ONTO THE DOOR"	{v}	0,auto;
 [asegurar]	{v}	"fix(icl>set>do,equ>fasten,agt>person,obj>thing,plc>thing,ins>thing)"	"CAUSE TO BE FIRMLY ATTACHED, STABLE OR STATIONARY"	"SHE FIXED HER GAZE (OBJ) ON THE MAN (PLC); LET'S FIX THE PICTURE (OBJ) TO THE FRAME (PLC)"	{v}	0,auto;
 [asegurar]	{v}	"guarantee(icl>back>do,agt>thing,obj>thing)"	"STAND BEHIND AND GUARANTEE THE QUALITY, ACCURACY, OR CONDITION OF"	"THE DEALER WARRANTS ALL THE CARS HE SELLS"	{v}	0,auto;
 [asegurar]	{v}	"guarantee(icl>do,agt>thing,obj>thing)"	"MAKE CERTAIN OF"	"PREPARATION WILL GUARANTEE SUCCESS!"	{v}	0,auto;
@@ -3209,7 +3209,7 @@
 [atar]	{v}	"bond(icl>attach>occur,equ>adhere,cob>thing,obj>thing)"	"STICK TO FIRMLY"	"WILL THIS WALLPAPER ADHERE TO THE WALL?"	{v}	0,auto;
 [atar]	{v}	"fasten(icl>attach>occur,obj>thing)"	"BECOME FIXED OR FASTENED"	"THIS DRESS FASTENS IN THE BACK"	{v}	0,auto;
 [atar]	{v}	"stick(icl>attach>occur,cob>concrete_thing,obj>concrete_thing)"	"BECOME ATTACHED TO A SURFACE"	"HIS SHIRT (OBJ) STUCK TO HIS BACK (PLT)"	{v}	0,auto;
-[atar]	{v}	"tie(icl>fasten>do,cob>concrete_thing,agt>person,obj>concrtet_thing,ins>concrete_thing)"	"FASTEN OR SECURE WITH A ROPE, STRING, OR CORD"	"THEY TIED THEIR VICTIM TO THE CHAIR"	{v}	0,auto;
+[atar]	{v}	"tie(icl>fasten>do,cob>concrete_thing,agt>person,obj>concrete_thing,ins>concrete_thing)"	"FASTEN OR SECURE WITH A ROPE, STRING, OR CORD"	"THEY TIED THEIR VICTIM TO THE CHAIR"	{v}	0,auto;
 [ataúd]	{n}	"casket(icl>box>thing,equ>coffin)"	"BOX IN WHICH A CORPSE IS BURIED OR CREMATED"	""	{n}	0,auto;
 [ataúd]	{n}	"coffin(icl>box>thing)"	"BOX IN WHICH A CORPSE IS BURIED OR CREMATED"	""	{n}	0,auto;
 [ataviarse]	{v}	"slick_up(icl>fancify>do,equ>spruce_up,agt>thing,obj>thing)"	"MAKE NEAT, SMART, OR TRIM"	"SPRUCE UP YOUR HOUSE FOR SPRING"	{v}	0,auto;
@@ -4649,7 +4649,7 @@
 [cagarla]	{v}	"flub(icl>fail>do,equ>botch,agt>thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"I BOTCHED THE DINNER AND WE HAD TO EAT OUT"	{v}	0,auto;
 [cagarla]	{v}	"fumble(icl>fail>do,equ>botch,agt>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"I BOTCHED THE DINNER AND WE HAD TO EAT OUT"	{v}	0,auto;
 [cagarla]	{v}	"muff(icl>fail>do,equ>botch,agt>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"I BOTCHED THE DINNER AND WE HAD TO EAT OUT"	{v}	0,auto;
-[cagarla]	{v}	"screw_up(icl>mess_up>do,agt>lovitional_thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"SHE REALIZED THAT SHE HAD SCREWED UP HER LIFE"	{v}	0,auto;
+[cagarla]	{v}	"screw_up(icl>mess_up>do,agt>volitional_thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"SHE REALIZED THAT SHE HAD SCREWED UP HER LIFE"	{v}	0,auto;
 [cagarria]	{n}	"crap(icl>fecal_matter>thing)"	"OBSCENE TERMS FOR FECES"	""	{n}	0,auto;
 [cagarria]	{n}	"poop(icl>fecal_matter>thing,equ>crap)"	"OBSCENE TERMS FOR FECES"	""	{n}	0,auto;
 [caída]	{n}	"dip(icl>decrease>thing,equ>drop)"	"A SUDDEN SHARP DECREASE IN SOME QUANTITY"	"A DIP IN PRICES"	{n}	0,auto;
@@ -6544,7 +6544,7 @@
 [comprobar]	{v}	"go_over(icl>analyze>do,equ>check,agt>thing,obj>thing)"	"EXAMINE SO AS TO DETERMINE ACCURACY, QUALITY, OR CONDITION"	"CHECK THE BRAKES"	{v}	0,auto;
 [comprobar]	{v}	"mark_off(icl>verify>do,equ>check,agt>thing,obj>thing)"	"PUT A CHECK MARK ON OR NEAR OR NEXT TO"	"MARK OFF THE UNITS"	{v}	0,auto;
 [comprobar]	{v}	"run_down(icl>pursue>do,agt>thing,obj>thing)"	"TRACE"	"WE ARE RUNNING DOWN A FEW TIPS"	{v}	0,auto;
-[comprobar]	{v}	"tick(icl>mark>do,agt>person,obj>ting)"	"PUT A CHECK MARK ON OR NEAR OR NEXT TO"	"JUST TICK THE BOX ON YOUR ORDER FORM"	{v}	0,auto;
+[comprobar]	{v}	"tick(icl>mark>do,agt>person,obj>thing)"	"PUT A CHECK MARK ON OR NEAR OR NEXT TO"	"JUST TICK THE BOX ON YOUR ORDER FORM"	{v}	0,auto;
 [comprobar]	{v}	"tick_off(icl>mark>do,agt>thing,obj>thing)"	"PUT A CHECK MARK ON OR NEAR OR NEXT TO"	"HAVE YOU TICKED OFF KATE'S NAME ON THE LIST?"	{v}	0,auto;
 [comprobar]	{v}	"verify(icl>test>do,equ>control,agt>thing,obj>thing)"	"VERIFY OR REGULATE BY CONDUCTING A PARALLEL EXPERIMENT OR COMPARING WITH ANOTHER STANDARD, OF SCIENTIFIC EXPERIMENTS"	"ARE YOU CONTROLLING FOR THE TEMPERATURE?"	{v}	0,auto;
 [comprometerse]	{v}	"guarantee(icl>do,equ>undertake,agt>thing,obj>uw,rec>person)"	"PROMISE OR ASSUME RESPONSIBILITY"	"I (AGT) GUARANTEE YOU (REC) AN INTERVIEW (OBJ)"	{v}	0,auto;
@@ -8568,7 +8568,7 @@
 [derretimiento]	{n}	"melt(icl>heating>thing,equ>thaw)"	"THE PROCESS WHEREBY HEAT CHANGES SOMETHING FROM A SOLID TO A LIQUID"	"THE POWER FAILURE CAUSED A REFRIGERATOR MELT THAT WAS A DISASTER"	{n}	0,auto;
 [derretimiento]	{n}	"melting(icl>heating>thing,equ>thaw)"	"THE PROCESS WHEREBY HEAT CHANGES SOMETHING FROM A SOLID TO A LIQUID"	"THE POWER FAILURE CAUSED A REFRIGERATOR MELT THAT WAS A DISASTER"	{n}	0,auto;
 [derretimiento]	{n}	"thaw(icl>heating>thing)"	"THE PROCESS WHEREBY HEAT CHANGES SOMETHING FROM A SOLID TO A LIQUID"	"THE POWER FAILURE CAUSED A REFRIGERATOR MELT THAT WAS A DISASTER"	{n}	0,auto;
-[derretirse]	{v}	"dissolve(icl>pass_int>occur,obj>thing,plc>thinf)"	"PASS INTO A SOLUTION"	"STIR UNTIL THE SUGAR DISSOLVES"	{v}	0,auto;
+[derretirse]	{v}	"dissolve(icl>pass_int>occur,obj>thing,plc>thing)"	"PASS INTO A SOLUTION"	"STIR UNTIL THE SUGAR DISSOLVES"	{v}	0,auto;
 [derretir]	{v}	"dethaw(icl>liquefy>do,equ>dissolve,agt>thing,obj>thing)"	"BECOME OR CAUSE TO BECOME SOFT OR LIQUID"	"DETHAW THE MEAT"	{v}	0,auto;
 [derretir]	{v}	"dissolve(icl>liquefy>occur,obj>thing)"	"BECOME  SOFT OR LIQUID"	"THE SUN MELTED THE ICE"	{v}	0,auto;
 [derretir]	{v}	"melt(icl>liquefy>do,equ>dissolve,src>thing,agt>thing,obj>matter,gol>thing)"	"BECOME OR CAUSE TO BECOME SOFT OR LIQUID"	"THE SUN MELTED THE ICE"	{v}	0,auto;
@@ -9081,12 +9081,12 @@
 [desgracia]	{n}	"mishap(icl>luck>thing,equ>bad_luck)"	"AN UNPREDICTABLE OUTCOME THAT IS UNFORTUNATE"	"IF I DIDN'T HAVE BAD LUCK I WOULDN'T HAVE ANY LUCK AT ALL"	{n}	0,auto;
 [desgracia]	{n}	"scourge(icl>affliction>thing,equ>bane)"	"SOMETHING CAUSES MISERY OR DEATH"	"THE BANE OF MY LIFE"	{n}	0,auto;
 [deshabitado]	{a}	"uninhabited(icl>adj,ant>inhabited)"	"NOT HAVING INHABITANTS"	"AN UNINHABITED ISLAND"	{a}	0,auto;
-[deshacerse]	{v}	"dissolve(icl>pass_int>occur,obj>thing,plc>thinf)"	"PASS INTO A SOLUTION"	"STIR UNTIL THE SUGAR DISSOLVES"	{v}	0,auto;
+[deshacerse]	{v}	"dissolve(icl>pass_int>occur,obj>thing,plc>thing)"	"PASS INTO A SOLUTION"	"STIR UNTIL THE SUGAR DISSOLVES"	{v}	0,auto;
 [deshacerse]	{v}	"eliminate(icl>remove>do,agt>thing,obj>thing,scn>thing)"	"TERMINATE OR TAKE OUT"	"FATTY FOODS SHOULD BE ELIMINATED FROM THE DIET"	{v}	0,auto;
 [deshacer]	{v}	"break_up(icl>change_integrity>do,equ>dissolve,agt>thing,obj>thing)"	"CAUSE TO GO INTO A SOLUTION"	"THE RECIPE SAYS THAT WE SHOULD DISSOLVE A CUP OF SUGAR IN TWO CUPS OF WATER"	{v}	0,auto;
 [deshacer]	{v}	"dethaw(icl>liquefy>do,equ>dissolve,agt>thing,obj>thing)"	"BECOME OR CAUSE TO BECOME SOFT OR LIQUID"	"DETHAW THE MEAT"	{v}	0,auto;
 [deshacer]	{v}	"dissolve(icl>liquefy>occur,obj>thing)"	"BECOME  SOFT OR LIQUID"	"THE SUN MELTED THE ICE"	{v}	0,auto;
-[deshacer]	{v}	"dissolve(icl>resolve>do,agt>thing,obj>thing,plc>thinf)"	"CAUSE TO GO INTO A SOLUTION"	"DISSOLVE THE TABLET IN WATER"	{v}	0,auto;
+[deshacer]	{v}	"dissolve(icl>resolve>do,agt>thing,obj>thing,plc>thing)"	"CAUSE TO GO INTO A SOLUTION"	"DISSOLVE THE TABLET IN WATER"	{v}	0,auto;
 [deshacer]	{v}	"melt(icl>liquefy>do,equ>dissolve,src>thing,agt>thing,obj>matter,gol>thing)"	"BECOME OR CAUSE TO BECOME SOFT OR LIQUID"	"THE SUN MELTED THE ICE"	{v}	0,auto;
 [deshacer]	{v}	"resolve(icl>change_integrity>do,equ>dissolve,agt>thing,obj>thing)"	"CAUSE TO GO INTO A SOLUTION"	"THE RECIPE SAYS THAT WE SHOULD DISSOLVE A CUP OF SUGAR IN TWO CUPS OF WATER"	{v}	0,auto;
 [deshacer]	{v}	"thaw(icl>liquefy>do,equ>dissolve,agt>thing,obj>thing)"	"BECOME OR CAUSE TO BECOME SOFT OR LIQUID"	"THE SUN MELTED THE ICE"	{v}	0,auto;
@@ -9131,7 +9131,7 @@
 [desistir]	{v}	"drop_out(icl>do,agt>volitional_thing,scn>thing)"	"GIVE UP IN THE FACE OF DEFEAT OF LACKING HOPE"	"ADMIT DEFEAT"	{v}	0,auto;
 [desistir]	{v}	"quit(icl>do,equ>drop_out,agt>thing,obj>thing)"	"GIVE UP IN THE FACE OF DEFEAT OF LACKING HOPE"	"ADMIT DEFEAT"	{v}	0,auto;
 [desistir]	{v}	"surrender(icl>relinquish>do,agt>person,obj>thing,cag>thing)"	"GIVE UP OR AGREE TO FORGO TO THE POWER OR POSSESSION OF ANOTHER"	"THOUSANDS OF ILLEGAL IMMIGRANTS IN JAPAN HAVE SURRENDERED TO POLICE"	{v}	0,auto;
-[desleírse]	{v}	"dissolve(icl>pass_int>occur,obj>thing,plc>thinf)"	"PASS INTO A SOLUTION"	"STIR UNTIL THE SUGAR DISSOLVES"	{v}	0,auto;
+[desleírse]	{v}	"dissolve(icl>pass_int>occur,obj>thing,plc>thing)"	"PASS INTO A SOLUTION"	"STIR UNTIL THE SUGAR DISSOLVES"	{v}	0,auto;
 [desligado]	{a}	"separate(icl>adj,equ>disjoined)"	"HAVE THE CONNECTION UNDONE"	"HAVING BECOME SEPARATE"	{a}	0,auto;
 [desligar]	{v}	"come_away(icl>separate>occur,equ>detach,cob>concrete_thing,obj>concrete_thing)"	"COME TO BE DETACHED"	"HIS RETINA DETACHED AND HE HAD TO BE RUSHED INTO SURGERY"	{v}	0,auto;
 [desligar]	{v}	"come_off(icl>separate>occur,equ>detach,cob>concrete_thing,obj>concrete_thing)"	"COME TO BE DETACHED"	"HIS RETINA DETACHED AND HE HAD TO BE RUSHED INTO SURGERY"	{v}	0,auto;
@@ -9800,9 +9800,9 @@
 [dilatarse]	{v}	"lucubrate(icl>clarify>do,equ>elaborate,agt>volitional_thing,obj>thing,cao>thing,dur>thing)"	"ADD DETAILS, AS TO AN ACCOUNT OR IDEA"	"CLARIFY THE MEANING OF AND DISCOURSE IN A LEARNED WAY, USUALLY IN WRITING"	{v}	0,auto;
 [diligente]	{a}	"gumptious(icl>adj,equ>energetic)"	"WORKING HARD TO PROMOTE AN ENTERPRISE"	""	{a}	0,auto;
 [diligente]	{a}	"up-and-coming(icl>adj,equ>energetic)"	"WORKING HARD TO PROMOTE AN ENTERPRISE"	""	{a}	0,auto;
-[diluirse]	{v}	"dissolve(icl>pass_int>occur,obj>thing,plc>thinf)"	"PASS INTO A SOLUTION"	"STIR UNTIL THE SUGAR DISSOLVES"	{v}	0,auto;
+[diluirse]	{v}	"dissolve(icl>pass_int>occur,obj>thing,plc>thing)"	"PASS INTO A SOLUTION"	"STIR UNTIL THE SUGAR DISSOLVES"	{v}	0,auto;
 [diluir]	{v}	"break_up(icl>change_integrity>do,equ>dissolve,agt>thing,obj>thing)"	"CAUSE TO GO INTO A SOLUTION"	"THE RECIPE SAYS THAT WE SHOULD DISSOLVE A CUP OF SUGAR IN TWO CUPS OF WATER"	{v}	0,auto;
-[diluir]	{v}	"dissolve(icl>resolve>do,agt>thing,obj>thing,plc>thinf)"	"CAUSE TO GO INTO A SOLUTION"	"DISSOLVE THE TABLET IN WATER"	{v}	0,auto;
+[diluir]	{v}	"dissolve(icl>resolve>do,agt>thing,obj>thing,plc>thing)"	"CAUSE TO GO INTO A SOLUTION"	"DISSOLVE THE TABLET IN WATER"	{v}	0,auto;
 [diluir]	{v}	"resolve(icl>change_integrity>do,equ>dissolve,agt>thing,obj>thing)"	"CAUSE TO GO INTO A SOLUTION"	"THE RECIPE SAYS THAT WE SHOULD DISSOLVE A CUP OF SUGAR IN TWO CUPS OF WATER"	{v}	0,auto;
 [diluvio]	{n}	"alluvion(icl>geological_phenomenon>thing,equ>flood)"	"THE RISING OF A BODY OF WATER AND ITS OVERFLOWING ONTO NORMALLY DRY LAND"	"PLAINS FERTILIZED BY ANNUAL INUNDATIONS"	{n}	0,auto;
 [diluvio]	{n}	"deluge(icl>geological_phenomenon>thing,equ>flood)"	"THE RISING OF A BODY OF WATER AND ITS OVERFLOWING ONTO NORMALLY DRY LAND"	"PLAINS FERTILIZED BY ANNUAL INUNDATIONS"	{n}	0,auto;
@@ -12039,7 +12039,7 @@
 [estropear]	{v}	"fumble(icl>fail>do,equ>botch,agt>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"I BOTCHED THE DINNER AND WE HAD TO EAT OUT"	{v}	0,auto;
 [estropear]	{v}	"mar(icl>damage>do,agt>thing,obj>thing,met>thing)"	"MAKE IMPERFECT"	"NOTHING MARRED HER BEAUTY"	{v}	0,auto;
 [estropear]	{v}	"muff(icl>fail>do,equ>botch,agt>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"I BOTCHED THE DINNER AND WE HAD TO EAT OUT"	{v}	0,auto;
-[estropear]	{v}	"screw_up(icl>mess_up>do,agt>lovitional_thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"SHE REALIZED THAT SHE HAD SCREWED UP HER LIFE"	{v}	0,auto;
+[estropear]	{v}	"screw_up(icl>mess_up>do,agt>volitional_thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"SHE REALIZED THAT SHE HAD SCREWED UP HER LIFE"	{v}	0,auto;
 [estropear]	{v}	"spoil(icl>damage>do,equ>mar,agt>thing,obj>thing)"	"MAKE IMPERFECT"	"NOTHING MARRED HER BEAUTY"	{v}	0,auto;
 [estropear]	{v}	"vitiate(icl>damage>do,equ>mar,agt>thing,obj>thing,ins>thing)"	"MAKE IMPERFECT"	"NOTHING MARRED HER BEAUTY"	{v}	0,auto;
 [estructural]	{a}	"geomorphological(icl>adj,equ>geomorphologic,com>geomorphology)"	"PERTAINING TO GEOLOGICAL STRUCTURE"	"GEOMORPHOLOGICAL FEATURES OF THE BLACK HILLS"	{a}	0,auto;
@@ -14628,7 +14628,7 @@
 [implicar]	{v}	"mean(icl>necessitate>be,equ>entail,obj>uw,aoj>uw)"	"HAVE AS A LOGICAL CONSEQUENCE"	"THE WATER SHORTAGE (AOJ) MEANS THAT (OBJ) WE HAVE TO STOP TAKING SHOWERS"	{v}	0,auto;
 [implicar]	{v}	"regard(icl>concern>be,obj>thing)"	"CONNECT CLOSELY AND OFTEN INCRIMINATINGLY"	"IT (AOJ) DOES NOT REGARD ME (OBJ)"	{v}	0,auto;
 [implorar]	{v}	"adjure(icl>plead>do,equ>bid,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"ASK FOR OR REQUEST EARNESTLY"	"THE PROPHET BID ALL PEOPLE TO BECOME GOOD PERSONS"	{v}	0,auto;
-[implorar]	{v}	"beg(icl>plead>do,agt>person,gol>uw,rec>vollitional_thing)"	"CALL UPON IN SUPPLICATION"	"I (AGT) BEG YOU (OBJ) TO STOP (GOL)!"	{v}	0,auto;
+[implorar]	{v}	"beg(icl>plead>do,agt>person,gol>uw,rec>volitional_thing)"	"CALL UPON IN SUPPLICATION"	"I (AGT) BEG YOU (OBJ) TO STOP (GOL)!"	{v}	0,auto;
 [implorar]	{v}	"beseech(icl>plead>do,equ>bid,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"ASK FOR OR REQUEST EARNESTLY"	"THE PROPHET BID ALL PEOPLE TO BECOME GOOD PERSONS"	{v}	0,auto;
 [implorar]	{v}	"bid(icl>request>do,agt>person,obj>volitional_thing,gol>uw)"	"REQUEST EARNESTLY OR ORDER"	"THE PROPHET (AGT) BID ALL PEOPLE (OBJ) TO BECOME (GOL) GOOD PERSONS"	{v}	0,auto;
 [implorar]	{v}	"conjure(icl>plead>do,equ>bid,agt>thing,obj>thing)"	"ASK FOR OR REQUEST EARNESTLY"	"THE PROPHET BID ALL PEOPLE TO BECOME GOOD PERSONS"	{v}	0,auto;
@@ -15707,7 +15707,7 @@
 [joderla]	{v}	"flub(icl>fail>do,equ>botch,agt>thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"I BOTCHED THE DINNER AND WE HAD TO EAT OUT"	{v}	0,auto;
 [joderla]	{v}	"fumble(icl>fail>do,equ>botch,agt>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"I BOTCHED THE DINNER AND WE HAD TO EAT OUT"	{v}	0,auto;
 [joderla]	{v}	"muff(icl>fail>do,equ>botch,agt>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"I BOTCHED THE DINNER AND WE HAD TO EAT OUT"	{v}	0,auto;
-[joderla]	{v}	"screw_up(icl>mess_up>do,agt>lovitional_thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"SHE REALIZED THAT SHE HAD SCREWED UP HER LIFE"	{v}	0,auto;
+[joderla]	{v}	"screw_up(icl>mess_up>do,agt>volitional_thing,obj>thing)"	"MAKE A MESS OF, DESTROY OR RUIN"	"SHE REALIZED THAT SHE HAD SCREWED UP HER LIFE"	{v}	0,auto;
 [jodido]	{a}	"bally(icl>adj,equ>bally)"	"(USED OF PERSONS) INFORMAL INTENSIFIERS"	"WHAT A BALLY (OR BLINKING) NUISANCE"	{a}	0,auto;
 [jornal]	{n}	"pay(icl>regular_payment>thing,equ>wage)"	"SOMETHING THAT REMUNERATES"	"HE WASTED HIS PAY ON DRINK"	{n}	0,auto;
 [jornal]	{n}	"wage(icl>regular_payment>thing)"	"SOMETHING THAT REMUNERATES"	"WAGES WERE PAID BY CHECK"	{n}	0,auto;

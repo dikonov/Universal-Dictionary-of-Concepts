@@ -740,7 +740,7 @@
 [buộc]	{v}	"coerce(icl>compel>do,agt>thing,obj>thing)"	"TO CAUSE TO DO THROUGH PRESSURE OR NECESSITY, BY PHYSICAL, MORAL OR INTELLECTUAL MEANS :SHE FORCED HIM TO TAKE A JOB IN THE CITY"	"HE SQUEEZED HER FOR INFORMATION"	{v}	2,auto-polysemic-3lang;
 [buộc]	{v}	"tether(icl>attach>do,cob>thing,agt>thing,obj>thing)"	"TIE WITH A TETHER"	"TETHER HORSES"	{v}	2,auto-polysemic-3lang;
 [buộc]	{v}	"tie(icl>do,equ>connect,agt>thing,obj>thing)"	"CONNECT, FASTEN, OR PUT TOGETHER TWO OR MORE PIECES"	"TIE THE ROPES TOGETHER"	{v}	2,auto-polysemic-3lang;
-[buộc]	{v}	"tie(icl>fasten>do,cob>concrete_thing,agt>person,obj>concrtet_thing,ins>concrete_thing)"	"FASTEN OR SECURE WITH A ROPE, STRING, OR CORD"	"THEY TIED THEIR VICTIM TO THE CHAIR"	{v}	2,auto-polysemic-3lang;
+[buộc]	{v}	"tie(icl>fasten>do,cob>concrete_thing,agt>person,obj>concrete_thing,ins>concrete_thing)"	"FASTEN OR SECURE WITH A ROPE, STRING, OR CORD"	"THEY TIED THEIR VICTIM TO THE CHAIR"	{v}	2,auto-polysemic-3lang;
 [buổi sáng]	{n}	"morn(icl>time_period>thing,equ>morning)"	"THE TIME PERIOD BETWEEN DAWN AND NOON"	"I SPENT THE MORNING RUNNING ERRANDS"	{n}	2,auto-polysemic-3lang;
 [buồn]	{a}	"sad(icl>adj,ant>glad)"	"EXPERIENCING OR SHOWING SORROW OR UNHAPPINESS"	"FEELING SAD BECAUSE HIS DOG HAD DIED"	{a}	2,auto-polysemic-3lang;
 [buồn bã]	{a}	"sad(icl>adj,ant>glad)"	"EXPERIENCING OR SHOWING SORROW OR UNHAPPINESS"	"FEELING SAD BECAUSE HIS DOG HAD DIED"	{a}	2,auto-polysemic-3lang;
@@ -1020,7 +1020,7 @@
 [catôt]	{n}	"cathode(icl>electrode>thing,ant>anode)"	"A NEGATIVELY CHARGED ELECTRODE THAT IS THE SOURCE OF ELECTRONS ENTERING AN ELECTRICAL DEVICE"	""	{n}	2,auto-polysemic-3lang;
 [cá trích]	{n}	"herring(icl>clupeid_fish>thing)"	"COMMERCIALLY IMPORTANT FOOD FISH OF NORTHERN WATERS OF BOTH ATLANTIC AND PACIFIC"	""	{n}	2,auto-polysemic-3lang;
 [cá trích]	{n}	"herring(icl>saltwater_fish>thing)"	"VALUABLE FLESH OF FATTY FISH FROM SHALLOW WATERS OF NORTHERN ATLANTIC OR PACIFIC"	"USUALLY SALTED OR PICKLED"	{n}	2,auto-polysemic-3lang;
-[cắt]	{v}	"cut(icl>design>do,equ>tailor,src>concrete_thing,agt>volitional_thing,obj>concrete_thing,ins>funtional_thing)"	"SHAPE OR FASHION"	"SHE (AGT) CUTS A COAT (OBJ) OUT OF 45 INCH WIDE FABRIC (SRC)"	{v}	2,auto-polysemic-3lang;
+[cắt]	{v}	"cut(icl>design>do,equ>tailor,src>concrete_thing,agt>volitional_thing,obj>concrete_thing,ins>functional_thing)"	"SHAPE OR FASHION"	"SHE (AGT) CUTS A COAT (OBJ) OUT OF 45 INCH WIDE FABRIC (SRC)"	{v}	2,auto-polysemic-3lang;
 [cắt]	{v}	"mow(icl>cut>do,agt>thing,obj>living_thing)"	"TO CUT GRASS"	"I (AGT) MOW THE LAWN (OBJ) EVERY SATURDAY"	{v}	2,auto-polysemic-3lang;
 [cắt]	{v}	"scythe(icl>mow>do,agt>thing,obj>concrete_thing,ins>thing)"	"CUT WITH A SCYTHE"	"SCYTHE GRASS OR GRAIN"	{v}	2,auto-polysemic-3lang;
 [cắt]	{v}	"shear(icl>snip>do,agt>thing,obj>thing)"	"CUT WITH SHEARS"	"SHEAR HEDGES"	{v}	2,auto-polysemic-3lang;
@@ -2314,7 +2314,7 @@
 [đầu ruồi]	{n}	"point(icl>gun_muzzle>thing)"	"THE GUN MUZZLE'S DIRECTION"	"HE HELD ME UP AT THE POINT OF A GUN"	{n}	1,auto-monosemic-1lang;
 [đầu tàu đẩy]	{n}	"pusher(icl>mover>thing)"	"SOMEONE WHO PUSHES"	""	{n}	1,auto-monosemic-1lang;
 [dấu tích; cái còn phải làm]	{n}	"stench(icl>smell>thing,equ>malodor)"	"A DISTINCTIVE ODOR THAT IS OFFENSIVELY UNPLEASANT"	""	{n}	2,auto-monosemic-2lang;
-[đấu tranh]	{v}	"strive(icl>struggle>do,agt>living_thing,ptn>thin)"	"TO EXERT MUCH EFFORT OR ENERGY"	"THE MINISTER BEGGED THE WORSHIPPERS TO STRIVE AGAINST EVIL"	{v}	2,auto-polysemic-3lang;
+[đấu tranh]	{v}	"strive(icl>struggle>do,agt>living_thing,ptn>thing)"	"TO EXERT MUCH EFFORT OR ENERGY"	"THE MINISTER BEGGED THE WORSHIPPERS TO STRIVE AGAINST EVIL"	{v}	2,auto-polysemic-3lang;
 [đấu tranh]	{v}	"struggle(icl>fight>do,agt>thing,obj>thing,pur>uw)"	""	"TO STRUGGLE AGAINST TYRANNY"	{v}	2,auto-polysemic-3lang;
 [đá vụn bỏ đi]	{n}	"rubble(icl>rubbish>thing,equ>debris)"	"THE REMAINS OF SOMETHING THAT HAS BEEN DESTROYED OR BROKEN UP"	""	{n}	1,auto-monosemic-1lang;
 [đã xem và chuẩn y]	{a}	"authoritative(icl>adj)"	"OF RECOGNIZED AUTHORITY OR EXCELLENCE"	"THE DEFINITIVE WORK ON GREECE"	{a}	2,auto-monosemic-2lang;
@@ -3532,7 +3532,7 @@
 [hàn nối]	{v}	"buttweld(icl>weld>do,equ>butt-weld,agt>thing,obj>thing)"	"JOIN BY A BUTTWELD"	""	{v}	1,auto-monosemic-1lang;
 [hạn]	{n}	"term(icl>abstract_thing,com>pregnancy,fld>medicine)"	"THE END OF GESTATION OR POINT AT WHICH BIRTH IS IMMINENT"	"A HEALTHY BABY BORN AT FULL TERM"	{n}	2,auto-polysemic-3lang;
 [hạn]	{n}	"term(icl>time)"	"A LIMITED PERIOD OF TIME"	"A PRISON TERM"	{n}	2,auto-polysemic-3lang;
-[hàn]	{v}	"solder(icl>join>do,cob>functional_thing,agt>person,obj>functional-thing)"	"JOIN OR FUSE WITH SOLDER"	"SOLDER THESE TWO PIPES TOGETHER"	{v}	2,auto-polysemic-3lang;
+[hàn]	{v}	"solder(icl>join>do,cob>functional_thing,agt>person,obj>functional_thing)"	"JOIN OR FUSE WITH SOLDER"	"SOLDER THESE TWO PIPES TOGETHER"	{v}	2,auto-polysemic-3lang;
 [hão huyền]	{a}	"illusory(icl>adj,equ>illusive)"	"BASED ON OR HAVING THE NATURE OF AN ILLUSION"	"SECRET ACTIVITIES OFFER PRESIDENTS THE ALLURING BUT OFTEN ILLUSORY PROMISE THAT THEY CAN ACHIEVE FOREIGN POLICY GOALS WITHOUT THE BOTHERSOME DEBATE AND OPEN DECISION THAT ARE STAPLES OF DEMOCRACY"	{a}	2,auto-polysemic-3lang;
 [hào]	{n}	"moat(icl>trench>thing)"	"DITCH DUG AS A FORTIFICATION AND USUALLY FILLED WITH WATER"	""	{n}	2,auto-polysemic-3lang;
 [hào]	{n}	"trench(icl>ditch>thing)"	"ANY LONG DITCH CUT IN THE GROUND"	""	{n}	2,auto-polysemic-3lang;
@@ -5591,7 +5591,7 @@
 [nặng]	{misc}	"heavily(icl>how,com>heavy-duty)"	"IN A MANNER DESIGNED FOR HEAVY DUTY"	"A HEAVILY CONSTRUCTED CAR"	{misc}	2,auto-polysemic-3lang;
 [nặng nề]	{misc}	"heavily(icl>how,com>heavy-duty)"	"IN A MANNER DESIGNED FOR HEAVY DUTY"	"A HEAVILY CONSTRUCTED CAR"	{misc}	2,auto-polysemic-3lang;
 [nặng]	{v}	"weigh(icl>have_a_particular_weight>be,aoj>concrete_thing,val>thing)"	""	"THE SUITCASE WEIGHS QUITE A LOT (OBJ)"	{v}	2,auto-polysemic-3lang;
-[năn nỉ]	{v}	"beg(icl>plead>do,agt>person,gol>uw,rec>vollitional_thing)"	"CALL UPON IN SUPPLICATION"	"I (AGT) BEG YOU (OBJ) TO STOP (GOL)!"	{v}	2,auto-polysemic-3lang;
+[năn nỉ]	{v}	"beg(icl>plead>do,agt>person,gol>uw,rec>volitional_thing)"	"CALL UPON IN SUPPLICATION"	"I (AGT) BEG YOU (OBJ) TO STOP (GOL)!"	{v}	2,auto-polysemic-3lang;
 [nạn thất nghiệp]	{n}	"unemployment(icl>state>thing,ant>employment)"	"THE STATE OF BEING UNEMPLOYED OR NOT HAVING A JOB"	"UNEMPLOYMENT IS A SERIOUS SOCIAL EVIL"	{n}	2,auto-monosemic-2lang;
 [nan y]	{a}	"incurable(icl>adj,ant>curable)"	"INCAPABLE OF BEING CURED"	"AN INCURABLE DISEASE"	{a}	2,auto-polysemic-3lang;
 [nào đó]	{a}	"certain(icl>adj,equ>certain)"	"DEFINITE BUT NOT SPECIFIED OR IDENTIFIED"	"SET ASIDE A CERTAIN SUM EACH WEEK"	{a}	2,auto-polysemic-3lang;
@@ -9580,7 +9580,7 @@
 [vân vân]	{misc}	"etc(icl>how)"	"INDICATES THAT THE LIST IN NOT FULL"	"A PROGRAMME OF DANCES, TOURS, SPORTS, ETC."	{misc}	1,auto-monosemic-1lang;
 [vặn]	{v}	"twist(icl>change_shape>occur,equ>flex,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	2,auto-polysemic-3lang;
 [vặn]	{v}	"twist(icl>shape>do,agt>thing,obj>thing)"	"FORM INTO TWISTS"	"TWIST THE STRIPS OF DOUGH"	{v}	2,auto-polysemic-3lang;
-[van xin]	{v}	"beg(icl>plead>do,agt>person,gol>uw,rec>vollitional_thing)"	"CALL UPON IN SUPPLICATION"	"I (AGT) BEG YOU (OBJ) TO STOP (GOL)!"	{v}	2,auto-polysemic-3lang;
+[van xin]	{v}	"beg(icl>plead>do,agt>person,gol>uw,rec>volitional_thing)"	"CALL UPON IN SUPPLICATION"	"I (AGT) BEG YOU (OBJ) TO STOP (GOL)!"	{v}	2,auto-polysemic-3lang;
 [van xin]	{v}	"beseech(icl>plead>do,equ>bid,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"ASK FOR OR REQUEST EARNESTLY"	"THE PROPHET BID ALL PEOPLE TO BECOME GOOD PERSONS"	{v}	2,auto-polysemic-3lang;
 [van xin]	{v}	"implore(icl>plead>do,equ>beg,agt>person,obj>uw,cag>person)"	"CALL UPON IN SUPPLICATION"	"ENTREAT"	{v}	2,auto-polysemic-3lang;
 [vào]	{misc}	"in(icl>how,equ>inside,obj>concrete_thing,plc<uw)"	"LOCATED INSIDE A CONTAINER"	"THERE'S SOME SUGAR IN THE CUPBOARD"	{misc}	2,auto-polysemic-3lang;
@@ -9999,7 +9999,7 @@
 [xé nhỏ]	{v}	"fragment(icl>break>do,equ>break_up,src>thing,agt>thing,obj>thing)"	"BREAK OR CAUSE TO BREAK INTO PIECES"	"THE PLATE FRAGMENTED"	{v}	2,auto-monosemic-2lang;
 [xenon]	{n}	"xenon(icl>chemical_element>thing)"	"A COLORLESS ODORLESS INERT GASEOUS ELEMENT OCCURRING IN THE EARTH'S ATMOSPHERE IN TRACE AMOUNTS"	""	{n}	2,auto-monosemic-2lang;
 [xentimet]	{n}	"centimetre(icl>metric_linear_unit>thing,equ>centimeter)"	"A METRIC UNIT OF LENGTH EQUAL TO ONE HUNDREDTH OF A METER"	""	{n}	2,auto-monosemic-2lang;
-[xén]	{v}	"cut(icl>design>do,equ>tailor,src>concrete_thing,agt>volitional_thing,obj>concrete_thing,ins>funtional_thing)"	"SHAPE OR FASHION"	"SHE (AGT) CUTS A COAT (OBJ) OUT OF 45 INCH WIDE FABRIC (SRC)"	{v}	2,auto-polysemic-3lang;
+[xén]	{v}	"cut(icl>design>do,equ>tailor,src>concrete_thing,agt>volitional_thing,obj>concrete_thing,ins>functional_thing)"	"SHAPE OR FASHION"	"SHE (AGT) CUTS A COAT (OBJ) OUT OF 45 INCH WIDE FABRIC (SRC)"	{v}	2,auto-polysemic-3lang;
 [xén]	{v}	"pare(icl>cut>do,equ>whittle,agt>thing,obj>thing)"	"CUT SMALL BITS OR PARE SHAVINGS FROM"	"WHITTLE A PIECE OF WOOD"	{v}	2,auto-polysemic-3lang;
 [xe ô tô]	{n}	"car(icl>motor_vehicle>thing)"	"A MOTOR VEHICLE WITH FOUR WHEELS"	"HE NEEDS A CAR TO GET TO WORK"	{n}	2,auto-polysemic-3lang;
 [xếp gấp]	{n}	"bend(icl>movement>thing,equ>bending)"	"MOVEMENT THAT CAUSES THE FORMATION OF A CURVE"	""	{n}	1,auto-monosemic-1lang;

@@ -1477,7 +1477,7 @@ backdoor(icl>exterior_door>thing,equ>back_door)	Direct	n	1(2),1(2)	4672
 background(icl>abstract_thing,ant>foreground)	Direct	n	1(5)	11077
 background(icl>abstract_thing,ant>foreground)	Direct	n	1(5)	12142
 background(icl>abstract_thing,ant>foreground)	Direct	n	1(7)	6224
-background(icl>abstract_thing,equ>experience,scn>abstract-thing)	Direct	n	1(7)	26854
+background(icl>abstract_thing,equ>experience,scn>abstract_thing)	Direct	n	1(7)	26854
 background(icl>accompaniment>thing)	Direct	n	1(5)	27028
 background(icl>information>thing)	Direct	n	1(5)	12143
 background(icl>screen>thing)	Direct	n	2(2)	26835
@@ -7348,8 +7348,8 @@ dissipation(icl>intemperance>thing,equ>profligacy)	Direct	n	2(2)	4939
 dissolution(icl>intemperance>thing,equ>profligacy)	Direct	n	2(2)	4939
 dissolution(icl>liquefaction>thing,equ>dissolving)	Direct	n	1(5)	10050
 dissolution(icl>natural_process>thing)	Direct	n	1(2)	7355
-dissolve(icl>pass_int>occur,obj>thing,plc>thinf)	Direct	v	1(4)	7671
-dissolve(icl>resolve>do,agt>thing,obj>thing,plc>thinf)	Direct	v	1(4)	9460
+dissolve(icl>pass_int>occur,obj>thing,plc>thing)	Direct	v	1(4)	7671
+dissolve(icl>resolve>do,agt>thing,obj>thing,plc>thing)	Direct	v	1(4)	9460
 dissolvent(icl>medium>thing,equ>solvent)	Direct	n	1(2),1(2)	27851
 dissonant(icl>adj,equ>discordant)	Direct	a	2(2)	15044
 dissonant(icl>adj,equ>discordant)	Direct	a	3(2)	2849
@@ -15813,8 +15813,8 @@ louse(icl>insect>thing)	Direct	n	1(4),2(4),5(4)	5649
 louse(icl>insect>thing)	Direct	n	1(4)	7318
 love(icl>emotion>thing,ant>hate)	Direct	n	2(4),1(5)	120
 love(icl>emotion>thing,ant>hate)	Hypernymy	n	2(2),1(2)	279
-love(icl>feeling>be,obj>person,aoj>preson)	Direct	v	1(4),2(4)	10987
-love(icl>feeling>be,obj>person,aoj>preson)	Direct	v	3(4),2(4)	3023
+love(icl>feeling>be,obj>person,aoj>person)	Direct	v	1(4),2(4)	10987
+love(icl>feeling>be,obj>person,aoj>person)	Direct	v	3(4),2(4)	3023
 love(icl>make_love>do,agt>living_thing,cag>living_thing)	Hypernymy	v	1(2)	17104
 love(icl>make_love>do,agt>living_thing,cag>living_thing)	Direct	v	1(2)	19102
 love(icl>sexual_desire>thing)	Direct	n	3(4),2(4),1(5),7(4)	19761
@@ -19968,7 +19968,7 @@ open(icl>adj,equ>clear)	Direct	a	1(5)	35467
 open(icl>area>thing)	Direct	n	1(3)	27093
 open(icl>be,plt>concrete_thing,aoj>concrete_thing)	Direct	v	1(4)	27715
 open(icl>do,agt>volitional_thing,obj>thing,ins>thing)	Direct	v	1(5)	10852
-open(icl>occur,obj>orgnization,met>thing)	Direct	v	1(4)	10866
+open(icl>occur,obj>organization,met>thing)	Direct	v	1(4)	10866
 open(icl>tournament>thing)	Direct	n	2(2)	27034
 open(icl>undo>do,equ>unfold,agt>thing,obj>thing)	Direct	v	2(4),1(4)	5348
 open-air_market(icl>marketplace>thing)	Hypernymy	n	2(2)	22204
@@ -21551,7 +21551,7 @@ point(icl>location>thing)	Direct	n	2(4)	36221
 point(icl>meaning>thing)	Direct	n	2(2)	38105
 pointed(icl>adj,ant>pointless)	Direct	a	1(2)	27105
 pointed(icl>adj,ant>pointless)	Direct	a	1(4)	6571
-poison(icl>give>do,agt>persdon,obj>person,ins>matter)	Direct	v	3(2)	34928
+poison(icl>give>do,agt>person,obj>person,ins>matter)	Direct	v	3(2)	34928
 poison(icl>substance>thing)	Hypernymy	n	1(2),3(2),4(2)	3885
 poison_ivy(icl>poisonous_plant>thing)	Direct	n	2(2),2(2),1(2),1(2)	7272
 poison_mercury(icl>poisonous_plant>thing,equ>poison_ivy)	Direct	n	2(2),1(2)	7272
@@ -21909,7 +21909,7 @@ present(icl>introduce>do,agt>thing,obj>thing)	Direct	v	1(2)	27839
 present(icl>stage>do,com>play,agt>thing,obj>thing)	Direct	v	3(2)	4717
 present(icl>state>do,agt>thing,obj>information,rec>person)	Direct	v	1(2)	23174
 present(icl>state>do,agt>thing,obj>information,rec>person)	Direct	v	2(4)	27761
-present(icl>tense>abstract_thing,fld>lingustics)	Direct	n	1(3)	26698
+present(icl>tense>abstract_thing,fld>linguistics)	Direct	n	1(3)	26698
 presentation(icl>informing>thing)	Direct	n	3(2)	6425
 presentation(icl>show>thing)	Direct	n	1(4)	12155
 presenter(icl>benefactor>thing,equ>donor)	Direct	n	3(2)	16849
@@ -25409,8 +25409,8 @@ screw(icl>attach>do,cob>thing,agt>thing,obj>thing)	Direct	v	1(2)	4246
 screw(icl>fastener>thing)	Direct	n	1(5)	21802
 screw(icl>fastener>thing)	Direct	n	2(5)	9482
 screw_tree(icl>shrub>thing)	Direct	n	1(2)	22573
-screw_up(icl>mess_up>do,agt>lovitional_thing,obj>thing)	Direct	v	2(4)	11432
-screw_up(icl>mess_up>do,agt>lovitional_thing,obj>thing)	Direct	v	3(4)	15074
+screw_up(icl>mess_up>do,agt>volitional_thing,obj>thing)	Direct	v	2(4)	11432
+screw_up(icl>mess_up>do,agt>volitional_thing,obj>thing)	Direct	v	3(4)	15074
 screwdriver(icl>hand_tool>thing)	Direct	n	1(2)	9483
 scribe(icl>employee>thing,equ>copyist)	Direct	n	2(2)	26657
 script(icl>document>information,obj>thing)	Direct	n	1(2)	19892
@@ -27141,7 +27141,7 @@ square(icl>artifact>thing)	Hypernymy	n	2(2),3(2)	4653
 square(icl>hand_tool>thing)	Direct	n	3(2)	14286
 square(icl>how,equ>squarely)	Direct	adv	1(2)	4250
 square(icl>how,equ>squarely,com>square)	Direct	adv	1(2)	9664
-square(icl>make_straight>do,agt>thing,obj>ting)	Direct	v	1(2)	27574
+square(icl>make_straight>do,agt>thing,obj>thing)	Direct	v	1(2)	27574
 square(icl>multiply>do,agt>volitional_thing,obj>number)	Direct	v	1(2)	27617
 square(icl>number>thing)	Direct	n	1(5)	12490
 square(icl>rectangle>thing)	Direct	n	1(5)	12491
@@ -29472,8 +29472,8 @@ tide(icl>periodic_event>thing)	Direct	n	2(5)	28255
 tidy(icl>order>do,agt>thing,obj>thing)	Direct	v	3(2)	26673
 tidy_up(icl>order>do,equ>tidy,agt>thing,obj>thing)	Direct	v	3(2)	26673
 tie(icl>do,equ>connect,agt>thing,obj>thing)	Direct	v	1(4)	2563
-tie(icl>fasten>do,cob>concrete_thing,agt>person,obj>concrtet_thing,ins>concrete_thing)	Hypernymy	v	2(2),1(2)	39489
-tie(icl>fasten>do,cob>concrete_thing,agt>person,obj>concrtet_thing,ins>concrete_thing)	Direct	v	2(2)	5335
+tie(icl>fasten>do,cob>concrete_thing,agt>person,obj>concrete_thing,ins>concrete_thing)	Hypernymy	v	2(2),1(2)	39489
+tie(icl>fasten>do,cob>concrete_thing,agt>person,obj>concrete_thing,ins>concrete_thing)	Direct	v	2(2)	5335
 tie(icl>finish>thing,equ>draw)	Direct	n	2(2)	26652
 tie(icl>neckwear>thing,equ>necktie)	Direct	n	1(4)	11670
 tie(icl>officiate>do,equ>marry,agt>thing,obj>thing)	Direct	v	1(2)	39324
