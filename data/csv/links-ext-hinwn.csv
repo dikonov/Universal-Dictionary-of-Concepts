@@ -14364,7 +14364,7 @@ interoceptor(icl>sense_organ>thing)	Direct	n	1(2)	2097
 interpol(iof>international_law_enforcement_agency>thing)	Direct	n	1(4)	34575
 interpose(icl>interact>do,equ>intervene,agt>thing)	Direct	v	1(2)	38955
 interpret(icl>explain>do,equ>construe,cob>thing,agt>person,obj>thing,rec>thing)	Direct	v	2(2)	30707
-interpret(icl>translate>do,src>abstract_thing,agt>person,obj>thing,gol>abstract_thing)	Direct	v	1(4)	32624
+interpret(icl>translate>do,agt>person,obj>speech,src>language,gol>language)	Direct	v	1(4)	32624
 interpret(icl>understand>do,equ>understand,agt>thing,obj>thing)	Direct	v	1(4)	12221
 interracial(icl>adj)	Direct	a	1(2)	28168
 interrogate(icl>ask>do,agt>thing,obj>thing)	Direct	v	1(2)	17517
@@ -27182,7 +27182,7 @@ staff(icl>stick>functional_thing)	Hypernymy	n	1(2),2(2)	39167
 stag(icl>buck>thing)	Direct	n	3(4),1(4)	6672
 stage(icl>initiate>do,agt>thing,obj>thing)	Direct	v	1(2)	28600
 stage(icl>initiate>do,agt>thing,obj>thing)	Direct	v	2(4)	6228
-stage(icl>re-create>do,agt>thing,obj>thing)	Direct	v	3(2)	4717
+stage(icl>re-create>do,agt>volitional_thing,obj>thing)	Direct	v	3(2)	4717
 stage(icl>time_period>thing,equ>phase)	Direct	n	1(2)	37998
 staged(icl>adj,ant>unstaged)	Direct	a	1(2)	21843
 stagger(icl>gait>thing,equ>lurch)	Direct	n	1(4)	23394
@@ -29856,7 +29856,7 @@ transitive(icl>verb>thing,equ>transitive_verb)	Direct	n	1(4)	289
 transitive_verb(icl>verb>thing)	Direct	n	1(4)	289
 translatable(icl>adj,ant>untranslatable)	Direct	a	(4)	17709
 translatable(icl>adj,ant>untranslatable)	Direct	a	3(2)	21827
-translate(icl>do,com>language,cob>thing,src>thing,agt>person,obj>information,gol>thing)	Direct	v	1(5)	32624
+translate(icl>do,agt>person,obj>information,src>language,gol>language)	Direct	v	1(5)	32624
 translation(icl>change_of_integrity>thing,equ>transformation)	Direct	n	3(2),1(2),2(2)	11895
 translation(icl>change_of_integrity>thing,equ>transformation)	Direct	n	3(2),1(2),2(2)	11896
 translation(icl>written_record>thing)	Direct	n	1(5),2(4)	21795

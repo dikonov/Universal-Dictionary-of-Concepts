@@ -18961,7 +18961,7 @@
 [poner a parir]	{v}	"backbite(icl>complain>do,agt>volitional_thing,obj>thing)"	"SAY MEAN THINGS"	""	{v}	0,auto;
 [poner en escena]	{v}	"present(icl>stage>do,com>play,agt>thing,obj>thing)"	"TO PERFORM A PLAY"	"WE (AGT) ARE GOING TO PRESENT 'OTHELLO' (OBJ)"	{v}	0,auto;
 [poner en escena]	{v}	"represent(icl>re-create>do,equ>stage,agt>thing,obj>thing)"	"PERFORM (A PLAY), ESPECIALLY ON A STAGE"	"WE ARE GOING TO STAGE `OTHELLO'"	{v}	0,auto;
-[poner en escena]	{v}	"stage(icl>re-create>do,agt>thing,obj>thing)"	"PERFORM (A PLAY), ESPECIALLY ON A STAGE"	"WE ARE GOING TO STAGE `OTHELLO'"	{v}	0,auto;
+[poner en escena]	{v}	"stage(icl>re-create>do,agt>volitional_thing,obj>thing)"	"PERFORM (A PLAY), ESPECIALLY ON A STAGE"	"WE ARE GOING TO STAGE `OTHELLO'"	{v}	0,auto;
 [ponerse]	{v}	"become(icl>occur,obj>thing,gol>uw)"	"ENTER OR ASSUME A CERTAIN STATE OR CONDITION"	"HE (OBJ) BECAME ANNOYED (GOL)"	{v}	0,auto;
 [ponerse]	{v}	"get(icl>occur,equ>become,obj>thing,gol>uw)"	"ENTER OR ASSUME A CERTAIN STATE OR CONDITION"	"IT (OBJ) MUST BE GETTING MORE SERIOUS (GOL)"	{v}	0,auto;
 [ponerse]	{v}	"go(icl>occur,equ>become,obj>thing,gol>uw)"	"ENTER OR ASSUME A CERTAIN STATE OR CONDITION"	"HER FACE (OBJ) WENT RED (GOL) WITH ANGER"	{v}	0,auto;
