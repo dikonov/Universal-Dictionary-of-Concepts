@@ -2214,7 +2214,7 @@
 [apatía]	{n}	"stolidity(icl>apathy>thing,equ>emotionlessness)"	"APATHY DEMONSTRATED BY AN ABSENCE OF EMOTIONAL REACTIONS"	""	{n}	0,auto;
 [apático]	{a}	"apathetic(icl>adj)"	"MARKED BY A LACK OF INTEREST"	"AN APATHETIC AUDIENCE"	{a}	0,auto;
 [apático]	{a}	"listless(icl>adj)"	"LACKING ZEST OR VIVACITY"	"HE WAS LISTLESS AND BORED"	{a}	0,auto;
-[apelar]	{v}	"appeal(icl>challenge>do,agt>volitional_thing,obj>volitional_thing)"	"TAKE A COURT CASE TO A HIGHER COURT FOR REVIEW"	"HE WAS FOUND GUILTY BUT APPEALED IMMEDIATELY"	{v}	0,auto;
+[apelar]	{v}	"appeal(icl>challenge>do,agt>volitional_thing,rec>volitional_thing)"	"TAKE A COURT CASE TO A HIGHER COURT FOR REVIEW"	"HE WAS FOUND GUILTY BUT APPEALED IMMEDIATELY"	{v}	0,auto;
 [apéndice cecal]	{n}	"appendix(icl>process>thing)"	"A VESTIGIAL PROCESS THAT EXTENDS FROM THE LOWER END OF THE CECUM AND THAT RESEMBLES A SMALL POUCH"	""	{n}	0,auto;
 [apéndice]	{n}	"appendix(icl>process>thing)"	"A VESTIGIAL PROCESS THAT EXTENDS FROM THE LOWER END OF THE CECUM AND THAT RESEMBLES A SMALL POUCH"	""	{n}	0,auto;
 [apéndice]	{n}	"outgrowth(icl>body_part>thing,equ>process)"	"A NATURAL PROLONGATION OR PROJECTION FROM A PART OF AN ORGANISM EITHER ANIMAL OR PLANT"	"A BONY PROCESS"	{n}	0,auto;
@@ -12428,7 +12428,7 @@
 [expresivo]	{a}	"smooth-spoken(icl>adj,equ>eloquent)"	"EXPRESSING YOURSELF READILY, CLEARLY, EFFECTIVELY"	"ABLE TO DAZZLE WITH HIS FACILE TONGUE"	{a}	0,auto;
 [expreso]	{a}	"explicit(icl>adj,ant>implicit)"	"PRECISELY AND CLEARLY EXPRESSED OR READILY OBSERVABLE"	"EXPLICIT INSTRUCTIONS"	{a}	0,auto;
 [exprimir]	{v}	"draw(icl>take>do,equ>extract,src>thing,agt>thing,obj>thing)"	"PULL OUT OF A CONTAINER OR A SOURCE"	"SHE DRAWS WATER FROM THE WELL"	{v}	0,auto;
-[exprimir]	{v}	"extort(icl>overcharge>do,src>thing,agt>thing,obj>thing)"	"OBTAIN BY COERCION OR INTIMIDATION"	"THEY EXTORTED MONEY FROM THE EXECUTIVE BY THREATENING TO REVEAL HIS PAST TO THE COMPANY BOSS"	{v}	0,auto;
+[exprimir]	{v}	"extort(icl>take>do,src>thing,agt>thing,obj>thing)"	"OBTAIN BY COERCION OR INTIMIDATION"	"THEY EXTORTED MONEY FROM THE EXECUTIVE BY THREATENING TO REVEAL HIS PAST TO THE COMPANY BOSS"	{v}	0,auto;
 [exprimir]	{v}	"gouge(icl>overcharge>do,equ>extort,src>thing,agt>thing,obj>thing)"	"OBTAIN BY COERCION OR INTIMIDATION"	"THEY EXTORTED MONEY FROM THE EXECUTIVE BY THREATENING TO REVEAL HIS PAST TO THE COMPANY BOSS"	{v}	0,auto;
 [exprimir]	{v}	"rack(icl>overcharge>do,equ>extort,src>thing,agt>thing,obj>thing)"	"OBTAIN BY COERCION OR INTIMIDATION"	"THEY EXTORTED MONEY FROM THE EXECUTIVE BY THREATENING TO REVEAL HIS PAST TO THE COMPANY BOSS"	{v}	0,auto;
 [exprimir]	{v}	"squeeze(icl>extort>do,src>thing,agt>volitional_thing,obj>thing)"	"EXTRACT BY ALL POSSIBLE MEANS; EXTORT"	"TO SQUEEZE EVERY PENNY OUT OF THE TAXPAYER"	{v}	0,auto;
