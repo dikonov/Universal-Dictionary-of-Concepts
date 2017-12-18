@@ -4069,8 +4069,7 @@
 [billetera]	{n}	"notecase(icl>case>thing,equ>wallet)"	"A POCKET-SIZE CASE FOR HOLDING PAPERS AND PAPER MONEY"	""	{n}	0,auto;
 [billetero]	{n}	"notecase(icl>case>thing,equ>wallet)"	"A POCKET-SIZE CASE FOR HOLDING PAPERS AND PAPER MONEY"	""	{n}	0,auto;
 [bimba]	{n}	"topper(icl>hat>thing,equ>dress_hat)"	"A MAN'S HAT WITH A TALL CROWN"	"USUALLY COVERED WITH SILK OR WITH BEAVER FUR"	{n}	0,auto;
-[binario]	{a}	"double(icl>adj)"	"CONSISTING OF OR INVOLVING TWO PARTS OR COMPONENTS USUALLY IN PAIRS"	"AN EGG WITH A DOUBLE YOLK"	{a}	0,auto;
-[binario]	{a}	"duple(icl>adj,equ>double)"	"CONSISTING OF OR INVOLVING TWO PARTS OR COMPONENTS USUALLY IN PAIRS"	"DUPLE (OR DOUBLE) TIME CONSISTS OF TWO (OR A MULTIPLE OF TWO) BEATS TO A MEASURE"	{a}	0,auto;
+[binario]	{a}	"double(icl>adj,com>parts)"	"HAVING TWO UNITS OR COMPONENTS"	"AN EGG WITH A DOUBLE YOLK"	{a}	0,auto;
 [birlar]	{v}	"abstract(icl>steal>do,equ>pilfer,agt>thing,obj>thing)"	"MAKE OFF WITH BELONGINGS OF OTHERS"	""	{v}	0,auto;
 [birlar]	{v}	"cabbage(icl>steal>do,equ>pilfer,agt>thing,obj>thing)"	"MAKE OFF WITH BELONGINGS OF OTHERS"	""	{v}	0,auto;
 [birlar]	{v}	"filch(icl>steal>do,equ>pilfer,plf>thing,agt>volitional_thing,obj>thing)"	"MAKE OFF WITH BELONGINGS OF OTHERS"	""	{v}	0,auto;
@@ -10159,8 +10158,7 @@
 [doblar]	{v}	"turn(icl>travel>do,agt>thing,obj>thing)"	"PASS TO THE OTHER SIDE OF"	"TURN THE CORNER (OBJ)"	{v}	0,auto;
 [doblar]	{v}	"turn_up(icl>change_surface>do,equ>fold,agt>thing,obj>thing)"	"BEND OR LAY SO THAT ONE PART COVERS THE OTHER"	"TURN UP YOUR COLLAR"	{v}	0,auto;
 [doblar]	{v}	"twist(icl>change_shape>occur,equ>flex,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	0,auto;
-[doble]	{a}	"double(icl>adj)"	"CONSISTING OF OR INVOLVING TWO PARTS OR COMPONENTS USUALLY IN PAIRS"	"AN EGG WITH A DOUBLE YOLK"	{a}	0,auto;
-[doble]	{a}	"duple(icl>adj,equ>double)"	"CONSISTING OF OR INVOLVING TWO PARTS OR COMPONENTS USUALLY IN PAIRS"	"DUPLE (OR DOUBLE) TIME CONSISTS OF TWO (OR A MULTIPLE OF TWO) BEATS TO A MEASURE"	{a}	0,auto;
+[doble]	{a}	"double(icl>adj,com>parts)"	"HAVING TWO UNITS OR COMPONENTS"	"AN EGG WITH A DOUBLE YOLK"	{a}	0,auto;
 [doble]	{n}	"double(icl>person>thing)"	"SOMEONE WHO CLOSELY RESEMBLES A FAMOUS PERSON (ESPECIALLY AN ACTOR)"	"HE COULD BE GINGRICH'S DOUBLE"	{n}	0,auto;
 [doble]	{n}	"image(icl>person,equ>double)"	"SOMEONE WHO CLOSELY RESEMBLES A FAMOUS PERSON (ESPECIALLY AN ACTOR)"	"SHE'S THE VERY IMAGE OF HER MOTHER"	{n}	0,auto;
 [doble]	{n}	"knell(icl>bell>thing)"	"THE SOUND OF A BELL RUNG SLOWLY TO ANNOUNCE A DEATH OR A FUNERAL OR THE END OF SOMETHING"	""	{n}	0,auto;
@@ -21314,9 +21312,7 @@
 [terminar]	{v}	"stop(icl>occur,ant>continue,obj>thing)"	"HAVE AN END, IN A TEMPORAL, SPATIAL, OR QUANTITATIVE SENSE"	"BY MIDDAY THE RAIN (OBJ) HAD STOPPED"	{v}	0,auto;
 [terminar]	{v}	"terminate(icl>end>occur,obj>thing,gol>thing)"	"HAVE AN END, IN A TEMPORAL, SPATIAL, OR QUANTITATIVE SENSE"	"THERE HAS BEEN A SECOND BATTLE IN SPAIN, WHICH TERMINATED IN FAVOUR OF KING CHARLES"	{v}	0,auto;
 [ternario]	{a}	"ternary(icl>adj)"	"HAVING THREE UNITS OR COMPONENTS OR ELEMENTS"	"A TERNARY OPERATION"	{a}	0,auto;
-[ternario]	{a}	"treble(icl>adj,equ>ternary)"	"HAVING THREE UNITS OR COMPONENTS OR ELEMENTS"	"A TREBLE ROW OF RED BEADS"	{a}	0,auto;
-[ternario]	{a}	"triple(icl>adj,equ>ternary)"	"HAVING THREE UNITS OR COMPONENTS OR ELEMENTS"	"OVERCROWDING MADE TRIPLE SESSIONS NECESSARY"	{a}	0,auto;
-[ternario]	{a}	"triplex(icl>adj,equ>ternary)"	"HAVING THREE UNITS OR COMPONENTS OR ELEMENTS"	"TRIPLEX WINDOWS"	{a}	0,auto;
+[ternario]	{a}	"triple(icl>adj,com>parts)"	"HAVING THREE UNITS OR COMPONENTS"	"TRIPLE ROW OF RED BEADS, OVERCROWDING MADE TRIPLE SESSIONS NECESSARY"	{a}	0,auto;
 [terquedad]	{n}	"stubbornness(icl>intractability>thing)"	"THE TRAIT OF BEING DIFFICULT TO HANDLE OR OVERCOME"	""	{n}	0,auto;
 [terreno]	{n}	"demesne(icl>real_property>thing,equ>estate)"	"EXTENSIVE LANDED PROPERTY (ESPECIALLY IN THE COUNTRY) RETAINED BY THE OWNER FOR HIS OWN USE"	"THE FAMILY OWNED A LARGE ESTATE ON LONG ISLAND"	{n}	0,auto;
 [terreno]	{n}	"field(icl>environment>thing,equ>sphere)"	"A PARTICULAR ENVIRONMENT OR WALK OF LIFE"	"HIS SOCIAL SPHERE IS LIMITED"	{n}	0,auto;
@@ -21604,13 +21600,10 @@
 [trifulca]	{n}	"encounter(icl>fight>thing,equ>brush)"	"A MINOR SHORT-TERM FIGHT"	""	{n}	0,auto;
 [trifulca]	{n}	"skirmish(icl>fight>thing,equ>brush)"	"A MINOR SHORT-TERM FIGHT"	""	{n}	0,auto;
 [triple]	{a}	"threefold(icl>adj,equ>treble)"	"THREE TIMES AS GREAT OR MANY"	"A THREEFOLD INCREASE"	{a}	0,auto;
-[triple]	{a}	"treble(icl>adj)"	"THREE TIMES AS GREAT OR MANY"	"A CLAIM FOR TREBLE (OR TRIPLE) DAMAGES"	{a}	0,auto;
 [triple]	{a}	"triple(icl>adj,equ>treble)"	"THREE TIMES AS GREAT OR MANY"	"A CLAIM FOR TREBLE (OR TRIPLE) DAMAGES"	{a}	0,auto;
 [triplicado]	{a}	"threefold(icl>adj,equ>treble)"	"THREE TIMES AS GREAT OR MANY"	"A THREEFOLD INCREASE"	{a}	0,auto;
-[triplicado]	{a}	"treble(icl>adj)"	"THREE TIMES AS GREAT OR MANY"	"A CLAIM FOR TREBLE (OR TRIPLE) DAMAGES"	{a}	0,auto;
 [triplicado]	{a}	"triple(icl>adj,equ>treble)"	"THREE TIMES AS GREAT OR MANY"	"A CLAIM FOR TREBLE (OR TRIPLE) DAMAGES"	{a}	0,auto;
 [triplo]	{a}	"threefold(icl>adj,equ>treble)"	"THREE TIMES AS GREAT OR MANY"	"A THREEFOLD INCREASE"	{a}	0,auto;
-[triplo]	{a}	"treble(icl>adj)"	"THREE TIMES AS GREAT OR MANY"	"A CLAIM FOR TREBLE (OR TRIPLE) DAMAGES"	{a}	0,auto;
 [triplo]	{a}	"triple(icl>adj,equ>treble)"	"THREE TIMES AS GREAT OR MANY"	"A CLAIM FOR TREBLE (OR TRIPLE) DAMAGES"	{a}	0,auto;
 [trisca]	{n}	"din(icl>disturbance>thing,equ>commotion)"	"THE ACT OF MAKING A NOISY DISTURBANCE"	""	{n}	0,auto;
 [trisca]	{n}	"ruction(icl>disturbance>thing,equ>commotion)"	"THE ACT OF MAKING A NOISY DISTURBANCE"	""	{n}	0,auto;

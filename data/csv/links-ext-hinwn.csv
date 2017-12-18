@@ -8773,7 +8773,7 @@ dorsum(icl>body_part>thing)	Direct	n	2(2)	31738
 dose(icl>medicine>thing)	Direct	n	2(5),2(5)	7586
 dot(icl>discharge>do,equ>scatter,agt>thing,obj>thing)	Direct	v	2(2)	5345
 dotted(icl>adj)	Direct	a	1(2)	23679
-double(icl>adj)	Direct	a	1(2)	9124
+double(icl>adj,com>parts)	Direct	a	1(2)	9124
 double(icl>bend>do,equ>double_over,rsn>thing,agt>living_thing)	Direct	v	3(2)	36013
 double(icl>how,equ>doubly,com>double)	Direct	adv	1(2)	22928
 double(icl>multiple>thing)	Direct	n	4(2)	19069
@@ -8984,7 +8984,6 @@ duo(icl>two>thing,equ>couple)	Direct	n	3(2),3(2),3(2),3(2)	11399
 duo(icl>two>thing,equ>couple)	Direct	n	10(4),10(4),10(4),10(4)	5642
 dupe(icl>person>thing,equ>victim)	Direct	n	2(2)	13967
 dupe(icl>person>thing,equ>victim)	Hypernymy	n	1(2),2(2)	32321
-duple(icl>adj,equ>double)	Direct	a	3(3),3(3)	9124
 duplex(icl>apartment>thing,equ>duplex_apartment)	Direct	n	3(2)	1503
 duplicator(icl>apparatus>thing)	Direct	n	2(2)	8111
 durability(icl>permanence>thing,equ>lastingness)	Direct	n	1(4)	18498
@@ -11469,8 +11468,7 @@ four-sided(icl>adj,equ>quadrilateral)	Direct	a	2(2)	5301
 four-spot(icl>spot>thing)	Direct	n	1(2)	14501
 four-wheeled(icl>adj,equ>four-wheel,com>wheel)	Direct	a	2(4),2(4)	26833
 four-wheeler(icl>hackney>thing)	Direct	n	3(2)	26834
-four_times(icl>how,equ>fourfold,com>fourfold)	Direct	adv	2(2),3(2)	22932
-fourfold(icl>how,com>fourfold)	Direct	adv	1(2)	22932
+fourfold(icl>how)	Direct	adv	1(2)	22932
 fourteenth(icl>adj)	Direct	a	3(2)	13726
 fourteenth(icl>rank>thing)	Direct	n	2(2)	38498
 fourth(icl>adj)	Direct	a	1(3)	8736
@@ -19371,8 +19369,7 @@ nimbleness(icl>gracefulness>thing,equ>agility)	Direct	n	6(2)	3796
 nimbus(icl>cloud>thing)	Direct	n	1(2)	1030
 nimbus(icl>light>thing,equ>aura)	Direct	n	1(4)	119
 nine(icl>quantity)	Direct	n	2(2)	13720
-nine_times(icl>how,equ>ninefold)	Direct	adv	2(2)	22940
-ninefold(icl>adj,equ>nonuple)	Direct	a	2(2),2(2)	19067
+ninefold(icl>adj,com>parts)	Direct	a	2(2),2(2)	19067
 ninefold(icl>how)	Direct	adv	2(2)	22940
 nineteenth(icl>rank>thing)	Direct	n	3(2)	38503
 ninetieth(icl>adj)	Direct	a	2(2)	15786
@@ -22812,7 +22809,6 @@ quadrilateral(icl>adj)	Direct	a	1(4)	5301
 quadrillion(icl>large_integer>thing)	Direct	n	3(2)	15844
 quadrillionth(icl>adj)	Direct	a	3(2)	15843
 quadruped(icl>tetrapod>thing)	Direct	n	2(4)	5307
-quadruple(icl>adj)	Direct	a	1(3)	8778
 quail(icl>phasianid>thing)	Direct	n	3(2)	2207
 quail(icl>wildfowl>thing)	Direct	n	3(2)	29546
 quake(icl>geological_phenomenon>thing,equ>earthquake)	Direct	n	5(4),2(4),3(4)	7433
@@ -25694,7 +25690,6 @@ separateness(icl>separation>thing,equ>discreteness)	Direct	n	1(2)	12886
 separation(icl>change_of_integrity>thing)	Direct	n	1(2)	16124
 september(icl>gregorian_calendar_month>thing)	Direct	n	1(6)	11069
 septic(icl>adj,ant>antiseptic)	Direct	a	2(2)	38448
-septuple(icl>adj)	Direct	a	2(2)	19059
 sepulture(icl>funeral>thing,equ>burial)	Direct	n	2(2)	23991
 sequence(icl>temporal_arrangement>thing)	Direct	n	6(4),1(7),2(4)	5972
 sequent(icl>adj,equ>consecutive)	Direct	a	1(4)	13547
@@ -25808,7 +25803,7 @@ settler(icl>migrant>thing)	Direct	n	1(2)	15603
 settlings(icl>sediment>thing,equ>dregs)	Direct	n	5(2)	7737
 seven(icl>quantity)	Direct	n	1(3),1(3)	13714
 seven-spot(icl>spot>thing)	Direct	n	1(2)	14503
-sevenfold(icl>adj,equ>septuple)	Direct	a	2(2),2(2)	19059
+sevenfold(icl>adj,com>parts)	Direct	a	2(2),2(2)	19059
 seventh(icl>rank>thing)	Direct	n	2(2)	38490
 severalize(icl>identify>do,equ>distinguish,agt>thing,obj>thing)	Direct	v	1(2),1(2)	28130
 severely(icl>how,equ>badly,com>severe)	Direct	adv	1(2)	17945
@@ -25829,7 +25824,6 @@ sex_cell(icl>cell>thing,equ>reproductive_cell)	Direct	n	1(2)	555
 sex_organ(icl>organ>thing,equ>reproductive_organ)	Direct	n	2(2)	1886
 sexless(icl>adj,equ>neuter)	Direct	a	1(2)	31198
 sexlessness(icl>physiological_property>thing,equ>asexuality)	Direct	n	1(2)	31201
-sextuple(icl>adj)	Direct	a	3(2)	19065
 sexual(icl>adj,com>sex)	Direct	a	1(6)	15574
 sexual(icl>adj,com>sex)	Direct	a	4(6)	15575
 seychelles(iof>country>thing)	Direct	n	3(2),3(2)	20301
@@ -26249,8 +26243,7 @@ siva(iof>hindu_deity>thing)	Direct	n	(2),(2)	2061
 six(icl>quantity)	Direct	a	2(4)	13712
 six-sided(icl>adj)	Direct	a	1(2)	25466
 six-spot(icl>spot>thing)	Direct	n	1(2)	12213
-six_times(icl>how,equ>sixfold)	Direct	adv	(2),3(2)	22937
-sixfold(icl>adj,equ>sextuple)	Direct	a	(3),(3)	19065
+sixfold(icl>adj,com>parts)	Direct	a	(3),(3)	19065
 sixfold(icl>how)	Direct	adv	(2),3(2)	22937
 sixteenth(icl>rank>thing)	Direct	n	2(2)	38500
 sixth(icl>adj)	Direct	a	3(4)	13713
@@ -28605,7 +28598,7 @@ tender(icl>offer>thing,equ>bid)	Hypernymy	n	1(2),2(2),3(2)	35744
 tenderness(icl>feeling>thing,equ>affection)	Direct	n	2(2)	121
 tenderness(icl>feeling>thing,equ>affection)	Hypernymy	n	1(2)	2554
 tendon(icl>connective_tissue>thing)	Direct	n	3(4)	18907
-tenfold(icl>adj)	Direct	a	3(3),3(3)	19068
+tenfold(icl>adj,com>parts)	Direct	a	3(3),3(3)	19068
 tenfold(icl>how)	Direct	adv	3(2),1(2)	22941
 tenge(icl>kazakhstani_monetary_unit>thing)	Direct	n	1(2)	20935
 tenge(icl>turkmen_monetary_unit>thing)	Direct	n	1(2)	20958
@@ -29400,7 +29393,6 @@ three(icl>quantity)	Direct	n	1(3),1(3),1(3)	13707
 three-dimensional(icl>adj,equ>cubic,ant>linear)	Direct	a	1(4),5(4)	28629
 three-sided(icl>adj,equ>trilateral)	Direct	a	3(2)	12636
 three-wheeled(icl>adj,equ>three-wheel,com>wheel)	Direct	a	1(4),1(4)	26831
-three_times(icl>how,equ>threefold)	Direct	adv	1(2)	22931
 threefold(icl>adj,equ>treble)	Direct	a	1(5),1(5),(4)	19060
 threefold(icl>how)	Direct	adv	(4)	22931
 threshing(icl>separation>thing)	Direct	n	1(2)	1889
@@ -29924,7 +29916,6 @@ treatment(icl>care>thing)	Hypernymy	n	1(2),2(2),3(2)	26947
 treatment(icl>care>thing)	Hypernymy	n	2(2),4(2)	36000
 treatment(icl>care>thing)	Direct	n	1(4),2(4),4(4)	732
 treaty(icl>written_agreement>thing)	Direct	n	2(4)	32471
-treble(icl>adj)	Direct	a	1(5)	19060
 tree(icl>woody_plant>thing)	Hypernymy	n	1(2),2(2),3(2)	11062
 tree(icl>woody_plant>thing)	Hypernymy	n	1(2),2(2),3(2)	1185
 tree(icl>woody_plant>thing)	Hypernymy	n	2(2),1(2),3(2)	11913

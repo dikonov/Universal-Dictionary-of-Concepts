@@ -3157,7 +3157,7 @@
 [gấp]	{a}	"urgent(icl>adj,equ>pressing)"	"COMPELLING IMMEDIATE ACTION"	"THE URGENT WORDS `HURRY! HURRY!'"	{a}	2,auto-polysemic-3lang;
 [gập ghềnh]	{a}	"bumpy(icl>adj)"	"COVERED WITH OR FULL OF BUMPS"	"A BUMPY COUNTRY ROAD"	{a}	2,auto-polysemic-3lang;
 [gập ghềnh]	{a}	"jolty(icl>adj,equ>rough,ant>smooth)"	"CAUSING OR CHARACTERIZED BY JOLTS AND IRREGULAR MOVEMENTS"	"A ROUGH RIDE"	{a}	2,auto-polysemic-3lang;
-[gấp năm lần]	{a}	"fivefold(icl>adj,equ>quintuple)"	"HAVING FIVE UNITS OR COMPONENTS"	""	{a}	2,auto-polysemic-3lang;
+[gấp năm lần]	{a}	"fivefold(icl>adj,com>parts)"	"HAVING FIVE UNITS OR COMPONENTS"	""	{a}	2,auto-polysemic-3lang;
 [gấp rút]	{a}	"urgent(icl>adj,equ>pressing)"	"COMPELLING IMMEDIATE ACTION"	"THE URGENT WORDS `HURRY! HURRY!'"	{a}	2,auto-polysemic-3lang;
 [gặp]	{v}	"find(icl>consider>do,equ>decide,cob>thing,agt>thing,obj>thing)"	"MAKE A PERSONAL JUDGEMENT ABOUT"	"I (AGT) FOUND THE MOVIE (OBJ) ENTERTAINING (COB)"	{v}	2,auto-polysemic-3lang;
 [gặp]	{v}	"find(icl>do,equ>self-actualize,agt>person,obj>person,scn>thing)"	"ACCEPT AND MAKE USE OF ONE'S PERSONALITY, ABILITIES, AND SITUATION"	"MY SON WENT TO BERKELEY TO FIND HIMSELF (OBJ)"	{v}	2,auto-polysemic-3lang;
@@ -6814,7 +6814,7 @@
 [phổ]	{n}	"spectrum(icl>array>thing)"	"AN ORDERED ARRAY OF THE COMPONENTS OF AN EMISSION OR WAVE"	""	{n}	2,auto-polysemic-3lang;
 [phổ]	{n}	"spectrum(icl>scope>thing)"	"BROAD RANGE OF RELATED VALUES OR QUALITIES OR IDEAS OR ACTIVITIES"	""	{n}	2,auto-polysemic-3lang;
 [phụ]	{a}	"auxiliary(icl>adj,equ>accessory)"	"FURNISHING ADDED SUPPORT"	"THE MIND AND EMOTIONS ARE AUXILIARY TO EACH OTHER"	{a}	2,auto-polysemic-3lang;
-[phụ]	{a}	"secondary(icl>adj,equ>incidental)"	"NOT OF MAJOR IMPORTANCE"	"THIS ISSUE IS SECONDARY COMPARED TO OUR SURVIVAL"	{a}	2,auto-polysemic-3lang;
+[phụ]	{a}	"secondary(icl>adj,equ>incidental)"	"OF SECOND RANK OR IMPORTANCE OR VALUE"	"THIS IS A SECONDARY ISSUE COMPARED TO OUR SURVIVAL"	{a}	2,auto-polysemic-3lang;
 [phúc bồn tử]	{n}	"currant(icl>shrub>thing)"	"ANY OF VARIOUS DECIDUOUS SHRUBS OF THE GENUS RIBES BEARING CURRANTS"	""	{n}	1,auto-monosemic-1lang;
 [phục hồi]	{v}	"reinstate(icl>change>do,equ>restore,agt>thing,obj>thing)"	"BRING BACK INTO ORIGINAL EXISTENCE, USE, FUNCTION, OR POSITION"	"RESTORE LAW AND ORDER"	{v}	2,auto-polysemic-3lang;
 [phục hồi]	{v}	"restore(icl>change>do,agt>thing,obj>thing)"	"BRING BACK INTO ORIGINAL EXISTENCE, USE, FUNCTION, OR POSITION"	"RESTORE LAW AND ORDER"	{v}	2,auto-polysemic-3lang;
@@ -8670,7 +8670,7 @@
 [thuyết quyết định]	{n}	"determinism(icl>philosophical_doctrine>thing)"	"(PHILOSOPHY) A PHILOSOPHICAL THEORY HOLDING THAT ALL EVENTS ARE INEVITABLE CONSEQUENCES OF ANTECEDENT SUFFICIENT CAUSES"	"OFTEN UNDERSTOOD AS DENYING THE POSSIBILITY OF FREE WILL"	{n}	2,auto-monosemic-2lang;
 [thuyết thông linh]	{n}	"spiritism(icl>inwardness>thing,equ>spirituality)"	"CONCERN WITH THINGS OF THE SPIRIT"	""	{n}	2,auto-monosemic-2lang;
 [thuyết tương đối]	{n}	"relativism(icl>philosophical_doctrine>thing)"	"(PHILOSOPHY) THE PHILOSOPHICAL DOCTRINE THAT ALL CRITERIA OF JUDGMENT ARE RELATIVE TO THE INDIVIDUALS AND SITUATIONS INVOLVED"	""	{n}	2,auto-monosemic-2lang;
-[thứ yếu]	{a}	"secondary(icl>adj,equ>incidental)"	"NOT OF MAJOR IMPORTANCE"	"THIS ISSUE IS SECONDARY COMPARED TO OUR SURVIVAL"	{a}	2,auto-polysemic-3lang;
+[thứ yếu]	{a}	"secondary(icl>adj,equ>incidental)"	"OF SECOND RANK OR IMPORTANCE OR VALUE"	"THIS IS A SECONDARY ISSUE COMPARED TO OUR SURVIVAL"	{a}	2,auto-polysemic-3lang;
 [thủy quyển]	{n}	"hydrosphere(icl>layer>thing)"	"THE WATERY LAYER OF THE EARTH'S SURFACE"	"INCLUDES WATER VAPOR"	{n}	2,auto-monosemic-2lang;
 [thuỵ sĩ]	{a}	"swiss(icl>adj,com>switzerland)"	"OF OR RELATING TO SWITZERLAND OR ITS PEOPLE OR CULTURE"	"THE SWISS ARMY"	{a}	2,auto-monosemic-2lang;
 [thụy sĩ]	{a}	"swiss(icl>adj,com>switzerland)"	"OF OR RELATING TO SWITZERLAND OR ITS PEOPLE OR CULTURE"	"THE SWISS ARMY"	{a}	2,auto-polysemic-3lang;
