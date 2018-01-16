@@ -10732,7 +10732,7 @@
 [emplear]	{v}	"apply(icl>use>do,cob>uw,agt>volitional_thing,obj>thing)"	"PUT INTO SERVICE"	"TO APPLY KNOWLEDGE (OBJ) TO THE PROCESS (COB)"	{v}	0,auto;
 [emplear]	{v}	"employ(icl>do,equ>use,agt>volitional_thing,obj>thing,pur>uw)"	"PUT INTO SERVICE"	"TO EMPLOY A PEN (OBJ) FOR SKETCHING (PUR)"	{v}	0,auto;
 [emplear]	{v}	"utilize(icl>do,agt>thing,obj>thing,pur>uw)"	"TO MAKE USE OF"	"TO UTILIZE TECHNOLOGY FOR INCREASED EFFICIENCY"	{v}	0,auto;
-[empleo]	{n}	"employment(icl>action,com>job,agt>person,obj>person)"	""	"MEXICAN LAW PROHIBITS THE EMPLOYMENT OF CHILDREN (OBJ) UNDER 14"	{n}	0,auto;
+[empleo]	{n}	"employment(icl>state>thing,ant>unemployment)"	""	"MEXICAN LAW PROHIBITS THE EMPLOYMENT OF CHILDREN (OBJ) UNDER 14"	{n}	0,auto;
 [empleo]	{n}	"employment(icl>use>action,agt>person,obj>thing)"	""	"EMPLOYMENT OF MODERN MACHINERY (OBJ)"	{n}	0,auto;
 [empleo]	{n}	"exercise(icl>activity>thing,equ>use)"	"THE ACT OF USING"	"HE WARNED AGAINST THE USE OF NARCOTIC DRUGS"	{n}	0,auto;
 [empleo]	{n}	"usage(icl>activity>thing,equ>use)"	"THE ACT OF USING"	"HE WARNED AGAINST THE USE OF NARCOTIC DRUGS"	{n}	0,auto;

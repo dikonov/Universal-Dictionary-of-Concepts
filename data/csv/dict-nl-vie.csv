@@ -5133,7 +5133,7 @@
 [mang]	{v}	"carry(icl>do,plt>thing,plf>thing,agt>thing,obj>concrete_thing,opl>thing)"	"MOVE WHILE HOLDING IN ONE'S ARMS OR ON THE BACK"	"ANGELA (AGT) CARRIED THE BABY (OBJ) OUT OF THE ROOM (PLF)"	{v}	2,auto-polysemic-3lang;
 [mạng]	{v}	"darn(icl>repair>do,agt>thing,obj>thing)"	"REPAIR BY SEWING"	"DARN SOCKS"	{v}	2,auto-polysemic-3lang;
 [mang]	{v}	"wear(icl>be_dress_in>be,obj>concrete_thing,aoj>person)"	""	"ARE YOU GOING TO WEAR JEANS OR A DRESS?"	{v}	2,auto-polysemic-3lang;
-[mang]	{v}	"wear(icl>have>do,agt>person,obj>abstract_thing)"	""	"TO WEAR HER IN HIS HEART"	{v}	2,auto-polysemic-3lang;
+[mang]	{v}	"wear(icl>have>do,agt>person,obj>abstract_thing)"	"Put clothing on one's body"	"What should I wear today?"	{v}	2,auto-polysemic-3lang;
 [màng xương]	{n}	"periosteum(icl>membrane>thing)"	"A DENSE FIBROUS MEMBRANE COVERING THE SURFACE OF BONES (EXCEPT AT THEIR EXTREMITIES) AND SERVING AS AN ATTACHMENT FOR TENDONS AND MUSCLES"	"CONTAINS NERVES AND BLOOD VESSELS THAT NOURISH THE ENCLOSED BONE"	{n}	2,auto-monosemic-2lang;
 [mạnh]	{a}	"intensive(icl>adj)"	"CHARACTERIZED BY A HIGH DEGREE OR INTENSITY"	"THE QUESTIONING WAS INTENSIVE"	{a}	2,auto-polysemic-3lang;
 [mạnh]	{a}	"robust(icl>adj,ant>frail)"	"PHYSICALLY STRONG"	""	{a}	2,auto-polysemic-3lang;
