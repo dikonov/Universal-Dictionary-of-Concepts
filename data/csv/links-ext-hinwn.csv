@@ -27670,7 +27670,7 @@ student(icl>university_student>person,obj>knowledge_domain)	Hypernymy	n	1(4)	165
 student(icl>university_student>person,obj>knowledge_domain)	Direct	n	1(4),2(5)	1794
 study(icl>action,agt>thing,obj>thing)	Hypernymy	n	1(4)	15860
 study(icl>action,agt>thing,obj>thing)	Direct	n	1(4)	2890
-study(icl>do,agt>thing)	Direct	v	1(2)	24038
+study(icl>be,aoj>person,plc>educational_institution)	Direct	v	1(2)	24038
 study(icl>document>information,obj>thing)	Direct	n	2(2)	12010
 study(icl>learn>do,agt>thing)	Direct	v	2(2)	11727
 study(icl>room>thing)	Direct	n	3(2),2(2),1(2)	8742

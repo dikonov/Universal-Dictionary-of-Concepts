@@ -3272,7 +3272,7 @@
 [atenuar]	{v}	"subside(icl>weaken>occur,obj>thing)"	"WEAR OFF OR DIE DOWN"	"THE PAIN SUBSIDED"	{v}	0,auto;
 [atesarse]	{v}	"firm(icl>tighten>occur,equ>tauten,obj>thing)"	"BECOME TAUT OR TAUTER"	"YOUR MUSCLES WILL FIRM WHEN YOU EXERCISE REGULARLY"	{v}	0,auto;
 [atesarse]	{v}	"tauten(icl>tighten>occur,obj>thing)"	"BECOME TAUT OR TAUTER"	"YOUR MUSCLES WILL FIRM WHEN YOU EXERCISE REGULARLY"	{v}	0,auto;
-[atesar]	{v}	"tense(icl>change>do,agt>thing,obj>thing)"	"INCREASE THE TENSION ON"	"ALTERNATELY RELAX AND TENSE YOUR CALF MUSCLE"	{v}	0,auto;
+[atesar]	{v}	"tense(icl>change>do,agt>thing,obj>thing)"	"Increase the tension on"	"Tense the rope manually before tensing the spring"	{v}	0,auto;
 [atesorar]	{v}	"appreciate(icl>value>be,rsn>thing,obj>thing,aoj>person)"	"HOLD DEAR"	"SAM AND SUE APPRECIATE THE MOVIE"	{v}	0,auto;
 [atesorar]	{v}	"lay_in(icl>keep>do,equ>store,agt>volitional_thing,obj>thing)"	"KEEP OR LAY ASIDE FOR FUTURE USE"	"STORE GRAIN FOR THE WINTER"	{v}	0,auto;
 [atesorar]	{v}	"put_in(icl>keep>do,equ>store,agt>thing,obj>thing)"	"KEEP OR LAY ASIDE FOR FUTURE USE"	"STORE GRAIN FOR THE WINTER"	{v}	0,auto;
@@ -21276,7 +21276,7 @@
 [teñir]	{v}	"tincture(icl>fill>do,equ>impregnate,cob>thing,agt>thing,obj>thing)"	"FILL, AS WITH A CERTAIN QUALITY"	"THE HEAVY TRAFFIC TINCTURES THE AIR WITH CARBON MONOXIDE"	{v}	0,auto;
 [tensar]	{v}	"strain(icl>cause_difficulties>do,agt>thing,obj>abstract_thing)"	"CAUSE TO BE TENSE AND UNEASY OR NERVOUS OR ANXIOUS"	"THE INCIDENT HAS STRAINED RELATIONS BETWEEN THE TWO COUNTRIES"	{v}	0,auto;
 [tensar]	{v}	"tense(icl>affect>do,agt>thing,obj>thing)"	"CAUSE TO BE TENSE AND UNEASY OR NERVOUS OR ANXIOUS"	"HE GOT A PHONE CALL FROM HIS LAWYER THAT TENSED HIM UP"	{v}	0,auto;
-[tensar]	{v}	"tense(icl>change>do,agt>thing,obj>thing)"	"INCREASE THE TENSION ON"	"ALTERNATELY RELAX AND TENSE YOUR CALF MUSCLE"	{v}	0,auto;
+[tensar]	{v}	"tense(icl>change>do,agt>thing,obj>thing)"	"Increase the tension on"	"Tense the rope manually before tensing the spring"	{v}	0,auto;
 [tensar]	{v}	"tense_up(icl>affect>do,equ>tense,agt>thing,obj>thing)"	"CAUSE TO BE TENSE AND UNEASY OR NERVOUS OR ANXIOUS"	"HE GOT A PHONE CALL FROM HIS LAWYER THAT TENSED HIM UP"	{v}	0,auto;
 [tensión]	{n}	"strain(icl>difficulty>thing,equ>stress)"	"DIFFICULTY THAT CAUSES WORRY OR EMOTIONAL TENSION"	"SHE ENDURED THE STRESSES AND STRAINS OF LIFE"	{n}	0,auto;
 [tensión]	{n}	"stress(icl>abstract_thing,equ>strain,obj>thing)"	"DIFFICULTY THAT CAUSES WORRY OR EMOTIONAL TENSION"	"WE PUT A LOT OF STRESS UPON OURSELVES"	{n}	0,auto;
