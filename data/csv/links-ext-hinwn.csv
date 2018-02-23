@@ -12455,7 +12455,7 @@ groomsman(icl>attendant>thing)	Direct	n	1(2)	34229
 grosz(icl>polish_monetary_unit>thing)	Direct	n	2(2)	19654
 ground(icl>fasten>do,equ>anchor,agt>thing,obj>thing)	Direct	v	2(2)	27858
 ground(icl>foundation>thing,equ>footing)	Direct	n	1(4)	28115
-ground(icl>object>thing,equ>land)	Direct	n	2(4),1(4)	475
+ground(icl>material>thing,equ>soil)	Direct	n	2(4),1(4)	475
 groundless(icl>adj,equ>baseless)	Direct	a	5(2)	789
 groundwork(icl>assumption>thing,equ>basis)	Direct	n	1(4)	12343
 groundwork(icl>assumption>thing,equ>basis)	Direct	n	4(4),2(4)	13348
@@ -26562,7 +26562,7 @@ soggy(icl>adj,equ>boggy)	Direct	a	1(2)	22920
 soil(icl>change>do,equ>dirty,cob>thing,agt>thing,obj>concrete_thing)	Direct	v	2(2)	8670
 soil(icl>earth>thing)	Hypernymy	n	2(2),1(2)	39075
 soil(icl>geographical_area>thing,equ>territory)	Direct	n	2(4)	28383
-soil(icl>object>thing,equ>land)	Direct	n	2(4),1(7)	475
+soil(icl>material>thing)	Direct	n	2(4),1(7)	475
 sol(icl>solfa_syllable>thing)	Direct	n	2(2),2(2),2(2)	27018
 solace(icl>do,equ>comfort,agt>thing,obj>thing,met>thing)	Direct	v	1(2)	3721
 solace(icl>relief>thing,equ>consolation)	Direct	n	1(3)	4171

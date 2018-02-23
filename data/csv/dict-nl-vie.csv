@@ -2242,10 +2242,10 @@
 [đất]	{n}	"earth(icl>material>thing)"	"THE LOOSE SOFT MATERIAL THAT MAKES UP A LARGE PART OF THE LAND SURFACE"	"THEY DUG INTO THE EARTH OUTSIDE THE CHURCH"	{n}	2,auto-polysemic-3lang;
 [đất]	{n}	"ground(icl>connection>thing)"	"A CONNECTION BETWEEN AN ELECTRICAL DEVICE AND A LARGE CONDUCTING BODY, SUCH AS THE EARTH (WHICH IS TAKEN TO BE AT ZERO VOLTAGE)"	""	{n}	2,auto-polysemic-3lang;
 [đất]	{n}	"ground(icl>material>thing,equ>earth)"	"THE LOOSE SOFT MATERIAL THAT MAKES UP A LARGE PART OF THE LAND SURFACE"	"THEY DUG INTO THE GROUND OUTSIDE THE CHURCH"	{n}	2,auto-polysemic-3lang;
-[đất]	{n}	"ground(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	2,auto-polysemic-3lang;
+[đất]	{n}	"ground(icl>material>thing,equ>soil)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	2,auto-polysemic-3lang;
 [đất]	{n}	"land(icl>area,ant>air,ant>sea)"	"THE SOLID PART OF THE EARTH'S SURFACE"	"THE PLANE WAS BACK OVER LAND NOW"	{n}	2,auto-polysemic-3lang;
 [đất]	{n}	"soil(icl>earth>thing)"	"THE PART OF THE EARTH'S SURFACE CONSISTING OF HUMUS AND DISINTEGRATED ROCK"	""	{n}	2,auto-polysemic-3lang;
-[đất]	{n}	"soil(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"GOOD AGRICULTURAL SOIL"	{n}	2,auto-polysemic-3lang;
+[đất]	{n}	"soil(icl>material>thing)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"GOOD AGRICULTURAL SOIL"	{n}	2,auto-polysemic-3lang;
 [đất nung]	{n}	"earthenware(icl>ceramic_ware>thing)"	"CERAMIC WARE MADE OF POROUS CLAY FIRED AT LOW HEAT"	""	{n}	1,auto-monosemic-1lang;
 [đất nước]	{n}	"country(icl>people>thing,equ>nation)"	"THE PEOPLE WHO LIVE IN A NATION OR COUNTRY"	"THE WHOLE COUNTRY WORSHIPPED HIM"	{n}	2,auto-polysemic-3lang;
 [đất nước]	{n}	"country(icl>place)"	"THE TERRITORY OCCUPIED BY A NATION"	"HE VISITED SEVERAL EUROPEAN COUNTRIES"	{n}	2,auto-polysemic-3lang;
@@ -7121,7 +7121,7 @@
 [rừng sú vẹt]	{n}	"mangrove(icl>angiospermous_tree>thing)"	"A TROPICAL TREE OR SHRUB BEARING FRUIT THAT GERMINATES WHILE STILL ON THE TREE AND HAVING NUMEROUS PROP ROOTS THAT EVENTUALLY FORM AN IMPENETRABLE MASS AND ARE IMPORTANT IN LAND BUILDING"	""	{n}	2,auto-monosemic-2lang;
 [ru ngủ]	{v}	"lull(icl>calm>do,agt>volitional_thing,obj>volitional_thing,gol>thing)"	"CALM BY DECEPTION"	"DON'T LET YOURSELF BE LULLED INTO A FALSE STATE OF SECURITY"	{v}	2,auto-polysemic-3lang;
 [ruồng bỏ]	{v}	"abandon(icl>throw_out>do,obj>concrete_thing)"	"LEAVE BEHIND"	"WE ABANDONED THE OLD CAR IN THE EMPTY PARKING LOT"	{v}	2,auto-polysemic-3lang;
-[ruộng đất]	{n}	"ground(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	2,auto-polysemic-3lang;
+[ruộng đất]	{n}	"ground(icl>material>thing,equ>soil)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	2,auto-polysemic-3lang;
 [ruộng nho]	{n}	"vineyard(icl>farm>thing)"	"A FARM OF GRAPEVINES WHERE WINE GRAPES ARE PRODUCED"	""	{n}	2,auto-polysemic-3lang;
 [ruột]	{a}	"intestinal(icl>adj,com>intestine)"	"OF OR RELATING TO OR INSIDE THE INTESTINES"	"INTESTINAL DISEASE"	{a}	2,auto-polysemic-3lang;
 [ruột]	{n}	"gut(icl>internal_organ>thing,equ>intestine)"	"THE PART OF THE ALIMENTARY CANAL BETWEEN THE STOMACH AND THE ANUS"	""	{n}	2,auto-polysemic-3lang;

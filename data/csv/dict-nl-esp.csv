@@ -21044,9 +21044,9 @@
 [sudoración]	{n}	"transpiration(icl>bodily_process>thing)"	"THE PROCESS OF GIVING OFF OR EXHALING WATER VAPOR THROUGH THE SKIN OR MUCOUS MEMBRANES"	""	{n}	0,auto;
 [sudoresis]	{n}	"sweat(icl>secretion>thing,equ>perspiration)"	"SALTY FLUID SECRETED BY SWEAT GLANDS"	"SWEAT POURED OFF HIS BROW"	{n}	0,auto;
 [sudor]	{n}	"sweat(icl>secretion>thing,equ>perspiration)"	"SALTY FLUID SECRETED BY SWEAT GLANDS"	"SWEAT POURED OFF HIS BROW"	{n}	0,auto;
-[suelo]	{n}	"ground(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	0,auto;
+[suelo]	{n}	"ground(icl>material>thing,equ>soil)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"THE LAND HAD NEVER BEEN PLOWED"	{n}	0,auto;
 [suelo]	{n}	"soil(icl>earth>thing)"	"THE PART OF THE EARTH'S SURFACE CONSISTING OF HUMUS AND DISINTEGRATED ROCK"	""	{n}	0,auto;
-[suelo]	{n}	"soil(icl>object>thing,equ>land)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"GOOD AGRICULTURAL SOIL"	{n}	0,auto;
+[suelo]	{n}	"soil(icl>material>thing)"	"MATERIAL IN THE TOP LAYER OF THE SURFACE OF THE EARTH IN WHICH PLANTS CAN GROW (ESPECIALLY WITH REFERENCE TO ITS QUALITY OR USE)"	"GOOD AGRICULTURAL SOIL"	{n}	0,auto;
 [suelto]	{a}	"loose(icl>adj,ant>compact)"	"NOT COMPACT OR DENSE IN STRUCTURE OR ARRANGEMENT"	"LOOSE GRAVEL"	{a}	0,auto;
 [sueño]	{n}	"daydream(icl>dream>thing,equ>reverie)"	"ABSENTMINDED DREAMING WHILE AWAKE"	""	{n}	0,auto;
 [sueño]	{n}	"reverie(icl>dream>thing)"	"ABSENTMINDED DREAMING WHILE AWAKE"	""	{n}	0,auto;
