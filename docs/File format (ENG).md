@@ -44,10 +44,9 @@ Columns left to right:
 - 2 - UNL-relation corresponding to the type of the link
 - 3 - daughter node (UW)
 - 4 - comma-separated list of tags annotating links 
-   * "deriv" tag marks equivalence relations between UWs linked to semantically similar words with different POS tags in natural languages (a run - to run).
-   * "self" tag marks equivalence relations between UWs, which relate to the same general concept except the regular "passive" transformation (beat - undergo beating).
-   * "inferred" tag marks automatically added links, logically inferred from other pre-existing links.
    * "semlink" manually added extra semantic links. 
+   * "deriv" tag marks equivalence relations between UWs linked to semantically similar words with different POS tags in natural languages (a run - to run).
+   * "inferred" tag marks automatically added links, logically inferred from other pre-existing links.
    * "OptionalPartOf" subtype of the pof (Part Of) link - Optiona part, which can be absent. Not all objects of the class necessarily have this part.
    * "DetachablePartOf" subtype of the pof (Part Of) link - Part of an object, which is not a physical part of the whole and can easily be detached.
    * "MemberOf" subtype of the pof (Part Of) link - Individual memeber of a group/organization or a functionally linked set of different things.
@@ -59,6 +58,8 @@ Columns left to right:
    * "managedBy" subtype of the pof (Part Of) link - A member of a leadership
    * "capitalCity" subtype of the pof (Part Of) link - Capital of a country.
    * "subsumesContentInstance" subtype of the pof (Part Of) link - Part of a bigger content bearing object.
+   * "Trace" subtype of the rsn (Reason) link - A physical manifestation, trace or resulting state/condition of a process (cry - to cry, a cut - to cut, estimation - estimate)
+   * "causes" subtype of the rsn (Reason) link between UWs, which relate to the same general predicate concept except the regular "passive" transformation (beat - undergo beating).
    * "author" component of the meaning com (Component) - Links the name of creator and his creation (also generic, e.g. poet - verse)
    * "believes" component of the meaning com (Component) - Links an adherent of some political, religious or scientific theories and beliefs with those theories/beliefs.
    * "hasExpertise" component of the meaning com (Component) - Links a name of a specialty/profession with the corresponding field of knowledge, thing or process that the specialist must know.
