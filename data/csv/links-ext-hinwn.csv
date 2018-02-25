@@ -5849,7 +5849,7 @@ definition(icl>explanation>thing)	Direct	n	1(3)	6721
 definitive(icl>adj,equ>authoritative)	Direct	a	3(2)	8518
 deflection(icl>turn>thing,equ>diversion)	Direct	n	1(4),1(4)	28003
 deforestation(icl>denudation>thing)	Direct	n	2(2),2(2)	10647
-deform(icl>change_shape>occur,equ>flex,obj>thing)	Direct	v	1(2)	7740
+deform(icl>change_shape>do,equ>flex,agt>thing,obj>thing)	Direct	v	1(2)	7740
 deformity(icl>affliction>thing)	Direct	n	3(2),2(2),1(2)	29675
 deformity(icl>appearance>thing,equ>disfigurement)	Direct	n	2(4)	4253
 defrayal(icl>commerce>thing,equ>payment,ant>nonpayment)	Direct	n	2(2)	7424
@@ -11033,7 +11033,7 @@ fleetly(icl>how,equ>swiftly,com>fleet)	Direct	adv	3(4)	11941
 flesh(icl>animal_tissue>thing)	Direct	n	3(4),1(5)	1679
 flesh(icl>plant_tissue>thing,equ>pulp)	Direct	n	1(4)	7185
 fleshy(icl>adj)	Direct	a	4(2)	2603
-flex(icl>change_shape>occur,obj>thing)	Direct	v	1(2)	7740
+flex(icl>change_shape>do,agt>thing,obj>thing)	Direct	v	1(2)	7740
 flexure(icl>angular_shape>thing,equ>fold)	Direct	n	2(2)	5029
 flick(icl>shine>occur,equ>flicker,obj>thing)	Direct	v	1(4)	8911
 flick(icl>show>thing,equ>movie)	Direct	n	3(4)	8753
@@ -30391,7 +30391,7 @@ twinge(icl>hurt>do,equ>prick,agt>thing,obj>thing)	Direct	v	3(2)	5060
 twinkle(icl>shine>occur,obj>thing)	Direct	v	1(4)	7971
 twinkling(icl>moment>thing,equ>blink_of_an_eye)	Direct	n	1(6)	6099
 twirl(icl>rotation>thing,equ>spin)	Direct	n	1(4)	27029
-twist(icl>change_shape>occur,equ>flex,obj>thing)	Direct	v	1(2)	7740
+twist(icl>change_shape>do,equ>flex,agt>thing,obj>thing)	Direct	v	1(2)	7740
 twist(icl>change_shape>occur,obj>thing)	Direct	v	2(2),2(2)	3924
 twist(icl>hairdo>thing,equ>braid)	Direct	n	3(2)	24034
 twist(icl>maneuver>thing,equ>device)	Direct	n	1(2)	11654

@@ -7947,9 +7947,9 @@
 [curtir]	{v}	"tan(icl>convert>do,cob>thing,agt>thing,obj>thing)"	"TREAT SKINS AND HIDES WITH TANNIC ACID SO AS TO CONVERT THEM INTO LEATHER"	""	{v}	0,auto;
 [curtir]	{v}	"tan(icl>discolor>occur,obj>thing)"	"GET A TAN, FROM WIND OR SUN"	""	{v}	0,auto;
 [curvar]	{v}	"bend(icl>cause>do,agt>thing,obj>thing,ins>thing)"	"Cause (a plastic object) to assume a crooked or angular form"	"BEND THE ROD"	{v}	0,auto;
-[curvar]	{v}	"flex(icl>change_shape>occur,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"BEND THE ROD"	{v}	0,auto;
+[curvar]	{v}	"flex(icl>change_shape>do,agt>thing,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"BEND THE ROD"	{v}	0,auto;
 [curvar]	{v}	"turn(icl>bend>do,agt>thing,obj>concrete_thing)"	"CAUSE TO ASSUME A CROOKED OR ANGULAR FORM"	"THE MAN (AGT) COULD TURN AN IRON BAR (OBJ); HIS MOUSTACHE (OBJ) WERE TURNED AND CURLED"	{v}	0,auto;
-[curvar]	{v}	"twist(icl>change_shape>occur,equ>flex,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	0,auto;
+[curvar]	{v}	"twist(icl>change_shape>do,equ>flex,agt>thing,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	0,auto;
 [cúspide]	{n}	"crest(icl>topographic_point>thing,equ>peak)"	"THE TOP POINT OF A MOUNTAIN OR HILL"	"THE VIEW FROM THE PEAK WAS MAGNIFICENT"	{n}	0,auto;
 [cúspide]	{n}	"crown(icl>topographic_point>thing,equ>peak)"	"THE TOP POINT OF A MOUNTAIN OR HILL"	"THE VIEW FROM THE PEAK WAS MAGNIFICENT"	{n}	0,auto;
 [cúspide]	{n}	"elevation(icl>degree>thing,equ>acme)"	"THE HIGHEST LEVEL OR DEGREE ATTAINABLE"	"THE HIGHEST STAGE OF DEVELOPMENT"	{n}	0,auto;
@@ -10150,14 +10150,14 @@
 [divulgar]	{v}	"relay(icl>communicate>do,via>thing,agt>volitional_thing,obj>thing,rec>thing)"	"PASS ALONG"	"PLEASE RELAY THE NEWS TO THE VILLAGERS"	{v}	0,auto;
 [divulgativo]	{a}	"informatory(icl>adj,equ>informative,ant>uninformative)"	"PROVIDING OR CONVEYING INFORMATION"	""	{a}	0,auto;
 [doblar]	{v}	"bend(icl>cause>do,agt>thing,obj>thing,ins>thing)"	"Cause (a plastic object) to assume a crooked or angular form"	"BEND THE ROD"	{v}	0,auto;
-[doblar]	{v}	"flex(icl>change_shape>occur,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"BEND THE ROD"	{v}	0,auto;
+[doblar]	{v}	"flex(icl>change_shape>do,agt>thing,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"BEND THE ROD"	{v}	0,auto;
 [doblar]	{v}	"fold(icl>bend>do,agt>thing,obj>concrete_thing,gol>thing)"	"BEND OR LAY SO THAT ONE PART COVERS THE OTHER"	"FOLD THE PAPER ALONG THE DOTTED LINE"	{v}	0,auto;
 [doblar]	{v}	"fold_up(icl>wrap>do,cob>thing,agt<person,obj>thing)"	"BEND OR LAY SO THAT ONE PART COVERS THE OTHER"	"I LIKE TO FOLD PRESENTS UP IN PRETTY PAPER"	{v}	0,auto;
 [doblar]	{v}	"tuck(icl>fold>do,agt>thing,obj>thing)"	"MAKE A TUCK OR SEVERAL FOLDS IN"	"TUCK THE FABRIC"	{v}	0,auto;
 [doblar]	{v}	"turn(icl>bend>do,agt>thing,obj>concrete_thing)"	"CAUSE TO ASSUME A CROOKED OR ANGULAR FORM"	"THE MAN (AGT) COULD TURN AN IRON BAR (OBJ); HIS MOUSTACHE (OBJ) WERE TURNED AND CURLED"	{v}	0,auto;
 [doblar]	{v}	"turn(icl>travel>do,agt>thing,obj>thing)"	"PASS TO THE OTHER SIDE OF"	"TURN THE CORNER (OBJ)"	{v}	0,auto;
 [doblar]	{v}	"turn_up(icl>change_surface>do,equ>fold,agt>thing,obj>thing)"	"BEND OR LAY SO THAT ONE PART COVERS THE OTHER"	"TURN UP YOUR COLLAR"	{v}	0,auto;
-[doblar]	{v}	"twist(icl>change_shape>occur,equ>flex,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	0,auto;
+[doblar]	{v}	"twist(icl>change_shape>do,equ>flex,agt>thing,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	0,auto;
 [doble]	{a}	"double(icl>adj,com>parts)"	"HAVING TWO UNITS OR COMPONENTS"	"AN EGG WITH A DOUBLE YOLK"	{a}	0,auto;
 [doble]	{n}	"double(icl>person>thing)"	"SOMEONE WHO CLOSELY RESEMBLES A FAMOUS PERSON (ESPECIALLY AN ACTOR)"	"HE COULD BE GINGRICH'S DOUBLE"	{n}	0,auto;
 [doble]	{n}	"image(icl>person,equ>double)"	"SOMEONE WHO CLOSELY RESEMBLES A FAMOUS PERSON (ESPECIALLY AN ACTOR)"	"SHE'S THE VERY IMAGE OF HER MOTHER"	{n}	0,auto;

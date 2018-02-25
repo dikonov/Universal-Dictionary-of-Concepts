@@ -9578,7 +9578,7 @@
 [vận tốc]	{n}	"speed(icl>rate>thing)"	"DISTANCE TRAVELLED PER UNIT TIME"	""	{n}	2,auto-polysemic-3lang;
 [vận tốc]	{n}	"velocity(icl>rate>thing,equ>speed)"	"DISTANCE TRAVELLED PER UNIT TIME"	""	{n}	2,auto-polysemic-3lang;
 [vân vân]	{misc}	"etc(icl>how)"	"INDICATES THAT THE LIST IN NOT FULL"	"A PROGRAMME OF DANCES, TOURS, SPORTS, ETC."	{misc}	1,auto-monosemic-1lang;
-[vặn]	{v}	"twist(icl>change_shape>occur,equ>flex,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	2,auto-polysemic-3lang;
+[vặn]	{v}	"twist(icl>change_shape>do,equ>flex,agt>thing,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	2,auto-polysemic-3lang;
 [vặn]	{v}	"twist(icl>shape>do,agt>thing,obj>thing)"	"FORM INTO TWISTS"	"TWIST THE STRIPS OF DOUGH"	{v}	2,auto-polysemic-3lang;
 [van xin]	{v}	"beg(icl>plead>do,agt>person,gol>uw,rec>volitional_thing)"	"CALL UPON IN SUPPLICATION"	"I (AGT) BEG YOU (OBJ) TO STOP (GOL)!"	{v}	2,auto-polysemic-3lang;
 [van xin]	{v}	"beseech(icl>plead>do,equ>bid,agt>volitional_thing,obj>uw,rec>volitional_thing)"	"ASK FOR OR REQUEST EARNESTLY"	"THE PROPHET BID ALL PEOPLE TO BECOME GOOD PERSONS"	{v}	2,auto-polysemic-3lang;
@@ -10014,7 +10014,7 @@
 [xe tăng]	{n}	"tank(icl>military_vehicle>thing)"	"AN ENCLOSED ARMORED MILITARY VEHICLE"	"HAS A CANNON AND MOVES ON CATERPILLAR TREADS"	{n}	2,auto-polysemic-3lang;
 [xe ủi đất]	{n}	"bulldozer(icl>tractor>thing)"	"LARGE POWERFUL TRACTOR"	"A LARGE BLADE IN FRONT FLATTENS AREAS OF GROUND"	{n}	2,auto-monosemic-2lang;
 [xẻ]	{v}	"saw(icl>cut>do,cob>concrete_thing,agt>thing,obj>concrete_thing,ins>thing)"	"CUT WITH A SAW"	"SAW WOOD FOR THE FIREPLACE"	{v}	2,auto-polysemic-3lang;
-[xe]	{v}	"twist(icl>change_shape>occur,equ>flex,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	2,auto-polysemic-3lang;
+[xe]	{v}	"twist(icl>change_shape>do,equ>flex,agt>thing,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	2,auto-polysemic-3lang;
 [xe]	{v}	"twist(icl>shape>do,agt>thing,obj>thing)"	"FORM INTO TWISTS"	"TWIST THE STRIPS OF DOUGH"	{v}	2,auto-polysemic-3lang;
 [xezi]	{n}	"caesium(icl>metallic_element>thing,equ>cesium)"	"A SOFT SILVER-WHITE DUCTILE METALLIC ELEMENT (LIQUID AT NORMAL TEMPERATURES)"	"THE MOST ELECTROPOSITIVE AND ALKALINE METAL"	{n}	2,auto-monosemic-2lang;
 [xian]	{n}	"cyanogen(icl>gas>thing)"	"A COLORLESS TOXIC GAS WITH A PUNGENT ALMOND ODOR"	"HAS BEEN USED IN CHEMICAL WARFARE"	{n}	1,auto-monosemic-1lang;
@@ -10041,7 +10041,7 @@
 [xoài]	{n}	"mango(icl>fruit_tree>thing)"	"LARGE EVERGREEN TROPICAL TREE CULTIVATED FOR ITS LARGE OVAL FRUIT"	""	{n}	1,auto-monosemic-1lang;
 [xoài tượng]	{n}	"mango(icl>fruit_tree>thing)"	"LARGE EVERGREEN TROPICAL TREE CULTIVATED FOR ITS LARGE OVAL FRUIT"	""	{n}	1,auto-monosemic-1lang;
 [xoăn]	{a}	"curly(icl>adj,ant>straight)"	"(OF HAIR) HAVING CURLS OR WAVES"	"THEY ENVIED HER NATURALLY CURLY HAIR"	{a}	2,auto-polysemic-3lang;
-[xoắn]	{v}	"twist(icl>change_shape>occur,equ>flex,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	2,auto-polysemic-3lang;
+[xoắn]	{v}	"twist(icl>change_shape>do,equ>flex,agt>thing,obj>thing)"	"CAUSE   (A PLASTIC OBJECT) TO ASSUME A CROOKED OR ANGULAR FORM"	"TWIST THE DOUGH INTO A BRAID"	{v}	2,auto-polysemic-3lang;
 [xoắn]	{v}	"twist(icl>shape>do,agt>thing,obj>thing)"	"FORM INTO TWISTS"	"TWIST THE STRIPS OF DOUGH"	{v}	2,auto-polysemic-3lang;
 [xoa]	{v}	"rub(icl>hurt>be,obj>thing,aoj>concrete_thing)"	""	"MY SHOE (AOJ) IS RUBBING MY HEEL (OBJ)"	{v}	2,auto-polysemic-3lang;
 [xoa]	{v}	"rub(icl>touch>do,agt>thing,obj>thing,ins>thing)"	"MOVE OVER SOMETHING WITH PRESSURE"	"RUB ONE'S HANDS (OBJ) WITH SOAP (INS)"	{v}	2,auto-polysemic-3lang;
