@@ -4500,7 +4500,6 @@ concurrence(icl>simultaneity>thing)	Direct	n	1(4)	3155
 condemnation(icl>final_judgment>thing,equ>conviction,ant>acquittal)	Direct	n	2(2)	10403
 condensation(icl>compression>thing,equ>condensing)	Direct	n	1(2)	31476
 condensation(icl>natural_process>thing)	Direct	n	1(2)	8824
-condensed_milk(icl>milk>thing)	Direct	n	3(2)	430
 condenser(icl>apparatus>thing)	Direct	n	2(2)	29056
 condition(icl>procedure>thing)	Direct	n	1(2)	26965
 condom(icl>contraceptive>thing)	Direct	n	1(2)	27977
@@ -9922,7 +9921,6 @@ expect(icl>evaluate>be,src>thing,obj>uw,aoj>thing)	Direct	v	1(2)	10149
 expectable(icl>adj)	Direct	a	1(2)	10021
 expectation(icl>belief>thing)	Direct	n	3(2)	2936
 expectorate(icl>discharge>do,plt>thing,agt>living_thing,obj>matter)	Direct	v	2(2)	11177
-expedition(icl>journey>thing)	Direct	n	1(2)	7753
 expedition(icl>working_group>thing)	Direct	n	1(2)	28403
 expel(icl>get_the_better_of>do,equ>rout,agt>thing,obj>thing)	Direct	v	3(2)	5864
 expenditure(icl>depletion>thing,equ>consumption)	Direct	n	1(4)	2933
@@ -16008,7 +16006,6 @@ make(icl>produce>do,src>thing,agt>volitional_thing,obj>thing,ins>thing)	Direct	v
 make(icl>reach>do,agt>thing,obj>thing)	Direct	v	1(2)	27509
 make(icl>score>do,agt>thing,obj>thing)	Direct	v	2(4)	11875
 make(icl>score>do,agt>thing,obj>thing)	Direct	v	2(4)	11877
-make(icl>score>do,equ>have,agt>thing,obj>thing)	Direct	v	1(3)	26693
 make(icl>succeed>do,agt>person,obj>thing)	Direct	v	1(2)	27645
 make(icl>try>do,agt>person,pur>action)	Direct	v	1(2)	27644
 make-up(icl>cosmetic>thing,equ>makeup)	Direct	n	(4),1(4)	8490

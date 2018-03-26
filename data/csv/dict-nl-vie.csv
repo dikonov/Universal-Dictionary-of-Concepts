@@ -281,7 +281,7 @@
 [bánh lái]	{n}	"rudder(icl>steering_system>thing)"	"(NAUTICAL) STEERING MECHANISM CONSISTING OF A HINGED VERTICAL PLATE MOUNTED AT THE STERN OF A VESSEL"	""	{n}	2,auto-polysemic-3lang;
 [bánh lái]	{n}	"wheel(icl>handwheel>thing,equ>steering_wheel)"	"A HANDWHEEL THAT IS USED FOR STEERING"	""	{n}	2,auto-polysemic-3lang;
 [bánh lòng trắng trứng]	{n}	"meringue(icl>topping>thing)"	"SWEET TOPPING ESPECIALLY FOR PIES MADE OF BEATEN EGG WHITES AND SUGAR"	""	{n}	2,auto-monosemic-2lang;
-[bánh mađơlen]	{n}	"madeleine(icl>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
+[bánh mađơlen]	{n}	"madeleine(iof>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
 [bánh mì kẹp nhân]	{n}	"sandwich(icl>snack_food>thing)"	"TWO (OR MORE) SLICES OF BREAD WITH A FILLING BETWEEN THEM"	""	{n}	2,auto-monosemic-2lang;
 [bánh mì]	{n}	"bread(icl>baked_goods>thing)"	"FOOD MADE FROM DOUGH OF FLOUR OR MEAL AND USUALLY RAISED WITH YEAST OR BAKING POWDER AND THEN BAKED"	""	{n}	2,auto-polysemic-3lang;
 [bánh mì ngọt hình tròn]	{n}	"brioche(icl>bun>thing)"	"A LIGHT ROLL RICH WITH EGGS AND BUTTER AND SOMEWHAT SWEET"	""	{n}	2,auto-monosemic-2lang;
@@ -2201,7 +2201,7 @@
 [đạo luật]	{n}	"law(icl>collection>thing)"	"THE COLLECTION OF RULES IMPOSED BY AUTHORITY"	"CIVILIZATION PRESUPPOSES RESPECT FOR THE LAW"	{n}	2,auto-polysemic-3lang;
 [đạo luật]	{n}	"law(icl>concept>thing)"	"A RULE OR BODY OF RULES OF CONDUCT INHERENT IN HUMAN NATURE AND ESSENTIAL TO OR BINDING UPON HUMAN SOCIETY"	""	{n}	2,auto-polysemic-3lang;
 [đạo luật]	{n}	"law(icl>legal_document>thing)"	"LEGAL DOCUMENT SETTING FORTH RULES GOVERNING A PARTICULAR KIND OF ACTIVITY"	"THERE IS A LAW AGAINST KIDNAPPING"	{n}	2,auto-polysemic-3lang;
-[đào mađơlen]	{n}	"madeleine(icl>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
+[đào mađơlen]	{n}	"madeleine(iof>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
 [đảo manta]	{a}	"maltese(icl>adj,com>malta)"	"OF OR RELATING TO THE ISLAND OR REPUBLIC OF MALTA OR ITS INHABITANTS"	"MALTESE CUSTOMS OFFICERS"	{a}	2,auto-monosemic-2lang;
 [dao mổ]	{n}	"scalpel(icl>surgical_knife>thing)"	"A THIN STRAIGHT SURGICAL KNIFE USED IN DISSECTION AND SURGERY"	""	{n}	2,auto-polysemic-3lang;
 [dao nhíp]	{n}	"penknife(icl>pocketknife>thing)"	"A SMALL POCKETKNIFE"	"ORIGINALLY USED TO CUT QUILL PENS"	{n}	3,auto-monosemic-3lang;
@@ -4752,7 +4752,7 @@
 [lễ kết hôn]	{n}	"wedding(icl>ritual>thing,equ>marriage)"	"THE ACT OF MARRYING"	"THE NUPTIAL CEREMONY"	{n}	2,auto-polysemic-3lang;
 [lễ kỷ niệm năm mươi năm]	{n}	"jubilee(icl>anniversary>thing)"	"A SPECIAL ANNIVERSARY (OR THE CELEBRATION OF IT)"	""	{n}	2,auto-monosemic-2lang;
 [lễ lớn]	{n}	"gala(icl>celebration>thing)"	"A GAY FESTIVITY"	""	{n}	2,auto-monosemic-2lang;
-[lê mađolen]	{n}	"madeleine(icl>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
+[lê mađolen]	{n}	"madeleine(iof>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
 [lên ảnh đẹp; ăn ảnh]	{a}	"photogenic(icl>adj)"	"LOOKING ATTRACTIVE IN PHOTOGRAPHS"	""	{a}	2,auto-monosemic-2lang;
 [lén đi]	{v}	"sneak_off(icl>leave>do,equ>slip_away,plt>thing,plf>thing,agt>thing)"	"LEAVE FURTIVELY AND STEALTHILY"	"THE LECTURE WAS BORING AND MANY STUDENTS SLIPPED OUT WHEN THE INSTRUCTOR TURNED TOWARDS THE BLACKBOARD"	{v}	2,auto-monosemic-2lang;
 [(lẻng kẻng]	{n}	"clang(icl>noise>thing)"	"A LOUD RESONANT REPEATING NOISE"	"HE COULD HEAR THE CLANG OF DISTANT BELLS"	{n}	1,auto-monosemic-1lang;
@@ -5158,7 +5158,7 @@
 [mảnh vỡ]	{n}	"shard(icl>piece>thing)"	"A BROKEN PIECE OF A BRITTLE ARTIFACT"	""	{n}	2,auto-polysemic-3lang;
 [mạ niken]	{v}	"nickel(icl>plate>do,cob>thing,agt>thing,obj>concrete_thing)"	"PLATE WITH NICKEL"	"NICKEL THE PLATE"	{v}	1,auto-monosemic-1lang;
 [mận khô]	{n}	"prune(icl>dried_fruit>thing)"	"DRIED PLUM"	""	{n}	2,auto-polysemic-3lang;
-[mận mađơlen]	{n}	"madeleine(icl>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
+[mận mađơlen]	{n}	"madeleine(iof>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
 [mặn nồng]	{misc}	"hotly(icl>how,equ>heatedly,com>hot)"	"IN A HEATED MANNER"	"THE CHILDREN WERE ARGUING HOTLY"	{misc}	2,auto-monosemic-2lang;
 [mạn phải]	{n}	"starboard(icl>side>thing,ant>larboard)"	"THE RIGHT SIDE OF A SHIP OR AIRCRAFT TO SOMEONE FACING THE BOW OR NOSE"	""	{n}	2,auto-polysemic-3lang;
 [ma]	{n}	"spectre(icl>spirit>thing,equ>apparition)"	"A GHOSTLY APPEARING FIGURE"	"WE WERE UNPREPARED FOR THE APPARITION THAT CONFRONTED US"	{n}	2,auto-polysemic-3lang;
@@ -7993,7 +7993,7 @@
 [tàn tật]	{n}	"handicap(icl>unfitness>thing,equ>disability)"	"THE CONDITION OF BEING UNABLE TO PERFORM AS A CONSEQUENCE OF PHYSICAL OR MENTAL UNFITNESS"	"READING DISABILITY"	{n}	2,auto-polysemic-3lang;
 [tán tỉnh]	{n}	"flirtation(icl>play>thing,equ>flirt)"	"PLAYFUL BEHAVIOR INTENDED TO AROUSE SEXUAL INTEREST"	""	{n}	2,auto-polysemic-3lang;
 [táo bạo]	{misc}	"boldly(icl>how,com>bold)"	"IN A BOLD MANNER"	"WE MUST TACKLE THESE TASKS BOLDLY"	{misc}	2,auto-polysemic-3lang;
-[táo mađơlen]	{n}	"madeleine(icl>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
+[táo mađơlen]	{n}	"madeleine(iof>name>abstract_thing,com>female,nam<person)"	"A FEMALE GIVEN NAME"	"HER NAME IS MADELEINE"	{n}	2,auto-monosemic-2lang;
 [tao]	{n}	"i(icl>person)"	"PRONOUN USED BY THE SPEAKER TO REFER TO HIMSELF"	"I SEE YOU"	{n}	2,auto-polysemic-3lang;
 [tảo]	{n}	"seaweed(icl>alga>thing)"	"PLANT GROWING IN THE SEA, ESPECIALLY MARINE ALGAE"	""	{n}	2,auto-polysemic-3lang;
 [tập bản đồ]	{n}	"atlas(icl>reference_book>thing)"	"A COLLECTION OF MAPS IN BOOK FORM"	""	{n}	2,auto-polysemic-3lang;
