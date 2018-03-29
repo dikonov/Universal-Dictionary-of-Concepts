@@ -307,7 +307,7 @@
 [acaecer]	{v}	"fall_out(icl>occur,equ>happen,obj>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
 [acaecer]	{v}	"go_on(icl>occur,equ>happen,obj>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
 [acaecer]	{v}	"hap(icl>occur,equ>happen,obj>uw,ben>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
-[acaecer]	{v}	"happen(icl>be,obj>uw,aoj>thing)"	"BE THE CASE"	"I (AOJ) HAPPEN TO (OBJ) KNOW HIM"	{v}	0,auto;
+[acaecer]	{v}	"happen(icl>be,obj>uw,aoj>thing)"	"COME TO PASS"	"What (aoj) is happening?"	{v}	0,auto;
 [acaecer]	{v}	"happen(icl>occur,equ>turn_out,obj>uw)"	"OCCUR BY CHANCE"	"IT HAPPENED THAT (OBJ) EVERYONE WAS CALLED AWAY"	{v}	0,auto;
 [acaecer]	{v}	"materialize(icl>happen>occur,equ>happen,obj>thing)"	"COME INTO BEING"	"BECOME REALITY"	{v}	0,auto;
 [acaecer]	{v}	"occur(icl>appear>occur,obj>thing)"	"TO BE FOUND TO EXIST"	"PRECIOUS STONES OCCUR IN A LARGE AREA IN BRAZIL"	{v}	0,auto;
@@ -2952,7 +2952,7 @@
 [asegurar]	{v}	"check(icl>verify>do,equ>see,agt>thing,obj>thing)"	"BE CAREFUL OR CERTAIN TO DO SOMETHING"	"MAKE CERTAIN OF SOMETHING"	{v}	0,auto;
 [asegurar]	{v}	"ensure(icl>guarantee>be,obj>thing,aoj>thing,ben>thing,cag>thing)"	"TO MAKE SURE OR CERTAIN, INSURE"	"THIS NEST EGG (AOJ) WILL ENSURE A NICE RETIREMENT (OBJ) FOR US (BEN)"	{v}	0,auto;
 [asegurar]	{v}	"ensure(icl>verify>do,equ>see,agt>thing,obj>thing)"	"BE CAREFUL OR CERTAIN TO DO SOMETHING"	"MAKE CERTAIN OF SOMETHING"	{v}	0,auto;
-[asegurar]	{v}	"fasten(icl>attach>do,cob>concrete_thing,agt>living_thing,obj>concrete_thing,ins>functional_thing)"	"CAUSE TO BE FIRMLY ATTACHED"	"FASTEN THE LOCK ONTO THE DOOR"	{v}	0,auto;
+[asegurar]	{v}	"fasten(icl>attach>do,cob>concrete_thing,agt>living_thing,obj>concrete_thing,ins>functional_thing)"	"Cause to be firmly attached"	"They (AGT) fastened the rope (OBJ) to a tree (COB)."	{v}	0,auto;
 [asegurar]	{v}	"fix(icl>set>do,equ>fasten,agt>person,obj>thing,plc>thing,ins>thing)"	"CAUSE TO BE FIRMLY ATTACHED, STABLE OR STATIONARY"	"SHE FIXED HER GAZE (OBJ) ON THE MAN (PLC); LET'S FIX THE PICTURE (OBJ) TO THE FRAME (PLC)"	{v}	0,auto;
 [asegurar]	{v}	"guarantee(icl>back>do,agt>thing,obj>thing)"	"STAND BEHIND AND GUARANTEE THE QUALITY, ACCURACY, OR CONDITION OF"	"THE DEALER WARRANTS ALL THE CARS HE SELLS"	{v}	0,auto;
 [asegurar]	{v}	"guarantee(icl>do,agt>thing,obj>thing)"	"MAKE CERTAIN OF"	"PREPARATION WILL GUARANTEE SUCCESS!"	{v}	0,auto;
@@ -17799,7 +17799,7 @@
 [ocurrir]	{v}	"fall_out(icl>occur,equ>happen,obj>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
 [ocurrir]	{v}	"go_on(icl>occur,equ>happen,obj>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
 [ocurrir]	{v}	"hap(icl>occur,equ>happen,obj>uw,ben>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
-[ocurrir]	{v}	"happen(icl>be,obj>uw,aoj>thing)"	"BE THE CASE"	"I (AOJ) HAPPEN TO (OBJ) KNOW HIM"	{v}	0,auto;
+[ocurrir]	{v}	"happen(icl>be,obj>uw,aoj>thing)"	"COME TO PASS"	"What (aoj) is happening?"	{v}	0,auto;
 [ocurrir]	{v}	"happen(icl>occur,equ>turn_out,obj>uw)"	"OCCUR BY CHANCE"	"IT HAPPENED THAT (OBJ) EVERYONE WAS CALLED AWAY"	{v}	0,auto;
 [ocurrir]	{v}	"hit(icl>realize>be,equ>come_to,obj>person,aoj>uw)"	"CAUSE TO EXPERIENCE SUDDENLY"	"IT HIT ME (OBJ) THAT (AOJ) I WAS 'A SUCCESS'"	{v}	0,auto;
 [ocurrir]	{v}	"occur(icl>appear>occur,obj>thing)"	"TO BE FOUND TO EXIST"	"PRECIOUS STONES OCCUR IN A LARGE AREA IN BRAZIL"	{v}	0,auto;
@@ -18273,7 +18273,7 @@
 [pasar]	{v}	"go_on(icl>occur,equ>happen,obj>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
 [pasar]	{v}	"hand(icl>transfer>do,equ>pass,agt>person,obj>concrete_thing,rec>person)"	"TO GIVE OR PASS WITH THE HAND"	"HAND ME (REC) THE SPOON (OBJ), PLEASE"	{v}	0,auto;
 [pasar]	{v}	"hap(icl>occur,equ>happen,obj>uw,ben>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
-[pasar]	{v}	"happen(icl>be,obj>uw,aoj>thing)"	"BE THE CASE"	"I (AOJ) HAPPEN TO (OBJ) KNOW HIM"	{v}	0,auto;
+[pasar]	{v}	"happen(icl>be,obj>uw,aoj>thing)"	"COME TO PASS"	"What (aoj) is happening?"	{v}	0,auto;
 [pasar]	{v}	"happen(icl>occur,equ>turn_out,obj>uw)"	"OCCUR BY CHANCE"	"IT HAPPENED THAT (OBJ) EVERYONE WAS CALLED AWAY"	{v}	0,auto;
 [pasar]	{v}	"lapse(icl>advance>occur,equ>elapse,obj>thing)"	"PASS BY"	"THREE YEARS ELAPSED"	{v}	0,auto;
 [pasar]	{v}	"occur(icl>happen>occur,cob>thing,obj>uw,plc>uw)"	"COME TO PASS"	"THE EXPLOSION OCCURRED AT 5.30 A.M."	{v}	0,auto;
@@ -21030,7 +21030,7 @@
 [suceder]	{v}	"fall_out(icl>occur,equ>happen,obj>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
 [suceder]	{v}	"go_on(icl>occur,equ>happen,obj>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
 [suceder]	{v}	"hap(icl>occur,equ>happen,obj>uw,ben>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;
-[suceder]	{v}	"happen(icl>be,obj>uw,aoj>thing)"	"BE THE CASE"	"I (AOJ) HAPPEN TO (OBJ) KNOW HIM"	{v}	0,auto;
+[suceder]	{v}	"happen(icl>be,obj>uw,aoj>thing)"	"COME TO PASS"	"What (aoj) is happening?"	{v}	0,auto;
 [suceder]	{v}	"occur(icl>happen>occur,cob>thing,obj>uw,plc>uw)"	"COME TO PASS"	"THE EXPLOSION OCCURRED AT 5.30 A.M."	{v}	0,auto;
 [suceder]	{v}	"pass(icl>happen>occur,obj>abstract_thing)"	"COME TO PASS"	"I SAW WHAT (OBJ) WAS PASSING."	{v}	0,auto;
 [suceder]	{v}	"pass_off(icl>occur,equ>happen,obj>thing)"	"COME TO PASS"	"WHAT IS HAPPENING?"	{v}	0,auto;

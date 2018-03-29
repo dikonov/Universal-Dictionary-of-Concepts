@@ -27649,7 +27649,6 @@ structure(icl>system>thing,equ>social_organization)	Direct	n	2(2)	27067
 struggle(icl>attempt>thing)	Direct	n	2(2)	10817
 struggle(icl>effort>thing)	Hypernymy	n	2(2),1(2)	37446
 struggle(icl>group_action>thing,equ>conflict)	Direct	n	1(2)	29992
-struggle(icl>try>do,equ>fight,agt>thing)	Direct	v	1(2)	24097
 struma(icl>disease>thing,equ>goiter)	Direct	n	3(2)	8690
 struma(icl>tuberculosis>thing,equ>scrofula)	Direct	n	2(2),1(2)	6510
 strumpet(icl>adulterer>thing,equ>adulteress)	Direct	n	1(2)	17743
@@ -28508,7 +28507,6 @@ tears(icl>bodily_process>thing,equ>crying)	Direct	n	3(4)	4554
 tease(icl>annoy>do,rsn>thing,agt>person,obj>living_thing)	Direct	v	3(2)	4931
 tease(icl>harassment>thing)	Direct	n	2(2),2(2)	38032
 tease(icl>laugh>do,rsn>thing,agt>person,obj>person)	Direct	v	1(2)	12825
-tease(icl>separate>do,agt>thing,obj>thing)	Direct	v	1(2)	14718
 teasel(icl>herb>thing)	Direct	n	1(2),1(2),1(2)	22445
 teaser(icl>problem>thing,equ>puzzle)	Direct	n	3(2)	8226
 teaser(icl>unwelcome_person>thing,equ>tease)	Direct	n	2(2),2(2),3(2),3(2)	38045
