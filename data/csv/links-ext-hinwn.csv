@@ -32361,7 +32361,6 @@ waistband(icl>band>thing,equ>girdle)	Direct	n	1(5),2(4)	12372
 waistcoat(icl>garment>thing,equ>vest)	Direct	n	1(2)	9523
 waistline(icl>area>thing,equ>waist)	Direct	n	1(4)	1926
 wait(icl>inactivity>thing)	Direct	n	3(4),3(4),1(4),1(4)	3608
-wait(icl>occur,obj>thing)	Direct	v	1(3)	14193
 waive(icl>do,agt>thing,obj>thing)	Direct	v	2(2)	16404
 wake(icl>awake>do,src>thing,agt>thing,obj>living_thing)	Direct	v	1(5)	11146
 wake(icl>awake>do,src>thing,agt>thing,obj>living_thing)	Direct	v	2(5)	11149
