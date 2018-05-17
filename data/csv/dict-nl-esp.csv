@@ -17277,7 +17277,7 @@
 [montante]	{n}	"sum(icl>quantity>thing)"	"A QUANTITY OBTAINED BY THE ADDITION OF A GROUP OF NUMBERS"	""	{n}	0,auto;
 [montante]	{n}	"total(icl>quantity>thing,equ>sum)"	"A QUANTITY OBTAINED BY THE ADDITION OF A GROUP OF NUMBERS"	""	{n}	0,auto;
 [monta]	{n}	"total(icl>quantity>thing,equ>sum)"	"A QUANTITY OBTAINED BY THE ADDITION OF A GROUP OF NUMBERS"	""	{n}	0,auto;
-[montar]	{v}	"climb(icl>move>do,plt>thing,plf>thing,agt>thing,obj>thing)"	"GO UPWARD WITH GRADUAL OR CONTINUOUS PROGRESS; GO WITH DIFFICULTY"	"[WN2.1 > CLIMB%2:38:01:: FREQ=2]"	{v}	0,auto;
+[montar]	{v}	"climb(icl>move>do,plt>thing,plf>thing,agt>thing,obj>thing)"	"GO UPWARD WITH GRADUAL OR CONTINUOUS PROGRESS; GO WITH DIFFICULTY"	""	{v}	0,auto;
 [montar]	{v}	"climb_up(icl>rise>do,equ>climb,plt>thing,plf>thing,agt>living_thing)"	"GO UPWARD WITH GRADUAL OR CONTINUOUS PROGRESS"	"DID YOU EVER CLIMB UP THE HILL BEHIND YOUR HOUSE?"	{v}	0,auto;
 [montar]	{v}	"go_up(icl>rise>do,equ>climb,agt>thing,obj>thing)"	"GO UPWARD WITH GRADUAL OR CONTINUOUS PROGRESS"	"DID YOU EVER CLIMB UP THE HILL BEHIND YOUR HOUSE?"	{v}	0,auto;
 [montar]	{v}	"mount(icl>go_up>do,equ>climb,agt>thing,obj>concrete_thing)"	"GO UPWARD WITH GRADUAL OR CONTINUOUS PROGRESS"	"HE (AGT) MOUNTED THE STAIRS (OBJ) AND LOOKED AROUND"	{v}	0,auto;
