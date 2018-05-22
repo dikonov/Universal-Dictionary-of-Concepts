@@ -14452,7 +14452,6 @@ involve(icl>let_in>do,equ>engage,agt>thing,obj>thing,gol>uw)	Direct	v	1(5)	5127
 involvement(icl>curiosity>thing,equ>interest)	Direct	n	5(2)	3030
 involvement(icl>group_action>thing,equ>engagement,ant>non-involvement)	Direct	n	1(4),3(4)	10208
 involvement(icl>sexual_relationship>thing,equ>affair)	Direct	n	2(2)	10580
-inward(icl>how,equ>in)	Direct	adv	1(2),1(2)	13205
 iodine(icl>chemical_element>thing)	Direct	n	1(5),1(7)	26757
 ion(icl>particle>thing)	Direct	n	1(2)	37266
 ionosphere(icl>region>thing)	Direct	n	1(4)	37270
