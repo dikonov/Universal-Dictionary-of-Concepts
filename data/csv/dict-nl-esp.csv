@@ -176,7 +176,7 @@
 [abrigar]	{v}	"shelter(icl>supply>be,cob>thing,obj>thing,aoj>thing)"	"PROVIDE SHELTER FOR"	"AFTER THE EARTHQUAKE, THE GOVERNMENT COULD NOT PROVIDE SHELTER FOR THE THOUSANDS OF HOMELESS PEOPLE"	{v}	0,auto;
 [abrigo]	{n}	"shelter(icl>protective_covering>thing)"	"PROTECTIVE COVERING THAT PROVIDES PROTECTION FROM THE WEATHER"	""	{n}	0,auto;
 [abrigo]	{n}	"shelter(icl>structure>thing)"	"A STRUCTURE THAT PROVIDES PRIVACY AND PROTECTION FROM DANGER"	""	{n}	0,auto;
-[abrillantar]	{v}	"brighten(icl>change>do,agt>thing,obj>concrete_thing,ins>thing)"	"MAKE LIGHTER OR BRIGHTER"	"THE PAINT WILL BRIGHTEN THE ROOM"	{v}	0,auto;
+[abrillantar]	{v}	"brighten(icl>change>do,agt>thing,obj>concrete_thing,ins>thing)"	"Make something more colourful or attractive"	"THE PAINT WILL BRIGHTEN THE ROOM"	{v}	0,auto;
 [abrillantar]	{v}	"lighten(icl>change>do,equ>brighten,agt>thing,obj>concrete_thing,gol>thing,ins>thing)"	"MAKE LIGHTER"	"THE PAINT WILL LIGHTEN THE ROOM"	{v}	0,auto;
 [abrirse]	{v}	"blossom(icl>develop>occur,obj>thing)"	"DEVELOP OR COME TO A PROMISING STAGE"	"YOUTH BLOSSOMED INTO MATURITY"	{v}	0,auto;
 [abrirse]	{v}	"blossom_out(icl>develop>occur,equ>blossom,obj>thing)"	"DEVELOP OR COME TO A PROMISING STAGE"	"YOUTH BLOSSOMED INTO MATURITY"	{v}	0,auto;
@@ -3638,7 +3638,7 @@
 [avistamiento]	{n}	"sighting(icl>observation>thing)"	"THE ACT OF OBSERVING"	"SEVERAL SIGHTINGS OF ENEMY TROOPS WERE REPORTED"	{n}	0,auto;
 [avistar]	{v}	"sight(icl>perceive>do,agt>living_thing,obj>thing,ins>thing)"	"CATCH SIGHT OF"	"HE CAUGHT SIGHT OF THE KING'S MEN COMING OVER THE RIDGE"	{v}	0,auto;
 [avivar]	{v}	"animate(icl>stimulate>do,equ>enliven,agt>thing,obj>thing)"	"MAKE LIVELY"	"LET'S LIVEN UP THIS ROOM A BIT"	{v}	0,auto;
-[avivar]	{v}	"brighten(icl>change>do,agt>thing,obj>concrete_thing,ins>thing)"	"MAKE LIGHTER OR BRIGHTER"	"THE PAINT WILL BRIGHTEN THE ROOM"	{v}	0,auto;
+[avivar]	{v}	"brighten(icl>change>do,agt>thing,obj>concrete_thing,ins>thing)"	"Make something more colourful or attractive"	"THE PAINT WILL BRIGHTEN THE ROOM"	{v}	0,auto;
 [avivar]	{v}	"enliven(icl>stimulate>do,agt>thing,obj>thing,met>thing)"	"MAKE LIVELY"	"LET'S LIVEN UP THIS ROOM A BIT"	{v}	0,auto;
 [avivar]	{v}	"invigorate(icl>stimulate>do,equ>enliven,agt>thing,obj>thing)"	"MAKE LIVELY"	"LET'S LIVEN UP THIS ROOM A BIT"	{v}	0,auto;
 [avivar]	{v}	"lighten(icl>change>do,equ>brighten,agt>thing,obj>concrete_thing,gol>thing,ins>thing)"	"MAKE LIGHTER"	"THE PAINT WILL LIGHTEN THE ROOM"	{v}	0,auto;
@@ -5957,7 +5957,7 @@
 [clan]	{n}	"clan(icl>social_group>thing,equ>kin)"	"GROUP OF PEOPLE RELATED BY BLOOD OR MARRIAGE"	""	{n}	0,auto;
 [clan]	{n}	"kindred(icl>social_group>thing,equ>kin)"	"GROUP OF PEOPLE RELATED BY BLOOD OR MARRIAGE"	""	{n}	0,auto;
 [claraboya]	{n}	"skylight(icl>window>thing)"	"A WINDOW IN A ROOF TO ADMIT DAYLIGHT"	""	{n}	0,auto;
-[clarear]	{v}	"brighten(icl>change>do,agt>thing,obj>concrete_thing,ins>thing)"	"MAKE LIGHTER OR BRIGHTER"	"THE PAINT WILL BRIGHTEN THE ROOM"	{v}	0,auto;
+[clarear]	{v}	"brighten(icl>change>do,agt>thing,obj>concrete_thing,ins>thing)"	"Make something more colourful or attractive"	"THE PAINT WILL BRIGHTEN THE ROOM"	{v}	0,auto;
 [clarear]	{v}	"lighten(icl>change>do,equ>brighten,agt>thing,obj>concrete_thing,gol>thing,ins>thing)"	"MAKE LIGHTER"	"THE PAINT WILL LIGHTEN THE ROOM"	{v}	0,auto;
 [clarear]	{v}	"lighten(icl>change>occur,obj>thing,gol>thing)"	"BECOME LIGHTER"	"THE ROOM LIGHTENED UP"	{v}	0,auto;
 [claridad]	{n}	"clarity(icl>comprehensibility>thing,ant>obscurity)"	"FREE FROM OBSCURITY AND EASY TO UNDERSTAND"	"THE COMPREHENSIBILITY OF CLEAR EXPRESSION"	{n}	0,auto;
@@ -7788,7 +7788,7 @@
 [cubrir]	{v}	"drape(icl>arrange>do,cob>thing,agt>thing,obj>concrete_thing)"	"PLACE CASUALLY"	"THE CAT DRAPED HERSELF ON THE SOFA"	{v}	0,auto;
 [cubrir]	{v}	"extend(icl>be,equ>last,tmf>time,tmt>time,aoj>thing,dur>time)"	"SPAN AN INTERVAL OF TIME"	"THE WAR (AOJ) EXTENDED OVER FIVE YEARS (DUR)"	{v}	0,auto;
 [cubrir]	{v}	"fill(icl>mend>do,com>dental,agt>person,obj>thing(pof>body),ins>thing)"	"FILL A CAVITY"	"PLUG WITH A SUBSTANCE"	{v}	0,auto;
-[cubrir]	{v}	"screen(icl>obstruct>do,agt>thing,obj>thing)"	"PREVENT FROM ENTERING"	"BLOCK OUT THE STRONG SUNLIGHT"	{v}	0,auto;
+[cubrir]	{v}	"screen(icl>obstruct>do,agt>thing,obj>thing)"	"Prevent from getting into a place"	"BLOCK OUT THE STRONG SUNLIGHT"	{v}	0,auto;
 [cubrir]	{v}	"smear(icl>cover>do,equ>daub,cob>thing,agt>thing,obj>thing)"	"COVER (A SURFACE) BY SMEARING (A SUBSTANCE) OVER IT"	"SMEAR THE WALL WITH PAINT"	{v}	0,auto;
 [cucas]	{n}	"boodle(icl>money>thing)"	"INFORMAL TERMS FOR MONEY"	""	{n}	0,auto;
 [cucas]	{n}	"bread(icl>money>thing,equ>boodle)"	"INFORMAL TERMS FOR MONEY"	""	{n}	0,auto;
@@ -7887,7 +7887,7 @@
 [cumpleaños]	{n}	"birthday(icl>date>thing)"	"THE DATE ON WHICH A PERSON WAS BORN"	""	{n}	0,auto;
 [cumplido]	{n}	"compliment(icl>praise>thing)"	"A REMARK (OR ACT) EXPRESSING PRAISE AND ADMIRATION"	""	{n}	0,auto;
 [cumplimiento]	{n}	"implementation(icl>enforcement>thing,equ>execution)"	"THE ACT OF ACCOMPLISHING SOME AIM OR EXECUTING SOME ORDER"	"THE AGENCY WAS CREATED FOR THE IMPLEMENTATION OF THE POLICY"	{n}	0,auto;
-[cumplir]	{v}	"do(icl>carry_through>do,agt>thing,obj>thing)"	"GET (SOMETHING) DONE"	"I (AGT) DID MY JOB (OBJ)"	{v}	0,auto;
+[cumplir]	{v}	"do(icl>do,equ>accomplish,agt>person,obj>thing)"	"GET (SOMETHING) DONE"	"I (AGT) DID MY JOB (OBJ)"	{v}	0,auto;
 [cumplir]	{v}	"perform(icl>carry_out>do,equ>execute,agt>thing,obj>uw)"	"CARRY INTO EFFECT; BE THE AGENT OF"	"TO PERFORM A TASK (OBJ)   TO PERFORM A TASK (OBJ)   LET+SG"	{v}	0,auto;
 [cumucho]	{n}	"hovel(icl>shelter>thing)"	"SMALL CRUDE SHELTER USED AS A DWELLING"	""	{n}	0,auto;
 [cumucho]	{n}	"hutch(icl>shelter>thing,equ>hovel)"	"SMALL CRUDE SHELTER USED AS A DWELLING"	""	{n}	0,auto;
@@ -9292,7 +9292,7 @@
 [despertar]	{v}	"awaken(icl>change_state>occur,equ>wake_up,obj>thing)"	"STOP SLEEPING"	"SHE WOKE UP TO THE SOUND OF THE ALARM CLOCK"	{v}	0,auto;
 [despertar]	{v}	"elicit(icl>make>do,equ>arouse,agt>thing,obj>thing)"	"CALL FORTH   (EMOTIONS, FEELINGS, AND RESPONSES)"	"AROUSE PITY"	{v}	0,auto;
 [despertar]	{v}	"enkindle(icl>make>do,equ>arouse,agt>thing,obj>thing)"	"CALL FORTH   (EMOTIONS, FEELINGS, AND RESPONSES)"	"AROUSE PITY"	{v}	0,auto;
-[despertar]	{v}	"evoke(icl>call_up>occur,cob>thing,obj>thing)"	"CALL TO MIND"	"HER SPEECH EVOKED A HOSTILE RESPONSE"	{v}	0,auto;
+[despertar]	{v}	"evoke(icl>call_up>occur,cob>thing,obj>thing)"	"CALL FORTH (EMOTIONS, FEELINGS, AND RESPONSES)"	"HER SPEECH EVOKED A HOSTILE RESPONSE"	{v}	0,auto;
 [despertar]	{v}	"fire(icl>excite>do,equ>inspire,cob>feeling(icl>abstract_thing),agt>thing,obj>person,pur>uw)"	"TO MAKE SOMEONE FEEL EXCITED ABOUT SOMETHING"	"I (OBJ) WAS FIRED WITH ENTHUSIASM (COB) TO GO (PUR) TRAVELING IN ASIA"	{v}	0,auto;
 [despertar]	{v}	"kindle(icl>make>do,equ>arouse,agt>thing,obj>thing)"	"CALL FORTH   (EMOTIONS, FEELINGS, AND RESPONSES)"	"AROUSE PITY"	{v}	0,auto;
 [despertar]	{v}	"provoke(icl>annoy>do,agt>thing,obj>person,gol>uw)"	"CALL FORTH   (EMOTIONS, FEELINGS, AND RESPONSES)"	"PROVOKE SMB. (OBJ) TO FURY (GOL)"	{v}	0,auto;
@@ -10248,7 +10248,7 @@
 [dorso]	{n}	"reverse(icl>side>thing,ant>obverse)"	"THE SIDE OF A COIN OR MEDAL THAT DOES NOT BEAR THE PRINCIPAL DESIGN"	""	{n}	0,auto;
 [dosificación]	{n}	"dosage(icl>indefinite_quantity>thing,equ>dose)"	"THE QUANTITY OF AN ACTIVE AGENT (SUBSTANCE OR RADIATION) TAKEN IN OR ABSORBED AT ANY ONE TIME"	""	{n}	0,auto;
 [dosificación]	{n}	"dose(icl>indefinite_quantity>thing)"	"THE QUANTITY OF AN ACTIVE AGENT (SUBSTANCE OR RADIATION) TAKEN IN OR ABSORBED AT ANY ONE TIME"	""	{n}	0,auto;
-[dotación]	{n}	"force(icl>group>thing,aoj>thing)"	"A UNIT THAT IS PART OF SOME MILITARY SERVICE"	"HE STRENGTHENED US FORCES IN THE GULF"	{n}	0,auto;
+[dotación]	{n}	"force(icl>group>thing,aoj>thing)"	"group of people willing to obey orders"	"HE STRENGTHENED US FORCES IN THE GULF"	{n}	0,auto;
 [dotar]	{v}	"empower(icl>enable>do,equ>endow,cob>thing,agt>thing,obj>thing)"	"GIVE QUALITIES OR ABILITIES TO"	""	{v}	0,auto;
 [dotar]	{v}	"endow(icl>enable>do,cob>thing,agt>thing,obj>thing)"	"GIVE QUALITIES OR ABILITIES TO"	""	{v}	0,auto;
 [dotar]	{v}	"endue(icl>enable>do,equ>endow,cob>thing,agt>thing,obj>thing)"	"GIVE QUALITIES OR ABILITIES TO"	""	{v}	0,auto;
@@ -10930,8 +10930,8 @@
 [encubrir]	{v}	"conceal(icl>hide>do,cob>uw,agt>thing,obj>thing)"	"PREVENT FROM BEING SEEN OR DISCOVERED"	"THEY THOUGHT THEY HAD CONCEALED THE JEWELS FROM DISCOVERY"	{v}	0,auto;
 [encubrir]	{v}	"conceal(icl>hold_back>do,cob>thing,agt>thing,obj>thing)"	"KEEP FROM BEING PERCEIVED BY OTHERS"	"YOU CANNOT CONCEAL YOUR GUILT FROM THE POLICE"	{v}	0,auto;
 [encubrir]	{v}	"hide(icl>do,equ>conceal,agt>person,obj>thing,cag>thing,scn>thing)"	"PREVENT FROM BEING SEEN OR DISCOVERED"	"MUSLIM WOMEN (AGT) HIDE THEIR FACES (OBJ) FROM MEN (CAG)"	{v}	0,auto;
-[encubrir]	{v}	"hold_back(icl>do,equ>conceal,agt>thing,obj>thing)"	"HOLD BACK"	"KEEP FROM BEING PERCEIVED BY OTHERS"	{v}	0,auto;
-[encubrir]	{v}	"hold_in(icl>do,equ>conceal,agt>thing,obj>thing)"	"HOLD BACK"	"KEEP FROM BEING PERCEIVED BY OTHERS"	{v}	0,auto;
+[encubrir]	{v}	"hold_back(icl>do,equ>conceal,agt>thing,obj>thing)"	"KEEP FROM BEING PERCEIVED BY OTHERS"	"She (agt) held back important information (obj)"	{v}	0,auto;
+[encubrir]	{v}	"hold_in(icl>do,equ>conceal,agt>thing,obj>thing)"	"KEEP FROM BEING PERCEIVED BY OTHERS"	"Depression can be traced to holding in anger (obj)"	{v}	0,auto;
 [encumbramiento]	{n}	"hauteur(icl>pride>thing,equ>arrogance)"	"OVERBEARING PRIDE EVIDENCED BY A SUPERIOR MANNER TOWARD INFERIORS"	""	{n}	0,auto;
 [encumbramiento]	{n}	"high-handedness(icl>pride>thing,equ>arrogance)"	"OVERBEARING PRIDE EVIDENCED BY A SUPERIOR MANNER TOWARD INFERIORS"	""	{n}	0,auto;
 [encumbramiento]	{n}	"lordliness(icl>pride>thing,equ>arrogance)"	"OVERBEARING PRIDE EVIDENCED BY A SUPERIOR MANNER TOWARD INFERIORS"	""	{n}	0,auto;
@@ -11579,8 +11579,8 @@
 [esconder]	{v}	"conceal(icl>hold_back>do,cob>thing,agt>thing,obj>thing)"	"KEEP FROM BEING PERCEIVED BY OTHERS"	"YOU CANNOT CONCEAL YOUR GUILT FROM THE POLICE"	{v}	0,auto;
 [esconder]	{v}	"hide(icl>change>do,equ>obscure,agt>thing,obj>thing)"	"MAKE UNDECIPHERABLE OR IMPERCEPTIBLE BY OBSCURING OR CONCEALING"	"A HIDDEN MESSAGE"	{v}	0,auto;
 [esconder]	{v}	"hide(icl>do,equ>conceal,agt>person,obj>thing,cag>thing,scn>thing)"	"PREVENT FROM BEING SEEN OR DISCOVERED"	"MUSLIM WOMEN (AGT) HIDE THEIR FACES (OBJ) FROM MEN (CAG)"	{v}	0,auto;
-[esconder]	{v}	"hold_back(icl>do,equ>conceal,agt>thing,obj>thing)"	"HOLD BACK"	"KEEP FROM BEING PERCEIVED BY OTHERS"	{v}	0,auto;
-[esconder]	{v}	"hold_in(icl>do,equ>conceal,agt>thing,obj>thing)"	"HOLD BACK"	"KEEP FROM BEING PERCEIVED BY OTHERS"	{v}	0,auto;
+[esconder]	{v}	"hold_back(icl>do,equ>conceal,agt>thing,obj>thing)"	"KEEP FROM BEING PERCEIVED BY OTHERS"	"She (agt) held back important information (obj)"	{v}	0,auto;
+[esconder]	{v}	"hold_in(icl>do,equ>conceal,agt>thing,obj>thing)"	"KEEP FROM BEING PERCEIVED BY OTHERS"	"Depression can be traced to holding in anger (obj)"	{v}	0,auto;
 [esconder]	{v}	"obliterate(icl>change>do,equ>obscure,agt>thing,obj>thing)"	"MAKE UNDECIPHERABLE OR IMPERCEPTIBLE BY OBSCURING OR CONCEALING"	"A HIDDEN MESSAGE"	{v}	0,auto;
 [esconder]	{v}	"obscure(icl>change>do,agt>thing,obj>thing)"	"MAKE UNDECIPHERABLE OR IMPERCEPTIBLE BY OBSCURING OR CONCEALING"	"A HIDDEN MESSAGE"	{v}	0,auto;
 [esconder]	{v}	"shelter(icl>supply>be,cob>thing,obj>thing,aoj>thing)"	"PROVIDE SHELTER FOR"	"AFTER THE EARTHQUAKE, THE GOVERNMENT COULD NOT PROVIDE SHELTER FOR THE THOUSANDS OF HOMELESS PEOPLE"	{v}	0,auto;
@@ -11898,7 +11898,7 @@
 [estimular]	{v}	"elicit(icl>make>do,equ>arouse,agt>thing,obj>thing)"	"CALL FORTH   (EMOTIONS, FEELINGS, AND RESPONSES)"	"AROUSE PITY"	{v}	0,auto;
 [estimular]	{v}	"energize(icl>affect>occur,equ>stimulate,obj>thing)"	"CAUSE TO BE ALERT AND ENERGETIC"	"COFFEE AND TEA STIMULATE ME"	{v}	0,auto;
 [estimular]	{v}	"enkindle(icl>make>do,equ>arouse,agt>thing,obj>thing)"	"CALL FORTH   (EMOTIONS, FEELINGS, AND RESPONSES)"	"AROUSE PITY"	{v}	0,auto;
-[estimular]	{v}	"evoke(icl>call_up>occur,cob>thing,obj>thing)"	"CALL TO MIND"	"HER SPEECH EVOKED A HOSTILE RESPONSE"	{v}	0,auto;
+[estimular]	{v}	"evoke(icl>call_up>occur,cob>thing,obj>thing)"	"CALL FORTH (EMOTIONS, FEELINGS, AND RESPONSES)"	"HER SPEECH EVOKED A HOSTILE RESPONSE"	{v}	0,auto;
 [estimular]	{v}	"excite(icl>affect>occur,equ>stimulate,obj>thing,ben>volitional_thing,met>thing)"	"ACT AS A STIMULANT"	"THE BOOK STIMULATED HER IMAGINATION"	{v}	0,auto;
 [estimular]	{v}	"fire(icl>excite>do,equ>inspire,cob>feeling(icl>abstract_thing),agt>thing,obj>person,pur>uw)"	"TO MAKE SOMEONE FEEL EXCITED ABOUT SOMETHING"	"I (OBJ) WAS FIRED WITH ENTHUSIASM (COB) TO GO (PUR) TRAVELING IN ASIA"	{v}	0,auto;
 [estimular]	{v}	"hasten(icl>effect>do,equ>induce,agt>thing,obj>thing)"	"CAUSE TO OCCUR RAPIDLY"	"THE INFECTION PRECIPITATED A HIGH FEVER AND ALLERGIC REACTIONS"	{v}	0,auto;
@@ -12261,12 +12261,12 @@
 [excitar]	{v}	"turn_on(icl>disturb>do,equ>agitate,agt>thing,obj>thing)"	"CAUSE TO BE AGITATED, EXCITED, OR ROUSED"	"THE SPEAKER CHARGED UP THE CROWD WITH HIS INFLAMMATORY REMARKS"	{v}	0,auto;
 [excluir]	{v}	"except(icl>exclude>do,src>uw,agt>thing,obj>thing)"	"NOT INCLUDE"	"HIGH TECHNOLOGY EQUIPMENT (OBJ) WOULD BE EXCEPTED FROM ANY TRADE AGREEMENT (SRC)"	{v}	0,auto;
 [excluir]	{v}	"exclude(icl>eliminate>do,src>uw,agt>thing,obj>thing)"	"PREVENT FROM BEING INCLUDED OR CONSIDERED OR ACCEPTED"	"THE BAD RESULTS WERE EXCLUDED FROM THE REPORT"	{v}	0,auto;
-[excluir]	{v}	"keep_out(icl>force>do,equ>withhold,agt>thing,obj>thing)"	"PREVENT FROM ENTERING"	"KEEP HIM OUT!"	{v}	0,auto;
+[excluir]	{v}	"keep_out(icl>force>do,equ>withhold,agt>thing,obj>thing)"	"Prevent from getting into a place"	"KEEP HIM OUT!"	{v}	0,auto;
 [excluir]	{v}	"leave_off(icl>eliminate>do,equ>exclude,agt>thing,obj>thing)"	"PREVENT FROM BEING INCLUDED OR CONSIDERED OR ACCEPTED"	"LEAVE OFF THE TOP PIECE"	{v}	0,auto;
 [excluir]	{v}	"leave_out(icl>eliminate>do,equ>exclude,agt>thing,obj>thing)"	"PREVENT FROM BEING INCLUDED OR CONSIDERED OR ACCEPTED"	"THE BAD RESULTS WERE EXCLUDED FROM THE REPORT"	{v}	0,auto;
 [excluir]	{v}	"omit(icl>exclude>do,agt>thing,obj>thing)"	"PREVENT FROM BEING INCLUDED OR CONSIDERED OR ACCEPTED"	"HE MADE MANY MISTAKES IN SPELLING MOSTLY BY OMITTING LETTERS"	{v}	0,auto;
-[excluir]	{v}	"shut(icl>prevent>do,equ>exclude,agt>thing,obj>thing)"	"PREVENT FROM ENTERING"	"SHUT OUT"	{v}	0,auto;
-[excluir]	{v}	"shut_out(icl>exclude>do,cob>thing,agt>thing,obj>thing)"	"PREVENT FROM ENTERING"	"THE TREES ARE VERY BEAUTIFUL, BUT THEY DO SHUT OUT THE LIGHT"	{v}	0,auto;
+[excluir]	{v}	"shut(icl>prevent>do,equ>exclude,agt>thing,obj>thing)"	"Prevent from getting into a place"	"SHUT OUT"	{v}	0,auto;
+[excluir]	{v}	"shut_out(icl>exclude>do,cob>thing,agt>thing,obj>thing)"	"Prevent from getting into a place"	"THE TREES ARE VERY BEAUTIFUL, BUT THEY DO SHUT OUT THE LIGHT"	{v}	0,auto;
 [excluir]	{v}	"take_out(icl>eliminate>do,equ>exclude,agt>thing,obj>thing)"	"PREVENT FROM BEING INCLUDED OR CONSIDERED OR ACCEPTED"	"THE BAD RESULTS WERE EXCLUDED FROM THE REPORT"	{v}	0,auto;
 [exclusión]	{n}	"exclusion(icl>banishment>thing,equ>ejection)"	"THE ACT OF FORCING OUT SOMEONE OR SOMETHING"	"THE EJECTION OF TROUBLEMAKERS BY THE POLICE"	{n}	0,auto;
 [exclusivo]	{a}	"exclusive(icl>adj)"	"NOT DIVIDED OR SHARED WITH OTHERS"	"THEY HAVE EXCLUSIVE USE OF THE MACHINE"	{a}	0,auto;
@@ -14000,7 +14000,7 @@
 [hacer]	{v}	"cause(icl>do,agt>volitional_thing,obj>thing,gol>uw)"	"VOLITIONALLY FORCE TO"	"THEY (AGT) CAUSED ME (OBJ) TO BUY (GOL) A NEW SOFA"	{v}	0,auto;
 [hacer]	{v}	"create(icl>make>do,agt>thing,obj>uw)"	"BRING INTO EXISTENCE"	"PHILIP GLASS CREATED A NEW KIND OF MUSIC"	{v}	0,auto;
 [hacer]	{v}	"cut(icl>make>do,src>concrete_thing,agt>volitional_thing,obj>concrete_thing,ins>thing)"	"MAKE BY REMOVING MATERIAL"	"CHILDREN (AGT) CUT SNOWFLAKES (OBJ) FROM PAPER (SRC)"	{v}	0,auto;
-[hacer]	{v}	"do(icl>carry_through>do,agt>thing,obj>thing)"	"GET (SOMETHING) DONE"	"I (AGT) DID MY JOB (OBJ)"	{v}	0,auto;
+[hacer]	{v}	"do(icl>do,equ>accomplish,agt>person,obj>thing)"	"GET (SOMETHING) DONE"	"I (AGT) DID MY JOB (OBJ)"	{v}	0,auto;
 [hacer]	{v}	"effect(icl>accomplish>do,agt>thing,obj>thing)"	"ACT SO AS TO BRING INTO EXISTENCE"	"CHEMISTS FAILED TO EFFECT SUCH DECOMPOSITION (OBJ)"	{v}	0,auto;
 [hacer ver]	{v}	"act(icl>pretend>do,agt>person,obj>thing)"	"PRETEND TO HAVE CERTAIN QUALITIES OR STATE OF MIND"	"HE (AGT) ACTED THE IDIOT (OBJ)"	{v}	0,auto;
 [hacer]	{v}	"get(icl>do,equ>cause,agt>thing,obj>volitional_thing,gol>uw)"	"CAUSE TO DO"	"MY CHILDREN (AGT) FINALLY GOT ME (OBJ) TO BUY (GOL) A COMPUTER"	{v}	0,auto;
@@ -17774,8 +17774,8 @@
 [ocultar]	{v}	"conceal(icl>hide>do,cob>uw,agt>thing,obj>thing)"	"PREVENT FROM BEING SEEN OR DISCOVERED"	"THEY THOUGHT THEY HAD CONCEALED THE JEWELS FROM DISCOVERY"	{v}	0,auto;
 [ocultar]	{v}	"conceal(icl>hold_back>do,cob>thing,agt>thing,obj>thing)"	"KEEP FROM BEING PERCEIVED BY OTHERS"	"YOU CANNOT CONCEAL YOUR GUILT FROM THE POLICE"	{v}	0,auto;
 [ocultar]	{v}	"hide(icl>do,equ>conceal,agt>person,obj>thing,cag>thing,scn>thing)"	"PREVENT FROM BEING SEEN OR DISCOVERED"	"MUSLIM WOMEN (AGT) HIDE THEIR FACES (OBJ) FROM MEN (CAG)"	{v}	0,auto;
-[ocultar]	{v}	"hold_back(icl>do,equ>conceal,agt>thing,obj>thing)"	"HOLD BACK"	"KEEP FROM BEING PERCEIVED BY OTHERS"	{v}	0,auto;
-[ocultar]	{v}	"hold_in(icl>do,equ>conceal,agt>thing,obj>thing)"	"HOLD BACK"	"KEEP FROM BEING PERCEIVED BY OTHERS"	{v}	0,auto;
+[ocultar]	{v}	"hold_back(icl>do,equ>conceal,agt>thing,obj>thing)"	"KEEP FROM BEING PERCEIVED BY OTHERS"	"She (agt) held back important information (obj)"	{v}	0,auto;
+[ocultar]	{v}	"hold_in(icl>do,equ>conceal,agt>thing,obj>thing)"	"KEEP FROM BEING PERCEIVED BY OTHERS"	"Depression can be traced to holding in anger (obj)"	{v}	0,auto;
 [ocultar]	{v}	"veil(icl>hide>do,agt>thing,obj>thing)"	"TO OBSCURE, OR CONCEAL WITH OR AS IF WITH A VEIL"	"WOMEN IN AFGHANISTAN VEIL THEIR FACES"	{v}	0,auto;
 [oculto]	{a}	"cloak-and-dagger(icl>adj,equ>clandestine)"	"CONDUCTED WITH OR MARKED BY HIDDEN AIMS OR METHODS"	"CLANDESTINE INTELLIGENCE OPERATIONS"	{a}	0,auto;
 [oculto]	{a}	"secret(icl>adj,equ>clandestine)"	"CONDUCTED WITH OR MARKED BY HIDDEN AIMS OR METHODS"	"SECRET MISSIONS"	{a}	0,auto;
@@ -18664,7 +18664,7 @@
 [personal]	{a}	"intimate(icl>adj)"	"MARKED BY CLOSE ACQUAINTANCE, ASSOCIATION, OR FAMILIARITY"	"INTIMATE FRIEND"	{a}	0,auto;
 [personalidad]	{n}	"panjandrum(icl>important_person>thing,equ>very_important_person)"	"AN IMPORTANT OR INFLUENTIAL (AND OFTEN OVERBEARING) PERSON"	""	{n}	0,auto;
 [personalidad]	{n}	"vip(icl>important_person>thing,equ>very_important_person)"	"AN IMPORTANT OR INFLUENTIAL (AND OFTEN OVERBEARING) PERSON"	""	{n}	0,auto;
-[personal]	{n}	"force(icl>group>thing,aoj>thing)"	"A UNIT THAT IS PART OF SOME MILITARY SERVICE"	"HE STRENGTHENED US FORCES IN THE GULF"	{n}	0,auto;
+[personal]	{n}	"force(icl>group>thing,aoj>thing)"	"group of people willing to obey orders"	"HE STRENGTHENED US FORCES IN THE GULF"	{n}	0,auto;
 [personal]	{n}	"personnel(icl>organization>thing,equ>force)"	"GROUP OF PEOPLE WILLING TO OBEY ORDERS"	"A PUBLIC FORCE IS NECESSARY TO GIVE SECURITY TO THE RIGHTS OF CITIZENS"	{n}	0,auto;
 [persona]	{n}	"individual(icl>organism>thing,equ>person)"	"A HUMAN BEING"	"THERE WAS TOO MUCH FOR ONE PERSON TO DO"	{n}	0,auto;
 [persona]	{n}	"mortal(icl>organism>thing,equ>person)"	"A HUMAN BEING"	"THERE WAS TOO MUCH FOR ONE PERSON TO DO"	{n}	0,auto;

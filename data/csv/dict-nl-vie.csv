@@ -3878,8 +3878,8 @@
 [hỏi]	{v}	"inquire(icl>ask>do,agt>volitional_thing,obj>uw,cao>thing,rec>thing)"	"INQUIRE ABOUT"	"THE WAITER INQUIRED WHETHER (OBJ) WE WOULD LIKE TO SIT NEAR THE WINDOW"	{v}	2,auto-polysemic-3lang;
 [hơ khô]	{v}	"dry(icl>cause>do,agt>thing,obj>concrete_thing,ins>functional_thing)"	"REMOVE THE MOISTURE"	"DRY YOUR HAIR AFTER THE SHOWER!"	{v}	2,auto-monosemic-2lang;
 [họ lan]	{n}	"orchid(icl>flower>thing)"	"ANY OF NUMEROUS PLANTS OF THE ORCHID FAMILY USUALLY HAVING FLOWERS OF UNUSUAL SHAPES AND BEAUTIFUL COLORS"	""	{n}	2,auto-monosemic-2lang;
-[hôm nay]	{misc}	"today(icl>how,com>day)"	"ON THIS DAY AS DISTINCT FROM YESTERDAY OR TOMORROW"	"COME TODAY"	{misc}	2,auto-polysemic-3lang;
 [hôm nay]	{misc}	"today(icl>how,equ>nowadays)"	"IN THESE TIMES"	"TODAY ALMOST EVERY HOME HAS TELEVISION"	{misc}	2,auto-polysemic-3lang;
+[hôm nay]	{misc}	"today(icl>how)"	"ON THIS DAY AS DISTINCT FROM YESTERDAY OR TOMORROW"	"COME TODAY"	{misc}	2,auto-polysemic-3lang;
 [hòm nhỏ]	{n}	"suitcase(icl>baggage>thing,equ>bag)"	"A PORTABLE RECTANGULAR CONTAINER FOR CARRYING CLOTHES"	"HE CARRIED HIS SMALL BAG ONTO THE PLANE WITH HIM"	{n}	2,auto-monosemic-2lang;
 [hôm qua]	{misc}	"yesterday(icl>how)"	"IN THE RECENT PAST"	"ONLY A SHORT TIME AGO"	{misc}	2,auto-polysemic-3lang;
 [ho]	{n}	"cough(icl>symptom>thing)"	"SUDDEN EXPULSION OF AIR FROM THE LUNGS THAT CLEARS THE AIR PASSAGES"	"A COMMON SYMPTOM OF UPPER RESPIRATORY INFECTION OR BRONCHITIS OR PNEUMONIA OR TUBERCULOSIS"	{n}	2,auto-polysemic-3lang;
@@ -4659,7 +4659,7 @@
 [làm trò cười]	{a}	"derisive(icl>adj)"	"ABUSING VOCALLY"	"DERISIVE LAUGHTER"	{a}	1,auto-monosemic-1lang;
 [làm tròn]	{v}	"round(icl>form>do,agt>thing,obj>thing)"	"MAKE ROUND"	"ROUND THE EDGES (OBJ)"	{v}	2,auto-polysemic-3lang;
 [làm ướt]	{v}	"soak(icl>moisten>do,com>liquid,agt>thing,obj>thing,ins>matter)"	"MAKE THOROUGHLY WET OR SATURATED BY OR AS IF BY PLACING IN LIQUID"	"POLICE AIMED WATER HOSES AT THE MARCHERS, SOAKING THEM"	{v}	2,auto-polysemic-3lang;
-[làm]	{v}	"do(icl>carry_through>do,agt>thing,obj>thing)"	"GET (SOMETHING) DONE"	"I (AGT) DID MY JOB (OBJ)"	{v}	2,auto-polysemic-3lang;
+[làm]	{v}	"do(icl>do,equ>accomplish,agt>person,obj>thing)"	"GET (SOMETHING) DONE"	"I (AGT) DID MY JOB (OBJ)"	{v}	2,auto-polysemic-3lang;
 [làm]	{v}	"do(icl>do,equ>perform,cob>thing,agt>volitional_thing,obj>action)"	"CARRY OUT OR PERFORM SMTH"	"JOHN (AGT) DOES THE WEEDING (OBJ)"	{v}	2,auto-polysemic-3lang;
 [làm việc]	{v}	"work(icl>function>occur,obj>functional_thing)"	"TO PERFORM A FUNCTION"	"THE DELETE KEY (OBJ) DOESN'T WORK; IT (OBJ) CAN WORK AS A MAIL SERVER (COB)"	{v}	2,auto-polysemic-3lang;
 [làm]	{v}	"make(icl>do,equ>do,agt>volitional_thing,obj>action,ins>thing)"	"TO PERFORM AN ACTION"	"I (AGT) MADE A PHONE CALL (OBJ)"	{v}	2,auto-polysemic-3lang;
@@ -5042,7 +5042,7 @@
 [lượng]	{n}	"quantity(icl>concept>thing)"	"SOMETHING THAT HAS A MAGNITUDE AND CAN BE REPRESENTED IN MATHEMATICAL EXPRESSIONS BY A CONSTANT OR A VARIABLE"	""	{n}	2,auto-polysemic-3lang;
 [lương]	{n}	"salary(icl>regular_payment>thing,equ>wage)"	"SOMETHING THAT REMUNERATES"	"WAGES WERE PAID BY CHECK"	{n}	2,auto-polysemic-3lang;
 [luôn luôn]	{misc}	"always(icl>how)"	"SEEMINGLY WITHOUT INTERRUPTION"	"ALWAYS LOOKING FOR FAULTS"	{misc}	2,auto-polysemic-3lang;
-[luôn luôn]	{misc}	"ever(icl>how,equ>always)"	"AT ALL TIMES"	"EVER BUSY"	{misc}	2,auto-polysemic-3lang;
+[luôn luôn]	{misc}	"ever(icl>how,equ>always,ant>never)"	"AT ALL TIMES"	"EVER BUSY"	{misc}	2,auto-polysemic-3lang;
 [lụt]	{n}	"flood(icl>filling>thing)"	"THE ACT OF FLOODING"	"FILLING TO OVERFLOWING"	{n}	2,auto-polysemic-3lang;
 [lụt]	{n}	"flood(icl>geological_phenomenon>thing)"	"THE RISING OF A BODY OF WATER AND ITS OVERFLOWING ONTO NORMALLY DRY LAND"	"PLAINS FERTILIZED BY ANNUAL INUNDATIONS"	{n}	2,auto-polysemic-3lang;
 [lưu biến học]	{n}	"rheology(icl>physics>thing)"	"THE BRANCH OF PHYSICS THAT STUDIES THE DEFORMATION AND FLOW OF MATTER"	""	{n}	2,auto-monosemic-2lang;
@@ -5088,7 +5088,7 @@
 [mái đua]	{n}	"cornice(icl>molding>thing)"	"A MOLDING AT THE CORNER BETWEEN THE CEILING AND THE TOP OF A WALL"	""	{n}	2,auto-polysemic-3lang;
 [mái hòm nhĩ]	{n}	"roof(icl>protective_covering>thing,pof>vehicle)"	"PROTECTIVE COVERING ON TOP OF A MOTOR VEHICLE"	""	{n}	2,auto-monosemic-2lang;
 [mãi mãi]	{misc}	"always(icl>how)"	"SEEMINGLY WITHOUT INTERRUPTION"	"ALWAYS LOOKING FOR FAULTS"	{misc}	2,auto-polysemic-3lang;
-[mãi mãi]	{misc}	"ever(icl>how,equ>always)"	"AT ALL TIMES"	"EVER BUSY"	{misc}	2,auto-polysemic-3lang;
+[mãi mãi]	{misc}	"ever(icl>how,equ>always,ant>never)"	"AT ALL TIMES"	"EVER BUSY"	{misc}	2,auto-polysemic-3lang;
 [mái nhà]	{n}	"roof(icl>protective_covering>thing,pof>vehicle)"	"PROTECTIVE COVERING ON TOP OF A MOTOR VEHICLE"	""	{n}	2,auto-polysemic-3lang;
 [mái]	{n}	"roof(icl>protective_covering>thing,pof>vehicle)"	"PROTECTIVE COVERING ON TOP OF A MOTOR VEHICLE"	""	{n}	2,auto-polysemic-3lang;
 [mai táng]	{v}	"bury(icl>forget>do,agt>person,obj>thing)"	"DISMISS FROM THE MIND; STOP REMEMBERING"	"I TRIED TO BURY THESE UNPLEASANT MEMORIES"	{v}	2,auto-polysemic-3lang;
@@ -7240,7 +7240,7 @@
 [sẹo]	{n}	"scar(icl>symptom>thing)"	"A MARK LEFT (USUALLY ON THE SKIN) BY THE HEALING OF INJURED TISSUE"	""	{n}	2,auto-polysemic-3lang;
 [service restaurant+ quán ăn tự phục vụ]	{n}	"self-service(icl>service>thing)"	"THE PRACTICE OF SERVING YOURSELF (AS IN A GROCERY OR CAFETERIA)"	""	{n}	1,auto-monosemic-1lang;
 [siêng năng]	{a}	"industrious(icl>adj,equ>hardworking)"	"CHARACTERIZED BY HARD WORK AND PERSEVERANCE"	""	{a}	2,auto-polysemic-3lang;
-[siết chặt lại]	{v}	"close(icl>occur,equ>come_together,obj>thing)"	"COME TOGETHER"	"HER ARMS CLOSED AROUND HER LONG LOST RELATIVE"	{v}	1,auto-monosemic-1lang;
+[siết chặt lại]	{v}	"close(icl>occur,equ>come_together,obj>thing)"	"COME TOGETHER, AS IF IN AN EMBRACE"	"HER ARMS CLOSED AROUND HER LONG LOST RELATIVE"	{v}	1,auto-monosemic-1lang;
 [siêu đỏ]	{a}	"infrared(icl>adj)"	"HAVING OR EMPLOYING WAVELENGTHS LONGER THAN LIGHT BUT SHORTER THAN RADIO WAVES"	"INFRARED RADIATION"	{a}	1,auto-monosemic-1lang;
 [siêu phàm]	{a}	"superhuman(icl>adj,ant>subhuman)"	"ABOVE OR BEYOND THE HUMAN OR DEMANDING MORE THAN HUMAN POWER OR ENDURANCE"	"SUPERHUMAN BEINGS"	{a}	2,auto-polysemic-3lang;
 [siêu thanh]	{a}	"supersonic(icl>adj,ant>sonic)"	"(OF SPEED) GREATER THAN THE SPEED OF SOUND IN A GIVEN MEDIUM (ESPECIALLY AIR)"	"A SUPERSONIC BOMBER FLIES SO FAST THAT IT MUST RELEASE ITS BOMBS WHILE THE TARGET IS STILL OVER THE HORIZON"	{a}	2,auto-polysemic-3lang;

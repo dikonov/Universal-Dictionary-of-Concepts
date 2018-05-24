@@ -586,7 +586,6 @@ almond_tree(icl>fruit_tree>thing)	Hypernymy	n	1(2),2(2),3(2)	17123
 aloe(icl>succulent>thing)	Direct	n	3(2)	22556
 aloes(icl>purgative>thing)	Direct	n	1(2)	22593
 alone(icl>how)	Direct	adv	1(3)	14619
-along(icl>how)	Direct	adv	2(2)	10187
 aloofness(icl>indifference>thing,equ>distance)	Direct	n	1(2)	36307
 aloofness(icl>indifference>thing,equ>distance)	Direct	n	1(4)	9145
 alp(icl>mountain>thing)	Direct	n	2(2)	1237
@@ -8070,7 +8069,6 @@ djakarta(iof>national_capital>thing,equ>jakarta)	Direct	n	1(2)	24124
 djibouti(iof>african_country>thing)	Direct	n	3(2)	20093
 djibouti(iof>national_capital>thing)	Direct	n	1(2)	20095
 dna(icl>polymer>thing,equ>deoxyribonucleic_acid)	Direct	n	4(4)	28907
-do(icl>carry_through>do,agt>thing,obj>thing)	Direct	v	4(5)	4115
 do(icl>do,equ>perform,cob>thing,agt>volitional_thing,obj>action)	Direct	v	1(5)	27507
 do(icl>occur,equ>act,obj>thing,man>uw)	Direct	v	3(5),1(4)	18792
 do(icl>occur,equ>act,obj>thing,man>uw)	Hypernymy	v	1(2)	39062
@@ -20227,7 +20225,6 @@ ouzel(icl>thrush>thing,equ>blackbird)	Direct	n	3(2),3(2)	4523
 oval(icl>adj,equ>egg-shaped)	Direct	a	3(7),3(7)	2069
 oval(icl>conic_section>thing,equ>ellipse)	Direct	n	1(2)	2067
 oven(icl>kitchen_appliance>thing)	Hypernymy	n	2(2),3(2),1(2)	2188
-over(icl>how)	Direct	adv	1(2)	28223
 over(icl>playing_period>thing)	Direct	n	1(2)	12631
 over_again(icl>how,equ>again)	Direct	adv	1(4),5(4),3(4)	2814
 over_and_over(icl>how)	Direct	adv	2(2),1(2)	11236
@@ -22875,7 +22872,6 @@ quick(icl>adj,equ>agile)	Direct	a	2(2)	36490
 quick(icl>adj,equ>immediate)	Direct	a	1(4)	23789
 quick-witted(icl>adj)	Direct	a	2(2)	21916
 quickly(icl>how,ant>slowly,com>quick)	Direct	adv	1(6)	1922
-quickly(icl>how,equ>promptly,com>quick)	Direct	adv	3(2),3(2)	18939
 quickness(icl>pace>thing,equ>celerity)	Direct	n	1(4)	1460
 quicksand(icl>pit>thing)	Direct	n	3(3)	23593
 quicksilver(icl>metallic_element>thing,equ>mercury)	Direct	n	1(5)	2972
