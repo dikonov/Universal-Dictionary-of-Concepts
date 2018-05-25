@@ -19274,7 +19274,7 @@ network(icl>system>abstract_thing,obj>thing)	Direct	n	2(2),1(2)	27966
 neurologic(icl>adj,equ>neurological,com>neurology)	Direct	a	2(4),1(2)	35409
 neurology(icl>medical_science>thing)	Direct	n	(4)	36326
 neuron(icl>somatic_cell>thing,equ>nerve_cell)	Direct	n	3(2)	8458
-neuter(icl>adj,ant>masculine)	Direct	a	1(2)	31199
+neuter(icl>adj,ant>masculine,scn>grammar)	Direct	a	1(2)	31199
 neuter(icl>gender>thing)	Direct	n	1(2)	31200
 neutral(icl>adj,equ>inert,fld>chemistry)	Direct	a	2(2)	14658
 never(icl>how,ant>ever)	Direct	adv	1(5),1(5)	28209
