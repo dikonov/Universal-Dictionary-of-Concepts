@@ -66,5 +66,6 @@ Related links:
 Git repositories
 ----------------
 Our resource is hosted at Gitlab and mirrored at GitHub.
+
 https://gitlab.com/dikonov/Universal-Dictionary-of-Concepts (Main repository)
 https://github.com/dikonov/Universal-Dictionary-of-Concepts (Mirror)
