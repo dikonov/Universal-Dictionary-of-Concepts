@@ -1,20 +1,25 @@
-This folder contained an XDXF rendering of the data. The old snapshot files have been deleted in anticipation of migrating to a different git provider.
-Large binary files should not be stored in a git repository and it is not possible to update them frequently due to technical limitations.
+This folder contained an XDXF rendering of the data. The old snapshot files have been deleted in 
+anticipation of migrating to a different git provider. Large binary files should not be stored in 
+a git repository and it is not possible to update them frequently due to technical limitations.
 A perl script to convert current *.csv files to XDXF is offered instead. It should be run in console.
 
 ./csv2xdxf.pl csv
 
-The resulting XDXF files can be used as-is or converted to other dictionary formats by makedict - a console tool found at https://github.com/soshial/xdxf_makedict.
+The resulting XDXF files can be used as-is or converted to other dictionary formats by makedict - 
+a console tool found at https://github.com/soshial/xdxf_makedict or DictBuilder on a Mac
 
 
-XDXF is a simple XML dictionary data interchange format supported by several GUI dictionary shells available for Linux, Windows, Android, etc.
-It can be used to lookup and browse the dictionary locally in a convenient way.
+XDXF is a simple XML dictionary data interchange format supported by several GUI dictionary shells 
+available for Linux, Windows, Android, etc. It can be used to lookup and browse the dictionary 
+locally in a convenient way.
 
 Compatible dictionary shells:
 Goldendict  http://goldendict.org/    (Recommended)
-WiseDict  http://wise.sourceforge.net/
-Atlantida  http://atla.revdanica.com/
+Dicto  http://www.dicto.org.ru/
+Alpus  http://ng-comp.com/alpus/index.html
+XDclient  https://savannah.nongnu.org/projects/xdclient/
 ...
 
-A description of the XDXF format is found here: https://github.com/soshial/xdxf_makedict/tree/master/format_standard
+A description of the XDXF format is found here:  
+https://github.com/soshial/xdxf_makedict/tree/master/format_standard
 
