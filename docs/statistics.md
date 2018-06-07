@@ -1,6 +1,6 @@
 Statistical Summary - _General lexicon_
 =====================================
-Thu Jun  7 17:09:47 MSK 2018
+Thu Jun  7 17:25:25 MSK 2018
 
 UNL volume (dict-unl.csv)
 -------------------------
@@ -15,17 +15,20 @@ Total number of UWs (senses, concepts):   93198
 
 
 Source language summary:
-	LF	|	4
-	ara	|	1
-	eng	|	88058
-	fra	|	41
-	heb	|	1
-	hin	|	306
-	rus	|	4770
-	rus 	|	5
-	sumo	|	1
-	tur	|	1
-	unl	|	6
+
+| Language	| Concepts	|
+|---------------|---------------|
+|	eng	|	88058	|
+|	rus	|	4770	|
+|	hin	|	306	|
+|	fra	|	41	|
+|	unl	|	6	|
+|	rus 	|	5	|
+|	LF	|	4	|
+|	sumo	|	1	|
+|	tur	|	1	|
+|	heb	|	1	|
+|	ara	|	1	|
 
 English volume (dict-nl-eng.csv)
 --------------------------------
