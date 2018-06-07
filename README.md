@@ -57,9 +57,14 @@ Related links:
 --------------
 **Online demos of UNL enabled MT systems:**
 - Russian/English ⇄ UNL converter and deconverter is available at http://www.unl.ru.
-- A UNL → Spanish deconverter is found at http://www.unl.fi.upm.es/english/lg_test.htm
 
 **Other UNL dictionaries:**
 - The UNL Development Center (UNDC) dictionary: http://www.undl.org/unlexp/
 - UNLArium UNLdic http://www.unlweb.net/unlarium/
 
+
+Git repositories
+----------------
+Our resource is hosted at Gitlab and mirrored at GitHub.
+https://gitlab.com/dikonov/Universal-Dictionary-of-Concepts (Main repository)
+https://github.com/dikonov/Universal-Dictionary-of-Concepts (Mirror)
