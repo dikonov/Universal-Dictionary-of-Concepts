@@ -1507,8 +1507,8 @@ badger(icl>musteline_mammal>thing)	Direct	n	1(5)	2346
 badlands(icl>land>thing)	Direct	n	1(2)	26662
 badminton(icl>court_game>thing)	Direct	n	1(4)	21377
 bag(icl>baggage>thing)	Direct	n	1(2)	14020
-bag(icl>container>thing)	Direct	n	3(4)	1814
-bag(icl>container>thing)	Direct	n	1(2)	28333
+bag(icl>container>thing,equ>purse)	Direct	n	3(4)	1814
+bag(icl>container>thing,equ>purse)	Direct	n	1(2)	28333
 bag(icl>mammary_gland>thing,equ>udder)	Direct	n	1(4)	6055
 baggage(icl>case>thing)	Direct	n	1(2)	7031
 bagging(icl>fabric>thing,equ>sacking)	Direct	n	1(2)	11843
@@ -23639,7 +23639,7 @@ renovate(icl>regenerate>do,agt>thing,obj>thing)	Direct	v	3(5)	7119
 renown(icl>honor>thing,equ>fame,ant>infamy)	Direct	n	5(5),6(4)	1142
 renowned(icl>adj,equ>celebrated)	Direct	a	1(4),4(4)	3464
 renowned(icl>adj,equ>celebrated)	Direct	a	1(4)	4382
-rent(icl>contract>do,agt>thing,obj>thing)	Direct	v	1(2)	4118
+rent(icl>contract>do,agt>volitional_thing,cag>volitional_thing,obj>thing,dur>thing,val>thing)	Direct	v	1(2)	4118
 rent(icl>get>do,equ>lease,agt>thing,obj>thing)	Direct	v	(2),1(2)	11959
 rent(icl>opening>thing,equ>rip)	Direct	n	1(2)	15762
 renter(icl>payer>thing,equ>tenant)	Direct	n	2(2)	29214
@@ -29806,7 +29806,7 @@ trample(icl>walk>do,equ>tramp_down,agt>thing,obj>thing)	Direct	v	1(2)	9942
 tranquil(icl>adj,equ>calm)	Direct	a	1(4)	2439
 tranquil(icl>adj,equ>calm)	Direct	a	4(2)	2748
 tranquil(icl>adj,equ>placid)	Direct	a	1(4),2(4),4(4)	26361
-transaction(icl>group_action>thing)	Direct	n	1(4)	9149
+transaction(icl>group_action>thing,agt>volitional_thing,cag>volitional_thing)	Direct	n	1(4)	9149
 transcendentalism(icl>philosophy>thing)	Direct	n	1(4)	23557
 transcript(icl>written_record>thing)	Direct	n	8(4),3(7)	11136
 transcription(icl>creating_from_raw_materials>thing,equ>recording)	Direct	n	1(2)	26259

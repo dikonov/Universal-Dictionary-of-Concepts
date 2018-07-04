@@ -1578,9 +1578,9 @@
 [alquilar]	{v}	"lease(icl>get>do,agt>thing,obj>thing)"	"ENGAGE FOR SERVICE UNDER A TERM OF CONTRACT"	"WE TOOK AN APARTMENT ON A QUIET STREET"	{v}	0,auto;
 [alquilar]	{v}	"lease(icl>give>do,cob>thing,agt>volitional_thing,obj>thing,rec>volitional_thing)"	"GRANT USE OR OCCUPATION OF UNDER A TERM OF CONTRACT"	"I AM LEASING MY COUNTRY ESTATE TO SOME FOREIGNERS"	{v}	0,auto;
 [alquilar]	{v}	"let(icl>give>do,equ>lease,agt>volitional_thing,obj>concrete_thing)"	"GRANT USE OR OCCUPATION OF UNDER A TERM OF CONTRACT"	"TO LET THE SECOND FLOOR (OBJ) FOR THREE MONTHS"	{v}	0,auto;
-[alquilar]	{v}	"rent(icl>contract>do,agt>thing,obj>thing)"	"HOLD UNDER A LEASE OR RENTAL AGREEMENT"	"OF GOODS AND SERVICES"	{v}	0,auto;
+[alquilar]	{v}	"rent(icl>contract>do,agt>volitional_thing,cag>volitional_thing,obj>thing,dur>thing,val>thing)"	"HOLD UNDER A LEASE OR RENTAL AGREEMENT"	"OF GOODS AND SERVICES"	{v}	0,auto;
 [alquilar]	{v}	"rent(icl>get>do,equ>lease,agt>thing,obj>thing)"	"ENGAGE FOR SERVICE UNDER A TERM OF CONTRACT"	"LET'S RENT A CAR"	{v}	0,auto;
-[alquilar]	{v}	"rent(icl>give>do,equ>lease,cob>thing,agt>volitional_thing,obj>thing,dur>thing,val>thing)"	"GRANT USE OR OCCUPATION OF UNDER A TERM OF CONTRACT"	"I AM LEASING MY COUNTRY ESTATE TO SOME FOREIGNERS"	{v}	0,auto;
+[alquilar]	{v}	"rent(icl>give>do,equ>lease,agt>volitional_thing,cag>volitional_thing,obj>thing,dur>thing,val>thing)"	"GRANT USE OR OCCUPATION OF UNDER A TERM OF CONTRACT"	"I AM LEASING MY COUNTRY ESTATE TO SOME FOREIGNERS"	{v}	0,auto;
 [alquilar]	{v}	"rent_out(icl>lend>do,equ>hire_out,agt>volitional_thing,obj>thing,dur>thing,rec>thing,val>thing)"	"GRANT THE SERVICES OF OR THE TEMPORARY USE OF, FOR A FEE"	"WE RENT OUT OUR APARTMENT TO TOURISTS EVERY YEAR"	{v}	0,auto;
 [alquiler]	{n}	"tenancy(icl>residency>thing,equ>occupancy)"	"AN ACT OF BEING A TENANT OR OCCUPANT"	""	{n}	0,auto;
 [altanería]	{n}	"disdainfulness(icl>arrogance>thing,equ>condescension)"	"THE TRAIT OF DISPLAYING ARROGANCE BY PATRONIZING THOSE CONSIDERED INFERIOR"	""	{n}	0,auto;
@@ -21503,7 +21503,7 @@
 [tranquilo]	{a}	"quiet(icl>adj,ant>noisy)"	"FREE OF NOISE OR UPROAR"	"A QUIET AUDIENCE AT THE CONCERT"	{a}	0,auto;
 [transacción]	{n}	"deal(icl>transaction>thing)"	"A PARTICULAR INSTANCE OF BUYING OR SELLING"	"IT WAS A PACKAGE DEAL"	{n}	0,auto;
 [transacción]	{n}	"trade(icl>transaction>thing,equ>deal)"	"A PARTICULAR INSTANCE OF BUYING OR SELLING"	"I HAD NO FURTHER TRADE WITH HIM"	{n}	0,auto;
-[transacción]	{n}	"transaction(icl>group_action>thing)"	"THE ACT OF TRANSACTING WITHIN OR BETWEEN GROUPS (AS CARRYING ON COMMERCIAL ACTIVITIES)"	"NO TRANSACTIONS ARE POSSIBLE WITHOUT HIM"	{n}	0,auto;
+[transacción]	{n}	"transaction(icl>group_action>thing,agt>volitional_thing,cag>volitional_thing)"	"THE ACT OF TRANSACTING WITHIN OR BETWEEN GROUPS (AS CARRYING ON COMMERCIAL ACTIVITIES)"	"NO TRANSACTIONS ARE POSSIBLE WITHOUT HIM"	{n}	0,auto;
 [transbordar]	{v}	"transfer(icl>move>do,plt>thing,plf>thing,agt>thing,obj>thing)"	"MOVE FROM ONE PLACE TO ANOTHER"	"TRANSFER THE PACKET (OBJ) FROM HIS POCKET (PLF) TO THE TABLE (PLT)"	{v}	0,auto;
 [transbordar]	{v}	"transfer(icl>shift>do,agt>thing,obj>thing)"	"TRANSFER FROM ONE PLACE OR PERIOD TO ANOTHER"	"THE ANCIENT GREEK STORY WAS TRANSPLANTED INTO MODERN AMERICA"	{v}	0,auto;
 [transbordar]	{v}	"transplant(icl>do,equ>transfer,plt>thing,plf>thing,agt>thing,obj>thing)"	"TRANSFER FROM ONE PLACE OR PERIOD TO ANOTHER"	"TO TRANSPLANT ONE'S FAMILY(OBJ) FROM ENGLAND(PLF) TO FRANCE(PLT)"	{v}	0,auto;
