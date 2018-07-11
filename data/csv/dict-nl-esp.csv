@@ -4154,7 +4154,7 @@
 [bolsa]	{n}	"bag(icl>containerful>thing)"	"THE QUANTITY THAT A BAG WILL HOLD"	"HE ATE A LARGE BAG OF POPCORN"	{n}	0,auto;
 [bolsa]	{n}	"pocket(icl>funds>thing)"	"A SUPPLY OF MONEY"	"THEY DIPPED INTO THE TAXPAYERS' POCKETS"	{n}	0,auto;
 [bomba]	{n}	"bomb(icl>explosive_device>thing)"	"AN EXPLOSIVE DEVICE FUSED TO EXPLODE UNDER SPECIFIC CONDITIONS"	""	{n}	0,auto;
-[bombilla]	{n}	"bulb(icl>electric_lamp>thing,equ>light_bulb)"	"ELECTRIC LAMP CONSISTING OF A TRANSPARENT OR TRANSLUCENT GLASS HOUSING CONTAINING A WIRE FILAMENT (USUALLY TUNGSTEN) THAT EMITS LIGHT WHEN HEATED BY ELECTRICITY"	""	{n}	0,auto;
+[bombilla]	{n}	"light_bulb(icl>electric_lamp>thing)"	"ELECTRIC LAMP CONSISTING OF A TRANSPARENT OR TRANSLUCENT GLASS HOUSING CONTAINING A WIRE FILAMENT (USUALLY TUNGSTEN) THAT EMITS LIGHT WHEN HEATED BY ELECTRICITY"	""	{n}	0,auto;
 [bombón]	{n}	"eyeful(icl>woman>thing)"	"A STRIKINGLY BEAUTIFUL WOMAN"	"SHE WAS A STATUESQUE REDHEADED EYEFUL"	{n}	0,auto;
 [bombón]	{n}	"knockout(icl>woman>thing,equ>smasher)"	"A VERY ATTRACTIVE OR SEDUCTIVE LOOKING WOMAN"	""	{n}	0,auto;
 [bombón]	{n}	"looker(icl>woman>thing,equ>smasher)"	"A VERY ATTRACTIVE OR SEDUCTIVE LOOKING WOMAN"	""	{n}	0,auto;

@@ -2941,7 +2941,6 @@ building(icl>structure>thing)	Hypernymy	n	1(2),3(2)	368
 building(icl>structure>thing)	Hypernymy	n	2(2),1(2),3(2)	39363
 built-in(icl>adj)	Direct	a	2(2)	10371
 bujumbura(iof>national_capital>thing)	Direct	n	(4)	23928
-bulb(icl>electric_lamp>thing,equ>light_bulb)	Direct	n	1(3)	7891
 bulbous_plant(icl>vascular_plant>thing)	Direct	n	2(2)	1643
 bulgaria(iof>balkan_country>thing)	Direct	n	(4)	19173
 bulgarian(icl>adj,com>bulgaria)	Direct	a	2(2)	15812
@@ -15528,6 +15527,7 @@ light(icl>source_of_illumination>thing)	Direct	n	1(2)	23116
 light(icl>vitality>thing,equ>sparkle)	Direct	n	8(4)	3454
 light-blue(icl>adj)	Direct	a	1(2)	10254
 light-year(icl>astronomy_unit>thing,equ>light_year)	Direct	n	1(4),2(2)	24191
+light_bulb(icl>electric_lamp>thing)	Direct	n	1(3)	7891
 light_diet(icl>diet>thing)	Direct	n	3(2)	12120
 light_up(icl>lighten>do,equ>light,agt>thing,obj>thing)	Direct	v	1(2)	38430
 light_up(icl>occur,equ>clear_up,obj>thing)	Direct	v	2(2)	35531
@@ -29674,7 +29674,6 @@ topic(icl>message>thing,equ>subject)	Direct	n	3(6),1(7)	6936
 topography(icl>shape>thing)	Direct	n	1(4)	28119
 topology(icl>configuration>thing)	Direct	n	2(2)	26997
 torch(icl>electric_lamp>thing,equ>flashlight)	Direct	n	2(2)	12537
-torch(icl>light>thing)	Direct	n	1(3)	9748
 torchbearer(icl>leader>thing)	Direct	n	2(2)	2372
 torment(icl>suffering>thing,equ>agony)	Hypernymy	n	5(2),2(2),3(2),1(2)	15420
 torment(icl>suffering>thing,equ>agony)	Hypernymy	n	2(2),1(2)	2737
@@ -32443,7 +32442,7 @@ wash_off(icl>clean>do,agt>thing,obj>thing,ins>thing)	Hypernymy	v	2(2),1(2)	5046
 wash_out(icl>clean>do,agt>thing,obj>thing,ins>thing)	Hypernymy	v	2(2),1(2)	5046
 washbasin(icl>sink>thing)	Direct	n	2(4)	21382
 washbowl(icl>sink>thing,equ>washbasin)	Direct	n	1(2)	21382
-washer(icl>white_goods>thing)	Direct	n	2(2)	23209
+washing_machine(icl>white_goods>thing)	Direct	n	2(2)	23209
 washington(iof>american_state>thing)	Direct	n	(4)	27104
 washington(iof>federal_government>thing,equ>capital)	Direct	n	(4)	27702
 washington(iof>national_capital>thing)	Direct	n	5(4)	23914
