@@ -15794,7 +15794,7 @@ lottery(icl>game_of_chance>thing)	Direct	n	2(5)	27975
 lotus(icl>rosid_dicot_genus>thing)	Direct	n	1(5)	2195
 loud(icl>adj,ant>soft)	Direct	a	8(2)	6010
 loud(icl>adj,equ>brassy)	Direct	a	2(2)	5147
-loudspeaker(icl>electro-acoustic_transducer>thing)	Direct	n	3(2)	23541
+loudspeaker(icl>reproducer>functional_thing)	Direct	n	3(2)	23541
 loufah_sponge(icl>fiber>thing,equ>loofa)	Direct	n	2(2)	13872
 lounge(icl>room>thing)	Direct	n	1(2)	38366
 lounge(icl>seat>thing,equ>sofa)	Direct	n	2(4)	25533

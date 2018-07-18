@@ -4826,7 +4826,7 @@
 [linoleum]	{n}	"linoleum(icl>covering_material>thing)"	"A FLOOR COVERING"	""	{n}	2,auto-polysemic-3lang;
 [lipit]	{n}	"lipid(icl>macromolecule>thing)"	"AN OILY ORGANIC COMPOUND INSOLUBLE IN WATER BUT SOLUBLE IN ORGANIC SOLVENTS"	"ESSENTIAL STRUCTURAL COMPONENT OF LIVING CELLS (ALONG WITH PROTEINS AND CARBOHYDRATES)"	{n}	3,auto-monosemic-3lang;
 [lít]	{n}	"liter(icl>metric_capacity_unit>thing)"	"A METRIC UNIT OF CAPACITY EQUAL TO THE VOLUME OF 1 KILOGRAM OF PURE WATER AT 4 DEGREES CENTIGRADE AND 760 MM OF MERCURY (OR APPROXIMATELY 1.76 PINTS)"	""	{n}	2,auto-polysemic-3lang;
-[loa điện động]	{n}	"speaker(icl>electro-acoustic_transducer>thing,equ>loudspeaker)"	"ELECTRO-ACOUSTIC TRANSDUCER THAT CONVERTS ELECTRICAL SIGNALS INTO SOUNDS LOUD ENOUGH TO BE HEARD AT A DISTANCE"	""	{n}	1,auto-monosemic-1lang;
+[loa điện động]	{n}	"speaker(icl>reproducer>functional_thing,equ>loudspeaker)"	"A unit consisting of a cabinet with one or many loudspeaker transducers (drivers), any required frequency filters and external electrical connectors."	""	{n}	1,auto-monosemic-1lang;
 [loài ăn tạp]	{a}	"omnivorous(icl>adj,ant>insectivorous)"	"FEEDING ON BOTH PLANTS AND ANIMALS"	""	{a}	2,auto-monosemic-2lang;
 [loài bò sát]	{n}	"reptile(icl>vertebrate>thing)"	"ANY COLD-BLOODED VERTEBRATE OF THE CLASS REPTILIA INCLUDING TORTOISES TURTLES SNAKES LIZARDS ALLIGATORS CROCODILES AND EXTINCT FORMS"	""	{n}	2,auto-monosemic-2lang;
 [loại đá]	{n}	"pebble(icl>rock>thing)"	"A SMALL SMOOTH ROUNDED ROCK"	""	{n}	2,auto-monosemic-2lang;

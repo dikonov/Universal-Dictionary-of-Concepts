@@ -1589,8 +1589,8 @@
 [altanería]	{n}	"lordliness(icl>pride>thing,equ>arrogance)"	"OVERBEARING PRIDE EVIDENCED BY A SUPERIOR MANNER TOWARD INFERIORS"	""	{n}	0,auto;
 [altanero]	{a}	"chesty(icl>adj,equ>arrogant)"	"HAVING OR SHOWING FEELINGS OF UNWARRANTED IMPORTANCE OUT OF OVERBEARING PRIDE"	"CHESTY AS A PEACOCK"	{a}	0,auto;
 [altanero]	{a}	"self-important(icl>adj,equ>arrogant)"	"HAVING OR SHOWING FEELINGS OF UNWARRANTED IMPORTANCE OUT OF OVERBEARING PRIDE"	"AN ARROGANT OFFICIAL"	{a}	0,auto;
-[altavoz]	{n}	"loudspeaker(icl>electro-acoustic_transducer>thing)"	"ELECTRO-ACOUSTIC TRANSDUCER THAT CONVERTS ELECTRICAL SIGNALS INTO SOUNDS LOUD ENOUGH TO BE HEARD AT A DISTANCE"	""	{n}	0,auto;
-[altavoz]	{n}	"speaker(icl>electro-acoustic_transducer>thing,equ>loudspeaker)"	"ELECTRO-ACOUSTIC TRANSDUCER THAT CONVERTS ELECTRICAL SIGNALS INTO SOUNDS LOUD ENOUGH TO BE HEARD AT A DISTANCE"	""	{n}	0,auto;
+[altavoz]	{n}	"loudspeaker(icl>reproducer>functional_thing)"	"A unit consisting of a cabinet with one or many loudspeaker transducers (drivers), any required frequency filters and external electrical connectors."	""	{n}	0,auto;
+[altavoz]	{n}	"speaker(icl>reproducer>functional_thing,equ>loudspeaker)"	"A unit consisting of a cabinet with one or many loudspeaker transducers (drivers), any required frequency filters and external electrical connectors."	""	{n}	0,auto;
 [alteración]	{n}	"alteration(icl>change>event,obj>thing)"	"AN EVENT THAT OCCURS WHEN SOMETHING PASSES FROM ONE STATE OR PHASE TO ANOTHER"	"HAVE YOU NOTICED ANY ALTERATION IN THE PATIENT'S BEHAVIOUR (OBJ)?"	{n}	0,auto;
 [alteración]	{n}	"change(icl>difference>abstract_thing)"	"A RELATIONAL DIFFERENCE BETWEEN STATES"	"HE ATTRIBUTED THE CHANGE TO THEIR MARRIAGE"	{n}	0,auto;
 [alteración]	{n}	"discomposure(icl>disposition>thing,ant>composure)"	"A TEMPERAMENT THAT IS PERTURBED AND LACKING IN COMPOSURE"	""	{n}	0,auto;
