@@ -21904,8 +21904,8 @@ presentation(icl>show>thing)	Direct	n	1(4)	12155
 presenter(icl>benefactor>thing,equ>donor)	Direct	n	3(2)	16849
 presenter(icl>communicator>thing)	Direct	n	3(2),2(2)	16065
 presentment(icl>show>thing,equ>presentation)	Direct	n	1(4)	12155
+preserve(icl>confiture>thing)	Hypernymy	n	1(4)	9834
 preserve(icl>domain>abstract_thing,mod>thing)	Direct	n	1(2)	27840
-preserve(icl>food>concrete_thing)	Hypernymy	n	1(4)	9834
 preserve(icl>keep>be,aoj>thing,obj>thing)	Direct	v	1(2)	27473
 president(icl>corporate_executive>thing)	Direct	n	2(2)	2754
 president(icl>head_of_state>thing)	Direct	n	1(6)	2796
@@ -26081,12 +26081,12 @@ sickle(icl>edge_tool>thing)	Direct	n	1(2)	4170
 sicklepod(icl>subshrub>thing)	Direct	n	1(2)	21723
 sickly(icl>adj,equ>ailing)	Direct	a	3(4)	2847
 sickness(icl>ill_health>thing,equ>illness,ant>wellness)	Direct	n	1(7)	16643
-side(icl>area>thing)	Direct	n	8(4),7(4)	3966
 side(icl>aspect>thing)	Direct	n	1(4)	18297
 side(icl>opinion>thing)	Direct	n	1(4)	18298
 side(icl>region>thing)	Direct	n	2(6)	1959
 side(icl>region>thing)	Direct	n	4(6)	26989
 side(icl>region>thing)	Direct	n	2(6)	28061
+side(icl>region>thing,pof>body)	Direct	n	8(4),7(4)	3966
 side(icl>spin>thing,equ>english)	Direct	n	1(2)	27030
 side(icl>surface>thing)	Direct	n	3(2)	5948
 side(icl>unit>thing)	Direct	n	1(4),4(4)	6122

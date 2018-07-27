@@ -5635,7 +5635,7 @@
 [chaval]	{n}	"cub(icl>male_child>thing)"	"A MALE CHILD (A FAMILIAR TERM OF ADDRESS TO A BOY)"	""	{n}	0,auto;
 [chaval]	{n}	"kid(icl>juvenile>thing,equ>child)"	"A YOUNG PERSON OF EITHER SEX"	"SHE WRITES BOOKS FOR CHILDREN"	{n}	0,auto;
 [chaval]	{n}	"minor(icl>juvenile>thing,equ>child)"	"A YOUNG PERSON OF EITHER SEX"	"SHE WRITES BOOKS FOR CHILDREN"	{n}	0,auto;
-[check out]	{v}	"check_out(icl>report>do,agt>thing)"	"ANNOUNCE ONE'S DEPARTURE FROM A HOTEL"	""	{v}	0,auto;
+[check out]	{v}	"check_out(icl>report>do,agt>volitional_thing,obj>thing,plf>thing)"	"ANNOUNCE ONE'S DEPARTURE FROM A HOTEL"	""	{v}	0,auto;
 [cheque]	{n}	"check(icl>draft>thing)"	"A WRITTEN ORDER DIRECTING A BANK TO PAY MONEY"	"HE PAID ALL HIS BILLS BY CHECK"	{n}	0,auto;
 [cheque]	{n}	"cheque(icl>draft>thing,equ>check)"	"A WRITTEN ORDER DIRECTING A BANK TO PAY MONEY"	"HE PAID ALL HIS BILLS BY CHECK"	{n}	0,auto;
 [chic]	{a}	"chic(icl>adj)"	"ELEGANT AND STYLISH"	"CHIC ELEGANCE"	{a}	0,auto;
@@ -7549,7 +7549,7 @@
 [cosechero]	{n}	"agriculturalist(icl>farmer>thing,equ>agriculturist)"	"SOMEONE CONCERNED WITH THE SCIENCE OR ART OR BUSINESS OF CULTIVATING THE SOIL"	""	{n}	0,auto;
 [cosido]	{n}	"needlework(icl>creation>thing)"	"A CREATION CREATED OR ASSEMBLED BY NEEDLE AND THREAD"	""	{n}	0,auto;
 [cosmos]	{n}	"cosmos(icl>natural_object>thing,equ>universe)"	"EVERYTHING THAT EXISTS ANYWHERE"	"THEY STUDY THE EVOLUTION OF THE UNIVERSE"	{n}	0,auto;
-[costado]	{n}	"side(icl>area>thing)"	"EITHER THE LEFT OR RIGHT HALF OF A BODY"	"HE HAD A PAIN IN HIS SIDE"	{n}	0,auto;
+[costado]	{n}	"side(icl>region>thing,pof>body)"	"EITHER THE LEFT OR RIGHT HALF OF A BODY"	"HE HAD A PAIN IN HIS SIDE"	{n}	0,auto;
 [costa]	{n}	"coast(icl>shore>thing,equ>seashore)"	"THE SHORE OF A SEA OR OCEAN"	""	{n}	0,auto;
 [costa]	{n}	"cost(icl>value>thing,equ>monetary_value)"	"THE PROPERTY OF HAVING MATERIAL WORTH (OFTEN INDICATED BY THE AMOUNT OF MONEY SOMETHING WOULD BRING IF SOLD)"	"HE COULDN'T CALCULATE THE COST OF THE COLLECTION"	{n}	0,auto;
 [costa]	{n}	"price(icl>value>thing,equ>monetary_value)"	"THE PROPERTY OF HAVING MATERIAL WORTH (OFTEN INDICATED BY THE AMOUNT OF MONEY SOMETHING WOULD BRING IF SOLD)"	"HE PUTS A HIGH PRICE ON HIS SERVICES"	{n}	0,auto;
