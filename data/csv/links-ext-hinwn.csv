@@ -819,7 +819,7 @@ anticipated(icl>adj)	Direct	a	1(2)	6961
 antidepressant(icl>medicine>thing)	Direct	n	3(2)	36604
 antigen(icl>substance>thing)	Direct	n	(2)	28835
 antigua(iof>island>thing)	Direct	n	1(2)	19724
-antigua_and_barbuda(iof>country>thing)	Direct	n	1(2)	19723
+antigua_and_barbuda(iof>central_american_country>thing)	Direct	n	1(2)	19723
 antiguan(icl>adj,com>antigua)	Direct	a	1(2)	19727
 antiguan(icl>west_indian>thing)	Direct	n	1(2)	19726
 antihemorrhagic_factor(icl>fat-soluble_vitamin>thing,equ>vitamin_k)	Direct	n	3(2)	27197
@@ -1515,8 +1515,8 @@ bagging(icl>fabric>thing,equ>sacking)	Direct	n	1(2)	11843
 bagging(icl>fabric>thing,equ>sacking)	Direct	n	1(2)	8026
 baghdad(iof>national_capital>thing)	Direct	n	2(2),2(2)	24130
 bahama_grass(icl>grass>thing,equ>bermuda_grass)	Direct	n	3(2)	2815
-bahama_islands(iof>country>thing,equ>bahamas)	Direct	n	2(2)	19728
-bahamas(iof>country>thing)	Direct	n	2(2)	19728
+bahama_islands(iof>central_american_country>thing,equ>bahamas)	Direct	n	2(2)	19728
+bahamas(iof>central_american_country>thing)	Direct	n	2(2)	19728
 bahamian(icl>adj,com>bahamas)	Direct	a	1(2)	19730
 bahamian(icl>west_indian>person)	Direct	n	1(2)	19729
 bahamian_dollar(icl>dollar>thing)	Direct	n	3(2)	20723
@@ -1631,7 +1631,7 @@ bar(icl>room>thing,equ>barroom)	Direct	n	12(4)	3915
 barb(icl>remark>thing,equ>shot)	Direct	n	3(2)	34233
 barbadian(icl>adj,com>barbados)	Direct	a	1(2)	19736
 barbadian(icl>west_indian>person)	Direct	n	2(2),3(2)	19735
-barbados(iof>country>thing)	Direct	n	3(2)	19731
+barbados(iof>central_american_country>thing)	Direct	n	3(2)	19731
 barbados(iof>island>thing)	Direct	n	3(2)	19733
 barbados_dollar(icl>dollar>thing)	Direct	n	1(2)	20724
 barbed(icl>adj)	Direct	a	4(3),4(3)	1088
@@ -2995,7 +2995,7 @@ bureaucracy(icl>government_officials>thing)	Direct	n	1(7)	9310
 bureaucratic_procedure(icl>procedure>thing)	Direct	n	2(2)	34957
 bureaucratism(icl>government_officials>thing,equ>bureaucracy)	Direct	n	1(4)	9310
 burial(icl>funeral>thing)	Direct	n	2(2)	23991
-burkina_faso(iof>country>thing)	Direct	n	3(2)	20053
+burkina_faso(iof>african_country>thing)	Direct	n	3(2)	20053
 burlesque(icl>caricature>thing,equ>parody)	Direct	n	2(4)	21432
 burly(icl>adj,equ>beefy)	Direct	a	1(4)	1285
 burma(iof>asian_country>thing,equ>myanmar)	Direct	n	3(4)	6373
@@ -3245,7 +3245,7 @@ capable(icl>adj,equ>able)	Direct	a	16(4),1(7),3(4)	30
 cape(icl>land>thing)	Direct	n	3(5)	3633
 cape_gooseberry(icl>ground_cherry>thing)	Direct	n	2(2)	9901
 cape_town(iof>city>thing)	Direct	n	1(2)	35209
-cape_verde(iof>country>thing)	Direct	n	1(2),1(2)	20061
+cape_verde(iof>african_country>thing)	Direct	n	1(2),1(2)	20061
 caper(icl>shrub>thing)	Hypernymy	n	1(2),2(2)	17261
 caper(icl>shrub>thing)	Hypernymy	n	3(2),2(2),1(2)	18506
 capital(icl>seat>thing)	Hypernymy	n	1(2)	15250
@@ -3596,7 +3596,7 @@ cervix(icl>external_body_part>thing,equ>neck)	Direct	n	2(4),1(4),3(4)	3627
 cervix(icl>orifice>thing)	Direct	n	2(2)	11779
 cervus_unicolor(icl>deer>thing,equ>sambar)	Direct	n	3(2)	6610
 cestrum_nocturnum(icl>shrub>thing,equ>night_jasmine)	Direct	n	2(2)	12616
-ceylon(iof>country>thing,equ>sri_lanka)	Direct	n	2(2),1(2)	10921
+ceylon(iof>asian_country>thing,equ>sri_lanka)	Direct	n	2(2),1(2)	10921
 ceylonese(icl>adj,equ>sri_lankan,com>ceylon)	Direct	a	3(2),2(2)	18733
 chad(iof>african_country>thing)	Direct	n	2(2)	20063
 chadian(icl>adj,com>chad)	Direct	a	3(2)	20065
@@ -5369,7 +5369,7 @@ cry_out(icl>express>do,equ>exclaim,agt>volitional_thing,obj>thing)	Direct	v	2(2)
 crying(icl>bodily_process>thing)	Direct	n	5(4)	4554
 crystal(icl>natural_glass>thing,equ>quartz_glass)	Direct	n	2(5),1(6)	5412
 crystalline(icl>adj,ant>noncrystalline)	Direct	a	2(2)	35487
-cuba(iof>country>thing)	Direct	n	1(4)	19777
+cuba(iof>central_american_country>thing)	Direct	n	1(4)	19777
 cuban(icl>adj,com>cuba)	Direct	a	2(2)	19795
 cuban(icl>west_indian>person)	Direct	n	2(2)	19794
 cube(icl>number>thing)	Direct	n	1(3)	34968
@@ -5506,7 +5506,7 @@ cyprian(icl>adj,com>cyprus)	Direct	a	1(2)	19518
 cyprian(icl>woman>person,equ>prostitute)	Direct	n	4(4),1(4)	4651
 cypriot(icl>adj,equ>cyprian,com>cyprus)	Direct	a	1(2),1(2)	19518
 cypriot(icl>european>person)	Direct	n	2(2),2(2),3(2),3(2)	21049
-cyprus(iof>country>thing)	Direct	n	3(2)	19516
+cyprus(iof>european_country>thing)	Direct	n	3(2)	19516
 cystolith(icl>calculus>thing,equ>bladder_stone)	Direct	n	1(2)	32097
 cytomembrane(icl>semipermeable_membrane>thing,equ>cell_membrane)	Direct	n	1(2)	572
 cytoplasm(icl>protoplasm>thing)	Direct	n	1(2),2(2)	570
@@ -8125,10 +8125,10 @@ domiciliate(icl>shelter>do,equ>house,agt>thing,obj>thing)	Direct	v	2(2)	27737
 dominance(icl>control>thing,equ>authority)	Direct	n	1(6),4(4),2(4)	11910
 dominance(icl>control>thing,equ>authority)	Direct	n	3(6),2(6)	2735
 dominate(icl>be,equ>predominate,obj>thing,aoj>thing,scn>thing)	Direct	v	3(2)	28126
-dominica(iof>country>thing)	Direct	n	2(2),2(2)	19796
+dominica(iof>central_american_country>thing)	Direct	n	2(2),2(2)	19796
 dominica(iof>island>thing)	Direct	n	2(2)	19797
 dominican_dollar(icl>dollar>thing)	Direct	n	3(2)	20790
-dominican_republic(iof>country>thing)	Direct	n	1(2)	19798
+dominican_republic(iof>central_american_country>thing)	Direct	n	1(2)	19798
 dominion(icl>region>thing,equ>district)	Hypernymy	n	1(2)	10874
 dominion(icl>region>thing,equ>district)	Hypernymy	n	1(2),2(2)	10953
 dominion(icl>region>thing,equ>district)	Hypernymy	n	2(2),3(2)	18467
@@ -12410,7 +12410,7 @@ greenness(icl>profusion>thing)	Direct	n	1(4)	10315
 greeter(icl>person>thing)	Direct	n	1(2)	10825
 greeter(icl>person>thing)	Direct	n	1(4)	11162
 greeting_card(icl>card>thing)	Direct	n	2(2),1(2)	22175
-grenada(iof>country>thing)	Direct	n	3(2)	19821
+grenada(iof>central_american_country>thing)	Direct	n	3(2)	19821
 grenada_dollar(icl>dollar>thing)	Direct	n	2(2)	20779
 grenadian(icl>adj,com>grenada)	Direct	a	2(2)	19823
 grenadian(icl>west_indian>person)	Direct	n	2(2)	19822
@@ -12651,7 +12651,7 @@ hairdressing(icl>care>thing,equ>hair_care)	Direct	n	2(2)	33113
 haired(icl>adj,equ>hairy,ant>hairless)	Direct	a	2(2)	29239
 hairless(icl>adj,ant>hairy)	Direct	a	3(4)	4775
 hairy(icl>adj,ant>hairless)	Direct	a	2(2)	29239
-haiti(iof>country>thing)	Direct	n	3(2)	19831
+haiti(iof>central_american_country>thing)	Direct	n	3(2)	19831
 haiti(iof>island>thing,equ>hispaniola)	Direct	n	1(2),1(2)	19839
 haitian(icl>adj,com>haiti)	Direct	a	1(2)	19834
 haitian(icl>west_indian>person)	Direct	n	1(2)	19833
@@ -14053,7 +14053,7 @@ indo-aryan(icl>indo-iranian>thing,equ>indic)	Direct	n	3(2),2(2),1(2)	31501
 indo-european(icl>primitive>person,equ>aryan)	Hypernymy	n	2(2),1(2),1(2)	3544
 indolent(icl>adj,equ>faineant)	Direct	a	1(6),2(4)	2231
 indomitable(icl>adj)	Direct	a	1(4)	2505
-indonesia(iof>country>thing)	Direct	n	1(4)	19086
+indonesia(iof>asian_country>thing)	Direct	n	1(4)	19086
 indonesian(icl>adj,com>indonesia)	Direct	a	2(2)	19089
 indonesian(icl>asian>person)	Direct	n	2(2),3(2)	19088
 indonesian(icl>malay>abstract_thing,iof>language)	Direct	n	3(2),3(2)	20933
@@ -14535,7 +14535,7 @@ ismaili(icl>disciple>thing)	Direct	n	3(2),3(2)	33919
 ismailism(icl>shiism>thing)	Direct	n	3(2)	33918
 isobilateral(icl>adj,equ>bilateral)	Direct	a	1(2)	23627
 isotope(icl>atom>thing)	Direct	n	1(2)	36502
-israel(iof>country>thing)	Direct	n	6(4)	20943
+israel(iof>asian_country>thing)	Direct	n	6(4)	20943
 israel(iof>kingdom>thing)	Direct	n	6(4)	20944
 israeli(icl>asian>person)	Direct	n	8(2)	20945
 israelite(icl>person,equ>jew)	Direct	n	1(4)	20156
@@ -14587,7 +14587,7 @@ jainism(icl>religion>thing)	Direct	n	1(2)	10848
 jainist(icl>disciple>thing)	Direct	n	2(2)	10856
 jakarta(iof>national_capital>thing)	Direct	n	1(2)	24124
 jam(icl>conserve>thing)	Direct	n	1(4)	34186
-jamaica(iof>country>thing)	Direct	n	2(2)	19848
+jamaica(iof>central_american_country>thing)	Direct	n	2(2)	19848
 jamaica(iof>island>thing)	Direct	n	2(2)	19847
 jamaican(icl>adj,com>jamaica)	Direct	a	2(2)	19851
 jamaican(icl>west_indian>person)	Direct	n	2(2)	19850
@@ -16050,7 +16050,7 @@ mallet(icl>hammer>thing)	Direct	n	1(2)	9809
 malnourished(icl>adj,ant>nourished)	Direct	a	1(4)	11811
 malnutrition(icl>deficiency_disease>thing)	Direct	n	1(2)	10372
 malodorous(icl>adj,ant>fragrant)	Direct	a	1(4),1(4)	1488
-malta(iof>country>thing)	Direct	n	2(2)	19631
+malta(iof>european_country>thing)	Direct	n	2(2)	19631
 malta(iof>island>thing)	Direct	n	3(2)	19632
 maltese(icl>adj,com>malta)	Direct	a	1(2)	21107
 maltreatment(icl>mistreatment>thing)	Direct	n	1(2)	13
@@ -19904,7 +19904,7 @@ oleander(icl>poisonous_plant>thing)	Hypernymy	n	1(2),3(2),2(2)	30539
 olive(icl>fruit>thing)	Direct	n	1(5)	37714
 olympiad(icl>athletic_contest>thing,equ>olympic_games)	Direct	n	(4)	27967
 olympian(icl>athlete>thing)	Direct	n	1(2)	36583
-olympian(iof>greek_deity>thing)	Direct	n	4(4)	36584
+olympian(icl>greek_deity>thing)	Direct	n	4(4)	36584
 olympics(icl>athletic_contest>thing,equ>olympic_games)	Direct	n	(4),(4)	27967
 oman(iof>asian_country>thing)	Direct	n	3(2)	20896
 omani(icl>adj,com>oman)	Direct	a	1(2)	21068
@@ -21101,7 +21101,7 @@ philippic(icl>denunciation>thing,equ>tirade)	Direct	n	2(2)	23164
 philippine(icl>adj,equ>filipino,com>philippines)	Direct	a	1(2)	19144
 philippine_islands(iof>archipelago>thing,equ>philippines)	Direct	n	2(2)	21069
 philippines(iof>archipelago>thing)	Direct	n	2(2)	21069
-philippines(iof>country>thing)	Direct	n	12(1)	19139
+philippines(iof>asian_country>thing)	Direct	n	12(1)	19139
 philosopher(icl>scholar>thing)	Hypernymy	n	1(2)	25476
 philosopher(icl>scholar>thing)	Direct	n	1(5)	8975
 philosophic(icl>adj,com>philosophy)	Direct	a	2(5),2(9)	13971
@@ -24545,7 +24545,7 @@ rural(icl>adj,com>country)	Direct	a	6(2)	4807
 rush(icl>flow>thing)	Direct	n	3(2)	8754
 rush(icl>motion>thing,equ>haste)	Direct	n	8(2),8(2)	6297
 russet(icl>homespun>thing)	Direct	n	1(2)	28297
-russia(iof>country>thing)	Direct	n	1(4)	10957
+russia(iof>european_country>thing)	Direct	n	1(4)	10957
 russian(icl>european>person)	Direct	n	3(2),2(2),1(2)	9934
 russian(icl>nationality>adj)	Direct	a	1(4)	9937
 russian(icl>slavic>abstract_thing,iof>language)	Direct	n	4(4),1(4)	9936
@@ -24988,10 +24988,10 @@ sailor(icl>serviceman>thing,equ>bluejacket)	Direct	n	1(2),2(2)	26694
 saimiri_sciureus(icl>new_world_monkey>thing,equ>squirrel_monkey)	Direct	n	1(2),2(2)	23862
 saint(icl>good_person>thing)	Direct	n	1(2)	7560
 saint_christopher(iof>island>thing)	Direct	n	3(2),3(2),3(2),3(2)	24225
-saint_kitts_and_nevis(iof>country>thing)	Direct	n	1(2),1(2),1(2),1(2),1(2)	19879
-saint_lucia(iof>country>thing)	Direct	n	1(2),1(2)	19880
+saint_kitts_and_nevis(iof>central_american_country>thing)	Direct	n	1(2),1(2),1(2),1(2),1(2)	19879
+saint_lucia(iof>central_american_country>thing)	Direct	n	1(2),1(2)	19880
 saint_lucia(iof>island>thing)	Direct	n	1(2),1(2)	19882
-saint_vincent_and_the_grenadines(iof>country>thing)	Direct	n	3(2),3(2)	19883
+saint_vincent_and_the_grenadines(iof>central_american_country>thing)	Direct	n	3(2),3(2)	19883
 sake(icl>benefit>thing)	Hypernymy	n	3(2),1(2),2(2)	36345
 saki(icl>new_world_monkey>thing)	Direct	n	2(2)	23858
 sal_ammoniac(icl>salt>thing,equ>ammonium_chloride)	Direct	n	6(2)	9312
@@ -25196,7 +25196,7 @@ santiago(iof>national_capital>thing,equ>gran_santiago)	Direct	n	(4)	23935
 santo_domingo(iof>national_capital>thing)	Direct	n	2(2),2(2),2(2)	23963
 sanwa_millet(icl>millet>thing,equ>japanese_millet)	Direct	n	1(2)	21757
 sao_tome(iof>national_capital>thing)	Direct	n	1(2)	24242
-sao_tome_and_principe(iof>country>thing)	Direct	n	3(2),3(2),3(2),3(2),3(2)	20256
+sao_tome_and_principe(iof>african_country>thing)	Direct	n	3(2),3(2),3(2),3(2),3(2)	20256
 sap(icl>simpleton>thing,equ>fool)	Hypernymy	n	1(2),2(2)	38382
 sap(icl>simpleton>thing,equ>fool)	Hypernymy	n	4(0),5(0),6(0)	38458
 sap(icl>simpleton>thing,equ>fool)	Hypernymy	n	4(0),5(0),6(0)	9193
@@ -27149,7 +27149,7 @@ squirm(icl>move>occur,equ>writhe,obj>thing)	Direct	v	1(2)	11254
 squirrel(icl>rodent>thing)	Direct	n	1(5)	4909
 squirrel_monkey(icl>new_world_monkey>thing)	Direct	n	1(2),2(2)	23862
 sr(icl>metallic_element>thing,equ>strontium)	Direct	n	1(2)	27273
-sri_lanka(iof>country>thing)	Direct	n	2(2),1(2)	10921
+sri_lanka(iof>asian_country>thing)	Direct	n	2(2),1(2)	10921
 sri_lankan(icl>adj,com>ceylon)	Direct	a	3(2),2(2)	18733
 st._george's(iof>national_capital>thing)	Direct	n	2(2),2(2)	24141
 st._john's(iof>national_capital>thing)	Direct	n	2(2),1(4),1(4)	23923
@@ -30136,7 +30136,7 @@ trimming(icl>cut>thing,equ>trim)	Direct	n	1(4)	12779
 trimurti(iof>trio>thing)	Direct	n	2(2)	9054
 trine(icl>set>thing)	Direct	n	2(2),2(2),2(2),2(2),2(2),2(2)	13707
 trinidad(iof>island>thing)	Direct	n	2(2)	20823
-trinidad_and_tobago(iof>country>thing)	Direct	n	2(2),2(2)	19884
+trinidad_and_tobago(iof>central_american_country>thing)	Direct	n	2(2),2(2)	19884
 trinidad_and_tobago_dollar(icl>dollar>thing)	Direct	n	3(2)	20824
 trinidadian(icl>adj,com>trinidad)	Direct	a	2(2)	20828
 trinidadian(icl>inhabitant>person)	Direct	n	2(2),3(2)	20827
@@ -30269,12 +30269,12 @@ turbine(icl>rotary_engine>thing)	Direct	n	1(2)	37448
 turf_out(icl>move>do,equ>expel,agt>thing,obj>thing)	Direct	v	3(2)	13059
 turgid(icl>adj,equ>bloated)	Direct	a	1(2)	34022
 turk(icl>turki>person)	Direct	n	1(2)	13299
-turkey(iof>country>thing)	Direct	n	5(4),4(4)	13873
+turkey(iof>asian_country>thing)	Direct	n	5(4),4(4)	13873
 turkish(icl>adj,com>turkey)	Direct	a	1(2)	13295
 turkish(icl>adj,com>turkey)	Direct	a	2(4)	13300
 turkish(icl>adj,com>turkey)	Direct	a	1(2)	18676
 turkish(icl>turki>thing)	Direct	n	2(4),1(4)	13296
-turkmenistan(iof>country>thing)	Direct	n	6(1)	21109
+turkmenistan(iof>asian_country>thing)	Direct	n	6(1)	21109
 turkoman(icl>turki>abstract_thing,iof>language,equ>turkmen)	Direct	n	2(2),2(2),2(2)	21112
 turkoman(icl>turki>person)	Direct	n	3(2),3(2),3(2)	19430
 turmeric(icl>flavorer>thing)	Hypernymy	n	2(2),3(2),1(2)	15489
@@ -30451,7 +30451,7 @@ ugandan(icl>african>person)	Direct	n	1(2)	20377
 ugliness(icl>appearance>thing,ant>beauty)	Direct	n	1(4),2(4)	13874
 ugly(icl>adj,ant>beautiful)	Direct	a	1(7),2(8)	3711
 uk(iof>kingdom>thing,equ>united_kingdom)	Direct	n	2(2),(4)	19316
-ukraine(iof>country>thing)	Direct	n	1(2),1(2)	19400
+ukraine(iof>european_country>thing)	Direct	n	1(2),1(2)	19400
 ukrainian(icl>adj,com>ukraine)	Direct	a	2(2)	19404
 ukrainian(icl>slavic>abstract_thing,iof>language)	Direct	n	2(2),3(2)	19403
 ukranian(icl>european>thing)	Direct	n	3(2),2(2)	19402
@@ -33240,8 +33240,8 @@ ytterbium(icl>metallic_element>thing)	Direct	n	1(2)	27268
 yuan(icl>chinese_monetary_unit>thing)	Direct	n	7(4)	20930
 yugoslav(icl>adj,equ>yugoslavian,com>yugoslavia)	Direct	a	1(2),1(2)	19666
 yugoslav(icl>european>person)	Direct	n	3(2),3(2),2(2),2(2)	19664
-yugoslavia(iof>european_country>thing)	Direct	n	1(2)	39172
-yugoslavia(iof>european_country>thing,equ>serbia_and_montenegro)	Direct	n	6(4)	19663
+yugoslavia(iof>balkan_country>thing)	Direct	n	1(2)	39172
+yugoslavia(iof>balkan_country>thing,equ>serbia_and_montenegro)	Direct	n	6(4)	19663
 zagreb(iof>national_capital>thing)	Direct	n	2(2)	24022
 zaire(iof>african_country>thing,equ>congo)	Direct	n	3(2)	20084
 zambia(iof>african_country>thing)	Direct	n	6(4)	20382
@@ -33260,7 +33260,7 @@ zimbabwean(icl>african>person)	Direct	n	(2)	20386
 zimbabwean_dollar(icl>dollar>thing)	Direct	n	2(2)	20834
 zinc(icl>metallic_element>thing)	Direct	n	1(3),4(4)	8875
 zing(icl>sound>thing)	Direct	n	1(4)	18926
-zion(iof>country>thing,equ>israel)	Direct	n	3(2)	20943
+zion(iof>asian_country>thing,equ>israel)	Direct	n	3(2)	20943
 zirconium(icl>metallic_element>thing)	Direct	n	1(2)	27265
 zloty(icl>polish_monetary_unit>thing)	Direct	n	2(2)	19653
 zodiac(icl>diagram>thing)	Direct	n	(4),1(5)	206
