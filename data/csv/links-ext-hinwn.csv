@@ -25507,8 +25507,8 @@ section(icl>concept>thing,equ>part)	Hypernymy	n	1(2)	39272
 section(icl>concept>thing,equ>part)	Hypernymy	n	1(2)	5359
 section(icl>division>thing,equ>department)	Hypernymy	n	1(2)	35788
 section(icl>writing>thing)	Direct	n	1(2)	1695
-sector(icl>body>thing)	Direct	n	1(2)	35614
-sector(icl>body>thing)	Hypernymy	n	1(2),2(2)	35733
+sector(icl>group>thing,equ>industry)	Direct	n	1(2)	35614
+sector(icl>group>thing,equ>industry)	Hypernymy	n	1(2),2(2)	35733
 secure(icl>attach>do,cob>concrete_thing,agt>thing,obj>concrete_thing)	Direct	v	1(2)	15065
 securities_market(icl>exchange>thing,equ>stock_exchange)	Direct	n	1(2)	10971
 securities_market(icl>exchange>thing,equ>stock_exchange)	Hypernymy	n	3(2),1(2),13(2),2(2)	35112
