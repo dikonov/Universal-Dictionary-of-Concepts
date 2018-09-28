@@ -1893,7 +1893,7 @@ belt(icl>accessory>thing)	Direct	n	3(5),1(4)	38308
 belt(icl>accessory>thing)	Direct	n	3(5),1(4)	6641
 bemused(icl>adj)	Direct	a	2(2)	8297
 bench(icl>assembly>thing)	Direct	n	1(4)	13016
-bench(icl>seat>thing)	Direct	n	1(2)	13017
+bench(icl>seat>thing,pof>courtroom)	Direct	n	1(2)	13017
 benchmark(icl>reference_point>thing)	Direct	n	6(2),6(2)	3400
 bend(icl>angular_shape>thing,equ>fold)	Direct	n	2(2)	5029
 bend(icl>cause>do,agt>thing,obj>thing,ins>thing)	Direct	v	1(2)	7740

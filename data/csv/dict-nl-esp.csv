@@ -15632,7 +15632,7 @@
 [irritar]	{v}	"rile(icl>displease>do,equ>annoy,agt>thing,obj>thing)"	"CAUSE ANNOYANCE IN"	"DISTURB, ESPECIALLY BY MINOR IRRITATIONS"	{v}	0,auto;
 [irritar]	{v}	"turn_off(icl>repel>do,agt>thing,obj>thing)"	"CAUSE TO FEEL INTENSE DISLIKE OR DISTASTE"	""	{v}	0,auto;
 [irse]	{v}	"depart(icl>change>do,equ>leave,agt>thing)"	"REMOVE ONESELF FROM AN ASSOCIATION WITH OR PARTICIPATION IN"	"SHE WANTS TO LEAVE"	{v}	0,auto;
-[irse]	{v}	"depart(icl>leave>occur,obj>thing)"	"LEAVE"	"THE FAMILY TOOK OFF FOR FLORIDA"	{v}	0,auto;
+[irse]	{v}	"depart(icl>leave>occur,obj>thing)"	"Start moving from a particular place"	"The train departs at noon"	{v}	0,auto;
 [irse]	{v}	"exit(icl>move>do,plf>concrete_thing,agt>volitional_thing)"	"MOVE OUT OF OR DEPART FROM"	"EXIT THE ROOM (PLF)"	{v}	0,auto;
 [irse]	{v}	"get_out(icl>move>occur,equ>exit,plf>thing,obj>thing)"	"MOVE OUT OF OR DEPART FROM"	"LEAVE THE ROOM"	{v}	0,auto;
 [irse]	{v}	"go_out(icl>move>do,equ>exit,plt>thing,plf>thing,agt>person)"	"MOVE OUT OF OR DEPART FROM"	"I MUST JUST GO OUT SHOPPING FOR HALF AN HOUR."	{v}	0,auto;
@@ -16670,7 +16670,7 @@
 [marcharse]	{v}	"leave(icl>do,equ>depart,plt>thing,plf>thing,agt>thing,met>thing)"	"DEPART FROM A PLACE"	"WE (AGT) LEAVE PARIS (PLF) FOR LONDON (PLT)"	{v}	0,auto;
 [marcharse]	{v}	"sidetrack(icl>deviate>occur,plf>thing,obj>thing)"	"WANDER FROM A DIRECT OR STRAIGHT COURSE"	""	{v}	0,auto;
 [marcharse]	{v}	"straggle(icl>deviate>occur,equ>sidetrack,obj>thing,plc>thing)"	"WANDER FROM A DIRECT OR STRAIGHT COURSE"	""	{v}	0,auto;
-[marchar]	{v}	"depart(icl>leave>do,agt>thing,obj>thing)"	"GO AWAY OR LEAVE"	""	{v}	0,auto;
+[marchar]	{v}	"depart(icl>leave>do,agt>thing,obj>thing)"	"Leave a place intentionally (and move to another place)"	"He departed"	{v}	0,auto;
 [marchar]	{v}	"go_away(icl>occur,equ>leave,obj>thing)"	"GO AWAY FROM A PLACE"	"AT WHAT TIME DOES YOUR TRAIN LEAVE?"	{v}	0,auto;
 [marchar]	{v}	"quit(icl>leave>do,agt>person,obj>place)"	"TO LEAVE A PLACE"	"IT WAS TEN YEARS SINCE HE HAD QUIT RUSSIA (OBJ)"	{v}	0,auto;
 [marchitar]	{v}	"parch(icl>dry>be,obj>thing,aoj>thing)"	"CAUSE TO WITHER OR PARCH FROM EXPOSURE TO HEAT"	"THE SUN PARCHED THE EARTH"	{v}	0,auto;

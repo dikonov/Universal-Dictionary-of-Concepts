@@ -3178,7 +3178,7 @@
 [gầy và vụng về]	{n}	"flanders(iof>european_country>thing)"	"A MEDIEVAL COUNTRY IN NORTHERN EUROPE THAT INCLUDED REGIONS NOW PARTS OF NORTHERN FRANCE AND BELGIUM AND SOUTHWESTERN NETHERLANDS"	""	{n}	2,auto-monosemic-2lang;
 [gecmani]	{n}	"germanium(icl>chemical_element>thing)"	"A BRITTLE GREY CRYSTALLINE ELEMENT THAT IS A SEMICONDUCTING METALLOID (RESEMBLING SILICON) USED IN TRANSISTORS"	"OCCURS IN GERMANITE AND ARGYRODITE"	{n}	1,auto-monosemic-1lang;
 [ghế bành]	{n}	"armchair(icl>chair>thing)"	"CHAIR WITH A SUPPORT ON EACH SIDE FOR ARMS"	""	{n}	3,auto-monosemic-3lang;
-[ghế dài]	{n}	"bench(icl>seat>thing)"	"(LAW) THE SEAT FOR JUDGES IN A COURTROOM"	""	{n}	2,auto-polysemic-3lang;
+[ghế dài]	{n}	"bench(icl>seat>thing,pof>courtroom)"	"(LAW) THE SEAT FOR JUDGES IN A COURTROOM"	""	{n}	2,auto-polysemic-3lang;
 [ghế dài]	{n}	"bench(icl>subgroup>thing)"	"THE RESERVE PLAYERS ON A TEAM"	"OUR TEAM HAS A STRONG BENCH"	{n}	2,auto-polysemic-3lang;
 [ghềnh]	{n}	"doorstep(icl>sill>thing,equ>doorsill)"	"THE SILL OF A DOOR"	"A HORIZONTAL PIECE OF WOOD OR STONE THAT FORMS THE BOTTOM OF A DOORWAY AND OFFERS SUPPORT WHEN PASSING THROUGH A DOORWAY"	{n}	2,auto-polysemic-3lang;
 [ghép]	{v}	"link(icl>relate>do,cob>thing,agt>thing,obj>thing)"	"MAKE A LOGICAL OR CAUSAL CONNECTION"	"HE ~ED THE PAST WITH THE PRESENT"	{v}	2,auto-polysemic-3lang;
