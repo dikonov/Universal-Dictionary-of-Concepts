@@ -5882,7 +5882,7 @@
 [circuito]	{n}	"track(icl>course>thing,equ>racetrack)"	"A COURSE OVER WHICH RACES ARE RUN"	""	{n}	0,auto;
 [circular]	{a}	"circular(icl>adj,equ>round,ant>square)"	"HAVING A CIRCULAR SHAPE"	""	{a}	0,auto;
 [circular]	{a}	"round(icl>adj,ant>square)"	"HAVING A CIRCULAR SHAPE"	""	{a}	0,auto;
-[circular]	{v}	"go_around(icl>travel>do,agt>volitional_thing,scn>thing)"	"BECOME WIDELY KNOWN AND PASSED ON"	"THE RUMOR SPREAD"	{v}	0,auto;
+[circular]	{v}	"go_around(icl>spread>do,agt>thing,scn>thing)"	"BECOME WIDELY KNOWN AND PASSED ON"	"THE RUMOR SPREAD"	{v}	0,auto;
 [circular]	{v}	"spread(icl>travel>do,equ>go_around,agt>thing)"	"BECOME WIDELY KNOWN AND PASSED ON"	"THE RUMOR SPREAD"	{v}	0,auto;
 [círculo]	{n}	"circle(icl>locomotion>thing,equ>lap)"	"MOVEMENT ONCE AROUND A COURSE"	"HE DROVE AN EXTRA LAP JUST FOR INSURANCE"	{n}	0,auto;
 [círculo]	{n}	"circle(icl>rotating_mechanism>thing)"	"ANY CIRCULAR OR ROTATING MECHANISM"	"THE MACHINE PUNCHED OUT METAL CIRCLES"	{n}	0,auto;
@@ -9749,7 +9749,7 @@
 [dificultar]	{v}	"impede(icl>do,agt>thing,obj>thing)"	"BE A HINDRANCE OR OBSTACLE TO"	"THERE WAS NOTHING TO ~ HER FRUGALITY"	{v}	0,auto;
 [dificultar]	{v}	"strangle(icl>restrict>do,equ>hamper,agt>thing,obj>thing)"	"PREVENT THE PROGRESS OR FREE MOVEMENT OF"	"THE IMPERIALIST NATION WANTED TO STRANGLE THE FREE TRADE BETWEEN THE TWO SMALL COUNTRIES"	{v}	0,auto;
 [dificultoso]	{a}	"unenviable(icl>adj,equ>awkward)"	"HARD TO DEAL WITH"	"IN THE UNENVIABLE POSITION OF RESORTING TO AN ACT HE HAD PLANNED TO SAVE FOR THE CLIMAX OF THE CAMPAIGN"	{a}	0,auto;
-[difundirse]	{v}	"go_around(icl>travel>do,agt>volitional_thing,scn>thing)"	"BECOME WIDELY KNOWN AND PASSED ON"	"THE RUMOR SPREAD"	{v}	0,auto;
+[difundirse]	{v}	"go_around(icl>spread>do,agt>thing,scn>thing)"	"BECOME WIDELY KNOWN AND PASSED ON"	"THE RUMOR SPREAD"	{v}	0,auto;
 [difundirse]	{v}	"propagate(icl>move>occur,equ>spread,obj>thing)"	"BECOME DISTRIBUTED OR WIDESPREAD"	"THE INFECTION SPREAD"	{v}	0,auto;
 [difundirse]	{v}	"spread(icl>occur,equ>distribute,obj>thing,scn>thing)"	"BECOME DISTRIBUTED OR WIDESPREAD"	"OPTIMISM SPREAD AMONG THE POPULATION"	{v}	0,auto;
 [difundirse]	{v}	"spread(icl>travel>do,equ>go_around,agt>thing)"	"BECOME WIDELY KNOWN AND PASSED ON"	"THE RUMOR SPREAD"	{v}	0,auto;

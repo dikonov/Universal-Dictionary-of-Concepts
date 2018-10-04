@@ -12089,8 +12089,8 @@ go(icl>occur,equ>become,obj>thing,gol>uw)	Hypernymy	v	1(2)	38897
 go(icl>occur,equ>vanish,plt>thing,plf>thing,obj>thing)	Direct	v	1(5)	10788
 go_along(icl>act>do,equ>continue,agt>thing)	Direct	v	1(2),1(2)	11837
 go_along(icl>advance>occur,equ>elapse,obj>thing)	Direct	v	3(4),1(4),6(4)	3986
-go_around(icl>travel>do,agt>volitional_thing,scn>thing)	Direct	v	2(4)	11953
-go_around(icl>travel>do,agt>volitional_thing,scn>thing)	Hypernymy	v	1(2)	38649
+go_around(icl>spread>do,agt>thing,scn>thing)	Direct	v	2(4)	11953
+go_around(icl>spread>do,agt>thing,scn>thing)	Hypernymy	v	1(2)	38649
 go_around(icl>turn>occur,equ>revolve,obj>thing)	Hypernymy	v	1(4)	36460
 go_around(icl>turn>occur,equ>revolve,obj>thing)	Direct	v	3(4)	5069
 go_away(icl>end>occur,equ>vanish,obj>thing)	Direct	v	1(2)	23468
