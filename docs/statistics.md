@@ -1,12 +1,12 @@
 Statistical Summary - _General lexicon_
 =====================================
-Thu Nov  8 23:14:20 MSK 2018
+Wed Nov 14 23:55:30 MSK 2018
 
 UNL volume (dict-unl.csv)
 -------------------------
 
-Total word-UW links:   93804  
-Total number of UWs (senses, concepts):   93804  
+Total word-UW links:   93820  
+Total number of UWs (senses, concepts):   93820  
 
 24680 UWs with Frequency measure  
 3304 UWs with Frequency measure above 10  
@@ -16,31 +16,31 @@ Total number of UWs (senses, concepts):   93804
 Source language summary:
 | Language	| Concepts	|
 |---------------|---------------|
-|	eng	|	88269	|
-|	rus	|	5151	|
+|	eng	|	88270	|
+|	rus	|	5166	|
 |	hin	|	307	|
 |	fra	|	49	|
 |	unl	|	6	|
 |	LF	|	4	|
 |	ita	|	4	|
 |	tur	|	2	|
-|	deu	|	1	|
+|	jap	|	1	|
 |	bel	|	1	|
+|	heb	|	1	|
+|	deu	|	1	|
 |	arm	|	1	|
 |	sumo	|	1	|
-|	heb	|	1	|
-|	jap	|	1	|
 |	ara	|	1	|
 
-8983 ontological relations from 8732 UWs
-66557 semantic relations from 36466 UWs (Not counting reverse equ and cnt)
-12953 argument relations from 6402 UWs
+9002 ontological relations from 8751 UWs
+66650 semantic relations from 36480 UWs (Not counting reverse equ and cnt)
+12963 argument relations from 6407 UWs
 
 English volume (dict-nl-eng.csv)
 --------------------------------
 
-Total word-UW links:   93585  
-Total number of UWs (senses, concepts):   90647  
+Total word-UW links:   93602  
+Total number of UWs (senses, concepts):   90664  
 Total number of words:   50246  
  - 43848 single words  
  - 6398 multiword expressions  
@@ -51,13 +51,13 @@ Total number of words:   50246
 Russian volume (dict-nl-rus.csv)
 --------------------------------
 
-Total word-UW links:   78499  
-Total number of UWs (senses, concepts):   68173  
-Total number of words:   44031  
- - 38274 single words  
- - 5757 multiword expressions  
+Total word-UW links:   78566  
+Total number of UWs (senses, concepts):   68215  
+Total number of words:   44056  
+ - 38289 single words  
+ - 5767 multiword expressions  
 
-32779 words are linked with 33292 unique sets of processor tags or dictionary entries  
+32786 words are linked with 33298 unique sets of processor tags or dictionary entries  
 
 
 Hindi volume (dict-nl-hin.csv)
