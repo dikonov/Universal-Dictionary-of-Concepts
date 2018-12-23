@@ -1656,7 +1656,7 @@
 [aludir]	{v}	"touch(icl>hint>do,equ>allude,agt>thing)"	"MAKE A MORE OR LESS DISGUISED REFERENCE TO"	"HE ALLUDED TO THE PROBLEM BUT DID NOT MENTION IT"	{v}	0,auto;
 [alumbramiento]	{n}	"accouchement(icl>parturition>thing,equ>childbirth)"	"THE PARTURITION PROCESS IN HUMAN BEINGS"	"HAVING A BABY"	{n}	0,auto;
 [alumbramiento]	{n}	"childbearing(icl>parturition>thing,equ>childbirth)"	"THE PARTURITION PROCESS IN HUMAN BEINGS"	"HAVING A BABY"	{n}	0,auto;
-[alumbrar]	{v}	"deliver(icl>produce>do,com>child,agt>woman,obj>person)"	"GIVE BIRTH"	"TO DELIVER A GIRL (OBJ)"	{v}	0,auto;
+[alumbrar]	{v}	"deliver(icl>produce>do,agt>woman,obj>baby)"	"GIVE BIRTH"	"TO DELIVER A GIRL (OBJ)"	{v}	0,auto;
 [alumbrar]	{v}	"have(icl>do,equ>give_birth,agt>female,obj>animal)"	"GIVE BIRTH"	"MY WIFE (AGT) HAD TWINS (OBJ) YESTERDAY!"	{v}	0,auto;
 [alumbrar]	{v}	"illume(icl>lighten>do,equ>light,agt>thing,obj>concrete_thing,ins>thing)"	"MAKE LIGHTER OR BRIGHTER"	"THIS LAMP LIGHTENS THE ROOM A BIT"	{v}	0,auto;
 [alumbrar]	{v}	"illuminate(icl>lighten>do,agt>thing,obj>thing,ins>thing)"	"TO MAKE A LIGHT SHINE ON SOMETHING, OR TO FILL A PLACE WITH LIGHT"	"A SINGLE CANDLE (AGT) ILLUMINATED HIS FACE (OBJ)"	{v}	0,auto;
@@ -7995,7 +7995,7 @@
 [dar a conocer]	{v}	"disclose(icl>uncover>do,agt>thing,obj>thing)"	"DISCLOSE TO VIEW AS BY REMOVING A COVER"	"THE CURTAIN ROSE TO DISCLOSE A STUNNING SET"	{v}	0,auto;
 [dar a entender]	{v}	"adumbrate(icl>hint>do,equ>intimate,agt>thing,obj>thing)"	"GIVE TO UNDERSTAND"	"I INSINUATED THAT I DID NOT LIKE HIS WIFE"	{v}	0,auto;
 [dar a entender]	{v}	"insinuate(icl>hint>do,equ>intimate,agt>thing,obj>thing)"	"GIVE TO UNDERSTAND"	"I INSINUATED THAT I DID NOT LIKE HIS WIFE"	{v}	0,auto;
-[dar a luz]	{v}	"deliver(icl>produce>do,com>child,agt>woman,obj>person)"	"GIVE BIRTH"	"TO DELIVER A GIRL (OBJ)"	{v}	0,auto;
+[dar a luz]	{v}	"deliver(icl>produce>do,agt>woman,obj>baby)"	"GIVE BIRTH"	"TO DELIVER A GIRL (OBJ)"	{v}	0,auto;
 [dar a luz]	{v}	"have(icl>do,equ>give_birth,agt>female,obj>animal)"	"GIVE BIRTH"	"MY WIFE (AGT) HAD TWINS (OBJ) YESTERDAY!"	{v}	0,auto;
 [dar asco]	{v}	"disgust(icl>stimulate>do,agt>thing,obj>thing)"	"FILL WITH DISTASTE"	"THIS SPOILT FOOD DISGUSTS ME"	{v}	0,auto;
 [dar asco]	{v}	"gross_out(icl>stimulate>do,equ>disgust,agt>thing,obj>thing)"	"FILL WITH DISTASTE"	"THIS SPOILT FOOD DISGUSTS ME"	{v}	0,auto;

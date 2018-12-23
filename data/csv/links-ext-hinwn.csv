@@ -5911,7 +5911,7 @@ deliver(icl>bring>do,plt>thing,plf>thing,agt>thing,obj>concrete_thing)	Direct	v	
 deliver(icl>expel>do,equ>extradite,agt>thing,obj>thing)	Direct	v	2(2)	35198
 deliver(icl>give>do,equ>surrender,agt>thing,obj>thing)	Direct	v	9(2)	19105
 deliver(icl>present>do,cob>thing,agt>person,obj>thing,rec>thing)	Direct	v	2(4)	1910
-deliver(icl>produce>do,com>child,agt>woman,obj>person)	Direct	v	5(2)	11551
+deliver(icl>produce>do,agt>woman,obj>baby)	Direct	v	5(2)	11551
 deliverance(icl>recovery>thing,equ>rescue)	Direct	n	2(4)	3815
 delivery(icl>deed>thing)	Direct	n	2(4),1(4)	5478
 delivery(icl>recovery>thing,equ>rescue)	Direct	n	1(2)	12936
