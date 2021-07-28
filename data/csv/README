@@ -14,6 +14,7 @@ All unicode text editors and standard POSIX and GNU tools like diff, patch, grep
     dict-nl-vie.csv	Experimental Vietnamese local dictionary
     links-unl-uw.csv	Semantic links between concepts
     links-ext-sumo.csv	Links between UNL concepts and SUMO ontology
+    links-ext-sumoalt.csv	Alternative set of links between UNL and SUMO with fixes
     links-ext-wn21.csv	Links between UNL concepts and Wordnet 2.1
     links-ext-wn30.csv	Links between UNL concepts and Wordnet 3.0
     links-ext-hinwn.csv	Links between UNL concepts and Hindi Wordnet
