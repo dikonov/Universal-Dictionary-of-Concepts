@@ -20222,10 +20222,8 @@
 [затем]	{ЗАТЕМ:ВРЕМ,ПРИГЛАГ!}	"thereupon(icl>how)"	"IMMEDIATELY AFTER THAT"	"THEREUPON THE ENTIRE CLASS APPLAUDED"	{adv}	4,manual;
 [затемнение]	{ЗАТЕМНЕНИЕ:СРЕДН,ИСЧИСЛ}	"blackout(icl>dark>thing)"	"DARKNESS RESULTING FROM THE EXTINCTION OF LIGHTS (AS IN A CITY INVISIBLE TO ENEMY AIRCRAFT)"	""	{n}	5,manual-corrected;
 [затемнитель]	{ЗАТЕМНИТЕЛЬ:МУЖСК,ИСЧИСЛ}	"dimmer(icl>rheostat>thing)"	"A RHEOSTAT THAT VARIES THE CURRENT THROUGH AN ELECTRIC LIGHT IN ORDER TO CONTROL THE LEVEL OF ILLUMINATION"	""	{n}	1,auto-monosemic;
-[затемнять]	{ЗАТЕМНЯТЬ:СТР,СТР-ЕМ,СТР-СЯ,ТРАНЗИТ,БЕНЕФ}	"becloud(icl>hide>do,equ>obscure,agt>thing,obj>thing)"	"MAKE LESS VISIBLE OR UNCLEAR"	"THE STARS ARE OBSCURED BY THE CLOUDS"	{v}	1,auto-monosemic;
 [затемнять]	{ЗАТЕМНЯТЬ:СТР,СТР-ЕМ,СТР-СЯ,ТРАНЗИТ,БЕНЕФ}	"black_out(icl>darken>occur,obj>thing)"	"DARKEN COMPLETELY"	"THE DINING ROOM BLACKENED OUT"	{v}	4,manual;
 [затемнять]	{ЗАТЕМНЯТЬ:СТР,СТР-ЕМ,СТР-СЯ,ТРАНЗИТ,БЕНЕФ}	"darken(icl>change>do,agt>thing,obj>thing)"	"MAKE DARK OR DARKER"	"DARKEN A ROOM"	{v}	4,manual;
-[затемнять]	{ЗАТЕМНЯТЬ:СТР,СТР-ЕМ,СТР-СЯ,ТРАНЗИТ,БЕНЕФ}	"obscure(icl>hide>do,agt>thing,obj>concrete_thing,ins>thing)"	"PREVENT FROM BEING SEEN CLEARLY"	"THE STARS (OBJ) ARE OBSCURED BY THE CLOUDS (AGT)"	{v}	4,manual;
 [затенение]	{ЗАТЕНЕНИЕ:СРЕДН,ИСЧИСЛ}	"shading(icl>gradation>thing)"	"A GRADATION INVOLVING SMALL OR IMPERCEPTIBLE DIFFERENCES BETWEEN GRADES"	""	{n}	5,manual-corrected;
 [затенять]	{ЗАТЕНЯТЬ:СТР,СТР-СЯ,СТР-ЕМ,ТРАНЗИТ,БЕНЕФ}	"fill_in(icl>draw>do,equ>shade,agt>thing,obj>thing)"	"REPRESENT THE EFFECT OF SHADE OR SHADOW ON"	""	{v}	6,manual-corrected-veccor;
 [затенять]	{ЗАТЕНЯТЬ:СТР,СТР-СЯ,СТР-ЕМ,ТРАНЗИТ,БЕНЕФ}	"overshadow(icl>obscure>do,agt>thing,obj>thing)"	"CAST A SHADOW UPON"	"THE TALL TREE OVERSHADOWED THE HOUSE"	{v}	4,manual;
